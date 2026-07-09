@@ -1,0 +1,44 @@
+{
+  "created_at": "2026-07-02T21:03:12.614232Z",
+  "dataset_name": "revblack_synthetic_revops_dataset",
+  "date_range": {
+    "start": "2025-01-01",
+    "end": "2026-06-30"
+  },
+  "row_counts": {
+    "salesforce_users": 28,
+    "salesforce_accounts": 650,
+    "salesforce_contacts": 3600,
+    "salesforce_leads": 4200,
+    "salesforce_opportunities": 1650,
+    "salesforce_tasks": 14500,
+    "salesforce_campaigns": 36,
+    "campaign_members": 4100,
+    "hubspot_form_submissions": 5200,
+    "hubspot_email_events": 24000,
+    "sync_errors": 1180,
+    "data_quality_audit": 9,
+    "field_mapping": 10,
+    "data_dictionary": 133
+  },
+  "files": [
+    "README.md",
+    "campaign_members.csv",
+    "data_dictionary.csv",
+    "data_quality_audit.csv",
+    "field_mapping.csv",
+    "hubspot_email_events.csv",
+    "hubspot_form_submissions.csv",
+    "revops_salesforce_hubspot.db",
+    "salesforce_accounts.csv",
+    "salesforce_campaigns.csv",
+    "salesforce_contacts.csv",
+    "salesforce_leads.csv",
+    "salesforce_opportunities.csv",
+    "salesforce_tasks.csv",
+    "salesforce_users.csv",
+    "starter_analysis.py",
+    "starter_queries.sql",
+    "sync_errors.csv"
+  ]
+}

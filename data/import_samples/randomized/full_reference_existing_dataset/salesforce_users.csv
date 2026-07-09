@@ -1,0 +1,29 @@
+user_id,full_name,role,team,region,is_active
+USR000001,Emerson Kim,SDR,Revenue,Central,True
+USR000002,Drew Torres,SDR,Revenue,West,False
+USR000003,Finley Ward,CSM,Customer Success,West,True
+USR000004,Harper Ross,SDR,Revenue,West,True
+USR000005,Riley Torres,AE,Revenue,West,True
+USR000006,Elliot Bennett,Marketing Ops,Operations,Northeast,True
+USR000007,Cameron Torres,AE,Revenue,Central,True
+USR000008,Hayden Sullivan,SDR,Revenue,Mountain,True
+USR000009,Rowan Ross,AE,Revenue,Mountain,True
+USR000010,Riley Gray,AE,Revenue,West,True
+USR000011,Logan Kim,AE,Revenue,Central,True
+USR000012,Blake Young,CSM,Customer Success,Southeast,False
+USR000013,Elliot Kim,Sales Manager,Revenue,Southeast,True
+USR000014,Taylor Foster,AE,Revenue,Northeast,True
+USR000015,Bailey Brooks,RevOps,Operations,West,True
+USR000016,Jordan Long,SDR,Revenue,Central,True
+USR000017,Taylor Sullivan,SDR,Revenue,West,True
+USR000018,Logan Young,AE,Revenue,Central,True
+USR000019,Casey Brooks,AE,Revenue,Central,True
+USR000020,Rowan Long,RevOps,Operations,Northeast,True
+USR000021,Emerson Miller,AE,Revenue,Mountain,True
+USR000022,Casey Murphy,AE,Revenue,Northeast,True
+USR000023,Drew Long,AE,Revenue,West,True
+USR000024,Drew Parker,SDR,Revenue,Central,True
+USR000025,Logan Young,SDR,Revenue,Northeast,True
+USR000026,Rowan Chen,SDR,Revenue,Southeast,True
+USR000027,Logan Price,AE,Revenue,Central,True
+USR000028,Morgan Torres,Marketing Ops,Operations,Northeast,True

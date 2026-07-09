@@ -1,0 +1,891 @@
+Email,First name,Last name,Company name,HubSpot Contact ID (synthetic),Salesforce Lead ID,Lead Source,Imported Funnel Stage,Lead Score,Industry,Segment,Region,Created Date,MQL Date,SQL Date,Form Submissions,Avg Conversion Score,Last Form Submission,Most Common Form,Email Sent Events,Email Delivered Events,Email Open Events,Email Click Events,Email Bounce Events,Email Unsubscribe Events
+skyler.patel1884@cobaltops.com,Skyler,Patel,Cobalt Ops,HS101884,SFLED001884,LinkedIn,Subscriber,22,EdTech,SMB,Northeast,4/28/2026,,,3,28.33333333,6/30/2026,Contact Us,0,3,0,0,0,0
+taylor.bennett2796@novamarkets.com,Taylor,Bennett,Nova Markets,HS102796,SFLED002796,LinkedIn,MQL,63,Healthcare Tech,Enterprise,Central,3/25/2026,3/29/2026,,1,78,5/14/2026,Contact Us,0,3,0,0,0,0
+riley.adams3857@keystoneops.ai,Riley,Adams,Keystone Ops,HS103857,SFLED003857,Referral,Subscriber,35,SaaS,Enterprise,International,4/1/2026,,,3,52,5/20/2026,Contact Us,0,1,0,0,0,0
+casey.carter1603@bluepeakworks.com,Casey,Carter,BluePeak Works,HS101603,SFLED001603,Content Download,Lead,47,HR Tech,SMB,Central,9/11/2025,,,2,37,10/30/2025,CRM Audit,0,3,0,0,0,0
+avery.ross3090@summitdynamics86.ai,Avery,Ross,Summit Dynamics 86,HS103090,SFLED003090,Paid Search,Lead,41,FinTech,Mid-Market,International,4/14/2025,,,1,58,6/9/2025,Demo Request,0,6,0,0,0,0
+blake.nelson502@pioneerhealth24.net,Blake,Nelson,Pioneer Health 24,HS100502,SFLED000502,Partner,Disqualified,26,EdTech,Enterprise,Northeast,11/27/2025,,,1,11,1/19/2026,RevOps Playbook,0,2,0,0,0,0
+cameron.torres551@northstarcloud.net,Cameron,Torres,Northstar Cloud,HS100551,SFLED000551,Paid Search,Lead,45,EdTech,Enterprise,West,12/17/2025,,,3,27,2/17/2026,Webinar Registration,0,2,0,0,0,0
+drew.foster2816@vertexsolutions20.com,Drew,Foster,Vertex Solutions 20,HS102816,SFLED002816,Event,Lead,46,SaaS,Mid-Market,Mountain,2/4/2025,,,0,0,,,0,3,0,0,0,0
+morgan.kim141@summitanalytics.net,Morgan,Kim,Summit Analytics,HS100141,SFLED000141,Organic Search,Lead,32,HR Tech,Mid-Market,Northeast,6/30/2026,,,1,70,6/30/2026,CRM Audit,0,3,0,0,0,0
+reese.perry3388@vertexmarkets87.com,Reese,Perry,Vertex Markets 87,HS103388,,Partner,Lead,38,HR Tech,Mid-Market,Southeast,5/2/2026,,,1,38,5/5/2026,CRM Audit,0,1,0,0,0,0
+cameron.ward1879@novanetworks81.co,Cameron,Ward,Nova Networks 81,HS101879,SFLED001879,Paid Search,Lead,17,Ecommerce,Enterprise,West,6/15/2025,,,0,0,,,0,3,0,0,0,0
+avery.young2045@evergreenops.net,Avery,Young,Evergreen Ops,HS102045,SFLED002045,LinkedIn,Lead,46,SaaS,Enterprise,Central,12/26/2025,,,2,53,1/24/2026,CRM Audit,0,2,0,0,0,0
+riley.ward3043@evergreensystems95.co,Riley,Ward,Evergreen Systems 95,HS103043,SFLED003043,Webinar,Lead,11,HR Tech,Enterprise,Southeast,3/3/2026,,,1,25,3/14/2026,Webinar Registration,0,4,0,0,0,0
+casey.price3954@evergreenops.net,Casey,Price,Evergreen Ops,HS103954,SFLED003954,Webinar,Subscriber,55,SaaS,Enterprise,Central,6/29/2026,,,1,38,6/29/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+sam.nelson1281@pioneerdata32.net,Sam,Nelson,Pioneer Data 32,HS101281,SFLED001281,Content Download,Lead,31,HR Tech,SMB,West,12/15/2025,,,0,0,,,0,2,0,0,0,0
+quinn.chen1276@bluepeaknetworks.ai,Quinn,Chen,BluePeak Networks,HS101276,SFLED001276,Paid Search,Lead,19,Ecommerce,SMB,Central,9/7/2025,,,0,0,,,0,2,0,0,0,0
+logan.bell2267@atlasdata82.io,Logan,Bell,Atlas Data 82,HS102267,SFLED002267,Event,MQL,65,FinTech,Mid-Market,International,6/9/2026,6/18/2026,,0,0,,,0,1,0,0,0,0
+elliot.chen866@catalysthealth65.io,Elliot,Chen,Catalyst Health 65,HS100866,SFLED000866,Organic Search,Lead,41,Ecommerce,Enterprise,International,6/29/2026,,,0,0,,,0,3,0,0,0,0
+taylor.james4126@cobaltlabs.com,Taylor,James,Cobalt Labs,HS104126,SFLED004126,LinkedIn,Lead,16,EdTech,SMB,Mountain,4/10/2026,,,2,32,6/2/2026,Contact Us,0,0,0,0,0,0
+casey.james2316@keystonelabs37.io,Casey,James,Keystone Labs 37,HS102316,SFLED002316,Webinar,Lead,77,FinTech,Mid-Market,Mountain,9/14/2025,,,1,78,9/29/2025,RevOps Playbook,0,2,0,0,0,0
+kendall.bell3685@apexsolutions28.io,Kendall,Bell,Apex Solutions 28,HS103685,SFLED003685,Content Download,Lead,79,Healthcare Tech,SMB,Central,1/18/2025,,,3,54.33333333,3/14/2025,Contact Us,0,4,0,0,0,0
+parker.miller160@summitmarkets88.co,Parker,Miller,Summit Markets 88,HS100160,SFLED000160,Direct,Lead,0,Logistics Tech,Mid-Market,Mountain,5/20/2025,,,2,34.5,7/7/2025,Contact Us,0,2,0,0,0,0
+morgan.price2256@vertexworks.io,Morgan,Price,Vertex Works,,SFLED002256,Content Download,Lead,49,Ecommerce,Mid-Market,Northeast,3/30/2025,,,3,60.33333333,5/18/2025,CRM Audit,0,3,0,0,0,0
+quinn.gray3199@pioneercloud88.ai,Quinn,Gray,Pioneer Cloud 88,HS103199,SFLED003199,Organic Search,Lead,37,Logistics Tech,Mid-Market,Southeast,2/27/2025,,,3,45.66666667,4/16/2025,Contact Us,0,1,0,0,0,0
+morgan.perry1997@summitmarkets88.co,Morgan,Perry,Summit Markets 88,HS101997,SFLED001997,Outbound,Lead,55,Logistics Tech,Mid-Market,Mountain,10/4/2025,,,0,0,,,0,1,0,0,0,0
+taylor.long906@ironwoodnetworks73.io,Taylor,Long,Ironwood Networks 73,HS100906,SFLED000906,Outbound,Lead,7,Logistics Tech,Mid-Market,Central,4/9/2026,,,1,66,5/21/2026,Contact Us,0,3,0,0,0,0
+avery.adams457@signalworks47.com,Avery,Adams,Signal Works 47,HS100457,SFLED000457,Organic Search,SQL,61,Ecommerce,Mid-Market,Central,4/12/2026,5/4/2026,5/6/2026,0,0,,,0,3,0,0,0,0
+alex.davis3927@summitplatform86.net,Alex,Davis,Summit Platform 86,HS103927,SFLED003927,Content Download,Lead,59,Ecommerce,Enterprise,Northeast,3/16/2026,,,3,49.33333333,5/13/2026,CRM Audit,0,4,0,0,0,0
+drew.wright3@meridiansoftware.io,Drew,Wright,Meridian Software,HS100003,SFLED000003,Webinar,Lead,39,FinTech,Enterprise,Southeast,3/18/2026,,,0,0,,,0,1,0,0,0,0
+casey.kim3620@atlassolutions55.co,Casey,Kim,Atlas Solutions 55,HS103620,SFLED003620,Partner,Lead,47,Logistics Tech,SMB,Mountain,3/13/2026,,,1,47,4/8/2026,RevOps Playbook,0,2,0,0,0,0
+bailey.patel2298@novaworks.net,Bailey,Patel,Nova Works,HS102298,SFLED002298,Organic Search,Lead,2,EdTech,SMB,Northeast,3/23/2026,,,0,0,,,0,2,0,0,0,0
+skyler.murphy1929@atlashealth62.io,Skyler,Murphy,Atlas Health 62,HS101929,SFLED001929,Webinar,Lead,67,Cybersecurity,Mid-Market,International,8/2/2025,,,1,44,8/21/2025,Demo Request,0,3,0,0,0,0
+morgan.king1467@ironwoodnetworks.ai,Charlie,Davis,Pioneer Group,HS103297,SFLED003297,Direct,Lead,24,Cybersecurity,Mid-Market,Mountain,7/23/2025,,,1,15,9/24/2025,CRM Audit,0,3,0,0,0,0
+skyler.bennett387@cobaltworks99.co,Skyler,Bennett,Cobalt Works 99,HS100387,SFLED000387,Referral,MQL,100,EdTech,SMB,Southeast,9/30/2025,10/17/2025,,1,62,11/4/2025,RevOps Playbook,0,3,0,0,0,0
+cameron.sullivan1916@cobaltlabs91.com,Cameron,Sullivan,Cobalt Labs 91,HS101916,SFLED001916,Direct,Subscriber,37,Ecommerce,Mid-Market,Northeast,8/10/2025,,,0,0,,,0,3,0,0,0,0
+morgan.reed1968@nimbuslabs52.com,Morgan,Reed,Nimbus Labs 52,,SFLED001968,Direct,Lead,37,FinTech,SMB,West,8/30/2025,,,2,84.5,9/16/2025,Demo Request,0,7,0,0,0,0
+alex.adams776@summitnetworks.net,Alex,Adams,Summit Networks,HS100776,SFLED000776,Webinar,MQL,83,Manufacturing Tech,SMB,West,1/8/2026,1/10/2026,,2,7,2/12/2026,HubSpot-SFDC Checklist,0,5,0,0,0,0
+drew.patel716@atlashealth62.io,Drew,Patel,Atlas Health 62,HS100716,SFLED000716,LinkedIn,Lead,31,Cybersecurity,Mid-Market,International,3/2/2025,,,1,75,4/17/2025,Webinar Registration,0,3,0,0,0,0
+rowan.foster3562@cobaltplatform.com,Rowan,Foster,Cobalt Platform,HS103562,SFLED003562,Referral,Lead,91,Cybersecurity,Mid-Market,Northeast,10/27/2025,,,1,85,12/19/2025,Demo Request,0,5,0,0,0,0
+hayden.young3042@apexgroup61.io,Hayden,Young,Apex Group 61,HS103042,SFLED003042,Partner,Disqualified,53,SaaS,Enterprise,Mountain,2/16/2025,,,2,43,4/4/2025,Demo Request,0,1,0,0,0,0
+blake.parker4048@clearpathnetworks8.ai,Blake,Parker,Clearpath Networks 88,HS104048,,Organic Search,Lead,23,Healthcare Tech,Mid-Market,International,9/2/2025,,,2,48.5,11/2/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+emerson.sullivan3485@catalystanalytics.ai,Emerson,Sullivan,Catalyst Analytics,HS103485,SFLED003485,Event,Lead,89,SaaS,SMB,Northeast,5/13/2025,,,0,0,,,0,2,0,0,0,0
+taylor.torres3855@keystoneops.ai,Taylor,Torres,Keystone Ops,HS103855,SFLED003855,Outbound,MQL,54,SaaS,Enterprise,International,8/16/2025,9/4/2025,,2,31,10/18/2025,ROI Calculator,0,5,0,0,0,0
+rowan.king1757@apexsolutions28.io,Rowan,King,Apex Solutions 28,HS101757,SFLED001757,LinkedIn,MQL,56,Healthcare Tech,SMB,Central,6/3/2026,6/18/2026,,0,0,,,0,1,0,0,0,0
+finley.sullivan4015@evergreendata88.ai,Finley,Sullivan,Evergreen Data 88,HS104015,SFLED004015,Content Download,MQL,60,SaaS,SMB,Southeast,6/25/2026,7/18/2026,,1,38,6/30/2026,RevOps Playbook,0,1,0,0,0,0
+riley.parker89@bluepeakhealth.ai,Riley,Parker,BluePeak Health,HS100089,SFLED000089,Organic Search,Lead,41,Manufacturing Tech,Mid-Market,Northeast,7/1/2025,,,1,58,8/3/2025,Contact Us,0,5,0,0,0,0
+emerson.james2733@bluepeakops21.net,Emerson,James,BluePeak Ops 21,HS102733,SFLED002733,Content Download,Lead,63,Healthcare Tech,Mid-Market,Mountain,4/17/2025,,,1,29,4/27/2025,ROI Calculator,0,5,0,0,0,0
+jamie.long2302@meridianlabs79.io,Jamie,Long,Meridian Labs 79,HS102302,SFLED002302,LinkedIn,Subscriber,32,Logistics Tech,SMB,Central,6/8/2026,,,0,0,,,0,3,0,0,0,0
+alex.stone1512@brightops.net,Alex,Stone,Bright Ops,HS101512,SFLED001512,Webinar,Lead,33,SaaS,Mid-Market,Mountain,1/18/2026,,,0,0,,,0,3,0,0,0,0
+jamie.nelson2872@meridianworks60.com,Jamie,Nelson,Meridian Works 60,HS102872,SFLED002872,Organic Search,Lead,44,SaaS,SMB,Mountain,10/29/2025,,,0,0,,,0,3,0,0,0,0
+finley.reed1372@bluepeakplatform.co,Finley,Reed,BluePeak Platform,HS101372,SFLED001372,Paid Search,SQL,67,FinTech,Mid-Market,Northeast,4/27/2025,4/29/2025,5/28/2025,1,65,5/1/2025,Demo Request,0,3,0,0,0,0
+riley.price3263@signalmarkets96.io,Riley,Price,Signal Markets 96,HS103263,SFLED003263,Direct,Lead,42,HR Tech,SMB,International,5/19/2026,,,2,46.5,6/30/2026,ROI Calculator,0,2,0,0,0,0
+rowan.reed3790@apexanalytics.net,Rowan,Reed,Apex Analytics,HS103790,SFLED003790,Content Download,Lead,41,HR Tech,Enterprise,Southeast,8/23/2025,,,1,52,9/20/2025,Contact Us,0,4,0,0,0,0
+skyler.bennett1039@vertexops24.net,Skyler,Bennett,Vertex Ops 24,HS101039,SFLED001039,Paid Search,Lead,51,Cybersecurity,SMB,Northeast,5/24/2025,,,1,42,7/9/2025,Contact Us,0,2,0,0,0,0
+rowan.patel2180@signalanalytics.net,Rowan,Patel,Signal Analytics,HS102180,SFLED002180,Organic Search,Lead,28,HR Tech,Mid-Market,West,6/20/2026,,,3,44.66666667,6/30/2026,Contact Us,0,1,0,0,0,0
+avery.wright1274@atlasdynamics.com,Avery,Wright,Atlas Dynamics,HS101274,SFLED001274,Partner,Lead,70,EdTech,SMB,West,6/24/2026,,,2,77.5,6/30/2026,Contact Us,0,1,0,0,0,0
+skyler.stone4085@northstarmarkets77.net,Skyler,Stone,Northstar Markets 77,HS104085,SFLED004085,LinkedIn,Disqualified,9,Ecommerce,Enterprise,Central,4/6/2026,,,1,8,5/24/2026,Contact Us,0,2,0,0,0,0
+taylor.ward2265@novamarkets.com,Taylor,Ward,Nova Markets,HS102265,SFLED002265,Partner,Lead,72,Healthcare Tech,Enterprise,Central,5/23/2025,,,5,39.8,7/21/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+charlie.gray1737@evergreendata3.ai,Charlie,Gray,Evergreen Data 3,HS101737,SFLED001737,Event,Lead,38,HR Tech,Mid-Market,Central,4/20/2026,,,0,0,,,0,3,0,0,0,0
+avery.ward2627@summitsoftware94.net,Taylor,Adams,Cobalt Works 99,HS102735,SFLED002735,LinkedIn,SQL,66,EdTech,SMB,Southeast,4/14/2025,4/27/2025,5/10/2025,2,38.5,5/2/2025,RevOps Playbook,0,1,0,0,0,0
+finley.long3325@evergreendata.co,Finley,Long,Evergreen Data,HS103325,,Outbound,Lead,36,SaaS,Mid-Market,Mountain,7/16/2025,,,0,0,,,0,1,0,0,0,0
+cameron.price2279@bluepeakdata9.co,Cameron,Price,BluePeak Data 9,HS102279,SFLED002279,Paid Search,Lead,42,FinTech,SMB,Northeast,10/19/2025,,,2,35.5,11/4/2025,RevOps Playbook,0,0,0,0,0,0
+logan.gray1062@nimbusanalytics95.com,Logan,Gray,Nimbus Analytics 95,HS101062,SFLED001062,LinkedIn,Disqualified,34,SaaS,Enterprise,Northeast,3/12/2025,,,2,67.5,4/18/2025,CRM Audit,0,3,0,0,0,0
+alex.young1029@bluepeakworks.com,Alex,Young,BluePeak Works,,SFLED001029,Content Download,Opportunity,100,HR Tech,SMB,Central,1/11/2026,1/24/2026,2/1/2026,0,0,,,0,2,0,0,0,0
+quinn.foster933@nimbusdata.ai,Quinn,Foster,Nimbus Data,HS100933,SFLED000933,Referral,Opportunity,72,SaaS,Enterprise,Southeast,1/20/2025,1/21/2025,2/2/2025,1,75,3/10/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+avery.miller1465@brightplatform58.io,Avery,Miller,Bright Platform 58,,SFLED001465,Paid Search,Lead,26,Manufacturing Tech,Mid-Market,Mountain,3/25/2025,,,1,36,5/22/2025,CRM Audit,0,0,0,0,0,0
+emerson.ross2019@evergreenintellige.com,Emerson,Ross,Evergreen Intelligence 71,HS102019,SFLED002019,Partner,Lead,44,Logistics Tech,Enterprise,Northeast,8/19/2025,,,0,0,,,0,3,0,0,0,0
+logan.king2938@pioneerworks29.net,Logan,King,Pioneer Works 29,HS102938,SFLED002938,Event,Disqualified,45,Manufacturing Tech,SMB,Southeast,11/21/2025,,,1,39,12/26/2025,Contact Us,0,1,0,0,0,0
+charlie.miller2576@meridiansoftware.io,Charlie,Miller,Meridian Software,HS102576,SFLED002576,Outbound,Disqualified,40,FinTech,Enterprise,Southeast,3/14/2026,,,2,51,4/25/2026,CRM Audit,0,5,0,0,0,0
+cameron.murphy156@ironwoodnetworks73.io,Cameron,Murphy,Ironwood Networks 73,,SFLED000156,Webinar,Subscriber,70,Logistics Tech,Mid-Market,Central,3/11/2026,,,2,29,4/29/2026,Webinar Registration,0,2,0,0,0,0
+rowan.foster3669@catalystcloud.net,Rowan,Foster,Catalyst Cloud,HS103669,SFLED003669,Outbound,Disqualified,67,HR Tech,SMB,West,1/9/2025,,,1,76,1/19/2025,CRM Audit,0,3,0,0,0,0
+finley.young2656@meridiansoftware78.net,Finley,Young,Meridian Software 78,HS102656,SFLED002656,Content Download,Lead,12,FinTech,Enterprise,West,1/2/2026,,,3,71.33333333,2/18/2026,Demo Request,0,2,0,0,0,0
+skyler.adams2600@vertexsoftware45.co,Skyler,Adams,Vertex Software 45,HS102600,SFLED002600,Outbound,Subscriber,77,Logistics Tech,SMB,Mountain,6/14/2025,,,2,30,8/13/2025,HubSpot-SFDC Checklist,0,5,0,0,0,0
+elliot.foster485@cobaltintelligence.com,Elliot,Foster,Cobalt Intelligence,HS100485,SFLED000485,Direct,MQL,65,Manufacturing Tech,Mid-Market,Northeast,6/4/2026,6/15/2026,,1,26,6/30/2026,Webinar Registration,0,2,0,0,0,0
+sam.brooks4116@vertexnetworks66.net,Sam,Brooks,Vertex Networks 66,HS104116,SFLED004116,Paid Search,MQL,39,Ecommerce,Mid-Market,International,11/6/2025,11/7/2025,,2,58.5,12/30/2025,Contact Us,0,5,0,0,0,0
+taylor.ward3949@catalystsoftware96.net,Taylor,Ward,Catalyst Software 96,,SFLED003949,Paid Search,MQL,61,Ecommerce,Mid-Market,International,4/18/2026,5/7/2026,,2,64.5,6/4/2026,ROI Calculator,0,2,0,0,0,0
+logan.sullivan1391@meridianplatform48.net,Logan,Sullivan,Meridian Platform 48,HS101391,SFLED001391,Outbound,Lead,63,Healthcare Tech,SMB,Northeast,2/17/2026,,,0,0,,,0,2,0,0,0,0
+bailey.foster13@summitsystems67.ai,Bailey,Foster,Summit Systems 67,HS100013,SFLED000013,Partner,Lead,22,Manufacturing Tech,SMB,International,7/16/2025,,,2,50.5,7/20/2025,Contact Us,0,4,0,0,0,0
+charlie.carter259@atlasmarkets.net,Charlie,Carter,Atlas Markets,HS100259,SFLED000259,LinkedIn,Lead,40,HR Tech,Mid-Market,Central,8/13/2025,,,0,0,,,0,2,0,0,0,0
+riley.long1844@summitsoftware.ai,Riley,Long,Summit Software,HS101844,SFLED001844,Content Download,Lead,56,Ecommerce,SMB,International,3/30/2025,,,1,59,4/4/2025,Demo Request,0,3,0,0,0,0
+morgan.bell1279@meridianplatform48.net,Morgan,Bell,Meridian Platform 48,HS101279,SFLED001279,Content Download,Lead,61,Healthcare Tech,SMB,Northeast,7/30/2025,,,1,7,9/13/2025,Webinar Registration,0,2,0,0,0,0
+morgan.foster1992@nimbusworks36.co,Parker,King,Catalyst Intelligence,,SFLED003198,Paid Search,Lead,62,FinTech,Enterprise,International,4/4/2025,,,0,0,,,0,2,0,0,0,0
+cameron.sullivan1708@northstarsystems96.ai,Cameron,Sullivan,Northstar Systems 96,HS101708,SFLED001708,Referral,Lead,57,Cybersecurity,Mid-Market,Northeast,5/3/2025,,,2,49,6/1/2025,ROI Calculator,0,1,0,0,0,0
+alex.adams2472@keystonelabs37.io,Alex,Adams,Keystone Labs 37,HS102472,SFLED002472,Paid Search,MQL,65,FinTech,Mid-Market,Mountain,6/26/2026,7/6/2026,,3,30.66666667,6/30/2026,Contact Us,0,5,0,0,0,0
+cameron.james1815@cobalthealth15.ai,Cameron,James,Cobalt Health 15,HS101815,SFLED001815,LinkedIn,Lead,27,Ecommerce,Enterprise,Central,4/22/2025,,,2,46,5/17/2025,CRM Audit,0,0,0,0,0,0
+maya.davis3066@bluepeakintelligen.com,Maya,Davis,BluePeak Intelligence 8,HS103066,SFLED003066,Webinar,Subscriber,52,EdTech,Mid-Market,Mountain,3/24/2026,,,0,0,,,0,2,0,0,0,0
+quinn.bennett3117@nimbusdata29.net,Quinn,Bennett,Nimbus Data 29,HS103117,SFLED003117,Outbound,Lead,67,Cybersecurity,Mid-Market,International,9/10/2025,,,2,34.5,10/24/2025,CRM Audit,0,4,0,0,0,0
+casey.adams490@cobaltdynamics59.ai,Casey,Adams,Cobalt Dynamics 59,HS100490,SFLED000490,LinkedIn,Lead,18,SaaS,SMB,Southeast,2/22/2025,,,2,44,4/6/2025,RevOps Playbook,0,2,0,0,0,0
+elliot.young569@clearpathplatform8.com,Elliot,Young,Clearpath Platform 83,,SFLED000569,Referral,Lead,58,SaaS,SMB,Mountain,3/18/2026,,,1,46,5/4/2026,ROI Calculator,0,3,0,0,0,0
+reese.patel3614@signalhealth89.co,Reese,Patel,Signal Health 89,HS103614,SFLED003614,Organic Search,MQL,56,Manufacturing Tech,Mid-Market,Central,7/5/2025,7/21/2025,,0,0,,,0,2,0,0,0,0
+alex.sullivan4089@nimbusdynamics49.com,Alex,Sullivan,Nimbus Dynamics 49,,SFLED004089,Referral,Lead,57,SaaS,Enterprise,International,8/16/2025,,,1,85,8/22/2025,Webinar Registration,0,1,0,0,0,0
+taylor.reed480@meridiandata.com,Taylor,Reed,Meridian Data,HS100480,SFLED000480,Referral,Lead,23,Healthcare Tech,SMB,Southeast,3/6/2025,,,1,58,4/6/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+casey.nelson1503@evergreendata.co,Casey,Nelson,Evergreen Data,HS101503,SFLED001503,Paid Search,Lead,54,SaaS,Mid-Market,Mountain,5/9/2025,,,0,0,,,0,3,0,0,0,0
+kendall.torres2480@evergreenops30.ai,Kendall,Torres,Evergreen Ops 30,HS102480,SFLED002480,Partner,SQL,84,HR Tech,Enterprise,Southeast,4/2/2025,4/5/2025,5/15/2025,1,2,4/29/2025,Webinar Registration,0,5,0,0,0,0
+elliot.davis1475@pioneerdynamics85.com,Elliot,Davis,Pioneer Dynamics 85,HS101475,SFLED001475,Webinar,Subscriber,83,FinTech,Enterprise,West,6/8/2025,,,0,0,,,0,4,0,0,0,0
+jamie.bennett4056@evergreenworks.ai,Jamie,Bennett,Evergreen Works,,SFLED004056,Organic Search,Lead,27,Healthcare Tech,Mid-Market,West,9/11/2025,,,1,37,11/1/2025,Webinar Registration,0,1,0,0,0,0
+casey.ward2110@northstarmarkets77.net,Casey,Ward,Northstar Markets 77,HS102110,SFLED002110,LinkedIn,Lead,48,Ecommerce,Enterprise,Central,11/30/2025,,,0,0,,,0,1,0,0,0,0
+taylor.sullivan3593@catalystworks16.io,Taylor,Sullivan,Catalyst Works 16,HS103593,SFLED003593,Content Download,MQL,67,Ecommerce,Enterprise,International,5/31/2026,6/5/2026,,3,51.66666667,6/30/2026,Contact Us,0,2,0,0,0,0
+logan.perry3247@bluepeakplatform.co,Logan,Perry,BluePeak Platform,HS103247,SFLED003247,Referral,SQL,67,FinTech,Mid-Market,Northeast,10/5/2025,10/7/2025,10/18/2025,2,63.5,12/3/2025,CRM Audit,0,3,0,0,0,0
+casey.young4140@apexsystems.io,Casey,Young,Apex Systems,HS104140,SFLED004140,Referral,Lead,9,EdTech,Enterprise,Northeast,10/28/2025,,,0,0,,,0,1,0,0,0,0
+avery.chen1701@summitops.net,Avery,Chen,Summit Ops,HS101701,SFLED001701,Paid Search,Subscriber,51,HR Tech,Enterprise,Northeast,12/29/2025,,,2,51.5,1/27/2026,CRM Audit,0,1,0,0,0,0
+finley.king2063@meridianlabs56.ai,Finley,King,Meridian Labs 56,HS102063,SFLED002063,Outbound,Disqualified,59,Manufacturing Tech,SMB,Central,5/6/2025,,,2,32,6/9/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+parker.foster1542@summitanalytics90.io,Parker,Foster,Summit Analytics 90,HS101542,SFLED001542,LinkedIn,Lead,55,Manufacturing Tech,SMB,West,4/19/2026,,,2,50.5,6/3/2026,Contact Us,0,3,0,0,0,0
+jamie.adams2965@ironwoodanalytics.net,Jamie,Adams,Ironwood Analytics,HS102965,SFLED002965,Direct,Lead,89,FinTech,Enterprise,Mountain,11/14/2025,,,2,69,12/6/2025,Demo Request,0,3,0,0,0,0
+reese.young3061@atlasdata82.io,Reese,Young,Atlas Data 82,HS103061,SFLED003061,Direct,Lead,26,FinTech,Mid-Market,International,3/18/2025,,,1,88,5/9/2025,CRM Audit,0,6,0,0,0,0
+hayden.miller3626@bluepeakcloud17.co,Hayden,Miller,BluePeak Cloud 17,HS103626,,Organic Search,Lead,71,FinTech,Mid-Market,Mountain,2/28/2026,,,3,57,4/9/2026,Demo Request,0,3,0,0,0,0
+elliot.murphy3089@apexworks74.net,Elliot,Murphy,Apex Works 74,HS103089,SFLED003089,Paid Search,Subscriber,47,Healthcare Tech,Mid-Market,Central,9/2/2025,,,2,53,9/28/2025,CRM Audit,0,3,0,0,0,0
+hayden.gray1961@clearpathnetworks2.net,Hayden,Gray,Clearpath Networks 24,HS101961,SFLED001961,Paid Search,Subscriber,43,FinTech,SMB,International,1/4/2025,,,2,60.5,2/10/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+logan.king2931@meridianworks60.com,Logan,King,Meridian Works 60,HS102931,SFLED002931,LinkedIn,MQL,60,SaaS,SMB,Mountain,5/19/2025,6/9/2025,,1,50,7/16/2025,Contact Us,0,5,0,0,0,0
+hayden.james1349@northstarnetworks4.net,Hayden,James,Northstar Networks 48,HS101349,SFLED001349,Partner,Lead,54,Healthcare Tech,Enterprise,International,8/29/2025,,,2,40.5,9/19/2025,CRM Audit,0,3,0,0,0,0
+maya.james2017@summitcloud.com,Maya,James,Summit Cloud,HS102017,SFLED002017,Partner,Disqualified,62,EdTech,Enterprise,Central,3/19/2026,,,0,0,,,0,1,0,0,0,0
+alex.reed4179@summitnetworks26.io,Alex,Reed,Summit Networks 26,HS104179,SFLED004179,Content Download,Lead,11,Logistics Tech,Mid-Market,Central,1/7/2025,,,3,64,3/7/2025,CRM Audit,0,6,0,0,0,0
+casey.ward2158@cobaltplatform66.co,Casey,Ward,Cobalt Platform 66,HS102158,SFLED002158,Content Download,Lead,38,Manufacturing Tech,Enterprise,Central,3/30/2026,,,1,61,5/13/2026,Demo Request,0,4,0,0,0,0
+maya.davis1059@nimbusgroup.co,Maya,Davis,Nimbus Group,HS101059,SFLED001059,LinkedIn,Lead,58,Manufacturing Tech,SMB,Central,2/25/2025,,,0,0,,,0,1,0,0,0,0
+hayden.ward3804@vertexhealth.net,Hayden,Ward,Vertex Health,HS103804,SFLED003804,Outbound,MQL,48,HR Tech,Enterprise,Mountain,3/27/2026,4/6/2026,,2,22,5/29/2026,ROI Calculator,0,0,0,0,0,0
+taylor.adams1037@evergreennetworks9.co,Taylor,Adams,Evergreen Networks 99,HS101037,SFLED001037,Content Download,Lead,44,Healthcare Tech,Enterprise,West,12/22/2025,,,1,68,2/10/2026,Contact Us,0,2,0,0,0,0
+devon.nelson2350@nimbusdata.ai,Devon,Nelson,Nimbus Data,,SFLED002350,Paid Search,Lead,9,SaaS,Enterprise,Southeast,12/14/2025,,,1,68,2/5/2026,CRM Audit,0,5,0,0,0,0
+rowan.chen2720@summitcloud.com,Rowan,Chen,Summit Cloud,HS102720,SFLED002720,Content Download,Lead,47,EdTech,Enterprise,Central,8/30/2025,,,1,46,10/28/2025,Webinar Registration,0,5,0,0,0,0
+jordan.bennett6@novadata58.co,Jordan,Bennett,Nova Data 58,HS100006,SFLED000006,Referral,Subscriber,54,HR Tech,SMB,Northeast,9/3/2025,,,2,59,10/13/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+reese.stone1753@brightops.net,Reese,Stone,Bright Ops,HS101753,SFLED001753,Paid Search,Lead,43,SaaS,Mid-Market,Mountain,6/23/2025,,,2,43,7/22/2025,Contact Us,0,1,0,0,0,0
+parker.james332@ironwoodanalytics.net,Parker,James,Ironwood Analytics,HS100332,SFLED000332,Paid Search,Disqualified,33,FinTech,Enterprise,Mountain,5/13/2026,,,1,48,6/30/2026,ROI Calculator,0,2,0,0,0,0
+charlie.ward4159@nimbussoftware7.com,Charlie,Ward,Nimbus Software 7,HS104159,SFLED004159,Direct,Disqualified,37,EdTech,Enterprise,Northeast,11/28/2025,,,2,37,1/30/2026,Contact Us,0,2,0,0,0,0
+blake.patel1382@vertexsoftware28.com,Blake,Patel,Vertex Software 28,HS101382,SFLED001382,Content Download,MQL,36,Ecommerce,SMB,Northeast,2/27/2026,3/3/2026,,1,37,3/4/2026,Webinar Registration,0,2,0,0,0,0
+morgan.brooks9@atlasworks.co,Morgan,Brooks,Atlas Works,HS100009,SFLED000009,Webinar,Disqualified,66,EdTech,Mid-Market,Mountain,7/15/2025,,,1,46,8/2/2025,HubSpot-SFDC Checklist,0,0,0,0,0,0
+riley.patel4070@nimbusnetworks.co,Riley,Patel,Nimbus Networks,HS104070,,Outbound,SQL,82,Manufacturing Tech,SMB,International,10/24/2025,10/28/2025,11/4/2025,2,15,12/22/2025,Contact Us,0,3,0,0,0,0
+finley.adams3674@atlassystems.net,Finley,Adams,Atlas Systems,HS103674,SFLED003674,Partner,MQL,71,Cybersecurity,Mid-Market,International,4/14/2026,5/8/2026,,2,44.5,5/5/2026,RevOps Playbook,0,3,0,0,0,0
+maya.chen3481@novaplatform.io,Maya,Chen,Nova Platform,HS103481,SFLED003481,Referral,Lead,25,Logistics Tech,SMB,Mountain,6/29/2025,,,1,46,8/8/2025,Webinar Registration,0,2,0,0,0,0
+cameron.kim2891@catalystgroup.com,Cameron,Kim,Catalyst Group,HS102891,SFLED002891,Paid Search,Lead,9,FinTech,Enterprise,Central,1/13/2025,,,0,0,,,0,2,0,0,0,0
+drew.patel3543@evergreenmarkets98.net,Drew,Patel,Evergreen Markets 98,HS103543,SFLED003543,Event,SQL,71,HR Tech,Enterprise,Mountain,6/25/2026,7/17/2026,7/3/2026,1,57,6/30/2026,HubSpot-SFDC Checklist,0,2,0,0,0,0
+finley.sullivan695@keystoneanalytics9.com,Finley,Sullivan,Keystone Analytics 92,HS100695,SFLED000695,Outbound,Lead,35,SaaS,Mid-Market,Mountain,1/1/2025,,,1,42,2/17/2025,Contact Us,0,1,0,0,0,0
+jordan.perry2216@ironwoodsoftware.ai,Jordan,Perry,Ironwood Software,HS102216,SFLED002216,Direct,Lead,20,Cybersecurity,Enterprise,Central,8/7/2025,,,1,80,9/22/2025,CRM Audit,0,1,0,0,0,0
+morgan.chen925@northstardata74.co,Morgan,Chen,Northstar Data 74,HS100925,SFLED000925,Referral,Opportunity,59,Manufacturing Tech,Mid-Market,Northeast,6/23/2025,7/3/2025,7/2/2025,0,0,,,0,0,0,0,0,0
+emerson.carter657@northstarhealth3.io,Emerson,Carter,Northstar Health 3,HS100657,SFLED000657,Content Download,Lead,41,SaaS,Mid-Market,Mountain,12/31/2025,,,1,63,2/13/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+reese.bennett1845@vertexplatform70.io,Reese,Bennett,Vertex Platform 70,HS101845,,Organic Search,MQL,46,Manufacturing Tech,Mid-Market,Northeast,8/17/2025,8/24/2025,,2,57,8/22/2025,HubSpot-SFDC Checklist,0,5,0,0,0,0
+drew.gray708@brightdynamics99.co,Drew,Gray,Bright Dynamics 99,HS100708,SFLED000708,Referral,Lead,53,HR Tech,SMB,West,4/15/2026,,,1,40,5/6/2026,RevOps Playbook,0,2,0,0,0,0
+jamie.stone3561@apexnetworks.co,Jamie,Stone,Apex Networks,HS103561,SFLED003561,Outbound,MQL,59,Manufacturing Tech,Enterprise,Southeast,3/29/2025,4/10/2025,,3,35,5/28/2025,Demo Request,0,2,0,0,0,0
+morgan.parker3347@pioneercloud88.ai,Morgan,Parker,Pioneer Cloud 88,,SFLED003347,Webinar,Lead,51,Logistics Tech,Mid-Market,Southeast,7/9/2025,,,0,0,,,0,5,0,0,0,0
+cameron.long3911@nimbussoftware7.com,Cameron,Long,Nimbus Software 7,HS103911,SFLED003911,Paid Search,MQL,81,EdTech,Enterprise,Northeast,12/17/2025,12/27/2025,,3,34,1/15/2026,Contact Us,0,3,0,0,0,0
+alex.ward2085@summitdynamics86.ai,Alex,Ward,Summit Dynamics 86,HS102085,SFLED002085,Webinar,Lead,40,FinTech,Mid-Market,International,1/20/2026,,,2,36,2/27/2026,CRM Audit,0,1,0,0,0,0
+hayden.torres651@novamarkets92.com,Hayden,Torres,Nova Markets 92,HS100651,SFLED000651,Paid Search,MQL,77,EdTech,Enterprise,International,5/1/2026,5/5/2026,,0,0,,,0,0,0,0,0,0
+kendall.perry1122@nimbusplatform.ai,Kendall,Perry,Nimbus Platform,HS101122,SFLED001122,Partner,Customer,57,Healthcare Tech,SMB,Northeast,3/13/2026,3/19/2026,4/26/2026,1,19,4/23/2026,Contact Us,0,5,0,0,0,0
+harper.miller911@cobaltcloud98.io,Harper,Miller,Cobalt Cloud 98,HS100911,SFLED000911,Event,Lead,70,EdTech,Enterprise,Northeast,2/11/2026,,,2,40,4/6/2026,CRM Audit,0,2,0,0,0,0
+hayden.murphy3712@cobaltdata58.net,Hayden,Murphy,Cobalt Data 58,HS103712,SFLED003712,Outbound,Lead,12,Logistics Tech,Mid-Market,West,1/4/2026,,,2,32.5,2/3/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+parker.ross2420@ironwoodplatform46.net,Parker,Ross,Ironwood Platform 46,HS102420,SFLED002420,Event,Subscriber,56,Healthcare Tech,Mid-Market,Southeast,7/26/2025,,,0,0,,,0,5,0,0,0,0
+riley.james2105@catalystdynamics4.net,Riley,James,Catalyst Dynamics 4,HS102105,SFLED002105,Organic Search,Lead,22,Logistics Tech,Mid-Market,West,3/14/2026,,,1,52,5/1/2026,Contact Us,0,4,0,0,0,0
+sam.murphy3817@summitplatform86.net,Sam,Murphy,Summit Platform 86,HS103817,SFLED003817,LinkedIn,Lead,61,Ecommerce,Enterprise,Northeast,2/20/2025,,,0,0,,,0,1,0,0,0,0
+drew.patel210@brightcloud66.net,Drew,Patel,Bright Cloud 66,HS100210,SFLED000210,Paid Search,Lead,0,Ecommerce,Enterprise,West,11/17/2025,,,0,0,,,0,1,0,0,0,0
+sam.wright1105@summitmarkets10.ai,Sam,Wright,Summit Markets 10,HS101105,SFLED001105,LinkedIn,Opportunity,35,Cybersecurity,Enterprise,International,9/28/2025,10/17/2025,10/19/2025,1,45,11/1/2025,Webinar Registration,0,4,0,0,0,0
+finley.ward3157@ironwoodsoftware.ai,Finley,Ward,Ironwood Software,HS103157,SFLED003157,Content Download,Customer,78,Cybersecurity,Enterprise,Central,4/19/2025,4/24/2025,6/1/2025,0,0,,,0,1,0,0,0,0
+sam.chen2306@clearpathmarkets43.net,Sam,Chen,Clearpath Markets 43,HS102306,SFLED002306,Partner,Lead,66,SaaS,SMB,International,4/19/2026,,,0,0,,,0,2,0,0,0,0
+devon.young3566@clearpathlabs59.net,Devon,Young,Clearpath Labs 59,HS103566,SFLED003566,Content Download,Lead,75,HR Tech,Mid-Market,Central,11/24/2025,,,1,72,12/28/2025,Demo Request,0,3,0,0,0,0
+cameron.perry3136@atlascloud86.net,Cameron,Perry,Atlas Cloud 86,,SFLED003136,Paid Search,Disqualified,28,HR Tech,Mid-Market,Southeast,4/27/2026,,,2,59.5,6/21/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+elliot.gray782@nimbussystems13.io,Elliot,Gray,Nimbus Systems 13,HS100782,SFLED000782,Outbound,Lead,33,SaaS,Mid-Market,International,8/15/2025,,,0,0,,,0,1,0,0,0,0
+hayden.bennett997@bluepeakanalytics3.net,Hayden,Bennett,BluePeak Analytics 35,,SFLED000997,Content Download,Lead,27,Healthcare Tech,Enterprise,Southeast,6/6/2026,,,1,49,6/12/2026,Webinar Registration,0,3,0,0,0,0
+avery.stone2074@evergreenintellige.io,Skyler,Torres,Nova Intelligence 92,HS102497,SFLED002497,Direct,Customer,84,Manufacturing Tech,Enterprise,Northeast,5/25/2026,6/8/2026,7/7/2026,0,0,,,0,5,0,0,0,0
+bailey.foster2039@vertexsoftware.com,Bailey,Foster,Vertex Software,HS102039,SFLED002039,Organic Search,Lead,79,EdTech,Mid-Market,Southeast,12/5/2025,,,1,71,12/11/2025,Contact Us,0,2,0,0,0,0
+charlie.ward4194@evergreenmarkets75.io,Charlie,Ward,Evergreen Markets 75,HS104194,SFLED004194,Paid Search,Lead,43,Logistics Tech,Enterprise,Central,12/3/2025,,,1,69,1/24/2026,Demo Request,0,3,0,0,0,0
+jordan.parker4102@cobalthealth.net,Jordan,Parker,Cobalt Health,HS104102,SFLED004102,LinkedIn,Lead,41,SaaS,Mid-Market,Southeast,10/24/2025,,,3,40,12/16/2025,RevOps Playbook,0,1,0,0,0,0
+drew.foster3924@ironwoodcloud13.net,Drew,Foster,Ironwood Cloud 13,HS103924,SFLED003924,Outbound,Lead,46,Healthcare Tech,Enterprise,International,6/16/2025,,,2,28.5,8/6/2025,ROI Calculator,0,1,0,0,0,0
+kendall.adams2635@atlasintelligence.co,Kendall,Adams,Atlas Intelligence,HS102635,SFLED002635,Paid Search,Lead,25,Manufacturing Tech,Mid-Market,Northeast,1/29/2026,,,1,35,3/22/2026,ROI Calculator,0,2,0,0,0,0
+avery.miller2385@catalystgroup.com,Avery,Miller,Catalyst Group,HS102385,SFLED002385,Referral,MQL,59,FinTech,Enterprise,Central,3/18/2025,3/21/2025,,0,0,,,0,3,0,0,0,0
+riley.sullivan2715@apexworks74.net,Riley,Sullivan,Apex Works 74,HS102715,SFLED002715,Outbound,Lead,45,Healthcare Tech,Mid-Market,Central,1/28/2026,,,1,19,3/29/2026,Contact Us,0,3,0,0,0,0
+charlie.torres1944@catalystmarkets.ai,Charlie,Torres,Catalyst Markets,HS101944,SFLED001944,Outbound,Lead,38,Manufacturing Tech,Enterprise,Central,11/24/2025,,,0,0,,,0,6,0,0,0,0
+parker.price3192@summithealth69.io,Parker,Price,Summit Health 69,HS103192,SFLED003192,Paid Search,Lead,54,HR Tech,Enterprise,Mountain,1/9/2026,,,0,0,,,0,2,0,0,0,0
+jordan.young2603@clearpathnetworks8.ai,Jordan,Young,Clearpath Networks 88,HS102603,SFLED002603,Partner,Lead,55,Healthcare Tech,Mid-Market,International,6/10/2025,,,1,41,8/11/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+sam.miller2846@vertexdynamics.io,Sam,Miller,Vertex Dynamics,HS102846,SFLED002846,LinkedIn,Lead,33,FinTech,Mid-Market,Southeast,10/7/2025,,,0,0,,,0,3,0,0,0,0
+blake.miller106@pioneernetworks.ai,Blake,Miller,Pioneer Networks,HS100106,SFLED000106,Webinar,MQL,65,SaaS,SMB,International,3/10/2025,4/2/2025,,2,60.5,4/10/2025,RevOps Playbook,0,2,0,0,0,0
+rowan.parker2596@northstarnetworks4.net,Rowan,Parker,Northstar Networks 48,HS102596,,Event,SQL,71,Healthcare Tech,Enterprise,International,1/10/2025,1/24/2025,1/28/2025,1,56,2/22/2025,RevOps Playbook,0,1,0,0,0,0
+taylor.brooks1436@catalystgroup.com,Taylor,Brooks,Catalyst Group,,SFLED001436,Paid Search,Lead,8,FinTech,Enterprise,Central,3/31/2025,,,1,64,4/22/2025,Webinar Registration,0,0,0,0,0,0
+bailey.brooks4174@vertexsoftware.com,Bailey,Brooks,Vertex Software,HS104174,SFLED004174,Paid Search,Lead,72,EdTech,Mid-Market,Southeast,3/31/2026,,,0,0,,,0,1,0,0,0,0
+kendall.adams3134@nimbussoftware7.com,Kendall,Adams,Nimbus Software 7,,SFLED003134,Direct,Lead,26,EdTech,Enterprise,Northeast,12/28/2025,,,2,64.5,1/13/2026,CRM Audit,0,2,0,0,0,0
+avery.miller1183@novaintelligence83.ai,Avery,Miller,Nova Intelligence 83,HS101183,SFLED001183,Organic Search,Lead,48,Manufacturing Tech,SMB,Northeast,7/5/2025,,,1,21,9/3/2025,Webinar Registration,0,2,0,0,0,0
+jamie.ross3145@novacloud58.com,Jamie,Ross,Nova Cloud 58,HS103145,SFLED003145,Organic Search,Lead,25,Logistics Tech,Enterprise,Southeast,7/15/2025,,,0,0,,,0,1,0,0,0,0
+devon.wright1643@vertexmarkets87.com,Devon,Wright,Vertex Markets 87,HS101643,SFLED001643,LinkedIn,Lead,41,HR Tech,Mid-Market,Southeast,5/11/2026,,,3,71.33333333,6/30/2026,CRM Audit,0,3,0,0,0,0
+emerson.carter2137@nimbusplatform85.co,Emerson,Carter,Nimbus Platform 85,HS102137,SFLED002137,Content Download,MQL,65,Logistics Tech,Mid-Market,West,7/12/2025,7/31/2025,,0,0,,,0,4,0,0,0,0
+charlie.davis374@evergreensystems95.co,Charlie,Davis,Evergreen Systems 95,HS100374,SFLED000374,Paid Search,Lead,12,HR Tech,Enterprise,Southeast,10/17/2025,,,1,47,11/30/2025,CRM Audit,0,2,0,0,0,0
+jamie.chen2271@atlasintelligence4.net,Jamie,Chen,Atlas Intelligence 43,HS102271,SFLED002271,Outbound,Lead,81,Logistics Tech,Mid-Market,International,4/25/2026,,,0,0,,,0,3,0,0,0,0
+sam.adams1906@nimbusmarkets.ai,Sam,Adams,Nimbus Markets,HS101906,SFLED001906,Paid Search,Lead,49,SaaS,Enterprise,West,1/7/2025,,,1,15,1/12/2025,Webinar Registration,0,2,0,0,0,0
+reese.sullivan4130@brightmarkets.ai,Reese,Sullivan,Bright Markets,HS104130,SFLED004130,Paid Search,Lead,18,Ecommerce,Mid-Market,West,4/7/2025,,,1,83,5/26/2025,Contact Us,0,0,0,0,0,0
+reese.kim1832@catalystplatform.net,Reese,Kim,Catalyst Platform,HS101832,SFLED001832,Direct,Subscriber,10,Ecommerce,Mid-Market,Southeast,5/23/2025,,,1,57,7/14/2025,Contact Us,0,3,0,0,0,0
+blake.murphy22@summitmarkets10.ai,Blake,Murphy,Summit Markets 10,HS100022,SFLED000022,Partner,Lead,31,Cybersecurity,Enterprise,International,6/4/2025,,,1,90,6/26/2025,HubSpot-SFDC Checklist,0,6,0,0,0,0
+sam.price1054@apexgroup.com,Sam,Price,Apex Group,HS101054,,Event,Lead,43,FinTech,Enterprise,International,8/5/2025,,,0,0,,,0,5,0,0,0,0
+logan.young3245@keystonedynamics.io,Logan,Young,Keystone Dynamics,HS103245,SFLED003245,Outbound,Lead,56,Ecommerce,Enterprise,Northeast,4/20/2025,,,0,0,,,0,1,0,0,0,0
+hayden.gray75@vertexhealth3.com,Harper,Miller,Summit Works 32,HS100826,SFLED000826,Event,Lead,72,Healthcare Tech,SMB,West,2/16/2025,,,0,0,,,0,5,0,0,0,0
+avery.bell410@ironwoodgroup82.io,Avery,Bell,Ironwood Group 82,HS100410,SFLED000410,LinkedIn,Lead,6,Ecommerce,Enterprise,International,1/27/2026,,,0,0,,,0,1,0,0,0,0
+drew.stone2838@brighthealth44.io,Drew,Stone,Bright Health 44,HS102838,SFLED002838,Outbound,Disqualified,53,HR Tech,Mid-Market,Southeast,11/2/2025,,,0,0,,,0,1,0,0,0,0
+parker.brooks4143@summitdata.com,Parker,Brooks,Summit Data,,SFLED004143,Direct,Lead,26,FinTech,Mid-Market,Southeast,5/2/2025,,,1,79,5/30/2025,CRM Audit,0,2,0,0,0,0
+charlie.wright18@brightgroup.co,Bailey,Young,Apex Works 61,HS103030,SFLED003030,LinkedIn,Lead,29,EdTech,Mid-Market,Northeast,3/16/2026,,,0,0,,,0,2,0,0,0,0
+harper.king2781@cobaltmarkets.com,Harper,King,Cobalt Markets,HS102781,SFLED002781,Partner,Subscriber,74,Cybersecurity,Mid-Market,Southeast,3/24/2026,,,2,40.5,4/4/2026,Contact Us,0,1,0,0,0,0
+riley.wright530@evergreenmarkets98.net,Riley,Wright,Evergreen Markets 98,,SFLED000530,Webinar,Lead,53,HR Tech,Enterprise,Mountain,12/31/2025,,,1,55,1/17/2026,RevOps Playbook,0,2,0,0,0,0
+elliot.bell492@summitsystems.ai,Elliot,Bell,Summit Systems,HS100492,SFLED000492,Content Download,Lead,37,EdTech,Mid-Market,Southeast,6/27/2025,,,1,57,7/20/2025,CRM Audit,0,1,0,0,0,0
+blake.kim4101@evergreenmarkets98.net,Blake,Kim,Evergreen Markets 98,HS104101,SFLED004101,Direct,MQL,57,HR Tech,Enterprise,Mountain,5/9/2026,5/10/2026,,3,54.66666667,6/30/2026,Demo Request,0,3,0,0,0,0
+rowan.carter2919@bluepeaklabs.com,Rowan,Carter,BluePeak Labs,HS102919,SFLED002919,Paid Search,Lead,33,Manufacturing Tech,Mid-Market,Mountain,5/16/2025,,,1,39,7/17/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+riley.price1201@northstargroup74.com,Riley,Price,Northstar Group 74,HS101201,SFLED001201,Paid Search,SQL,36,SaaS,SMB,West,6/10/2025,6/27/2025,7/22/2025,0,0,,,0,2,0,0,0,0
+charlie.gray4033@apexsolutions.co,Charlie,Gray,Apex Solutions,HS104033,SFLED004033,Outbound,SQL,99,HR Tech,SMB,Southeast,3/15/2026,3/28/2026,4/28/2026,1,32,3/26/2026,RevOps Playbook,0,1,0,0,0,0
+finley.king130@cobalthealth15.ai,Finley,King,Cobalt Health 15,HS100130,SFLED000130,Direct,Lead,35,Ecommerce,Enterprise,Central,4/4/2026,,,2,55.5,5/26/2026,ROI Calculator,0,4,0,0,0,0
+maya.sullivan2657@northstarhealth.co,Maya,Sullivan,Northstar Health,HS102657,SFLED002657,Partner,MQL,74,EdTech,Enterprise,Southeast,3/11/2025,3/12/2025,,2,37.5,5/12/2025,Contact Us,0,4,0,0,0,0
+cameron.james231@evergreenmarkets21.com,Cameron,James,Evergreen Markets 21,HS100231,SFLED000231,Webinar,Lead,57,Ecommerce,Mid-Market,West,6/7/2026,,,0,0,,,0,2,0,0,0,0
+finley.king3133@signalcloud71.ai,Finley,King,Signal Cloud 71,HS103133,SFLED003133,LinkedIn,SQL,90,Manufacturing Tech,Mid-Market,Northeast,12/2/2025,12/18/2025,12/20/2025,2,24.5,1/26/2026,ROI Calculator,0,7,0,0,0,0
+devon.bell4156@northstarmarkets56.io,Devon,Bell,Northstar Markets 56,HS104156,SFLED004156,Direct,Subscriber,90,EdTech,Enterprise,International,5/18/2026,,,0,0,,,0,3,0,0,0,0
+rowan.chen3268@meridianintelligen.io,Rowan,Chen,Meridian Intelligence,,SFLED003268,Referral,Lead,64,EdTech,SMB,West,6/6/2026,,,0,0,,,0,2,0,0,0,0
+avery.bennett2709@northstarsystems.ai,Avery,Bennett,Northstar Systems,HS102709,SFLED002709,Event,Lead,19,HR Tech,SMB,Mountain,3/16/2025,,,1,71,4/11/2025,CRM Audit,0,4,0,0,0,0
+charlie.kim3799@cobaltlabs56.ai,Charlie,Kim,Cobalt Labs 56,HS103799,SFLED003799,Event,MQL,61,Healthcare Tech,Enterprise,Northeast,3/14/2026,4/2/2026,,1,38,5/12/2026,RevOps Playbook,0,0,0,0,0,0
+avery.king73@vertexworks.io,Avery,King,Vertex Works,,SFLED000073,Content Download,Subscriber,53,Ecommerce,Mid-Market,Northeast,4/26/2025,,,3,46.33333333,5/29/2025,CRM Audit,0,3,0,0,0,0
+riley.price1414@northstargroup.co,Riley,Price,Northstar Group,HS101414,SFLED001414,Content Download,Lead,59,HR Tech,SMB,Central,4/11/2026,,,1,72,4/14/2026,Demo Request,0,3,0,0,0,0
+bailey.foster1889@novamarkets.com,Bailey,Foster,Nova Markets,HS101889,SFLED001889,Organic Search,Lead,31,Healthcare Tech,Enterprise,Central,2/12/2025,,,0,0,,,0,2,0,0,0,0
+skyler.adams1533@cobaltsolutions.co,Elliot,Patel,Vertex Systems 29,HS101984,SFLED001984,Outbound,Subscriber,30,Logistics Tech,Enterprise,Central,11/18/2025,,,0,0,,,0,2,0,0,0,0
+bailey.foster1259@bluepeakintelligen.com,Bailey,Foster,BluePeak Intelligence,HS101259,SFLED001259,Outbound,Lead,59,Logistics Tech,Enterprise,Northeast,6/15/2026,,,1,44,6/30/2026,CRM Audit,0,3,0,0,0,0
+riley.king1211@evergreenworks94.net,Riley,King,Evergreen Works 94,HS101211,SFLED001211,Organic Search,MQL,86,Ecommerce,Mid-Market,Central,9/1/2025,9/2/2025,,0,0,,,0,1,0,0,0,0
+elliot.torres2870@evergreensolutions.ai,Elliot,Torres,Evergreen Solutions,HS102870,SFLED002870,Content Download,Lead,48,Cybersecurity,Mid-Market,Mountain,1/17/2026,,,0,0,,,0,7,0,0,0,0
+alex.long873@clearpathnetworks3.com,Alex,Long,Clearpath Networks 31,HS100873,SFLED000873,Organic Search,Disqualified,50,Manufacturing Tech,Mid-Market,International,9/22/2025,,,1,76,10/16/2025,RevOps Playbook,0,2,0,0,0,0
+alex.carter2906@northstardata7.ai,Alex,Carter,Northstar Data 7,HS102906,,Paid Search,Lead,17,Logistics Tech,SMB,Southeast,9/21/2025,,,2,45,10/28/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+alex.foster2924@meridiananalytics.ai,Alex,Foster,Meridian Analytics,HS102924,SFLED002924,Partner,Lead,39,Manufacturing Tech,SMB,Southeast,6/16/2026,,,1,57,6/30/2026,Webinar Registration,0,7,0,0,0,0
+finley.adams3216@nimbusdata.ai,Finley,Adams,Nimbus Data,HS103216,SFLED003216,Event,Lead,51,SaaS,Enterprise,Southeast,6/20/2026,,,2,43,6/30/2026,CRM Audit,0,2,0,0,0,0
+emerson.sullivan3551@clearpathlabs59.net,Emerson,Sullivan,Clearpath Labs 59,HS103551,SFLED003551,LinkedIn,Lead,80,HR Tech,Mid-Market,Central,11/8/2025,,,0,0,,,0,4,0,0,0,0
+logan.miller1434@clearpathlabs39.io,Logan,Miller,Clearpath Labs 39,HS101434,SFLED001434,Paid Search,Lead,75,SaaS,Enterprise,Mountain,2/28/2026,,,1,49,3/7/2026,Demo Request,0,3,0,0,0,0
+riley.sullivan3509@atlasanalytics85.com,Riley,Sullivan,Atlas Analytics 85,HS103509,SFLED003509,Partner,MQL,74,Healthcare Tech,Mid-Market,Southeast,6/12/2025,6/17/2025,,2,51.5,8/6/2025,Contact Us,0,3,0,0,0,0
+maya.james586@catalystdynamics59.ai,Maya,James,Catalyst Dynamics 59,,SFLED000586,Content Download,MQL,61,EdTech,SMB,Southeast,2/1/2025,2/22/2025,,3,40.66666667,3/22/2025,Demo Request,0,1,0,0,0,0
+maya.perry2516@summitsoftware94.net,Maya,Perry,Summit Software 94,HS102516,SFLED002516,Outbound,Lead,87,Logistics Tech,SMB,Central,4/30/2025,,,0,0,,,0,4,0,0,0,0
+sam.young3017@meridianworks.ai,Sam,Young,Meridian Works,HS103017,,Outbound,MQL,69,FinTech,Enterprise,Central,6/18/2025,7/5/2025,,3,52,7/27/2025,CRM Audit,0,1,0,0,0,0
+devon.bell732@atlasmarkets54.net,Devon,Bell,Atlas Markets 54,HS100732,SFLED000732,Outbound,MQL,51,Logistics Tech,Mid-Market,West,9/2/2025,9/13/2025,,1,59,9/17/2025,Webinar Registration,0,3,0,0,0,0
+logan.stone591@evergreengroup93.net,Logan,Stone,Evergreen Group 93,,SFLED000591,Organic Search,Lead,10,HR Tech,Enterprise,Mountain,3/3/2026,,,2,71.5,4/25/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+jordan.brooks976@novacloud.net,Jordan,Brooks,Nova Cloud,HS100976,SFLED000976,Outbound,Lead,0,EdTech,SMB,Mountain,3/22/2025,,,2,42,5/1/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+quinn.parker541@novanetworks81.co,Quinn,Parker,Nova Networks 81,HS100541,SFLED000541,LinkedIn,Disqualified,77,Ecommerce,Enterprise,West,7/6/2025,,,1,75,7/29/2025,CRM Audit,0,1,0,0,0,0
+cameron.murphy581@brightsoftware68.ai,Cameron,Murphy,Bright Software 68,HS100581,SFLED000581,Referral,Lead,41,EdTech,Enterprise,Southeast,3/20/2026,,,2,55,5/8/2026,RevOps Playbook,0,0,0,0,0,0
+charlie.gray221@northstardata.com,Charlie,Gray,Northstar Data,HS100221,SFLED000221,Referral,Disqualified,59,Cybersecurity,Mid-Market,Northeast,4/29/2025,,,0,0,,,0,4,0,0,0,0
+sam.carter645@cobaltdynamics47.io,Sam,Carter,Cobalt Dynamics 47,,SFLED000645,LinkedIn,Lead,0,Cybersecurity,Mid-Market,Southeast,5/26/2026,,,1,0,6/30/2026,ROI Calculator,0,2,0,0,0,0
+bailey.reed2170@atlasmarkets.net,Bailey,Reed,Atlas Markets,HS102170,SFLED002170,LinkedIn,Lead,13,HR Tech,Mid-Market,Central,3/21/2026,,,1,91,5/21/2026,Contact Us,0,3,0,0,0,0
+cameron.gray271@evergreendata88.ai,Cameron,Gray,Evergreen Data 88,HS100271,SFLED000271,Content Download,MQL,47,SaaS,SMB,Southeast,10/3/2025,10/19/2025,,2,58,10/17/2025,CRM Audit,0,4,0,0,0,0
+skyler.long3812@nimbusanalytics.ai,Skyler,Long,Nimbus Analytics,,,Event,MQL,97,Healthcare Tech,SMB,Northeast,6/10/2026,6/14/2026,,2,59,6/30/2026,CRM Audit,0,3,0,0,0,0
+emerson.murphy819@clearpathsystems.com,Emerson,Murphy,Clearpath Systems,HS100819,SFLED000819,Paid Search,Lead,13,SaaS,Mid-Market,Central,10/26/2025,,,0,0,,,0,3,0,0,0,0
+charlie.gray881@ironwoodnetworks73.io,Charlie,Gray,Ironwood Networks 73,HS100881,SFLED000881,Organic Search,SQL,62,Logistics Tech,Mid-Market,Central,7/19/2025,8/4/2025,8/6/2025,1,79,9/4/2025,Demo Request,0,1,0,0,0,0
+parker.reed100@keystonenetworks16.io,Parker,Reed,Keystone Networks 16,HS100100,SFLED000100,LinkedIn,Lead,36,SaaS,Mid-Market,Mountain,9/30/2025,,,0,0,,,0,5,0,0,0,0
+drew.parker1555@catalystintelligen.io,Drew,Parker,Catalyst Intelligence 41,HS101555,SFLED001555,Referral,Lead,8,Healthcare Tech,Mid-Market,Southeast,7/8/2025,,,0,0,,,0,4,0,0,0,0
+finley.sullivan1418@meridiangroup.com,Finley,Sullivan,Meridian Group,HS101418,SFLED001418,Organic Search,Lead,41,Logistics Tech,SMB,Central,9/19/2025,,,1,45,11/7/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+bailey.carter3778@nimbusanalytics95.com,Bailey,Carter,Nimbus Analytics 95,HS103778,SFLED003778,Outbound,Opportunity,57,SaaS,Enterprise,Northeast,1/27/2026,2/4/2026,2/21/2026,1,30,3/25/2026,Contact Us,0,2,0,0,0,0
+avery.king2890@summitcloud.com,Avery,King,Summit Cloud,HS102890,SFLED002890,Content Download,Lead,51,EdTech,Enterprise,Central,7/13/2025,,,1,34,9/4/2025,Contact Us,0,2,0,0,0,0
+logan.king1616@northstarsoftware4.co,Logan,King,Northstar Software 45,HS101616,SFLED001616,Event,SQL,64,HR Tech,Mid-Market,Mountain,5/9/2025,5/12/2025,6/11/2025,2,50.5,6/23/2025,Contact Us,0,4,0,0,0,0
+bailey.bell476@ironwoodsystems99.net,Bailey,Bell,Ironwood Systems 99,HS100476,SFLED000476,Event,Lead,61,SaaS,Enterprise,Southeast,10/14/2025,,,1,21,12/8/2025,RevOps Playbook,0,3,0,0,0,0
+charlie.foster1044@cobaltplatform.com,Charlie,Foster,Cobalt Platform,HS101044,SFLED001044,Direct,Lead,20,Cybersecurity,Mid-Market,Northeast,3/27/2026,,,0,0,,,0,2,0,0,0,0
+maya.bennett2598@catalystsolutions7.com,Maya,Bennett,Catalyst Solutions 70,HS102598,SFLED002598,Content Download,MQL,56,HR Tech,Enterprise,Northeast,12/5/2025,12/26/2025,,0,0,,,0,6,0,0,0,0
+sam.murphy3313@clearpathmarkets.com,Sam,Murphy,Clearpath Markets,HS103313,SFLED003313,Outbound,Subscriber,28,SaaS,Mid-Market,International,8/10/2025,,,1,46,10/7/2025,Webinar Registration,0,0,0,0,0,0
+morgan.chen43@signalanalytics.net,Casey,Murphy,Apex Platform,HS100882,SFLED000882,Organic Search,Lead,46,Logistics Tech,SMB,Northeast,6/26/2026,,,0,0,,,0,2,0,0,0,0
+logan.james1052@catalystintelligen.ai,Logan,James,Catalyst Intelligence,HS101052,SFLED001052,Event,MQL,93,FinTech,Enterprise,International,6/26/2026,7/1/2026,,3,42.33333333,6/30/2026,CRM Audit,0,6,0,0,0,0
+cameron.torres3256@evergreengroup.co,Cameron,Torres,Evergreen Group,HS103256,SFLED003256,Outbound,Lead,3,Manufacturing Tech,Enterprise,Southeast,2/7/2026,,,0,0,,,0,3,0,0,0,0
+taylor.parker123@catalystops73.net,Taylor,Parker,Catalyst Ops 73,HS100123,,Paid Search,Lead,66,Manufacturing Tech,Mid-Market,West,6/3/2025,,,0,0,,,0,3,0,0,0,0
+elliot.young2176@keystonenetworks.io,Elliot,Young,Keystone Networks,HS102176,,Webinar,Lead,53,FinTech,SMB,West,1/28/2026,,,1,40,3/29/2026,RevOps Playbook,0,1,0,0,0,0
+drew.kim341@catalystmarkets.ai,Drew,Kim,Catalyst Markets,HS100341,SFLED000341,LinkedIn,MQL,46,Manufacturing Tech,Enterprise,Central,7/21/2025,8/7/2025,,0,0,,,0,0,0,0,0,0
+quinn.wright2159@summithealth69.io,Quinn,Wright,Summit Health 69,HS102159,SFLED002159,Direct,Lead,24,HR Tech,Enterprise,Mountain,2/24/2026,,,3,40.66666667,4/4/2026,Demo Request,0,2,0,0,0,0
+bailey.chen3071@vertexanalytics.co,Bailey,Chen,Vertex Analytics,HS103071,SFLED003071,LinkedIn,Lead,0,Cybersecurity,Enterprise,Central,1/19/2025,,,1,42,2/28/2025,Demo Request,0,2,0,0,0,0
+avery.ward230@bluepeakintelligen.net,Avery,Ward,BluePeak Intelligence 9,HS100230,SFLED000230,Organic Search,Lead,100,FinTech,Mid-Market,West,2/26/2025,,,1,26,4/25/2025,Contact Us,0,3,0,0,0,0
+hayden.james612@clearpathplatform7.com,Hayden,James,Clearpath Platform 75,HS100612,SFLED000612,Paid Search,MQL,65,Cybersecurity,SMB,Mountain,9/5/2025,9/12/2025,,1,46,10/21/2025,Contact Us,0,2,0,0,0,0
+drew.james922@northstardynamics1.co,Drew,James,Northstar Dynamics 19,HS100922,SFLED000922,Content Download,Lead,72,Manufacturing Tech,Mid-Market,Central,10/30/2025,,,1,73,11/6/2025,Demo Request,0,3,0,0,0,0
+reese.young1851@evergreendata84.net,Reese,Young,Evergreen Data 84,HS101851,SFLED001851,Direct,Lead,28,Healthcare Tech,SMB,Central,3/23/2026,,,0,0,,,0,1,0,0,0,0
+bailey.wright4170@vertexhealth3.com,Bailey,Wright,Vertex Health 3,HS104170,SFLED004170,Paid Search,Lead,27,HR Tech,Mid-Market,Mountain,1/2/2026,,,0,0,,,0,0,0,0,0,0
+riley.stone655@clearpathgroup57.net,Riley,Stone,Clearpath Group 57,HS100655,,Paid Search,Lead,13,FinTech,Enterprise,Central,4/23/2026,,,2,52.5,4/26/2026,CRM Audit,0,0,0,0,0,0
+elliot.reed3934@evergreencloud80.com,Elliot,Reed,Evergreen Cloud 80,HS103934,SFLED003934,Webinar,Lead,64,Healthcare Tech,SMB,Central,2/20/2025,,,0,0,,,0,1,0,0,0,0
+cameron.parker1934@evergreensystems95.co,Cameron,Parker,Evergreen Systems 95,HS101934,SFLED001934,LinkedIn,Lead,27,HR Tech,Enterprise,Southeast,2/20/2025,,,3,53.33333333,4/22/2025,Webinar Registration,0,1,0,0,0,0
+rowan.murphy2342@meridiandynamics77.ai,Rowan,Murphy,Meridian Dynamics 77,HS102342,SFLED002342,Outbound,Lead,43,FinTech,Enterprise,Southeast,5/28/2026,,,3,35.66666667,6/19/2026,Demo Request,0,3,0,0,0,0
+skyler.adams977@clearpathlabs59.net,Skyler,Adams,Clearpath Labs 59,HS100977,SFLED000977,Referral,MQL,63,HR Tech,Mid-Market,Central,5/6/2025,5/26/2025,,0,0,,,0,3,0,0,0,0
+maya.king499@keystoneplatform69.com,Maya,King,Keystone Platform 69,HS100499,SFLED000499,LinkedIn,Lead,12,EdTech,SMB,Central,4/1/2026,,,0,0,,,0,2,0,0,0,0
+casey.brooks1204@atlassystems.net,Casey,Brooks,Atlas Systems,HS101204,SFLED001204,Referral,Lead,56,Cybersecurity,Mid-Market,International,9/15/2025,,,1,47,10/9/2025,Webinar Registration,0,0,0,0,0,0
+drew.kim1783@evergreenanalytics.io,Drew,Kim,Evergreen Analytics 41,HS101783,SFLED001783,Content Download,MQL,74,Ecommerce,Enterprise,Mountain,2/9/2025,2/19/2025,,0,0,,,0,1,0,0,0,0
+logan.stone2963@summitnetworks.net,Logan,Stone,Summit Networks,HS102963,SFLED002963,Partner,Lead,18,Manufacturing Tech,SMB,West,9/20/2025,,,3,38,11/13/2025,Webinar Registration,0,5,0,0,0,0
+rowan.chen2319@keystonedynamics63.ai,Rowan,Chen,Keystone Dynamics 63,HS102319,SFLED002319,Event,Lead,75,EdTech,Mid-Market,Mountain,2/3/2026,,,1,39,4/8/2026,Webinar Registration,0,4,0,0,0,0
+morgan.bell2765@pioneerdynamics.net,Morgan,Bell,Pioneer Dynamics,HS102765,SFLED002765,Content Download,MQL,72,EdTech,SMB,Mountain,3/22/2026,4/11/2026,,0,0,,,0,2,0,0,0,0
+reese.stone4076@brightlabs38.co,Reese,Stone,Bright Labs 38,HS104076,SFLED004076,Outbound,MQL,68,Logistics Tech,SMB,Central,3/23/2025,4/10/2025,,3,45.66666667,5/3/2025,Webinar Registration,0,4,0,0,0,0
+jamie.ward801@summitmarkets10.ai,Jamie,Ward,Summit Markets 10,HS100801,SFLED000801,Direct,Lead,42,Cybersecurity,Enterprise,International,12/13/2025,,,0,0,,,0,4,0,0,0,0
+reese.parker1280@catalystintelligen.net,Reese,Parker,Catalyst Intelligence 52,HS101280,SFLED001280,Direct,Lead,100,SaaS,Enterprise,International,3/3/2025,,,1,94,3/27/2025,CRM Audit,0,4,0,0,0,0
+casey.bell1652@nimbusworks36.co,Casey,Bell,Nimbus Works 36,HS101652,SFLED001652,Direct,Lead,27,FinTech,Mid-Market,West,11/4/2025,,,0,0,,,0,2,0,0,0,0
+morgan.adams3038@bluepeaknetworks.ai,Morgan,Adams,BluePeak Networks,HS103038,SFLED003038,LinkedIn,MQL,58,Ecommerce,SMB,Central,7/9/2025,7/28/2025,,1,43,8/9/2025,CRM Audit,0,4,0,0,0,0
+casey.bennett108@keystonedynamics63.ai,Casey,Bennett,Keystone Dynamics 63,HS100108,SFLED000108,Referral,Lead,79,EdTech,Mid-Market,Mountain,5/30/2026,,,0,0,,,0,2,0,0,0,0
+jordan.stone1358@novacloud58.com,Jordan,Stone,Nova Cloud 58,HS101358,SFLED001358,Event,Disqualified,35,Logistics Tech,Enterprise,Southeast,1/13/2026,,,2,38,3/14/2026,CRM Audit,0,3,0,0,0,0
+elliot.king2144@novacloud58.com,Elliot,King,Nova Cloud 58,HS102144,SFLED002144,Partner,MQL,87,Logistics Tech,Enterprise,Southeast,4/28/2025,5/13/2025,,0,0,,,0,2,0,0,0,0
+parker.ward3474@northstardynamics1.co,Parker,Ward,Northstar Dynamics 19,HS103474,SFLED003474,Direct,MQL,42,Manufacturing Tech,Mid-Market,Central,4/24/2025,5/5/2025,,0,0,,,0,0,0,0,0,0
+skyler.king2970@evergreenops15.com,Skyler,King,Evergreen Ops 15,HS102970,SFLED002970,Paid Search,Lead,54,Healthcare Tech,SMB,Central,5/17/2026,,,0,0,,,0,2,0,0,0,0
+logan.adams3159@cobaltdynamics.co,Logan,Adams,Cobalt Dynamics,HS103159,SFLED003159,Direct,Lead,73,EdTech,Enterprise,Mountain,4/12/2025,,,0,0,,,0,1,0,0,0,0
+cameron.chen3859@nimbushealth11.ai,Cameron,Chen,Nimbus Health 11,HS103859,SFLED003859,Event,MQL,73,FinTech,SMB,Southeast,5/17/2026,5/20/2026,,1,29,5/30/2026,Webinar Registration,0,0,0,0,0,0
+riley.adams3480@nimbusplatform83.ai,Riley,Adams,Nimbus Platform 83,HS103480,SFLED003480,Paid Search,Disqualified,51,Healthcare Tech,SMB,International,5/16/2026,,,4,51.5,6/20/2026,Contact Us,0,7,0,0,0,0
+harper.stone951@northstarsoftware4.co,Harper,Stone,Northstar Software 45,HS100951,SFLED000951,Content Download,Subscriber,95,HR Tech,Mid-Market,Mountain,2/19/2025,,,0,0,,,0,0,0,0,0,0
+logan.ward3272@bluepeakcloud.ai,Logan,Ward,BluePeak Cloud,HS103272,SFLED003272,LinkedIn,Lead,27,SaaS,Enterprise,Southeast,3/24/2025,,,0,0,,,0,2,0,0,0,0
+rowan.bell2553@brightsystems91.io,Rowan,Bell,Bright Systems 91,HS102553,SFLED002553,LinkedIn,MQL,38,Healthcare Tech,Mid-Market,Southeast,6/14/2025,6/24/2025,,1,71,7/26/2025,Demo Request,0,3,0,0,0,0
+drew.kim3244@bluepeakhealth.ai,Drew,Kim,BluePeak Health,,SFLED003244,Webinar,Lead,69,Manufacturing Tech,Mid-Market,Northeast,6/25/2026,,,1,94,6/30/2026,Demo Request,0,6,0,0,0,0
+quinn.perry2028@nimbushealth11.ai,Quinn,Perry,Nimbus Health 11,HS102028,SFLED002028,Event,Lead,47,FinTech,SMB,Southeast,11/7/2025,,,0,0,,,0,3,0,0,0,0
+elliot.ward1136@meridiangroup.com,Elliot,Ward,Meridian Group,HS101136,SFLED001136,Referral,Lead,40,Logistics Tech,SMB,Central,6/8/2025,,,2,73,8/1/2025,CRM Audit,0,6,0,0,0,0
+drew.davis3783@ironwoodsoftware.ai,Drew,Davis,Ironwood Software,HS103783,SFLED003783,Partner,Lead,45,Cybersecurity,Enterprise,Central,1/9/2025,,,1,41,2/13/2025,ROI Calculator,0,4,0,0,0,0
+rowan.davis2145@evergreensystems.com,Rowan,Davis,Evergreen Systems,,,Outbound,Lead,48,HR Tech,Enterprise,Mountain,9/22/2025,,,1,26,10/24/2025,Contact Us,0,1,0,0,0,0
+sam.torres2114@keystonenetworks6.co,Sam,Torres,Keystone Networks 6,HS102114,SFLED002114,Outbound,Subscriber,57,Logistics Tech,SMB,Mountain,4/18/2026,,,0,0,,,0,4,0,0,0,0
+morgan.chen3436@keystonenetworks89.net,Morgan,Chen,Keystone Networks 89,HS103436,SFLED003436,Referral,MQL,58,EdTech,Mid-Market,West,5/8/2025,5/28/2025,,1,61,5/14/2025,Contact Us,0,0,0,0,0,0
+elliot.perry1351@apexmarkets.net,Elliot,Perry,Apex Markets,HS101351,SFLED001351,LinkedIn,Disqualified,12,Cybersecurity,Mid-Market,International,9/30/2025,,,2,14,10/28/2025,Contact Us,0,2,0,0,0,0
+sam.torres2359@meridianlabs79.io,Sam,Torres,Meridian Labs 79,HS102359,SFLED002359,LinkedIn,Lead,32,Logistics Tech,SMB,Central,6/29/2025,,,4,71,8/27/2025,Webinar Registration,0,3,0,0,0,0
+drew.stone3327@evergreenmarkets.co,Drew,Stone,Evergreen Markets,HS103327,SFLED003327,Organic Search,Lead,46,Healthcare Tech,Mid-Market,Northeast,9/12/2025,,,0,0,,,0,2,0,0,0,0
+jamie.murphy599@catalystnetworks.ai,Jamie,Murphy,Catalyst Networks,HS100599,SFLED000599,Referral,Subscriber,23,Manufacturing Tech,Enterprise,West,8/4/2025,,,1,62,9/2/2025,RevOps Playbook,0,2,0,0,0,0
+charlie.patel1559@cobaltops.com,Charlie,Patel,Cobalt Ops,HS101559,SFLED001559,Content Download,Lead,38,EdTech,SMB,Northeast,9/3/2025,,,0,0,,,0,4,0,0,0,0
+charlie.murphy3903@brightdynamics65.co,Charlie,Murphy,Bright Dynamics 65,HS103903,SFLED003903,Direct,Lead,38,Healthcare Tech,Enterprise,Mountain,3/21/2026,,,1,22,4/30/2026,ROI Calculator,0,4,0,0,0,0
+kendall.adams4124@clearpathintellige.co,Kendall,Adams,Clearpath Intelligence 77,HS104124,SFLED004124,Direct,Lead,48,HR Tech,Enterprise,International,9/11/2025,,,1,39,10/26/2025,Contact Us,0,1,0,0,0,0
+drew.miller99@cobaltsoftware99.net,Drew,Miller,Cobalt Software 99,HS100099,SFLED000099,Partner,Lead,45,Manufacturing Tech,Enterprise,Mountain,3/2/2025,,,0,0,,,0,3,0,0,0,0
+hayden.davis207@vertexsoftware.com,Hayden,Davis,Vertex Software,HS100207,SFLED000207,Event,Lead,40,EdTech,Mid-Market,Southeast,11/3/2025,,,3,58,12/16/2025,Demo Request,0,2,0,0,0,0
+sam.ross1933@cobaltsolutions11.com,Sam,Ross,Cobalt Solutions 11,HS101933,SFLED001933,Partner,SQL,92,Healthcare Tech,SMB,Mountain,1/28/2025,2/18/2025,2/17/2025,1,69,3/20/2025,Demo Request,0,3,0,0,0,0
+emerson.chen3698@vertexsystems24.io,Emerson,Chen,Vertex Systems 24,HS103698,SFLED003698,LinkedIn,Subscriber,16,HR Tech,SMB,West,10/28/2025,,,2,59.5,11/28/2025,CRM Audit,0,1,0,0,0,0
+quinn.ross2927@pioneerdynamics.net,Quinn,Ross,Pioneer Dynamics,HS102927,SFLED002927,Outbound,Lead,22,EdTech,SMB,Mountain,4/21/2025,,,1,20,4/26/2025,RevOps Playbook,0,3,0,0,0,0
+reese.sullivan273@pioneernetworks.ai,Reese,Sullivan,Pioneer Networks,HS100273,SFLED000273,Content Download,Lead,54,SaaS,SMB,International,11/21/2025,,,5,45.8,1/9/2026,RevOps Playbook,0,1,0,0,0,0
+emerson.miller1110@northstarintellige.io,Emerson,Miller,Northstar Intelligence,HS101110,SFLED001110,Webinar,Lead,54,FinTech,Mid-Market,Southeast,8/10/2025,,,1,28,9/11/2025,RevOps Playbook,0,2,0,0,0,0
+bailey.bennett1275@evergreenmarkets.co,Devon,King,BluePeak Ops,HS103676,SFLED003676,Paid Search,Opportunity,60,Healthcare Tech,SMB,International,1/15/2025,1/31/2025,1/31/2025,1,35,1/23/2025,CRM Audit,0,2,0,0,0,0
+drew.wright3390@meridiansoftware.io,Drew,Wright,Meridian Software,HS103390,SFLED003390,Paid Search,Lead,59,FinTech,Enterprise,Southeast,2/7/2026,,,1,70,2/13/2026,Demo Request,0,4,0,0,0,0
+skyler.wright972@evergreennetworks4.net,Skyler,Wright,Evergreen Networks 44,HS100972,SFLED000972,LinkedIn,Lead,54,EdTech,Mid-Market,Southeast,10/9/2025,,,0,0,,,0,2,0,0,0,0
+kendall.price1541@evergreengroup93.net,Kendall,Price,Evergreen Group 93,HS101541,SFLED001541,Paid Search,Lead,43,HR Tech,Enterprise,Mountain,10/4/2025,,,0,0,,,0,1,0,0,0,0
+parker.davis3464@apexworks61.net,Parker,Davis,Apex Works 61,HS103464,SFLED003464,Partner,Lead,20,EdTech,Mid-Market,Northeast,8/13/2025,,,1,77,9/30/2025,CRM Audit,0,1,0,0,0,0
+quinn.price4111@bluepeakplatform47.ai,Quinn,Price,BluePeak Platform 47,HS104111,SFLED004111,Paid Search,Lead,34,Logistics Tech,Enterprise,Southeast,5/21/2026,,,1,29,6/5/2026,Contact Us,0,3,0,0,0,0
+taylor.murphy2987@atlashealth.net,Taylor,Murphy,Atlas Health,,SFLED002987,Webinar,Lead,13,SaaS,Mid-Market,Central,1/31/2026,,,2,75,4/3/2026,Demo Request,0,1,0,0,0,0
+riley.long93@brightgroup.co,Riley,Long,Bright Group,HS100093,SFLED000093,Webinar,Lead,46,EdTech,SMB,Southeast,3/7/2026,,,1,55,3/29/2026,Contact Us,0,7,0,0,0,0
+harper.parker2439@brightsoftware68.ai,Harper,Parker,Bright Software 68,HS102439,SFLED002439,Webinar,Subscriber,33,EdTech,Enterprise,Southeast,5/28/2026,,,1,68,6/30/2026,Webinar Registration,0,1,0,0,0,0
+parker.murphy2552@evergreenmarkets98.net,Parker,Murphy,Evergreen Markets 98,HS102552,SFLED002552,Webinar,Lead,30,HR Tech,Enterprise,Mountain,3/25/2025,,,0,0,,,0,2,0,0,0,0
+bailey.long850@keystonecloud.co,Bailey,Long,Keystone Cloud,HS100850,SFLED000850,Organic Search,Lead,35,HR Tech,Enterprise,Central,3/12/2025,,,1,52,3/28/2025,Demo Request,0,6,0,0,0,0
+logan.king1202@summitplatform34.net,Logan,King,Summit Platform 34,HS101202,SFLED001202,Webinar,MQL,100,Cybersecurity,SMB,West,1/15/2026,1/20/2026,,2,14,2/20/2026,RevOps Playbook,0,5,0,0,0,0
+maya.bennett1094@catalystnetworks.ai,Maya,Bennett,Catalyst Networks,HS101094,SFLED001094,Organic Search,Lead,9,Manufacturing Tech,Enterprise,West,1/29/2026,,,0,0,,,0,2,0,0,0,0
+bailey.miller1478@nimbusanalytics84.net,Bailey,Miller,Nimbus Analytics 84,HS101478,SFLED001478,Paid Search,Lead,23,EdTech,SMB,Mountain,5/18/2025,,,4,29.5,7/17/2025,RevOps Playbook,0,3,0,0,0,0
+logan.bell404@vertexsystems29.net,Logan,Bell,Vertex Systems 29,HS100404,SFLED000404,Event,Lead,87,Logistics Tech,Enterprise,Central,8/26/2025,,,1,28,9/11/2025,Webinar Registration,0,4,0,0,0,0
+sam.king1767@evergreenplatform.com,Sam,King,Evergreen Platform,HS101767,SFLED001767,Organic Search,Lead,63,Ecommerce,Mid-Market,Mountain,5/14/2025,,,1,5,5/20/2025,RevOps Playbook,0,0,0,0,0,0
+cameron.adams1024@northstarnetworks4.net,Cameron,Adams,Northstar Networks 48,HS101024,SFLED001024,Paid Search,Lead,30,Healthcare Tech,Enterprise,International,4/27/2025,,,1,41,6/12/2025,HubSpot-SFDC Checklist,0,6,0,0,0,0
+taylor.james2468@meridianops42.com,Taylor,James,Meridian Ops 42,HS102468,SFLED002468,Organic Search,Subscriber,37,EdTech,Enterprise,International,9/15/2025,,,0,0,,,0,2,0,0,0,0
+riley.perry1891@novasystems83.ai,Riley,Nelson,Meridian Markets 2,HS103560,SFLED003560,Partner,Subscriber,48,Cybersecurity,Enterprise,Southeast,1/31/2026,,,1,100,3/8/2026,Demo Request,0,3,0,0,0,0
+hayden.ross1242@evergreenworks.ai,Rowan,Perry,Atlas Software 93,HS102089,SFLED002089,Partner,MQL,100,HR Tech,SMB,International,8/29/2025,9/2/2025,,0,0,,,0,3,0,0,0,0
+jamie.adams3206@summitdata97.ai,Jamie,Adams,Summit Data 97,HS103206,SFLED003206,Organic Search,MQL,69,Cybersecurity,Mid-Market,Central,6/1/2026,6/10/2026,,1,34,6/4/2026,ROI Calculator,0,3,0,0,0,0
+finley.parker3084@clearpathworks85.co,Finley,Parker,Clearpath Works 85,HS103084,SFLED003084,Webinar,MQL,42,Healthcare Tech,Mid-Market,Mountain,4/5/2026,4/10/2026,,1,87,6/5/2026,Demo Request,0,2,0,0,0,0
+quinn.king646@catalystsolutions7.com,Quinn,King,Catalyst Solutions 70,HS100646,SFLED000646,Content Download,Lead,48,HR Tech,Enterprise,Northeast,8/1/2025,,,0,0,,,0,2,0,0,0,0
+sam.kim2734@atlasintelligence8.ai,Sam,Kim,Atlas Intelligence 88,HS102734,SFLED002734,Event,MQL,82,EdTech,SMB,International,2/10/2025,2/23/2025,,0,0,,,0,1,0,0,0,0
+bailey.patel4107@keystonesystems68.com,Bailey,Patel,Keystone Systems 68,HS104107,SFLED004107,LinkedIn,MQL,53,SaaS,Mid-Market,Southeast,6/6/2026,6/17/2026,,0,0,,,0,1,0,0,0,0
+bailey.king734@cobaltlabs40.ai,Bailey,King,Cobalt Labs 40,HS100734,SFLED000734,Outbound,Lead,27,Logistics Tech,Mid-Market,International,2/13/2026,,,0,0,,,0,5,0,0,0,0
+reese.davis3260@apexgroup17.co,Reese,Davis,Apex Group 17,HS103260,SFLED003260,Organic Search,Lead,48,FinTech,Enterprise,Southeast,9/8/2025,,,0,0,,,0,1,0,0,0,0
+taylor.ross2741@vertexplatform70.io,Taylor,Ross,Vertex Platform 70,HS102741,SFLED002741,Direct,Lead,54,Manufacturing Tech,Mid-Market,Northeast,4/5/2026,,,0,0,,,0,3,0,0,0,0
+elliot.chen3056@ironwoodcloud13.net,Elliot,Chen,Ironwood Cloud 13,HS103056,SFLED003056,Outbound,MQL,71,Healthcare Tech,Enterprise,International,1/18/2026,2/9/2026,,1,56,2/14/2026,HubSpot-SFDC Checklist,0,2,0,0,0,0
+devon.adams510@nimbuslabs.co,Devon,Adams,Nimbus Labs,HS100510,SFLED000510,Webinar,Disqualified,51,Ecommerce,Mid-Market,Northeast,2/14/2026,,,0,0,,,0,1,0,0,0,0
+riley.patel883@northstarworks5.com,Riley,Patel,Northstar Works 5,HS100883,SFLED000883,LinkedIn,SQL,74,Ecommerce,Mid-Market,West,9/15/2025,9/20/2025,10/14/2025,1,43,11/1/2025,Demo Request,0,4,0,0,0,0
+jamie.miller136@bluepeakcloud.ai,Jamie,Miller,BluePeak Cloud,HS100136,SFLED000136,Organic Search,Lead,33,SaaS,Enterprise,Southeast,3/12/2025,,,0,0,,,0,2,0,0,0,0
+finley.adams2863@pioneersoftware25.ai,Finley,Adams,Pioneer Software 25,HS102863,SFLED002863,Outbound,Customer,83,Cybersecurity,Mid-Market,Southeast,8/10/2025,8/14/2025,9/8/2025,0,0,,,0,4,0,0,0,0
+elliot.gray1617@bluepeaklabs.com,Elliot,Gray,BluePeak Labs,HS101617,SFLED001617,Direct,Lead,0,Manufacturing Tech,Mid-Market,Mountain,1/22/2025,,,0,0,,,0,1,0,0,0,0
+harper.bell2264@keystonenetworks.io,Harper,Bell,Keystone Networks,HS102264,SFLED002264,Direct,Lead,52,FinTech,SMB,West,12/28/2025,,,0,0,,,0,5,0,0,0,0
+jamie.bennett3125@northstarworks.net,Jamie,Bennett,Northstar Works,HS103125,SFLED003125,Outbound,Lead,32,SaaS,SMB,Mountain,5/17/2025,,,1,28,6/16/2025,RevOps Playbook,0,0,0,0,0,0
+kendall.price1416@keystonehealth.ai,Kendall,Price,Keystone Health,HS101416,SFLED001416,Organic Search,Customer,37,EdTech,Mid-Market,Central,4/27/2025,4/30/2025,5/21/2025,2,66.5,5/25/2025,CRM Audit,0,7,0,0,0,0
+taylor.long3689@northstarhealth3.io,Taylor,Long,Northstar Health 3,,SFLED003689,Webinar,Lead,66,SaaS,Mid-Market,Mountain,11/15/2025,,,0,0,,,0,0,0,0,0,0
+morgan.sullivan1980@ironwoodhealth54.co,Morgan,Sullivan,Ironwood Health 54,HS101980,SFLED001980,Organic Search,MQL,78,SaaS,Mid-Market,West,6/9/2026,6/18/2026,,0,0,,,0,3,0,0,0,0
+finley.parker4065@keystonenetworks.io,Finley,Parker,Keystone Networks,HS104065,SFLED004065,Webinar,MQL,92,FinTech,SMB,West,4/3/2025,4/27/2025,,0,0,,,0,2,0,0,0,0
+cameron.murphy3363@clearpathcloud.com,Cameron,Murphy,Clearpath Cloud,HS103363,SFLED003363,Event,Subscriber,69,Ecommerce,Mid-Market,West,4/10/2025,,,0,0,,,0,3,0,0,0,0
+bailey.miller1258@clearpathmarkets43.net,Bailey,Miller,Clearpath Markets 43,HS101258,SFLED001258,Paid Search,Lead,39,SaaS,SMB,International,10/21/2025,,,3,44.33333333,12/6/2025,Demo Request,0,3,0,0,0,0
+quinn.long3190@vertexsoftware.com,Quinn,Long,Vertex Software,HS103190,SFLED003190,Content Download,SQL,100,EdTech,Mid-Market,Southeast,10/16/2025,10/20/2025,11/15/2025,0,0,,,0,4,0,0,0,0
+blake.miller429@catalystintelligen.net,Blake,Miller,Catalyst Intelligence 52,HS100429,SFLED000429,Referral,Lead,66,SaaS,Enterprise,International,1/16/2025,,,1,37,2/17/2025,RevOps Playbook,0,0,0,0,0,0
+kendall.perry2060@brighthealth.com,Kendall,Perry,Bright Health,HS102060,SFLED002060,Partner,Subscriber,66,EdTech,SMB,International,6/9/2025,,,1,87,6/14/2025,CRM Audit,0,0,0,0,0,0
+harper.brooks3332@vertexdynamics39.ai,Harper,Brooks,Vertex Dynamics 39,HS103332,SFLED003332,Outbound,Disqualified,33,Ecommerce,Enterprise,Southeast,6/24/2025,,,2,47,8/18/2025,CRM Audit,0,3,0,0,0,0
+bailey.ward2370@cobaltnetworks.co,Bailey,Ward,Cobalt Networks,HS102370,SFLED002370,Webinar,MQL,49,Logistics Tech,SMB,Northeast,8/2/2025,8/6/2025,,1,82,8/18/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+logan.ross696@northstarsystems96.ai,Logan,Ross,Northstar Systems 96,HS100696,SFLED000696,Direct,MQL,75,Cybersecurity,Mid-Market,Northeast,4/26/2026,5/16/2026,,0,0,,,0,7,0,0,0,0
+finley.reed730@apexlabs.ai,Finley,Reed,Apex Labs,HS100730,SFLED000730,Event,Lead,54,HR Tech,Mid-Market,International,9/11/2025,,,1,57,10/22/2025,ROI Calculator,0,0,0,0,0,0
+sam.stone2@atlasplatform18.net,Sam,Stone,Atlas Platform 18,HS100002,SFLED000002,Partner,Lead,33,Healthcare Tech,Mid-Market,Central,6/14/2026,,,1,55,6/30/2026,Webinar Registration,0,4,0,0,0,0
+riley.davis1464@evergreenmarkets.co,Riley,Davis,Evergreen Markets,HS101464,SFLED001464,Paid Search,Disqualified,23,Healthcare Tech,Mid-Market,Northeast,6/28/2025,,,1,58,8/10/2025,CRM Audit,0,2,0,0,0,0
+finley.perry1077@vertexsoftware.com,Finley,Perry,Vertex Software,,SFLED001077,LinkedIn,Lead,27,EdTech,Mid-Market,Southeast,6/10/2025,,,1,76,6/17/2025,Demo Request,0,3,0,0,0,0
+taylor.perry704@pioneerhealth.net,Taylor,Perry,Pioneer Health,HS100704,SFLED000704,LinkedIn,Lead,77,Manufacturing Tech,Mid-Market,Mountain,4/25/2025,,,2,51,6/12/2025,Demo Request,0,2,0,0,0,0
+emerson.davis2381@meridiansystems12.co,Emerson,Davis,Meridian Systems 12,HS102381,SFLED002381,Organic Search,Lead,36,FinTech,SMB,Southeast,5/5/2026,,,0,0,,,0,4,0,0,0,0
+bailey.adams3025@bluepeaksolutions.net,Bailey,Adams,BluePeak Solutions,HS103025,SFLED003025,Paid Search,Lead,83,Cybersecurity,Mid-Market,West,4/22/2026,,,4,41,6/16/2026,RevOps Playbook,0,0,0,0,0,0
+finley.foster2841@brightplatform.ai,Finley,Foster,Bright Platform,HS102841,SFLED002841,Direct,SQL,45,EdTech,SMB,West,4/12/2025,4/30/2025,5/19/2025,2,56,6/3/2025,Webinar Registration,0,3,0,0,0,0
+skyler.carter284@evergreenops30.ai,Skyler,Carter,Evergreen Ops 30,HS100284,SFLED000284,Partner,Lead,11,HR Tech,Enterprise,Southeast,3/16/2025,,,1,54,4/28/2025,RevOps Playbook,0,1,0,0,0,0
+logan.parker3660@apexdynamics.ai,Logan,Parker,Apex Dynamics,HS103660,SFLED003660,Organic Search,MQL,57,SaaS,Enterprise,Central,10/21/2025,11/12/2025,,1,39,12/5/2025,Webinar Registration,0,3,0,0,0,0
+maya.patel2367@apexanalytics.net,Maya,Patel,Apex Analytics,HS102367,SFLED002367,LinkedIn,Lead,24,HR Tech,Enterprise,Southeast,3/28/2026,,,2,61,5/19/2026,Demo Request,0,3,0,0,0,0
+reese.long3832@summitops.net,Reese,Long,Summit Ops,HS103832,SFLED003832,Referral,MQL,50,HR Tech,Enterprise,Northeast,7/28/2025,8/8/2025,,1,62,8/13/2025,HubSpot-SFDC Checklist,0,6,0,0,0,0
+taylor.kim3432@keystonehealth.ai,Taylor,Kim,Keystone Health,HS103432,,Content Download,Lead,46,EdTech,Mid-Market,Central,2/12/2026,,,1,33,3/12/2026,RevOps Playbook,0,2,0,0,0,0
+avery.adams800@meridiansystems12.co,Avery,Adams,Meridian Systems 12,HS100800,SFLED000800,Organic Search,Lead,95,FinTech,SMB,Southeast,3/18/2025,,,1,50,4/30/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+cameron.sullivan2341@signalplatform.ai,Cameron,Sullivan,Signal Platform,HS102341,SFLED002341,Content Download,Lead,22,Cybersecurity,SMB,West,2/20/2025,,,1,75,3/10/2025,Webinar Registration,0,3,0,0,0,0
+emerson.miller414@novacloud74.co,Emerson,Miller,Nova Cloud 74,HS100414,SFLED000414,Content Download,SQL,96,Ecommerce,Mid-Market,International,2/23/2025,3/17/2025,3/22/2025,0,0,,,0,3,0,0,0,0
+morgan.price1847@cobaltcloud80.co,Morgan,Price,Cobalt Cloud 80,HS101847,SFLED001847,Webinar,Lead,50,EdTech,SMB,Southeast,6/29/2026,,,2,22,6/30/2026,Contact Us,0,5,0,0,0,0
+reese.torres2459@meridiandata49.net,Reese,Torres,Meridian Data 49,HS102459,SFLED002459,Direct,Lead,48,EdTech,Mid-Market,Northeast,3/13/2025,,,0,0,,,0,3,0,0,0,0
+maya.kim431@pioneerplatform.net,Casey,Murphy,Apex Solutions 85,HS100639,SFLED000639,LinkedIn,Lead,47,HR Tech,SMB,West,1/28/2026,,,1,44,2/24/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+blake.gray2139@summitops30.io,Blake,Gray,Summit Ops 30,HS102139,SFLED002139,Webinar,Lead,39,Manufacturing Tech,Mid-Market,Southeast,9/6/2025,,,2,42.5,11/9/2025,CRM Audit,0,1,0,0,0,0
+quinn.king1080@bluepeaklabs31.io,Quinn,King,BluePeak Labs 31,HS101080,SFLED001080,Outbound,Lead,23,Logistics Tech,Mid-Market,Central,2/3/2025,,,0,0,,,0,2,0,0,0,0
+sam.price901@ironwoodnetworks73.io,Sam,Price,Ironwood Networks 73,HS100901,SFLED000901,Webinar,MQL,38,Logistics Tech,Mid-Market,Central,3/10/2025,3/23/2025,,0,0,,,0,5,0,0,0,0
+charlie.sullivan1343@brightsystems91.io,Charlie,Sullivan,Bright Systems 91,HS101343,,Content Download,Lead,65,Healthcare Tech,Mid-Market,Southeast,12/26/2025,,,1,24,2/22/2026,Webinar Registration,0,3,0,0,0,0
+logan.patel1058@cobaltcloud5.co,Logan,Patel,Cobalt Cloud 5,HS101058,SFLED001058,Direct,MQL,51,Ecommerce,Mid-Market,West,4/26/2025,5/12/2025,,1,40,6/17/2025,Contact Us,0,2,0,0,0,0
+devon.price2604@ironwoodhealth24.net,Devon,Price,Ironwood Health 24,HS102604,SFLED002604,Paid Search,MQL,57,Healthcare Tech,SMB,Central,3/5/2026,3/26/2026,,1,40,4/11/2026,Demo Request,0,2,0,0,0,0
+quinn.brooks3523@signalsoftware35.com,Quinn,Brooks,Signal Software 35,,SFLED003523,Outbound,Lead,44,FinTech,SMB,Mountain,6/14/2026,,,0,0,,,0,1,0,0,0,0
+reese.nelson3980@signalsoftware35.com,Reese,Nelson,Signal Software 35,HS103980,SFLED003980,Organic Search,Lead,65,FinTech,SMB,Mountain,11/12/2025,,,0,0,,,0,5,0,0,0,0
+harper.ross1396@pioneersystems72.net,Harper,Ross,Pioneer Systems 72,HS101396,SFLED001396,Webinar,Lead,54,FinTech,Mid-Market,West,9/26/2025,,,2,45,10/31/2025,Contact Us,0,2,0,0,0,0
+elliot.long1532@clearpathnetworks2.net,Elliot,Long,Clearpath Networks 24,HS101532,,Webinar,Lead,62,FinTech,SMB,International,12/9/2025,,,1,45,1/26/2026,RevOps Playbook,0,0,0,0,0,0
+charlie.brooks2913@vertexdata36.io,Charlie,Brooks,Vertex Data 36,,SFLED002913,Content Download,Disqualified,34,Healthcare Tech,SMB,Central,6/8/2025,,,2,49,7/11/2025,RevOps Playbook,0,1,0,0,0,0
+reese.brooks2101@signallabs78.net,Reese,Brooks,Signal Labs 78,HS102101,SFLED002101,Partner,MQL,54,Manufacturing Tech,Enterprise,International,4/28/2026,5/16/2026,,2,63,5/4/2026,CRM Audit,0,2,0,0,0,0
+reese.stone3995@keystonenetworks89.net,Reese,Stone,Keystone Networks 89,HS103995,SFLED003995,Outbound,Lead,6,EdTech,Mid-Market,West,6/27/2026,,,1,18,6/30/2026,Webinar Registration,0,1,0,0,0,0
+harper.chen206@summitplatform86.net,Harper,Chen,Summit Platform 86,HS100206,SFLED000206,Direct,Lead,35,Ecommerce,Enterprise,Northeast,7/23/2025,,,1,64,9/10/2025,ROI Calculator,0,3,0,0,0,0
+alex.james839@brightlabs72.ai,Alex,James,Bright Labs 72,HS100839,SFLED000839,Paid Search,Disqualified,48,FinTech,Mid-Market,International,6/27/2026,,,1,1,6/30/2026,ROI Calculator,0,0,0,0,0,0
+maya.torres3878@pioneersoftware25.ai,Maya,Torres,Pioneer Software 25,HS103878,SFLED003878,Event,Subscriber,74,Cybersecurity,Mid-Market,Southeast,12/16/2025,,,2,68.5,2/11/2026,Contact Us,0,2,0,0,0,0
+parker.patel1126@keystoneplatform46.co,Avery,Parker,Ironwood Group 82,HS103767,,Partner,Lead,62,Ecommerce,Enterprise,International,5/9/2026,,,2,43,6/30/2026,Contact Us,0,1,0,0,0,0
+blake.miller715@summitops58.co,Maya,Reed,Signal Group 54,HS101287,SFLED001287,Referral,Lead,12,Healthcare Tech,SMB,Mountain,4/30/2025,,,1,50,6/27/2025,Contact Us,0,1,0,0,0,0
+emerson.nelson2583@novasystems.net,Emerson,Nelson,Nova Systems,HS102583,SFLED002583,Content Download,Lead,62,HR Tech,Mid-Market,International,11/5/2025,,,1,51,11/10/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+finley.miller2695@brightdata.com,Finley,Miller,Bright Data,HS102695,SFLED002695,Event,Lead,39,Ecommerce,SMB,International,2/2/2026,,,2,47,2/20/2026,RevOps Playbook,0,3,0,0,0,0
+avery.parker3102@cobaltdata58.net,Avery,Parker,Cobalt Data 58,,SFLED003102,Outbound,Disqualified,37,Logistics Tech,Mid-Market,West,6/21/2025,,,1,91,8/8/2025,CRM Audit,0,1,0,0,0,0
+rowan.gray2822@vertexplatform6.co,Rowan,Gray,Vertex Platform 6,,SFLED002822,Partner,SQL,66,Ecommerce,Enterprise,International,5/31/2026,6/24/2026,7/3/2026,5,44.6,6/30/2026,RevOps Playbook,0,2,0,0,0,0
+blake.gray1004@bluepeakintelligen.com,Blake,Gray,BluePeak Intelligence,,SFLED001004,Outbound,Lead,41,Logistics Tech,Enterprise,Northeast,1/17/2026,,,0,0,,,0,3,0,0,0,0
+quinn.patel576@evergreendata.co,Quinn,Patel,Evergreen Data,HS100576,SFLED000576,Partner,Lead,52,SaaS,Mid-Market,Mountain,2/14/2026,,,0,0,,,0,3,0,0,0,0
+blake.sullivan3060@clearpathsystems.com,Blake,Sullivan,Clearpath Systems,HS103060,SFLED003060,Referral,Lead,74,SaaS,Mid-Market,Central,11/21/2025,,,0,0,,,0,0,0,0,0,0
+parker.ross514@keystonesoftware93.co,Parker,Ross,Keystone Software 93,HS100514,SFLED000514,Referral,Lead,55,Logistics Tech,Mid-Market,Southeast,9/21/2025,,,2,37,11/7/2025,Contact Us,0,2,0,0,0,0
+emerson.miller1794@catalystsoftware.co,Emerson,Miller,Catalyst Software,,SFLED001794,Partner,SQL,69,HR Tech,SMB,Northeast,4/21/2025,5/6/2025,5/9/2025,1,21,4/26/2025,Webinar Registration,0,2,0,0,0,0
+emerson.torres893@nimbuscloud.co,Emerson,Torres,Nimbus Cloud,HS100893,SFLED000893,Paid Search,Lead,12,Healthcare Tech,SMB,Northeast,5/5/2025,,,2,33.5,5/23/2025,Contact Us,0,3,0,0,0,0
+sam.miller4047@vertexnetworks66.net,Sam,Miller,Vertex Networks 66,HS104047,SFLED004047,LinkedIn,Lead,29,Ecommerce,Mid-Market,International,4/13/2026,,,1,18,5/24/2026,Contact Us,0,3,0,0,0,0
+jordan.torres1534@clearpathdata.ai,Jordan,Torres,Clearpath Data,HS101534,SFLED001534,Organic Search,MQL,63,EdTech,Mid-Market,Central,1/19/2025,2/7/2025,,2,71,3/1/2025,CRM Audit,0,2,0,0,0,0
+charlie.brooks469@nimbussystems47.com,Charlie,Brooks,Nimbus Systems 47,HS100469,,Referral,MQL,47,Ecommerce,Enterprise,Mountain,8/2/2025,8/26/2025,,1,50,8/15/2025,ROI Calculator,0,1,0,0,0,0
+devon.perry879@atlashealth66.net,Devon,Perry,Atlas Health 66,HS100879,SFLED000879,Referral,Lead,44,Manufacturing Tech,SMB,West,8/5/2025,,,1,27,9/1/2025,Contact Us,0,3,0,0,0,0
+logan.parker2874@catalystmarkets54.io,Logan,Parker,Catalyst Markets 54,HS102874,SFLED002874,Outbound,Lead,45,Healthcare Tech,Mid-Market,West,3/27/2026,,,1,35,4/6/2026,HubSpot-SFDC Checklist,0,2,0,0,0,0
+casey.stone302@meridianmarkets20.net,Casey,Stone,Meridian Markets 20,HS100302,SFLED000302,Partner,Lead,52,Cybersecurity,SMB,International,10/9/2025,,,2,38,11/1/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+kendall.sullivan583@pioneerlabs.ai,Kendall,Sullivan,Pioneer Labs,,SFLED000583,Organic Search,Lead,34,HR Tech,SMB,International,5/28/2025,,,2,35,7/27/2025,Contact Us,0,1,0,0,0,0
+casey.chen433@apexsystems.io,Casey,Chen,Apex Systems,HS100433,SFLED000433,LinkedIn,Lead,65,EdTech,Enterprise,Northeast,3/31/2026,,,1,38,4/3/2026,HubSpot-SFDC Checklist,0,4,0,0,0,0
+cameron.miller3482@keystoneplatform69.com,Cameron,Miller,Keystone Platform 69,HS103482,SFLED003482,Outbound,Lead,53,EdTech,SMB,Central,4/9/2025,,,1,55,5/30/2025,RevOps Playbook,0,1,0,0,0,0
+quinn.sullivan2813@atlashealth.net,Quinn,Sullivan,Atlas Health,HS102813,SFLED002813,Outbound,Lead,23,SaaS,Mid-Market,Central,1/13/2025,,,2,57,3/7/2025,ROI Calculator,0,3,0,0,0,0
+casey.miller1698@keystoneintelligen.net,Casey,Miller,Keystone Intelligence 68,HS101698,SFLED001698,Paid Search,Subscriber,64,SaaS,SMB,International,9/1/2025,,,1,41,9/8/2025,Webinar Registration,0,2,0,0,0,0
+finley.perry1189@keystoneworks63.com,Finley,Perry,Keystone Works 63,HS101189,SFLED001189,Organic Search,Lead,65,Ecommerce,SMB,Central,1/28/2025,,,2,30,3/28/2025,Demo Request,0,2,0,0,0,0
+charlie.bennett1264@clearpathsolutions.net,Charlie,Bennett,Clearpath Solutions,HS101264,SFLED001264,Partner,MQL,40,SaaS,SMB,International,3/15/2026,4/2/2026,,1,63,4/15/2026,CRM Audit,0,4,0,0,0,0
+charlie.perry3846@cobaltdynamics.co,Charlie,Perry,Cobalt Dynamics,HS103846,SFLED003846,LinkedIn,Subscriber,76,EdTech,Enterprise,Mountain,2/26/2026,,,2,46.5,4/26/2026,Contact Us,0,5,0,0,0,0
+hayden.perry3963@meridianops42.com,Hayden,Perry,Meridian Ops 42,HS103963,SFLED003963,Webinar,Customer,96,EdTech,Enterprise,International,6/8/2025,6/12/2025,7/10/2025,1,57,7/30/2025,CRM Audit,0,2,0,0,0,0
+cameron.ross3659@pioneerdata.net,Cameron,Ross,Pioneer Data,HS103659,SFLED003659,Partner,Lead,40,Logistics Tech,SMB,West,3/6/2026,,,1,42,5/9/2026,ROI Calculator,0,4,0,0,0,0
+kendall.patel842@northstarsolutions.ai,Reese,Carter,Bright Labs,HS101330,SFLED001330,Organic Search,Lead,49,SaaS,Mid-Market,West,1/10/2026,,,0,0,,,0,3,0,0,0,0
+jamie.kim3304@evergreengroup93.net,Jamie,Kim,Evergreen Group 93,HS103304,SFLED003304,Partner,Lead,31,HR Tech,Enterprise,Mountain,8/6/2025,,,3,55,9/9/2025,RevOps Playbook,0,0,0,0,0,0
+harper.perry1619@keystonedynamics.io,Harper,Perry,Keystone Dynamics,HS101619,SFLED001619,Paid Search,SQL,66,Ecommerce,Enterprise,Northeast,1/21/2025,1/23/2025,1/31/2025,1,21,1/26/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+logan.bennett1035@keystoneintelligen.net,Logan,Bennett,Keystone Intelligence 68,HS101035,SFLED001035,Outbound,Subscriber,16,SaaS,SMB,International,3/27/2025,,,1,34,5/24/2025,CRM Audit,0,0,0,0,0,0
+sam.miller3876@evergreenops30.ai,Sam,Miller,Evergreen Ops 30,HS103876,SFLED003876,Referral,MQL,67,HR Tech,Enterprise,Southeast,11/3/2025,11/16/2025,,0,0,,,0,2,0,0,0,0
+quinn.patel816@summitworks81.com,Quinn,Patel,Summit Works 81,HS100816,SFLED000816,Content Download,Lead,33,HR Tech,Mid-Market,Central,2/21/2025,,,2,36.5,4/26/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+sam.nelson3886@northstarmarkets56.io,Sam,Nelson,Northstar Markets 56,,SFLED003886,LinkedIn,MQL,51,EdTech,Enterprise,International,4/3/2025,4/14/2025,,1,24,5/12/2025,Contact Us,0,1,0,0,0,0
+hayden.stone61@summitworks81.com,Hayden,Stone,Summit Works 81,HS100061,SFLED000061,Event,SQL,47,HR Tech,Mid-Market,Central,5/7/2026,5/26/2026,6/5/2026,4,30.25,6/23/2026,Contact Us,0,3,0,0,0,0
+rowan.patel3789@signalmarkets44.io,Rowan,Patel,Signal Markets 44,HS103789,SFLED003789,Outbound,Lead,43,SaaS,Mid-Market,West,1/11/2025,,,1,49,1/30/2025,Webinar Registration,0,1,0,0,0,0
+parker.nelson598@vertexworks.io,Parker,Nelson,Vertex Works,HS100598,SFLED000598,Webinar,SQL,77,Ecommerce,Mid-Market,Northeast,1/23/2025,1/27/2025,1/30/2025,2,43.5,3/28/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+cameron.foster721@northstarsystems91.net,Cameron,Foster,Northstar Systems 91,HS100721,SFLED000721,Direct,MQL,47,EdTech,Mid-Market,Northeast,1/25/2025,1/31/2025,,1,0,1/26/2025,Contact Us,0,4,0,0,0,0
+jamie.stone2146@novacloud58.com,Jamie,Stone,Nova Cloud 58,HS102146,SFLED002146,Organic Search,SQL,94,Logistics Tech,Enterprise,Southeast,10/19/2025,10/22/2025,11/10/2025,0,0,,,0,1,0,0,0,0
+parker.gray2671@cobaltintelligence.com,Parker,Gray,Cobalt Intelligence,HS102671,SFLED002671,Outbound,Subscriber,54,Manufacturing Tech,Mid-Market,Northeast,6/28/2025,,,0,0,,,0,4,0,0,0,0
+reese.chen1208@cobaltlabs.com,Reese,Chen,Cobalt Labs,HS101208,SFLED001208,Organic Search,MQL,50,EdTech,SMB,Mountain,12/11/2025,12/27/2025,,0,0,,,0,4,0,0,0,0
+harper.chen3606@evergreensolutions.ai,Harper,Chen,Evergreen Solutions,HS103606,SFLED003606,Organic Search,Subscriber,39,Cybersecurity,Mid-Market,Mountain,3/18/2025,,,1,83,4/26/2025,Contact Us,0,1,0,0,0,0
+finley.bell2754@evergreenops15.com,Finley,Bell,Evergreen Ops 15,HS102754,SFLED002754,Outbound,MQL,44,Healthcare Tech,SMB,Central,5/10/2025,5/27/2025,,1,60,6/21/2025,CRM Audit,0,1,0,0,0,0
+charlie.james4025@catalystplatform.net,Charlie,James,Catalyst Platform,HS104025,,Outbound,Lead,27,Ecommerce,Mid-Market,Southeast,11/13/2025,,,1,67,11/22/2025,Contact Us,0,3,0,0,0,0
+logan.patel3386@signallabs72.ai,Logan,Patel,Signal Labs 72,,SFLED003386,LinkedIn,SQL,61,Manufacturing Tech,SMB,Northeast,11/1/2025,11/11/2025,11/23/2025,1,70,12/4/2025,CRM Audit,0,4,0,0,0,0
+casey.young357@clearpathmarkets.com,Casey,Young,Clearpath Markets,HS100357,SFLED000357,Outbound,MQL,42,SaaS,Mid-Market,International,4/5/2026,4/26/2026,,1,73,5/18/2026,Demo Request,0,4,0,0,0,0
+kendall.nelson3671@ironwoodsoftware.ai,Kendall,Nelson,Ironwood Software,HS103671,SFLED003671,Content Download,Lead,35,Cybersecurity,Enterprise,Central,11/14/2025,,,1,45,12/25/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+jamie.kim1970@ironwoodintelligen.co,Elliot,Kim,Meridian Works,HS102718,SFLED002718,Outbound,Lead,55,FinTech,Enterprise,Central,2/6/2025,,,0,0,,,0,2,0,0,0,0
+logan.davis1446@evergreengroup93.net,Logan,Davis,Evergreen Group 93,HS101446,SFLED001446,Paid Search,MQL,67,HR Tech,Enterprise,Mountain,5/22/2026,5/26/2026,,0,0,,,0,0,0,0,0,0
+reese.kim762@nimbusnetworks.co,Reese,Kim,Nimbus Networks,HS100762,SFLED000762,Webinar,Lead,22,Manufacturing Tech,SMB,International,11/23/2025,,,5,39.2,1/8/2026,Webinar Registration,0,2,0,0,0,0
+riley.ward389@brightsystems91.io,Riley,Ward,Bright Systems 91,HS100389,,Event,Lead,21,Healthcare Tech,Mid-Market,Southeast,4/25/2025,,,2,60,6/17/2025,Contact Us,0,4,0,0,0,0
+morgan.ross3803@summitsystems.ai,Morgan,Ross,Summit Systems,HS103803,,Outbound,Lead,38,EdTech,Mid-Market,Southeast,1/18/2026,,,1,55,2/12/2026,Demo Request,0,0,0,0,0,0
+morgan.wright2032@summitmarkets80.co,Morgan,Wright,Summit Markets 80,HS102032,SFLED002032,Organic Search,Lead,100,Cybersecurity,Mid-Market,West,8/2/2025,,,0,0,,,0,3,0,0,0,0
+devon.ross3917@ironwoodsystems.net,Devon,Ross,Ironwood Systems,HS103917,SFLED003917,Content Download,MQL,89,Manufacturing Tech,SMB,Central,9/17/2025,10/5/2025,,1,21,9/24/2025,Contact Us,0,5,0,0,0,0
+cameron.young1864@signalmarkets42.co,Cameron,Young,Signal Markets 42,HS101864,SFLED001864,Content Download,Lead,51,Ecommerce,Mid-Market,Northeast,8/28/2025,,,2,56,10/30/2025,Demo Request,0,5,0,0,0,0
+charlie.gray1610@clearpathsolutions.net,Charlie,Gray,Clearpath Solutions,HS101610,SFLED001610,Partner,Lead,51,SaaS,SMB,International,8/23/2025,,,0,0,,,0,1,0,0,0,0
+maya.adams712@catalystsolutions7.com,Maya,Adams,Catalyst Solutions 70,HS100712,SFLED000712,Organic Search,Lead,25,HR Tech,Enterprise,Northeast,5/29/2026,,,0,0,,,0,2,0,0,0,0
+quinn.kim119@clearpathmarkets43.net,Quinn,Kim,Clearpath Markets 43,HS100119,,Outbound,MQL,46,SaaS,SMB,International,4/11/2025,4/29/2025,,3,55,6/13/2025,CRM Audit,0,1,0,0,0,0
+avery.sullivan1810@nimbuscloud.co,Avery,Sullivan,Nimbus Cloud,HS101810,SFLED001810,LinkedIn,Lead,75,Healthcare Tech,SMB,Northeast,9/16/2025,,,0,0,,,0,3,0,0,0,0
+finley.reed1727@ironwoodcloud.co,Finley,Reed,Ironwood Cloud,HS101727,SFLED001727,Paid Search,Subscriber,18,Manufacturing Tech,Mid-Market,Southeast,2/5/2026,,,2,52.5,3/30/2026,Contact Us,0,1,0,0,0,0
+casey.gray3529@northstarsolutions.ai,Casey,Gray,Northstar Solutions 23,HS103529,SFLED003529,Partner,Lead,66,Logistics Tech,Mid-Market,Northeast,12/12/2025,,,0,0,,,0,3,0,0,0,0
+rowan.adams1874@atlassolutions55.co,Rowan,Adams,Atlas Solutions 55,HS101874,SFLED001874,Organic Search,Lead,35,Logistics Tech,SMB,Mountain,2/5/2026,,,1,69,2/14/2026,CRM Audit,0,0,0,0,0,0
+blake.young2937@ironwoodsoftware.ai,Blake,Young,Ironwood Software,HS102937,SFLED002937,Partner,Lead,20,Cybersecurity,Enterprise,Central,5/2/2025,,,1,40,6/8/2025,HubSpot-SFDC Checklist,0,5,0,0,0,0
+elliot.wright84@summitintelligence.net,Elliot,Wright,Summit Intelligence,HS100084,SFLED000084,Content Download,Lead,59,EdTech,SMB,Northeast,9/8/2025,,,4,57.5,9/29/2025,RevOps Playbook,0,0,0,0,0,0
+quinn.young1575@apexplatform59.net,Quinn,Young,Apex Platform 59,,SFLED001575,Webinar,Lead,47,Manufacturing Tech,SMB,Mountain,3/28/2025,,,1,48,4/8/2025,RevOps Playbook,0,2,0,0,0,0
+alex.young456@clearpathlabs59.net,Alex,Young,Clearpath Labs 59,HS100456,SFLED000456,Paid Search,Lead,30,HR Tech,Mid-Market,Central,5/13/2025,,,1,41,7/4/2025,RevOps Playbook,0,1,0,0,0,0
+jordan.ross3074@keystonedynamics.io,Jordan,Ross,Keystone Dynamics,HS103074,SFLED003074,Content Download,MQL,43,Ecommerce,Enterprise,Northeast,12/13/2025,1/6/2026,,1,38,2/10/2026,ROI Calculator,0,2,0,0,0,0
+sam.patel1209@cobaltplatform66.co,Sam,Patel,Cobalt Platform 66,HS101209,SFLED001209,Referral,Lead,78,Manufacturing Tech,Enterprise,Central,9/28/2025,,,1,40,11/24/2025,Contact Us,0,2,0,0,0,0
+morgan.torres2533@bluepeakanalytics3.net,Morgan,Torres,BluePeak Analytics 35,HS102533,SFLED002533,Webinar,Lead,45,Healthcare Tech,Enterprise,Southeast,8/29/2025,,,1,17,9/24/2025,RevOps Playbook,0,2,0,0,0,0
+hayden.ross3054@summitplatform34.net,Hayden,Ross,Summit Platform 34,HS103054,SFLED003054,Content Download,Lead,64,Cybersecurity,SMB,West,1/11/2025,,,0,0,,,0,5,0,0,0,0
+jordan.chen3490@nimbusmarkets91.com,Jordan,Chen,Nimbus Markets 91,HS103490,SFLED003490,LinkedIn,Lead,36,HR Tech,Mid-Market,Mountain,12/30/2025,,,4,46,2/10/2026,CRM Audit,0,4,0,0,0,0
+avery.kim3898@catalystdata.net,Avery,Kim,Catalyst Data,HS103898,SFLED003898,Paid Search,MQL,26,Cybersecurity,SMB,International,12/23/2025,1/11/2026,,1,49,2/25/2026,Contact Us,0,4,0,0,0,0
+quinn.price261@atlasworks.co,Quinn,Price,Atlas Works,HS100261,SFLED000261,Paid Search,Lead,60,EdTech,Mid-Market,Mountain,2/11/2025,,,1,46,2/28/2025,Demo Request,0,3,0,0,0,0
+quinn.davis1608@northstarsolutions.co,Quinn,Davis,Northstar Solutions,HS101608,SFLED001608,Partner,Subscriber,53,Cybersecurity,SMB,International,12/10/2025,,,2,58,1/17/2026,CRM Audit,0,1,0,0,0,0
+devon.ross379@ironwoodhealth24.net,Devon,Ross,Ironwood Health 24,,SFLED000379,Referral,SQL,75,Healthcare Tech,SMB,Central,4/4/2026,4/19/2026,4/10/2026,2,42.5,5/29/2026,ROI Calculator,0,2,0,0,0,0
+blake.price3113@northstarops.net,Blake,Price,Northstar Ops,HS103113,SFLED003113,Webinar,Opportunity,70,Healthcare Tech,Mid-Market,Southeast,11/3/2025,11/15/2025,11/9/2025,1,37,12/30/2025,Contact Us,0,1,0,0,0,0
+finley.parker1712@nimbusgroup.co,Finley,Parker,Nimbus Group,HS101712,SFLED001712,Paid Search,Lead,67,Manufacturing Tech,SMB,Central,1/31/2025,,,1,37,3/3/2025,Webinar Registration,0,6,0,0,0,0
+devon.ross4066@pioneerhealth24.net,Devon,Ross,Pioneer Health 24,,SFLED004066,Event,Lead,37,EdTech,Enterprise,Northeast,8/21/2025,,,0,0,,,0,3,0,0,0,0
+alex.sullivan3902@brightcloud66.net,Alex,Sullivan,Bright Cloud 66,HS103902,SFLED003902,Direct,SQL,45,Ecommerce,Enterprise,West,4/29/2025,5/2/2025,5/28/2025,2,78,7/1/2025,CRM Audit,0,3,0,0,0,0
+bailey.stone2731@novaanalytics.io,Bailey,Stone,Nova Analytics,HS102731,SFLED002731,LinkedIn,MQL,57,Cybersecurity,Enterprise,Mountain,1/3/2025,1/7/2025,,0,0,,,0,2,0,0,0,0
+bailey.perry1295@vertexworks.io,Bailey,Perry,Vertex Works,HS101295,SFLED001295,Direct,Lead,34,Ecommerce,Mid-Market,Northeast,2/5/2025,,,0,0,,,0,3,0,0,0,0
+bailey.nelson3915@clearpathdynamics8.com,Bailey,Nelson,Clearpath Dynamics 80,,SFLED003915,Partner,Lead,62,Manufacturing Tech,SMB,Central,5/29/2025,,,0,0,,,0,4,0,0,0,0
+logan.adams1273@summitworks81.com,Logan,Adams,Summit Works 81,HS101273,SFLED001273,Outbound,Subscriber,37,HR Tech,Mid-Market,Central,10/3/2025,,,1,53,10/20/2025,Webinar Registration,0,1,0,0,0,0
+emerson.price3468@evergreenworks94.net,Emerson,Price,Evergreen Works 94,HS103468,SFLED003468,Event,Disqualified,48,Ecommerce,Mid-Market,Central,2/26/2025,,,1,63,3/2/2025,Demo Request,0,0,0,0,0,0
+maya.long458@cobaltlabs40.ai,Maya,Long,Cobalt Labs 40,HS100458,SFLED000458,Referral,MQL,69,Logistics Tech,Mid-Market,International,3/23/2025,3/27/2025,,4,66.5,5/19/2025,CRM Audit,0,4,0,0,0,0
+logan.ross2664@vertexdynamics39.ai,Logan,Ross,Vertex Dynamics 39,HS102664,SFLED002664,Direct,Lead,30,Ecommerce,Enterprise,Southeast,2/19/2025,,,1,67,3/24/2025,Demo Request,0,3,0,0,0,0
+casey.king4009@ironwoodsoftware14.com,Casey,King,Ironwood Software 14,,SFLED004009,Paid Search,Lead,32,HR Tech,SMB,Mountain,6/13/2026,,,1,30,6/24/2026,RevOps Playbook,0,1,0,0,0,0
+jamie.bell3205@summitintelligence.com,Jamie,Bell,Summit Intelligence 93,HS103205,SFLED003205,LinkedIn,Lead,27,EdTech,Mid-Market,International,7/16/2025,,,1,49,9/11/2025,Webinar Registration,0,2,0,0,0,0
+cameron.murphy2026@pioneerplatform.net,Cameron,Murphy,Pioneer Platform,,SFLED002026,Organic Search,Lead,64,Ecommerce,SMB,West,12/18/2025,,,3,26.33333333,12/31/2025,Webinar Registration,0,0,0,0,0,0
+bailey.torres2295@evergreenintellige.co,Bailey,Torres,Evergreen Intelligence 9,HS102295,SFLED002295,Direct,Lead,49,Cybersecurity,SMB,Mountain,8/9/2025,,,1,45,8/21/2025,CRM Audit,0,2,0,0,0,0
+logan.bennett20@catalystplatform.net,Logan,Bennett,Catalyst Platform,HS100020,SFLED000020,LinkedIn,Lead,37,Ecommerce,Mid-Market,Southeast,5/9/2026,,,2,61,6/25/2026,ROI Calculator,0,2,0,0,0,0
+casey.carter2458@bluepeakgroup78.co,Casey,Carter,BluePeak Group 78,HS102458,SFLED002458,Webinar,Lead,29,EdTech,Mid-Market,Northeast,1/22/2025,,,4,63.5,3/16/2025,CRM Audit,0,0,0,0,0,0
+hayden.bennett795@atlasnetworks53.net,Maya,Bennett,Vertex Dynamics,HS102323,SFLED002323,Partner,Lead,23,FinTech,Mid-Market,Southeast,8/19/2025,,,3,40.33333333,10/1/2025,Contact Us,0,8,0,0,0,0
+harper.james1272@catalystops.co,Harper,James,Catalyst Ops,HS101272,SFLED001272,LinkedIn,Lead,28,SaaS,Enterprise,Mountain,8/16/2025,,,1,62,10/6/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+riley.parker2046@brightlabs.ai,Riley,Parker,Bright Labs,HS102046,SFLED002046,Partner,Disqualified,28,SaaS,Mid-Market,West,10/18/2025,,,1,37,12/1/2025,Contact Us,0,5,0,0,0,0
+finley.price739@evergreensystems.com,Finley,Price,Evergreen Systems,HS100739,SFLED000739,Event,Lead,94,HR Tech,Enterprise,Mountain,11/3/2025,,,1,70,12/3/2025,CRM Audit,0,4,0,0,0,0
+maya.young1588@clearpathmarkets43.net,Maya,Young,Clearpath Markets 43,HS101588,SFLED001588,Outbound,Lead,20,SaaS,SMB,International,5/28/2026,,,2,46.5,6/15/2026,CRM Audit,0,1,0,0,0,0
+drew.stone2230@apexnetworks.co,Drew,Stone,Apex Networks,HS102230,SFLED002230,Webinar,MQL,61,Manufacturing Tech,Enterprise,Southeast,5/7/2026,5/23/2026,,0,0,,,0,6,0,0,0,0
+riley.sullivan2556@brightgroup10.ai,Riley,Sullivan,Bright Group 10,,SFLED002556,Webinar,Lead,49,Healthcare Tech,Mid-Market,Northeast,2/15/2026,,,3,49,4/12/2026,Contact Us,0,2,0,0,0,0
+reese.stone1898@signalmarkets.ai,Reese,Stone,Signal Markets,HS101898,SFLED001898,Direct,Lead,39,FinTech,Mid-Market,Southeast,2/8/2025,,,1,53,3/19/2025,Contact Us,0,0,0,0,0,0
+hayden.wright503@northstarmarkets77.net,Hayden,Wright,Northstar Markets 77,HS100503,SFLED000503,Content Download,Lead,28,Ecommerce,Enterprise,Central,8/27/2025,,,1,76,9/1/2025,CRM Audit,0,5,0,0,0,0
+casey.foster3178@catalystnetworks.ai,Casey,Foster,Catalyst Networks,HS103178,SFLED003178,Content Download,Lead,65,Manufacturing Tech,Enterprise,West,4/4/2025,,,0,0,,,0,3,0,0,0,0
+drew.wright3409@vertexlabs38.co,Drew,Wright,Vertex Labs 38,HS103409,SFLED003409,Paid Search,Lead,12,FinTech,Mid-Market,International,5/5/2025,,,0,0,,,0,6,0,0,0,0
+morgan.ross3504@novacloud58.com,Morgan,Ross,Nova Cloud 58,,SFLED003504,Event,MQL,88,Logistics Tech,Enterprise,Southeast,3/20/2026,4/8/2026,,2,69,4/16/2026,Contact Us,0,1,0,0,0,0
+taylor.perry2594@nimbuslabs52.com,Taylor,Perry,Nimbus Labs 52,HS102594,SFLED002594,Referral,MQL,77,FinTech,SMB,West,9/16/2025,9/20/2025,,1,3,10/8/2025,RevOps Playbook,0,2,0,0,0,0
+devon.perry1598@brightmarkets.ai,Devon,Perry,Bright Markets,HS101598,SFLED001598,Organic Search,Lead,36,Ecommerce,Mid-Market,West,11/24/2025,,,1,43,1/18/2026,Webinar Registration,0,0,0,0,0,0
+alex.parker1477@atlasanalytics.co,Alex,Parker,Atlas Analytics,HS101477,SFLED001477,Content Download,Lead,41,Healthcare Tech,Mid-Market,Central,7/25/2025,,,2,53.5,7/31/2025,Demo Request,0,3,0,0,0,0
+skyler.kim3691@nimbusplatform45.ai,Skyler,Kim,Nimbus Platform 45,,SFLED003691,Paid Search,Disqualified,21,Logistics Tech,Mid-Market,Mountain,8/10/2025,,,2,52.5,10/6/2025,Contact Us,0,5,0,0,0,0
+drew.torres2613@catalystdata39.ai,Drew,Torres,Catalyst Data 39,HS102613,SFLED002613,Paid Search,Lead,61,Logistics Tech,Enterprise,West,8/13/2025,,,2,18,10/11/2025,Contact Us,0,2,0,0,0,0
+taylor.perry2012@atlassystems29.io,Taylor,Perry,Atlas Systems 29,,SFLED002012,Outbound,Lead,51,Healthcare Tech,Mid-Market,International,11/8/2025,,,0,0,,,0,6,0,0,0,0
+riley.long1225@apexops5.io,Riley,Long,Apex Ops 5,HS101225,,Organic Search,SQL,69,Manufacturing Tech,SMB,Central,5/3/2026,5/27/2026,5/21/2026,1,40,5/30/2026,ROI Calculator,0,1,0,0,0,0
+morgan.brooks3032@apexgroup.com,Morgan,Brooks,Apex Group,HS103032,SFLED003032,Webinar,SQL,55,FinTech,Enterprise,International,4/11/2025,4/30/2025,5/16/2025,3,28.66666667,6/12/2025,Webinar Registration,0,1,0,0,0,0
+jamie.stone3731@northstarsoftware4.co,Jamie,Stone,Northstar Software 45,HS103731,SFLED003731,Outbound,Subscriber,25,HR Tech,Mid-Market,Mountain,1/21/2026,,,1,30,3/25/2026,RevOps Playbook,0,2,0,0,0,0
+reese.bell1083@apexdata.ai,Reese,Bell,Apex Data,HS101083,,Paid Search,Lead,53,HR Tech,Mid-Market,Mountain,5/8/2026,,,2,74.5,6/30/2026,CRM Audit,0,0,0,0,0,0
+quinn.carter3899@meridianworks.ai,Quinn,Carter,Meridian Works,HS103899,SFLED003899,Webinar,Lead,33,FinTech,Enterprise,Central,9/30/2025,,,0,0,,,0,3,0,0,0,0
+kendall.gray1381@ironwoodgroup82.io,Parker,Ross,Cobalt Labs 40,HS103645,SFLED003645,Direct,Lead,65,Logistics Tech,Mid-Market,International,9/16/2025,,,1,41,10/13/2025,Webinar Registration,0,2,0,0,0,0
+rowan.price2044@vertexdynamics39.ai,Rowan,Price,Vertex Dynamics 39,HS102044,SFLED002044,Event,Lead,53,Ecommerce,Enterprise,Southeast,6/1/2025,,,0,0,,,0,4,0,0,0,0
+charlie.bennett3156@bluepeaksystems86.net,Charlie,Bennett,BluePeak Systems 86,,SFLED003156,Outbound,Lead,45,Logistics Tech,Mid-Market,Southeast,5/18/2026,,,2,24.5,6/30/2026,Contact Us,0,5,0,0,0,0
+drew.murphy1022@signaldata41.co,Drew,Murphy,Signal Data 41,HS101022,SFLED001022,Webinar,Lead,47,Cybersecurity,Enterprise,West,7/13/2025,,,0,0,,,0,2,0,0,0,0
+morgan.carter3802@clearpathintellige.ai,Morgan,Carter,Clearpath Intelligence,HS103802,SFLED003802,Outbound,Lead,11,HR Tech,Mid-Market,Mountain,4/1/2025,,,0,0,,,0,0,0,0,0,0
+harper.nelson3107@vertexlabs.ai,Harper,Nelson,Vertex Labs,HS103107,SFLED003107,Organic Search,SQL,56,HR Tech,Enterprise,Northeast,1/19/2026,1/30/2026,2/6/2026,2,53.5,1/25/2026,CRM Audit,0,1,0,0,0,0
+harper.james1923@northstarmarkets65.io,Harper,James,Northstar Markets 65,HS101923,SFLED001923,Event,MQL,70,Healthcare Tech,Mid-Market,Southeast,3/23/2026,4/11/2026,,2,46.5,4/12/2026,Demo Request,0,1,0,0,0,0
+harper.ward2526@keystonemarkets79.co,Harper,Ward,Keystone Markets 79,HS102526,SFLED002526,Referral,Lead,100,EdTech,SMB,Central,1/17/2025,,,4,51.75,3/21/2025,CRM Audit,0,1,0,0,0,0
+morgan.james602@northstarintellige.io,Morgan,James,Northstar Intelligence,HS100602,SFLED000602,Referral,Lead,26,FinTech,Mid-Market,Southeast,7/3/2025,,,4,56.75,8/29/2025,Contact Us,0,1,0,0,0,0
+rowan.gray4152@apexsystems70.net,Rowan,Gray,Apex Systems 70,HS104152,SFLED004152,Content Download,Subscriber,46,EdTech,SMB,West,3/22/2026,,,0,0,,,0,3,0,0,0,0
+elliot.bell2792@bluepeakcloud17.co,Elliot,Bell,BluePeak Cloud 17,HS102792,SFLED002792,Paid Search,Lead,14,FinTech,Mid-Market,Mountain,9/18/2025,,,4,51.75,11/12/2025,CRM Audit,0,1,0,0,0,0
+harper.wright577@meridianmarkets.com,Harper,Wright,Meridian Markets,HS100577,SFLED000577,Organic Search,Opportunity,100,HR Tech,Mid-Market,Southeast,12/23/2025,12/24/2025,1/8/2026,2,54.5,1/21/2026,HubSpot-SFDC Checklist,0,2,0,0,0,0
+emerson.murphy2123@ironwoodops.co,Emerson,Murphy,Ironwood Ops,HS102123,SFLED002123,Event,Customer,70,Healthcare Tech,Mid-Market,Mountain,12/26/2025,1/13/2026,1/12/2026,2,55,2/24/2026,HubSpot-SFDC Checklist,0,2,0,0,0,0
+skyler.perry4198@evergreensystems95.co,Skyler,Perry,Evergreen Systems 95,HS104198,SFLED004198,Outbound,Lead,40,HR Tech,Enterprise,Southeast,2/24/2026,,,1,21,4/9/2026,ROI Calculator,0,2,0,0,0,0
+charlie.perry2571@catalystops73.net,Charlie,Perry,Catalyst Ops 73,HS102571,SFLED002571,Outbound,Lead,35,Manufacturing Tech,Mid-Market,West,1/11/2025,,,3,34.33333333,2/18/2025,CRM Audit,0,3,0,0,0,0
+cameron.wright3222@cobaltplatform66.co,Cameron,Wright,Cobalt Platform 66,HS103222,SFLED003222,Paid Search,Lead,66,Manufacturing Tech,Enterprise,Central,2/1/2026,,,1,13,2/21/2026,Contact Us,0,5,0,0,0,0
+riley.adams1121@cobaltmarkets.com,Riley,Adams,Cobalt Markets,HS101121,,Organic Search,Lead,26,Cybersecurity,Mid-Market,Southeast,1/8/2025,,,1,43,1/18/2025,ROI Calculator,0,3,0,0,0,0
+skyler.patel3078@ironwoodcloud82.net,Skyler,Patel,Ironwood Cloud 82,HS103078,SFLED003078,Referral,Lead,32,Manufacturing Tech,SMB,International,5/17/2025,,,1,13,5/26/2025,Contact Us,0,4,0,0,0,0
+riley.long3450@keystoneplatform.com,Riley,Long,Keystone Platform,HS103450,SFLED003450,Referral,Lead,95,HR Tech,Enterprise,Mountain,1/19/2026,,,1,40,2/7/2026,Webinar Registration,0,1,0,0,0,0
+blake.king298@vertexnetworks66.net,Blake,King,Vertex Networks 66,HS100298,SFLED000298,Content Download,Lead,10,Ecommerce,Mid-Market,International,4/25/2025,,,0,0,,,0,3,0,0,0,0
+quinn.miller1882@brighthealth.com,Quinn,Miller,Bright Health,HS101882,SFLED001882,Outbound,MQL,61,EdTech,SMB,International,2/10/2026,2/27/2026,,1,48,3/12/2026,Webinar Registration,0,3,0,0,0,0
+devon.reed3333@pioneersystems72.net,Devon,Reed,Pioneer Systems 72,HS103333,SFLED003333,Paid Search,Lead,40,FinTech,Mid-Market,West,8/13/2025,,,2,50.5,10/11/2025,Contact Us,0,3,0,0,0,0
+quinn.adams4036@atlaslabs38.com,Quinn,Adams,Atlas Labs 38,HS104036,SFLED004036,Outbound,Disqualified,25,Ecommerce,SMB,Southeast,7/10/2025,,,2,48.5,8/21/2025,Contact Us,0,1,0,0,0,0
+kendall.murphy1988@brightgroup10.ai,Kendall,Murphy,Bright Group 10,HS101988,SFLED001988,Content Download,Lead,61,Healthcare Tech,Mid-Market,Northeast,5/13/2025,,,0,0,,,0,1,0,0,0,0
+riley.bennett2928@clearpathgroup57.net,Riley,Bennett,Clearpath Group 57,HS102928,SFLED002928,Paid Search,Lead,60,FinTech,Enterprise,Central,1/11/2026,,,1,51,1/14/2026,CRM Audit,0,4,0,0,0,0
+casey.gray2857@catalystnetworks.ai,Casey,Gray,Catalyst Networks,HS102857,SFLED002857,LinkedIn,Lead,24,Manufacturing Tech,Enterprise,West,3/4/2026,,,0,0,,,0,5,0,0,0,0
+jordan.james600@meridianworks.ai,Jordan,James,Meridian Works,HS100600,SFLED000600,Event,Opportunity,94,FinTech,Enterprise,Central,6/17/2026,6/20/2026,7/23/2026,0,0,,,0,1,0,0,0,0
+devon.stone3165@bluepeakops.com,Devon,Stone,BluePeak Ops,HS103165,SFLED003165,Webinar,Lead,51,Healthcare Tech,SMB,International,5/9/2025,,,1,61,7/7/2025,CRM Audit,0,3,0,0,0,0
+devon.young3427@vertexmarkets87.com,Devon,Young,Vertex Markets 87,HS103427,SFLED003427,Outbound,Disqualified,10,HR Tech,Mid-Market,Southeast,5/23/2026,,,3,43.33333333,6/30/2026,CRM Audit,0,0,0,0,0,0
+cameron.kim1034@meridiandynamics.co,Cameron,Kim,Meridian Dynamics,HS101034,SFLED001034,Webinar,MQL,54,FinTech,Mid-Market,Mountain,2/21/2026,3/7/2026,,1,50,3/25/2026,Webinar Registration,0,4,0,0,0,0
+harper.carter2156@northstarworks5.com,Harper,Carter,Northstar Works 5,HS102156,SFLED002156,Webinar,Lead,24,Ecommerce,Mid-Market,West,1/3/2025,,,2,55,3/7/2025,Webinar Registration,0,1,0,0,0,0
+finley.sullivan1170@atlasops.ai,Finley,Sullivan,Atlas Ops,HS101170,SFLED001170,Referral,Lead,21,Logistics Tech,Enterprise,Central,12/16/2025,,,1,68,2/9/2026,RevOps Playbook,0,5,0,0,0,0
+finley.murphy1089@apexdynamics.ai,Finley,Murphy,Apex Dynamics,HS101089,SFLED001089,Organic Search,MQL,48,SaaS,Enterprise,Central,5/1/2025,5/15/2025,,0,0,,,0,1,0,0,0,0
+reese.kim1234@summithealth.net,Reese,Kim,Summit Health,HS101234,SFLED001234,LinkedIn,MQL,41,Healthcare Tech,SMB,Central,4/14/2025,4/21/2025,,3,42.66666667,6/12/2025,Contact Us,0,5,0,0,0,0
+morgan.reed4031@bluepeakplatform.co,Morgan,Reed,BluePeak Platform,,SFLED004031,Event,Lead,52,FinTech,Mid-Market,Northeast,9/24/2025,,,3,52.66666667,11/19/2025,Contact Us,0,1,0,0,0,0
+skyler.wright1953@bluepeakdynamics.ai,Skyler,Wright,BluePeak Dynamics,HS101953,SFLED001953,Paid Search,Lead,34,Logistics Tech,SMB,Mountain,6/3/2026,,,1,50,6/19/2026,Webinar Registration,0,3,0,0,0,0
+alex.kim737@ironwoodops.co,Alex,Kim,Ironwood Ops,HS100737,SFLED000737,LinkedIn,Lead,32,Healthcare Tech,Mid-Market,Mountain,3/22/2026,,,1,38,5/6/2026,ROI Calculator,0,4,0,0,0,0
+blake.parker4013@pioneerplatform96.io,Blake,Parker,Pioneer Platform 96,HS104013,SFLED004013,Webinar,Lead,83,Healthcare Tech,Enterprise,International,2/7/2025,,,0,0,,,0,3,0,0,0,0
+skyler.kim1230@northstarworks5.com,Skyler,Kim,Northstar Works 5,HS101230,SFLED001230,Outbound,Lead,72,Ecommerce,Mid-Market,West,6/13/2026,,,1,43,6/30/2026,Webinar Registration,0,2,0,0,0,0
+jamie.reed1715@pioneercloud88.ai,Jamie,Reed,Pioneer Cloud 88,HS101715,SFLED001715,Direct,Lead,31,Logistics Tech,Mid-Market,Southeast,9/26/2025,,,0,0,,,0,3,0,0,0,0
+rowan.davis2093@vertexsoftware.com,Rowan,Davis,Vertex Software,HS102093,SFLED002093,Paid Search,Lead,0,EdTech,Mid-Market,Southeast,8/20/2025,,,1,64,10/3/2025,Webinar Registration,0,2,0,0,0,0
+blake.brooks3143@signallabs78.net,Blake,Brooks,Signal Labs 78,HS103143,SFLED003143,Outbound,Lead,17,Manufacturing Tech,Enterprise,International,7/16/2025,,,4,61,9/2/2025,Demo Request,0,3,0,0,0,0
+bailey.kim2240@evergreenops30.ai,Bailey,Kim,Evergreen Ops 30,HS102240,SFLED002240,Outbound,Lead,39,HR Tech,Enterprise,Southeast,1/9/2026,,,0,0,,,0,3,0,0,0,0
+drew.wright1451@keystonesystems68.com,Drew,Wright,Keystone Systems 68,HS101451,SFLED001451,Partner,Lead,76,SaaS,Mid-Market,Southeast,7/23/2025,,,2,52.5,9/18/2025,Contact Us,0,4,0,0,0,0
+logan.adams193@meridiansystems.co,Logan,Adams,Meridian Systems,HS100193,SFLED000193,Direct,Lead,39,Cybersecurity,Enterprise,Southeast,1/30/2025,,,3,51,4/1/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+maya.gray2201@evergreenworks94.net,Maya,Gray,Evergreen Works 94,HS102201,SFLED002201,Webinar,Lead,45,Ecommerce,Mid-Market,Central,9/25/2025,,,2,20,10/18/2025,Contact Us,0,1,0,0,0,0
+casey.patel1173@summitcloud34.io,Casey,Patel,Summit Cloud 34,HS101173,SFLED001173,LinkedIn,Lead,0,FinTech,SMB,Northeast,1/11/2026,,,0,0,,,0,3,0,0,0,0
+kendall.miller1470@meridianmarkets2.ai,Kendall,Miller,Meridian Markets 2,HS101470,SFLED001470,Partner,MQL,63,Cybersecurity,Enterprise,Southeast,7/14/2025,8/3/2025,,2,71,9/7/2025,CRM Audit,0,3,0,0,0,0
+blake.nelson3169@apexdynamics.ai,Blake,Nelson,Apex Dynamics,,SFLED003169,Organic Search,Lead,31,SaaS,Enterprise,Central,6/30/2026,,,2,35,6/30/2026,Contact Us,0,1,0,0,0,0
+charlie.perry78@apexworks61.net,Charlie,Perry,Apex Works 61,HS100078,SFLED000078,Event,Lead,19,EdTech,Mid-Market,Northeast,5/17/2026,,,1,34,6/12/2026,ROI Calculator,0,2,0,0,0,0
+bailey.chen1711@brightcloud66.net,Bailey,Chen,Bright Cloud 66,HS101711,SFLED001711,Outbound,Lead,23,Ecommerce,Enterprise,West,4/24/2026,,,0,0,,,0,1,0,0,0,0
+elliot.adams608@apexgroup17.co,Elliot,Adams,Apex Group 17,HS100608,SFLED000608,Partner,Lead,96,FinTech,Enterprise,Southeast,11/30/2025,,,2,54,1/24/2026,CRM Audit,0,2,0,0,0,0
+hayden.sullivan1032@brightlabs38.co,Hayden,Sullivan,Bright Labs 38,HS101032,SFLED001032,Content Download,Lead,36,Logistics Tech,SMB,Central,7/14/2025,,,1,14,7/31/2025,RevOps Playbook,0,3,0,0,0,0
+alex.carter2406@meridiandata49.net,Alex,Carter,Meridian Data 49,HS102406,SFLED002406,Content Download,Lead,13,EdTech,Mid-Market,Northeast,5/23/2025,,,0,0,,,0,1,0,0,0,0
+hayden.adams2380@cobaltcloud98.io,Hayden,Adams,Cobalt Cloud 98,HS102380,SFLED002380,Paid Search,Lead,45,EdTech,Enterprise,Northeast,9/3/2025,,,0,0,,,0,3,0,0,0,0
+rowan.reed1324@vertexnetworks66.net,Rowan,Reed,Vertex Networks 66,HS101324,SFLED001324,Partner,MQL,51,Ecommerce,Mid-Market,International,2/15/2025,3/2/2025,,3,44.33333333,4/6/2025,Contact Us,0,5,0,0,0,0
+jamie.bell2214@bluepeaksystems86.net,Jamie,Bell,BluePeak Systems 86,HS102214,SFLED002214,Webinar,Lead,55,Logistics Tech,Mid-Market,Southeast,11/26/2025,,,1,38,1/10/2026,RevOps Playbook,0,1,0,0,0,0
+maya.long2798@evergreensystems95.co,Maya,Long,Evergreen Systems 95,HS102798,,Content Download,Lead,9,HR Tech,Enterprise,Southeast,6/14/2025,,,0,0,,,0,3,0,0,0,0
+harper.adams2926@vertexanalytics.co,Harper,Adams,Vertex Analytics,HS102926,SFLED002926,LinkedIn,Lead,36,Cybersecurity,Enterprise,Central,5/6/2026,,,2,59,6/30/2026,CRM Audit,0,3,0,0,0,0
+riley.bell4185@keystonedata.com,Riley,Bell,Keystone Data,HS104185,SFLED004185,Event,MQL,52,Healthcare Tech,Mid-Market,Southeast,2/15/2026,2/26/2026,,1,30,4/4/2026,HubSpot-SFDC Checklist,0,5,0,0,0,0
+taylor.adams1799@atlascloud74.net,Taylor,Adams,Atlas Cloud 74,HS101799,SFLED001799,Outbound,Lead,35,Ecommerce,Mid-Market,Central,5/26/2025,,,1,46,6/6/2025,Contact Us,0,2,0,0,0,0
+jordan.patel1700@pioneersoftware.co,Jordan,Patel,Pioneer Software,HS101700,SFLED001700,Organic Search,Subscriber,49,Logistics Tech,Enterprise,Mountain,8/6/2025,,,0,0,,,0,3,0,0,0,0
+avery.chen1803@ironwoodintelligen.ai,Avery,Chen,Ironwood Intelligence 11,HS101803,SFLED001803,Webinar,Lead,45,Manufacturing Tech,SMB,Mountain,2/12/2026,,,2,67.5,4/5/2026,Demo Request,0,3,0,0,0,0
+quinn.james2535@cobaltlabs40.ai,Kendall,Bell,Apex Group,HS103319,SFLED003319,Direct,Subscriber,45,FinTech,Enterprise,International,6/3/2025,,,2,33.5,7/27/2025,CRM Audit,0,4,0,0,0,0
+bailey.nelson4157@keystonesolutions.com,Bailey,Nelson,Keystone Solutions,HS104157,SFLED004157,Content Download,Lead,50,SaaS,SMB,Central,2/17/2025,,,1,74,2/25/2025,Contact Us,0,1,0,0,0,0
+jordan.brooks1686@atlasintelligence4.net,Jordan,Brooks,Atlas Intelligence 43,HS101686,,Content Download,Lead,22,Logistics Tech,Mid-Market,International,8/13/2025,,,1,39,10/10/2025,CRM Audit,0,2,0,0,0,0
+blake.price2272@apexanalytics.net,Blake,Price,Apex Analytics,HS102272,SFLED002272,Content Download,Lead,58,HR Tech,Enterprise,Southeast,1/26/2026,,,1,6,3/15/2026,Contact Us,0,3,0,0,0,0
+charlie.wright3488@pioneersystems54.com,Charlie,Wright,Pioneer Systems 54,HS103488,SFLED003488,LinkedIn,Lead,54,Ecommerce,Mid-Market,International,8/14/2025,,,0,0,,,0,1,0,0,0,0
+avery.young1214@keystonedynamics63.ai,Avery,Young,Keystone Dynamics 63,HS101214,SFLED001214,LinkedIn,Subscriber,84,EdTech,Mid-Market,Mountain,6/16/2025,,,2,55.5,8/5/2025,Contact Us,0,1,0,0,0,0
+charlie.young331@novaanalytics.io,Charlie,Young,Nova Analytics,HS100331,SFLED000331,LinkedIn,MQL,54,Cybersecurity,Enterprise,Mountain,9/13/2025,9/21/2025,,0,0,,,0,3,0,0,0,0
+blake.king1400@atlassystems29.io,Cameron,Ross,Evergreen Intelligence 71,,SFLED001506,LinkedIn,MQL,51,Logistics Tech,Enterprise,Northeast,6/18/2026,6/26/2026,,1,87,6/30/2026,Demo Request,0,3,0,0,0,0
+morgan.foster1352@bluepeakdata21.net,Morgan,Foster,BluePeak Data 21,HS101352,SFLED001352,Direct,Disqualified,18,Manufacturing Tech,SMB,Mountain,10/14/2025,,,1,62,12/1/2025,Webinar Registration,0,3,0,0,0,0
+logan.long2631@catalystops.co,Logan,Long,Catalyst Ops,HS102631,SFLED002631,LinkedIn,Lead,64,SaaS,Enterprise,Mountain,4/20/2025,,,0,0,,,0,2,0,0,0,0
+cameron.parker285@meridianhealth.net,Cameron,Parker,Meridian Health,HS100285,SFLED000285,Outbound,Disqualified,60,HR Tech,SMB,Northeast,11/16/2025,,,1,0,11/22/2025,Webinar Registration,0,4,0,0,0,0
+casey.stone845@signaldata41.co,Casey,Stone,Signal Data 41,HS100845,SFLED000845,Outbound,Lead,54,Cybersecurity,Enterprise,West,12/1/2025,,,0,0,,,0,4,0,0,0,0
+kendall.king1260@apexsolutions9.co,Kendall,King,Apex Solutions 9,HS101260,SFLED001260,Outbound,Lead,22,Manufacturing Tech,Enterprise,Central,6/7/2025,,,0,0,,,0,2,0,0,0,0
+parker.sullivan1403@vertexhealth3.com,Parker,Sullivan,Vertex Health 3,HS101403,SFLED001403,Partner,Lead,30,HR Tech,Mid-Market,Mountain,2/24/2026,,,0,0,,,0,6,0,0,0,0
+morgan.torres1003@cobaltdata.net,Morgan,Torres,Cobalt Data,HS101003,SFLED001003,LinkedIn,Customer,55,Healthcare Tech,SMB,West,1/10/2026,1/28/2026,2/13/2026,0,0,,,0,2,0,0,0,0
+morgan.foster2128@brightlabs.ai,Morgan,Foster,Bright Labs,HS102128,SFLED002128,Partner,Lead,55,SaaS,Mid-Market,West,2/24/2025,,,1,42,3/7/2025,Webinar Registration,0,1,0,0,0,0
+skyler.foster1442@pioneersystems.ai,Skyler,Foster,Pioneer Systems,HS101442,SFLED001442,Outbound,SQL,51,Manufacturing Tech,Mid-Market,Mountain,6/10/2025,7/4/2025,7/7/2025,4,43.75,7/28/2025,Webinar Registration,0,1,0,0,0,0
+logan.sullivan756@evergreenanalytics.io,Logan,Sullivan,Evergreen Analytics 19,HS100756,SFLED000756,LinkedIn,Lead,20,HR Tech,SMB,Southeast,3/10/2025,,,0,0,,,0,3,0,0,0,0
+jamie.james2719@summitops.net,Jamie,James,Summit Ops,HS102719,SFLED002719,Direct,Lead,90,HR Tech,Enterprise,Northeast,10/28/2025,,,2,22.5,12/7/2025,ROI Calculator,0,2,0,0,0,0
+alex.torres2886@clearpathlabs47.com,Alex,Torres,Clearpath Labs 47,HS102886,SFLED002886,Paid Search,MQL,64,Logistics Tech,Mid-Market,Mountain,2/10/2025,2/16/2025,,3,57,3/15/2025,Contact Us,0,3,0,0,0,0
+blake.gray1489@evergreengroup93.net,Blake,Gray,Evergreen Group 93,HS101489,SFLED001489,Referral,Lead,63,HR Tech,Enterprise,Mountain,10/19/2025,,,0,0,,,0,2,0,0,0,0
+sam.murphy779@apexnetworks.co,Sam,Murphy,Apex Networks,HS100779,SFLED000779,Event,Lead,79,Manufacturing Tech,Enterprise,Southeast,4/18/2026,,,1,61,6/4/2026,Contact Us,0,2,0,0,0,0
+rowan.nelson2899@keystonemarkets13.co,Rowan,Nelson,Keystone Markets 13,HS102899,SFLED002899,LinkedIn,Lead,26,Ecommerce,Mid-Market,Southeast,3/13/2025,,,1,34,5/9/2025,Webinar Registration,0,4,0,0,0,0
+devon.torres2763@summitmarkets88.co,Devon,Torres,Summit Markets 88,HS102763,SFLED002763,Direct,Lead,39,Logistics Tech,Mid-Market,Mountain,4/22/2026,,,2,54,5/23/2026,CRM Audit,0,3,0,0,0,0
+jordan.torres1095@novamarkets.com,Jordan,Torres,Nova Markets,HS101095,SFLED001095,LinkedIn,Lead,54,Healthcare Tech,Enterprise,Central,11/24/2025,,,2,21,1/5/2026,Contact Us,0,4,0,0,0,0
+taylor.gray767@cobaltdata58.net,Taylor,Gray,Cobalt Data 58,HS100767,SFLED000767,Direct,Lead,43,Logistics Tech,Mid-Market,West,5/20/2025,,,1,96,6/20/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+casey.carter2379@vertexsystems29.net,Casey,Carter,Vertex Systems 29,HS102379,SFLED002379,Content Download,Lead,72,Logistics Tech,Enterprise,Central,2/21/2025,,,1,49,4/7/2025,Contact Us,0,3,0,0,0,0
+drew.young1611@brightcloud66.net,Drew,Young,Bright Cloud 66,HS101611,SFLED001611,Organic Search,Lead,44,Ecommerce,Enterprise,West,10/16/2025,,,2,69.5,12/2/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+alex.sullivan2441@vertexworks.io,Alex,Sullivan,Vertex Works,HS102441,SFLED002441,Webinar,Opportunity,66,Ecommerce,Mid-Market,Northeast,11/13/2025,11/30/2025,11/27/2025,2,53.5,12/31/2025,Contact Us,0,3,0,0,0,0
+finley.torres2120@pioneeranalytics.co,Finley,Torres,Pioneer Analytics,HS102120,SFLED002120,Webinar,Lead,62,SaaS,Mid-Market,Southeast,10/31/2025,,,0,0,,,0,5,0,0,0,0
+cameron.kim1091@brightsoftware68.ai,Cameron,Kim,Bright Software 68,HS101091,SFLED001091,Referral,Lead,61,EdTech,Enterprise,Southeast,2/6/2025,,,0,0,,,0,6,0,0,0,0
+taylor.miller1704@keystonedynamics.io,Morgan,Wright,Atlas Labs,HS103128,SFLED003128,Referral,Lead,23,EdTech,SMB,Northeast,2/28/2025,,,1,92,4/30/2025,Demo Request,0,4,0,0,0,0
+emerson.kim2442@bluepeakhealth.ai,Emerson,Kim,BluePeak Health,HS102442,SFLED002442,Referral,SQL,67,Manufacturing Tech,Mid-Market,Northeast,2/28/2025,3/14/2025,4/7/2025,1,72,3/10/2025,CRM Audit,0,1,0,0,0,0
+taylor.bell1975@signalworks47.com,Taylor,Bell,Signal Works 47,HS101975,SFLED001975,Webinar,Opportunity,80,Ecommerce,Mid-Market,Central,6/12/2025,6/21/2025,7/26/2025,0,0,,,0,1,0,0,0,0
+sam.foster894@apexhealth.co,Sam,Foster,Apex Health,HS100894,,Direct,Lead,45,FinTech,SMB,Central,11/17/2025,,,2,33.5,12/14/2025,CRM Audit,0,3,0,0,0,0
+devon.sullivan2234@novasystems83.ai,Devon,Sullivan,Nova Systems 83,HS102234,SFLED002234,Referral,MQL,71,Logistics Tech,SMB,Southeast,2/2/2026,2/12/2026,,1,8,2/12/2026,HubSpot-SFDC Checklist,0,4,0,0,0,0
+reese.wright56@evergreenanalytics.io,Reese,Wright,Evergreen Analytics,HS100056,SFLED000056,Outbound,Disqualified,11,SaaS,Mid-Market,Southeast,3/30/2025,,,1,50,4/19/2025,RevOps Playbook,0,2,0,0,0,0
+logan.carter1373@vertexnetworks78.com,Logan,Carter,Vertex Networks 78,HS101373,SFLED001373,Webinar,SQL,71,HR Tech,Mid-Market,Central,8/10/2025,8/26/2025,8/24/2025,1,34,8/18/2025,Contact Us,0,3,0,0,0,0
+alex.carter150@brightplatform.ai,Alex,Carter,Bright Platform,HS100150,SFLED000150,Direct,Lead,34,EdTech,SMB,West,1/25/2026,,,0,0,,,0,2,0,0,0,0
+riley.bell1949@evergreendata.co,Riley,Bell,Evergreen Data,HS101949,SFLED001949,LinkedIn,Subscriber,26,SaaS,Mid-Market,Mountain,4/7/2025,,,0,0,,,0,1,0,0,0,0
+harper.murphy1450@atlascloud.co,Harper,Murphy,Atlas Cloud,HS101450,SFLED001450,Webinar,Lead,38,SaaS,Enterprise,Northeast,11/4/2025,,,1,74,11/22/2025,CRM Audit,0,2,0,0,0,0
+sam.stone831@summitops58.co,Sam,Stone,Summit Ops 58,HS100831,SFLED000831,Content Download,Lead,100,Healthcare Tech,Mid-Market,Northeast,5/8/2025,,,0,0,,,0,1,0,0,0,0
+jamie.torres2802@cobaltplatform66.co,Jamie,Torres,Cobalt Platform 66,HS102802,SFLED002802,Content Download,Subscriber,37,Manufacturing Tech,Enterprise,Central,7/27/2025,,,0,0,,,0,2,0,0,0,0
+parker.adams2299@atlashealth.net,Parker,Adams,Atlas Health,HS102299,SFLED002299,Outbound,Lead,44,SaaS,Mid-Market,Central,4/3/2026,,,1,78,5/21/2026,CRM Audit,0,1,0,0,0,0
+jamie.nelson1399@atlassolutions.net,Jamie,Nelson,Atlas Solutions,HS101399,SFLED001399,LinkedIn,Subscriber,52,SaaS,SMB,Central,2/19/2026,,,0,0,,,0,0,0,0,0,0
+cameron.chen2589@atlascloud86.net,Cameron,Chen,Atlas Cloud 86,HS102589,,Content Download,Disqualified,74,HR Tech,Mid-Market,Southeast,5/8/2026,,,0,0,,,0,3,0,0,0,0
+reese.ross4078@evergreenintellige.io,Reese,Ross,Evergreen Intelligence,HS104078,SFLED004078,Webinar,Lead,56,HR Tech,Enterprise,Northeast,6/2/2026,,,2,28,6/30/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+drew.perry371@brightanalytics.co,Drew,Perry,Bright Analytics,,SFLED000371,LinkedIn,Lead,37,Manufacturing Tech,Mid-Market,Central,4/21/2026,,,1,26,6/19/2026,Webinar Registration,0,2,0,0,0,0
+blake.torres3993@northstarops.net,Blake,Torres,Northstar Ops,HS103993,SFLED003993,Paid Search,Lead,42,Healthcare Tech,Mid-Market,Southeast,10/13/2025,,,1,52,11/3/2025,Contact Us,0,4,0,0,0,0
+finley.king3000@summitplatform29.co,Finley,King,Summit Platform 29,HS103000,SFLED003000,Event,Lead,69,HR Tech,Mid-Market,International,5/27/2026,,,0,0,,,0,0,0,0,0,0
+alex.ross3383@clearpathnetworks3.com,Alex,Ross,Clearpath Networks 31,HS103383,SFLED003383,Paid Search,Lead,16,Manufacturing Tech,Mid-Market,International,7/26/2025,,,0,0,,,0,0,0,0,0,0
+cameron.ross347@evergreenplatform.com,Cameron,Ross,Evergreen Platform,HS100347,SFLED000347,Content Download,Lead,80,Ecommerce,Mid-Market,Mountain,5/21/2026,,,2,43,6/30/2026,Demo Request,0,6,0,0,0,0
+blake.parker3223@catalystcloud14.com,Blake,Parker,Catalyst Cloud 14,,SFLED003223,LinkedIn,Lead,14,Cybersecurity,Mid-Market,Southeast,1/18/2026,,,1,37,3/19/2026,Contact Us,0,0,0,0,0,0
+logan.james3565@signalsolutions.com,Logan,James,Signal Solutions,HS103565,,Webinar,Lead,77,EdTech,Mid-Market,West,10/31/2025,,,2,69.5,11/5/2025,Demo Request,0,1,0,0,0,0
+reese.ward3654@summitplatform.com,Reese,Ward,Summit Platform,HS103654,SFLED003654,LinkedIn,Lead,47,Logistics Tech,Mid-Market,Mountain,12/14/2025,,,0,0,,,0,1,0,0,0,0
+blake.reed752@pioneergroup.co,Blake,Reed,Pioneer Group,,SFLED000752,Event,Lead,71,Cybersecurity,Mid-Market,Mountain,4/22/2025,,,1,56,4/22/2025,Contact Us,0,0,0,0,0,0
+charlie.foster3772@cobaltsoftware.io,Charlie,Foster,Cobalt Software,HS103772,SFLED003772,LinkedIn,Subscriber,36,EdTech,Enterprise,West,1/18/2026,,,0,0,,,0,3,0,0,0,0
+drew.reed3827@novamarkets92.com,Drew,Reed,Nova Markets 92,HS103827,SFLED003827,Event,Lead,70,EdTech,Enterprise,International,8/29/2025,,,0,0,,,0,2,0,0,0,0
+kendall.james3728@clearpathgroup26.io,Kendall,James,Clearpath Group 26,HS103728,SFLED003728,Webinar,Subscriber,99,EdTech,Mid-Market,Mountain,4/25/2026,,,0,0,,,0,4,0,0,0,0
+quinn.ross3401@nimbusdynamics49.com,Quinn,Ross,Nimbus Dynamics 49,,SFLED003401,LinkedIn,Lead,56,SaaS,Enterprise,International,3/11/2025,,,1,58,3/26/2025,RevOps Playbook,0,0,0,0,0,0
+devon.ross2456@evergreensolutions.ai,Devon,Ross,Evergreen Solutions,HS102456,SFLED002456,Outbound,Lead,55,Cybersecurity,Mid-Market,Mountain,1/21/2025,,,1,26,3/17/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+alex.adams4050@evergreensystems.com,Alex,Adams,Evergreen Systems,,SFLED004050,Partner,Lead,46,HR Tech,Enterprise,Mountain,1/22/2025,,,2,54.5,3/18/2025,ROI Calculator,0,2,0,0,0,0
+skyler.young42@novasystems83.ai,Skyler,Young,Nova Systems 83,HS100042,SFLED000042,Referral,MQL,65,Logistics Tech,SMB,Southeast,12/10/2025,12/23/2025,,1,70,1/19/2026,RevOps Playbook,0,2,0,0,0,0
+parker.gray1669@signallabs78.net,Parker,Gray,Signal Labs 78,HS101669,SFLED001669,Referral,MQL,44,Manufacturing Tech,Enterprise,International,9/22/2025,9/28/2025,,1,44,11/12/2025,RevOps Playbook,0,6,0,0,0,0
+quinn.torres788@brightsystems91.io,Quinn,Torres,Bright Systems 91,,SFLED000788,Webinar,SQL,100,Healthcare Tech,Mid-Market,Southeast,6/14/2026,7/3/2026,7/23/2026,2,19,6/30/2026,ROI Calculator,0,1,0,0,0,0
+parker.bennett3785@atlassystems29.io,Parker,Bennett,Atlas Systems 29,HS103785,SFLED003785,Paid Search,Lead,40,Healthcare Tech,Mid-Market,International,3/27/2026,,,0,0,,,0,1,0,0,0,0
+quinn.long2985@nimbusmarkets91.com,Quinn,Long,Nimbus Markets 91,HS102985,SFLED002985,Event,Lead,86,HR Tech,Mid-Market,Mountain,4/11/2026,,,1,31,6/3/2026,ROI Calculator,0,3,0,0,0,0
+taylor.ward761@evergreensystems.com,Taylor,Ward,Evergreen Systems,HS100761,SFLED000761,Organic Search,Disqualified,66,HR Tech,Enterprise,Mountain,6/25/2025,,,1,46,8/22/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+parker.james3212@catalystintelligen.ai,Parker,James,Catalyst Intelligence,HS103212,SFLED003212,Content Download,Opportunity,87,FinTech,Enterprise,International,10/23/2025,11/16/2025,12/6/2025,2,69,11/20/2025,CRM Audit,0,4,0,0,0,0
+quinn.bell944@atlassystems.net,Quinn,Bell,Atlas Systems,,SFLED000944,Paid Search,Lead,26,Cybersecurity,Mid-Market,International,6/25/2025,,,2,63.5,7/5/2025,CRM Audit,0,5,0,0,0,0
+charlie.adams1678@signalintelligence.net,Charlie,Adams,Signal Intelligence,HS101678,SFLED001678,Outbound,SQL,73,Logistics Tech,SMB,International,1/20/2025,2/13/2025,1/26/2025,3,55,3/4/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+devon.foster1710@summitops30.io,Devon,Foster,Summit Ops 30,HS101710,SFLED001710,Paid Search,Lead,78,Manufacturing Tech,Mid-Market,Southeast,6/11/2026,,,1,43,6/30/2026,Demo Request,0,3,0,0,0,0
+sam.kim2173@pioneerlabs53.com,Sam,Kim,Pioneer Labs 53,HS102173,SFLED002173,Outbound,Lead,9,Manufacturing Tech,SMB,Mountain,4/2/2026,,,4,32.5,5/31/2026,RevOps Playbook,0,2,0,0,0,0
+drew.bennett2609@apexmarkets.net,Drew,Bennett,Apex Markets,HS102609,SFLED002609,Webinar,Lead,41,Cybersecurity,Mid-Market,International,12/28/2025,,,0,0,,,0,3,0,0,0,0
+blake.foster3622@bluepeakplatform47.ai,Blake,Foster,BluePeak Platform 47,,SFLED003622,Webinar,Disqualified,16,Logistics Tech,Enterprise,Southeast,7/19/2025,,,3,30.33333333,9/12/2025,Contact Us,0,1,0,0,0,0
+hayden.king2477@summithealth69.io,Hayden,King,Summit Health 69,HS102477,SFLED002477,Webinar,Lead,64,HR Tech,Enterprise,Mountain,3/31/2026,,,4,27.75,5/31/2026,RevOps Playbook,0,5,0,0,0,0
+sam.king3786@evergreendynamics7.net,Sam,King,Evergreen Dynamics 75,HS103786,SFLED003786,Referral,Lead,71,FinTech,Mid-Market,International,1/22/2026,,,2,57,3/11/2026,CRM Audit,0,1,0,0,0,0
+sam.parker1995@northstarsolutions.ai,Sam,Parker,Northstar Solutions 23,HS101995,SFLED001995,Content Download,Lead,58,Logistics Tech,Mid-Market,Northeast,1/23/2025,,,2,23,3/7/2025,Contact Us,0,0,0,0,0,0
+harper.sullivan902@vertexsoftware.com,Harper,Sullivan,Vertex Software,,SFLED000902,Outbound,Lead,11,EdTech,Mid-Market,Southeast,3/30/2026,,,1,88,5/6/2026,HubSpot-SFDC Checklist,0,4,0,0,0,0
+skyler.patel474@meridianworks.ai,Skyler,Patel,Meridian Works,HS100474,SFLED000474,Webinar,Disqualified,40,FinTech,Enterprise,Central,11/16/2025,,,2,30,1/19/2026,ROI Calculator,0,2,0,0,0,0
+alex.torres1135@ironwoodanalytics.net,Alex,Torres,Ironwood Analytics,HS101135,SFLED001135,Content Download,Lead,16,FinTech,Enterprise,Mountain,3/6/2025,,,1,53,5/6/2025,Contact Us,0,4,0,0,0,0
+hayden.reed2175@vertexops.io,Hayden,Reed,Vertex Ops,HS102175,SFLED002175,Outbound,Lead,29,Cybersecurity,Mid-Market,Southeast,3/21/2025,,,1,12,4/9/2025,RevOps Playbook,0,4,0,0,0,0
+morgan.carter115@summitops.net,Morgan,Carter,Summit Ops,HS100115,SFLED000115,Outbound,Lead,30,HR Tech,Enterprise,Northeast,12/10/2025,,,1,77,2/11/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+alex.stone2164@clearpathgroup.io,Alex,Stone,Clearpath Group,HS102164,SFLED002164,Outbound,Lead,67,Ecommerce,Mid-Market,Central,2/26/2025,,,3,29.33333333,4/19/2025,Webinar Registration,0,1,0,0,0,0
+quinn.murphy924@apexsolutions9.co,Quinn,Murphy,Apex Solutions 9,HS100924,SFLED000924,LinkedIn,Lead,9,Manufacturing Tech,Enterprise,Central,5/13/2025,,,0,0,,,0,2,0,0,0,0
+cameron.murphy3822@apexgroup61.io,Cameron,Murphy,Apex Group 61,HS103822,SFLED003822,Paid Search,MQL,50,SaaS,Enterprise,Mountain,4/20/2026,5/12/2026,,1,27,5/2/2026,Contact Us,0,2,0,0,0,0
+morgan.ward1460@signalgroup.io,Morgan,Ward,Signal Group,HS101460,SFLED001460,Partner,Lead,43,Cybersecurity,Enterprise,Southeast,3/3/2026,,,2,60,3/29/2026,CRM Audit,0,5,0,0,0,0
+riley.reed376@evergreenanalytics.io,Hayden,Gray,Northstar Software 45,HS103885,SFLED003885,Organic Search,Lead,67,HR Tech,Mid-Market,Mountain,4/8/2026,,,0,0,,,0,1,0,0,0,0
+drew.carter2452@bluepeakintelligen.net,Drew,Carter,BluePeak Intelligence 9,HS102452,SFLED002452,LinkedIn,Lead,31,FinTech,Mid-Market,West,11/8/2025,,,2,37,11/27/2025,CRM Audit,0,5,0,0,0,0
+kendall.perry3521@atlashealth66.net,Kendall,Perry,Atlas Health 66,HS103521,SFLED003521,Organic Search,Lead,45,Manufacturing Tech,SMB,West,11/1/2025,,,1,35,11/22/2025,Webinar Registration,0,3,0,0,0,0
+casey.stone14@keystonemarkets13.co,Casey,Stone,Keystone Markets 13,HS100014,SFLED000014,Referral,SQL,54,Ecommerce,Mid-Market,Southeast,5/3/2025,5/18/2025,6/11/2025,0,0,,,0,2,0,0,0,0
+reese.adams3962@apexsolutions.co,Reese,Adams,Apex Solutions,HS103962,SFLED003962,LinkedIn,Lead,38,HR Tech,SMB,Southeast,6/8/2025,,,2,74.5,7/18/2025,Demo Request,0,2,0,0,0,0
+rowan.reed1773@summitdynamics.io,Rowan,Reed,Summit Dynamics,,SFLED001773,Webinar,Lead,57,HR Tech,Enterprise,Northeast,9/29/2025,,,1,61,11/10/2025,Demo Request,0,0,0,0,0,0
+jamie.ward2897@atlasintelligence.co,Jamie,Ward,Atlas Intelligence,HS102897,,Content Download,Lead,27,Manufacturing Tech,Mid-Market,Northeast,6/11/2026,,,1,29,6/30/2026,RevOps Playbook,0,2,0,0,0,0
+drew.miller82@pioneerhealth.net,Jamie,Wright,Meridian Labs 79,HS100132,SFLED000132,Outbound,Lead,57,Logistics Tech,SMB,Central,4/2/2026,,,3,64,5/19/2026,Contact Us,0,4,0,0,0,0
+jordan.chen2595@meridianintelligen.io,Jordan,Chen,Meridian Intelligence 67,HS102595,SFLED002595,Organic Search,Disqualified,57,SaaS,Mid-Market,Mountain,1/28/2026,,,1,54,3/5/2026,Webinar Registration,0,4,0,0,0,0
+logan.nelson2689@keystonenetworks6.co,Logan,Nelson,Keystone Networks 6,HS102689,SFLED002689,Organic Search,MQL,60,Logistics Tech,SMB,Mountain,10/21/2025,10/23/2025,,0,0,,,0,2,0,0,0,0
+morgan.parker1854@brighthealth59.co,Morgan,Parker,Bright Health 59,HS101854,SFLED001854,Webinar,Lead,83,Manufacturing Tech,Enterprise,Mountain,3/24/2025,,,3,56.66666667,5/20/2025,CRM Audit,0,4,0,0,0,0
+rowan.bell64@clearpathsystems.com,Rowan,Bell,Clearpath Systems,HS100064,SFLED000064,Organic Search,Lead,59,SaaS,Mid-Market,Central,10/12/2025,,,2,54,11/2/2025,Contact Us,0,0,0,0,0,0
+finley.nelson247@evergreenops30.ai,Finley,Nelson,Evergreen Ops 30,HS100247,SFLED000247,Partner,Lead,40,HR Tech,Enterprise,Southeast,10/18/2025,,,2,37,12/12/2025,Contact Us,0,3,0,0,0,0
+rowan.carter1833@summitmarkets80.co,Rowan,Carter,Summit Markets 80,HS101833,SFLED001833,Partner,Lead,32,Cybersecurity,Mid-Market,West,12/29/2025,,,1,46,2/12/2026,RevOps Playbook,0,4,0,0,0,0
+avery.patel3591@vertexops27.net,Avery,Patel,Vertex Ops 27,HS103591,SFLED003591,Content Download,Lead,85,HR Tech,Mid-Market,International,5/4/2026,,,3,56.66666667,6/11/2026,CRM Audit,0,2,0,0,0,0
+rowan.chen2952@signalmarkets.ai,Rowan,Chen,Signal Markets,HS102952,SFLED002952,Outbound,Lead,0,FinTech,Mid-Market,Southeast,5/21/2026,,,1,40,6/30/2026,CRM Audit,0,4,0,0,0,0
+harper.chen4027@pioneerworks.ai,Harper,Chen,Pioneer Works,HS104027,SFLED004027,LinkedIn,Lead,69,SaaS,Mid-Market,International,11/24/2025,,,2,49,1/10/2026,CRM Audit,0,2,0,0,0,0
+quinn.brooks2698@brightops12.co,Quinn,Brooks,Bright Ops 12,HS102698,SFLED002698,LinkedIn,Lead,54,HR Tech,Enterprise,International,6/28/2025,,,1,31,8/9/2025,RevOps Playbook,0,2,0,0,0,0
+maya.perry1455@brightops.net,Maya,Perry,Bright Ops,HS101455,SFLED001455,LinkedIn,MQL,59,SaaS,Mid-Market,Mountain,6/24/2025,7/18/2025,,0,0,,,0,4,0,0,0,0
+devon.murphy3639@evergreennetworks4.net,Devon,Murphy,Evergreen Networks 44,HS103639,SFLED003639,Outbound,Lead,33,EdTech,Mid-Market,Southeast,6/9/2025,,,0,0,,,0,3,0,0,0,0
+parker.perry2371@vertexplatform.com,Parker,Perry,Vertex Platform,HS102371,SFLED002371,Direct,MQL,52,Cybersecurity,Enterprise,Mountain,4/15/2025,5/7/2025,,3,26,6/5/2025,HubSpot-SFDC Checklist,0,7,0,0,0,0
+harper.kim1969@signalsoftware70.ai,Harper,Kim,Signal Software 70,,SFLED001969,Direct,MQL,48,Manufacturing Tech,SMB,International,8/12/2025,8/23/2025,,2,39.5,9/6/2025,HubSpot-SFDC Checklist,0,5,0,0,0,0
+blake.nelson2274@catalystsolutions5.com,Blake,Nelson,Catalyst Solutions 58,HS102274,SFLED002274,Organic Search,Lead,34,Cybersecurity,Mid-Market,Mountain,5/4/2025,,,0,0,,,0,3,0,0,0,0
+parker.james4173@meridianlabs56.ai,Parker,James,Meridian Labs 56,HS104173,SFLED004173,Direct,Opportunity,28,Manufacturing Tech,SMB,Central,1/29/2026,2/6/2026,3/12/2026,1,16,3/7/2026,Demo Request,0,1,0,0,0,0
+reese.chen658@summitnetworks26.io,Reese,Chen,Summit Networks 26,HS100658,SFLED000658,Content Download,Lead,36,Logistics Tech,Mid-Market,Central,3/26/2026,,,2,64,5/21/2026,CRM Audit,0,8,0,0,0,0
+jamie.wright105@ironwooddynamics.com,Jamie,Wright,Ironwood Dynamics,HS100105,SFLED000105,Webinar,Lead,77,Ecommerce,SMB,Northeast,1/26/2026,,,2,52.5,2/24/2026,Demo Request,0,2,0,0,0,0
+skyler.james3577@clearpathhealth19.ai,Skyler,James,Clearpath Health 19,,SFLED003577,Direct,Lead,12,SaaS,Mid-Market,Southeast,5/5/2025,,,1,48,5/24/2025,Contact Us,0,1,0,0,0,0
+riley.bell3328@catalystdynamics19.co,Riley,Bell,Catalyst Dynamics 19,HS103328,SFLED003328,Referral,Subscriber,58,FinTech,Enterprise,Southeast,9/24/2025,,,1,87,11/12/2025,RevOps Playbook,0,3,0,0,0,0
+emerson.parker460@brightlabs.ai,Emerson,Parker,Bright Labs,,SFLED000460,Event,SQL,81,SaaS,Mid-Market,West,6/22/2026,7/3/2026,7/31/2026,0,0,,,0,8,0,0,0,0
+cameron.nelson2837@novaops.net,Cameron,Nelson,Nova Ops,HS102837,SFLED002837,Paid Search,Lead,54,Manufacturing Tech,Mid-Market,West,4/15/2026,,,0,0,,,0,0,0,0,0,0
+maya.king3655@bluepeakanalytics3.net,Maya,King,BluePeak Analytics 35,HS103655,SFLED003655,Content Download,Disqualified,35,Healthcare Tech,Enterprise,Southeast,7/17/2025,,,2,42,9/16/2025,RevOps Playbook,0,3,0,0,0,0
+emerson.bell1422@brighthealth59.co,Emerson,Bell,Bright Health 59,HS101422,SFLED001422,Outbound,Subscriber,32,Manufacturing Tech,Enterprise,Mountain,11/6/2025,,,1,23,12/22/2025,Contact Us,0,4,0,0,0,0
+harper.kim1141@novadata.com,Harper,Kim,Nova Data,HS101141,SFLED001141,Referral,Subscriber,28,HR Tech,Mid-Market,International,1/31/2026,,,0,0,,,0,2,0,0,0,0
+elliot.long1147@brightanalytics25.com,Elliot,Long,Bright Analytics 25,HS101147,SFLED001147,Event,Lead,50,Healthcare Tech,SMB,International,8/8/2025,,,3,54,10/1/2025,Contact Us,0,1,0,0,0,0
+skyler.perry3682@atlashealth62.io,Skyler,Perry,Atlas Health 62,HS103682,SFLED003682,LinkedIn,Disqualified,29,Cybersecurity,Mid-Market,International,1/28/2025,,,0,0,,,0,6,0,0,0,0
+cameron.ward1174@brightdynamics65.co,Cameron,Ward,Bright Dynamics 65,HS101174,SFLED001174,Outbound,Lead,43,Healthcare Tech,Enterprise,Mountain,8/18/2025,,,2,63,10/11/2025,Contact Us,0,1,0,0,0,0
+kendall.chen3214@keystoneops.ai,Kendall,Chen,Keystone Ops,HS103214,SFLED003214,Partner,Lead,60,SaaS,Enterprise,International,4/11/2025,,,2,30,5/25/2025,Contact Us,0,5,0,0,0,0
+taylor.ross2968@clearpathdata6.com,Taylor,Ross,Clearpath Data 6,HS102968,SFLED002968,Webinar,MQL,65,Ecommerce,Mid-Market,Central,4/28/2026,5/19/2026,,1,36,5/12/2026,ROI Calculator,0,1,0,0,0,0
+hayden.davis1621@keystonecloud.co,Hayden,Davis,Keystone Cloud,HS101621,SFLED001621,Referral,Lead,42,HR Tech,Enterprise,Central,2/1/2026,,,2,58.5,3/13/2026,Contact Us,0,4,0,0,0,0
+jamie.parker2196@signalgroup54.ai,Jamie,Parker,Signal Group 54,HS102196,SFLED002196,Content Download,Disqualified,50,Healthcare Tech,SMB,Mountain,5/30/2025,,,1,36,6/14/2025,ROI Calculator,0,4,0,0,0,0
+reese.reed4181@northstarsolutions.ai,Reese,Reed,Northstar Solutions 23,HS104181,SFLED004181,Webinar,Lead,12,Logistics Tech,Mid-Market,Northeast,6/6/2025,,,2,78.5,7/8/2025,CRM Audit,0,5,0,0,0,0
+quinn.parker2162@vertexsoftware28.com,Quinn,Parker,Vertex Software 28,HS102162,,Outbound,Lead,56,Ecommerce,SMB,Northeast,10/2/2025,,,3,53,11/21/2025,Contact Us,0,0,0,0,0,0
+rowan.reed268@pioneersoftware.co,Rowan,Reed,Pioneer Software,HS100268,SFLED000268,Outbound,Lead,42,Logistics Tech,Enterprise,Mountain,8/31/2025,,,0,0,,,0,1,0,0,0,0
+elliot.murphy622@keystoneplatform51.com,Elliot,Murphy,Keystone Platform 51,HS100622,SFLED000622,Direct,Disqualified,31,HR Tech,Enterprise,Central,9/15/2025,,,0,0,,,0,4,0,0,0,0
+jordan.carter3398@novasystems83.ai,Jordan,Carter,Nova Systems 83,,SFLED003398,Content Download,Lead,42,Logistics Tech,SMB,Southeast,10/6/2025,,,4,29.5,11/26/2025,CRM Audit,0,4,0,0,0,0
+kendall.bell3589@cobaltplatform29.co,Kendall,Bell,Cobalt Platform 29,HS103589,SFLED003589,Webinar,SQL,74,HR Tech,Mid-Market,Southeast,12/17/2025,12/23/2025,1/9/2026,1,32,2/13/2026,Contact Us,0,4,0,0,0,0
+reese.young3431@northstarsolutions.ai,Reese,Young,Northstar Solutions 23,HS103431,SFLED003431,LinkedIn,Lead,0,Logistics Tech,Mid-Market,Northeast,6/29/2025,,,1,26,7/3/2025,RevOps Playbook,0,1,0,0,0,0
+charlie.ross2541@signalsolutions.com,Charlie,Ross,Signal Solutions,HS102541,SFLED002541,Partner,Subscriber,31,EdTech,Mid-Market,West,2/23/2026,,,2,37,3/28/2026,ROI Calculator,0,3,0,0,0,0
+maya.perry1243@signalgroup54.ai,Maya,Perry,Signal Group 54,HS101243,SFLED001243,LinkedIn,Lead,22,Healthcare Tech,SMB,Mountain,6/7/2026,,,1,53,6/30/2026,Contact Us,0,3,0,0,0,0
+drew.stone478@meridianlabs60.com,Drew,Stone,Meridian Labs 60,HS100478,SFLED000478,LinkedIn,Lead,58,Ecommerce,Enterprise,Central,7/27/2025,,,3,37.33333333,9/2/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+skyler.james3661@nimbushealth75.com,Skyler,James,Nimbus Health 75,HS103661,SFLED003661,LinkedIn,Lead,55,HR Tech,Mid-Market,International,3/31/2025,,,1,36,5/24/2025,RevOps Playbook,0,4,0,0,0,0
+morgan.ward3221@atlasintelligence.co,Morgan,Ward,Atlas Intelligence,,SFLED003221,Organic Search,Lead,24,Manufacturing Tech,Mid-Market,Northeast,3/1/2025,,,3,29.33333333,3/31/2025,Contact Us,0,2,0,0,0,0
+harper.chen1365@clearpathmarkets.com,Harper,Chen,Clearpath Markets,,SFLED001365,Event,Lead,48,SaaS,Mid-Market,International,3/10/2026,,,0,0,,,0,1,0,0,0,0
+riley.wright4005@ironwoodsoftware14.com,Riley,Wright,Ironwood Software 14,,SFLED004005,Paid Search,Subscriber,39,HR Tech,SMB,Mountain,3/9/2025,,,2,34,4/22/2025,Contact Us,0,3,0,0,0,0
+cameron.price2325@vertexworks80.net,Cameron,Price,Vertex Works 80,HS102325,SFLED002325,Organic Search,Lead,35,Healthcare Tech,SMB,Northeast,3/23/2025,,,1,44,4/13/2025,ROI Calculator,0,3,0,0,0,0
+hayden.king3752@northstarsolutions.ai,Hayden,King,Northstar Solutions 91,,SFLED003752,Paid Search,Lead,32,Ecommerce,Mid-Market,Central,4/8/2026,,,0,0,,,0,4,0,0,0,0
+avery.sullivan189@signalhealth89.co,Avery,Sullivan,Signal Health 89,HS100189,SFLED000189,Direct,Lead,8,Manufacturing Tech,Mid-Market,Central,4/13/2026,,,0,0,,,0,3,0,0,0,0
+casey.miller2713@ironwoodops.co,Casey,Miller,Ironwood Ops,HS102713,SFLED002713,Event,MQL,59,Healthcare Tech,Mid-Market,Mountain,12/5/2025,12/14/2025,,0,0,,,0,0,0,0,0,0
+logan.parker2149@meridianmarkets.com,Logan,Parker,Meridian Markets,HS102149,SFLED002149,Partner,Lead,59,HR Tech,Mid-Market,Southeast,5/10/2025,,,0,0,,,0,2,0,0,0,0
+riley.sullivan1510@brightdynamics96.io,Riley,Sullivan,Bright Dynamics 96,HS101510,SFLED001510,Partner,Opportunity,100,SaaS,Mid-Market,Central,3/14/2025,3/15/2025,4/17/2025,2,46.5,4/21/2025,Contact Us,0,1,0,0,0,0
+hayden.carter854@apexnetworks.co,Hayden,Carter,Apex Networks,HS100854,SFLED000854,Webinar,SQL,65,Manufacturing Tech,Enterprise,Southeast,4/20/2026,5/12/2026,6/2/2026,2,40,5/19/2026,Contact Us,0,5,0,0,0,0
+skyler.patel585@vertexplatform6.co,Skyler,Patel,Vertex Platform 6,HS100585,SFLED000585,LinkedIn,Lead,15,Ecommerce,Enterprise,International,6/23/2026,,,2,38,6/30/2026,ROI Calculator,0,3,0,0,0,0
+reese.sullivan2825@cobaltsoftware99.net,Reese,Sullivan,Cobalt Software 99,HS102825,SFLED002825,Paid Search,Lead,46,Manufacturing Tech,Enterprise,Mountain,5/9/2026,,,3,45.66666667,6/18/2026,CRM Audit,0,1,0,0,0,0
+parker.carter1873@brightcloud66.net,Parker,Carter,Bright Cloud 66,HS101873,,Direct,Lead,28,Ecommerce,Enterprise,West,1/30/2025,,,2,42.5,3/20/2025,CRM Audit,0,4,0,0,0,0
+blake.reed1890@nimbusmarkets25.net,Blake,Reed,Nimbus Markets 25,HS101890,SFLED001890,Paid Search,Lead,34,Cybersecurity,Enterprise,Southeast,8/31/2025,,,1,51,9/2/2025,Contact Us,0,0,0,0,0,0
+taylor.ward3816@bluepeakcloud83.co,Taylor,Ward,BluePeak Cloud 83,HS103816,SFLED003816,Outbound,MQL,79,Healthcare Tech,Mid-Market,Northeast,6/23/2026,7/17/2026,,6,34.83333333,6/30/2026,Webinar Registration,0,2,0,0,0,0
+taylor.ward4180@apexgroup.com,Taylor,Ward,Apex Group,HS104180,SFLED004180,Paid Search,Disqualified,55,FinTech,Enterprise,International,6/15/2025,,,0,0,,,0,4,0,0,0,0
+harper.stone144@clearpathintellige.ai,Harper,Stone,Clearpath Intelligence 41,HS100144,SFLED000144,Content Download,Lead,38,Ecommerce,Enterprise,Northeast,11/3/2025,,,1,63,11/16/2025,Demo Request,0,1,0,0,0,0
+logan.bell2283@nimbusops79.com,Logan,Bell,Nimbus Ops 79,HS102283,SFLED002283,Organic Search,Lead,69,HR Tech,Mid-Market,Southeast,2/12/2025,,,3,73.66666667,4/8/2025,Contact Us,0,4,0,0,0,0
+charlie.davis1766@pioneerlabs30.co,Charlie,Davis,Pioneer Labs 30,HS101766,,LinkedIn,Lead,36,Ecommerce,Mid-Market,Northeast,10/4/2025,,,2,33.5,11/15/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+maya.parker1646@northstarops52.com,Maya,Parker,Northstar Ops 52,HS101646,SFLED001646,Webinar,Lead,41,HR Tech,SMB,Southeast,1/24/2025,,,1,49,2/12/2025,Contact Us,0,2,0,0,0,0
+skyler.gray2300@vertexplatform.com,Skyler,Gray,Vertex Platform,HS102300,SFLED002300,Outbound,Lead,37,Cybersecurity,Enterprise,Mountain,11/28/2025,,,3,41.33333333,1/21/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+riley.brooks2236@nimbusops.net,Riley,Brooks,Nimbus Ops,HS102236,SFLED002236,LinkedIn,Lead,54,EdTech,Mid-Market,Central,11/19/2025,,,0,0,,,0,1,0,0,0,0
+harper.bennett1232@nimbusanalytics49.io,Harper,Bennett,Nimbus Analytics 49,HS101232,SFLED001232,Webinar,MQL,63,SaaS,Mid-Market,Southeast,2/11/2025,2/12/2025,,1,75,3/21/2025,Demo Request,0,1,0,0,0,0
+bailey.bennett2653@meridianworks.ai,Bailey,Bennett,Meridian Works,HS102653,SFLED002653,Paid Search,Lead,50,FinTech,Enterprise,Central,1/23/2025,,,0,0,,,0,2,0,0,0,0
+elliot.king1606@cobalthealth15.ai,Elliot,King,Cobalt Health 15,HS101606,SFLED001606,Paid Search,Lead,26,Ecommerce,Enterprise,Central,1/25/2025,,,1,36,2/22/2025,Contact Us,0,1,0,0,0,0
+alex.carter2086@evergreennetworks4.net,Alex,Carter,Evergreen Networks 44,HS102086,SFLED002086,Content Download,Lead,29,EdTech,Mid-Market,Southeast,6/7/2025,,,1,26,6/11/2025,HubSpot-SFDC Checklist,0,3,0,0,0,0
+taylor.kim799@evergreensolutions.ai,Taylor,Kim,Evergreen Solutions,HS100799,SFLED000799,Referral,MQL,64,Cybersecurity,Mid-Market,Mountain,8/20/2025,9/11/2025,,1,12,8/27/2025,Webinar Registration,0,4,0,0,0,0
+emerson.bell124@northstarlabs.io,Emerson,Bell,Northstar Labs,HS100124,SFLED000124,Referral,SQL,70,Logistics Tech,SMB,Southeast,9/30/2025,10/3/2025,10/30/2025,1,68,11/7/2025,Demo Request,0,2,0,0,0,0
+finley.sullivan2805@vertexsystems29.net,Finley,Sullivan,Vertex Systems 29,HS102805,SFLED002805,Content Download,Lead,55,Logistics Tech,Enterprise,Central,1/17/2026,,,1,16,3/3/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+emerson.miller830@cobalthealth.net,Emerson,Miller,Cobalt Health,HS100830,SFLED000830,Content Download,SQL,62,SaaS,Mid-Market,Southeast,10/2/2025,10/8/2025,11/10/2025,3,51.33333333,11/9/2025,Webinar Registration,0,2,0,0,0,0
+cameron.davis3673@vertexsoftware.com,Cameron,Davis,Vertex Software,HS103673,SFLED003673,LinkedIn,MQL,54,EdTech,Mid-Market,Southeast,7/22/2025,8/7/2025,,2,50.5,9/16/2025,Contact Us,0,6,0,0,0,0
+skyler.stone3867@evergreennetworks9.co,Skyler,Stone,Evergreen Networks 99,HS103867,SFLED003867,Direct,Lead,68,Healthcare Tech,Enterprise,West,3/28/2026,,,0,0,,,0,6,0,0,0,0
+riley.ross1917@evergreenanalytics.io,Riley,Ross,Evergreen Analytics,HS101917,SFLED001917,Referral,Lead,45,SaaS,Mid-Market,Southeast,1/10/2026,,,1,35,2/6/2026,Contact Us,0,3,0,0,0,0
+riley.stone3470@brightdynamics96.io,Riley,Stone,Bright Dynamics 96,HS103470,SFLED003470,Outbound,Lead,56,SaaS,Mid-Market,Central,12/8/2025,,,1,51,12/21/2025,Contact Us,0,1,0,0,0,0
+finley.king63@brightgroup10.ai,Finley,King,Bright Group 10,,SFLED000063,Outbound,MQL,29,Healthcare Tech,Mid-Market,Northeast,9/30/2025,10/6/2025,,0,0,,,0,4,0,0,0,0
+casey.stone3281@atlasdata82.io,Casey,Stone,Atlas Data 82,HS103281,SFLED003281,LinkedIn,Lead,44,FinTech,Mid-Market,International,6/27/2026,,,1,38,6/30/2026,RevOps Playbook,0,2,0,0,0,0
+cameron.davis3472@clearpathanalytics.io,Cameron,Davis,Clearpath Analytics,HS103472,SFLED003472,Organic Search,Lead,53,SaaS,SMB,West,2/28/2025,,,1,18,4/3/2025,Webinar Registration,0,1,0,0,0,0
+reese.kim401@clearpathmarkets.com,Reese,Kim,Clearpath Markets,HS100401,SFLED000401,Content Download,Disqualified,72,SaaS,Mid-Market,International,1/24/2026,,,2,70,3/27/2026,Demo Request,0,3,0,0,0,0
+rowan.adams775@ironwoodgroup82.io,Rowan,Adams,Ironwood Group 82,HS100775,SFLED000775,Direct,Disqualified,46,Ecommerce,Enterprise,International,12/7/2025,,,1,23,12/23/2025,RevOps Playbook,0,0,0,0,0,0
+emerson.ross2275@meridiansystems.co,Emerson,Ross,Meridian Systems,HS102275,SFLED002275,Event,Lead,33,Cybersecurity,Enterprise,Southeast,5/7/2026,,,1,58,6/27/2026,CRM Audit,0,3,0,0,0,0
+hayden.king2288@atlassoftware68.net,Hayden,King,Atlas Software 68,,SFLED002288,Content Download,Lead,67,Manufacturing Tech,Mid-Market,Mountain,9/7/2025,,,2,32,11/1/2025,CRM Audit,0,1,0,0,0,0
+sam.king59@pioneersoftware.co,Sam,King,Pioneer Software,HS100059,SFLED000059,LinkedIn,Lead,8,Logistics Tech,Enterprise,Mountain,11/21/2025,,,1,45,12/24/2025,Demo Request,0,2,0,0,0,0
+riley.chen3322@ironwoodanalytics.net,Riley,Chen,Ironwood Analytics,HS103322,SFLED003322,Content Download,Lead,31,FinTech,Enterprise,Mountain,3/10/2026,,,0,0,,,0,3,0,0,0,0
+devon.long2235@northstardata.com,Devon,Long,Northstar Data,HS102235,SFLED002235,Webinar,MQL,90,Cybersecurity,Mid-Market,Northeast,3/2/2026,3/19/2026,,1,49,3/17/2026,CRM Audit,0,6,0,0,0,0
+emerson.davis2301@apexdynamics.ai,Emerson,Davis,Apex Dynamics,HS102301,SFLED002301,Webinar,Lead,77,SaaS,Enterprise,Central,3/2/2026,,,2,37,4/18/2026,Demo Request,0,1,0,0,0,0
+hayden.perry1866@novaops.net,Hayden,Perry,Nova Ops,HS101866,SFLED001866,Partner,Lead,30,Manufacturing Tech,Mid-Market,West,5/31/2026,,,4,41.75,6/30/2026,Webinar Registration,0,2,0,0,0,0
+morgan.adams1347@nimbussolutions.ai,Morgan,Adams,Nimbus Solutions,HS101347,SFLED001347,Direct,Lead,75,HR Tech,Mid-Market,Mountain,11/10/2025,,,2,74,1/9/2026,CRM Audit,0,2,0,0,0,0
+devon.wright1171@nimbusplatform45.ai,Devon,Wright,Nimbus Platform 45,,SFLED001171,Paid Search,Lead,9,Logistics Tech,Mid-Market,Mountain,2/12/2025,,,0,0,,,0,2,0,0,0,0
+elliot.miller2787@catalystgroup.com,Elliot,Miller,Catalyst Group,HS102787,SFLED002787,Content Download,MQL,77,FinTech,Enterprise,Central,2/2/2025,2/4/2025,,1,41,3/15/2025,Contact Us,0,3,0,0,0,0
+quinn.price477@pioneersoftware.co,Quinn,Price,Pioneer Software,HS100477,SFLED000477,Partner,Lead,46,Logistics Tech,Enterprise,Mountain,6/13/2025,,,1,53,7/15/2025,Webinar Registration,0,1,0,0,0,0
+elliot.sullivan3467@keystonesystems68.com,Elliot,Sullivan,Keystone Systems 68,HS103467,SFLED003467,Paid Search,MQL,53,SaaS,Mid-Market,Southeast,11/30/2025,12/20/2025,,0,0,,,0,3,0,0,0,0
+morgan.james3232@bluepeakintelligen.com,Morgan,James,BluePeak Intelligence 8,HS103232,SFLED003232,Paid Search,SQL,78,EdTech,Mid-Market,Mountain,6/27/2026,7/16/2026,8/4/2026,1,21,6/30/2026,HubSpot-SFDC Checklist,0,1,0,0,0,0
+hayden.patel407@keystonesystems68.com,Hayden,Patel,Keystone Systems 68,HS100407,,Webinar,Lead,31,SaaS,Mid-Market,Southeast,3/20/2026,,,3,52,4/23/2026,RevOps Playbook,0,2,0,0,0,0
+kendall.stone2830@summitmarkets88.co,Kendall,Stone,Summit Markets 88,HS102830,SFLED002830,Partner,MQL,64,Logistics Tech,Mid-Market,Mountain,5/6/2025,5/24/2025,,3,50,7/8/2025,Demo Request,0,3,0,0,0,0
+kendall.foster1079@catalystops.co,Kendall,Foster,Catalyst Ops,HS101079,SFLED001079,Paid Search,Disqualified,19,SaaS,Enterprise,Mountain,10/7/2025,,,0,0,,,0,6,0,0,0,0
+hayden.young3759@northstarops.net,Hayden,Young,Northstar Ops,HS103759,SFLED003759,Content Download,Subscriber,14,Healthcare Tech,Mid-Market,Southeast,6/27/2026,,,1,26,6/30/2026,HubSpot-SFDC Checklist,0,0,0,0,0,0
+reese.stone313@brightsystems91.io,Reese,Stone,Bright Systems 91,HS100313,SFLED000313,LinkedIn,Lead,40,Healthcare Tech,Mid-Market,Southeast,11/29/2025,,,3,45.33333333,12/22/2025,Demo Request,0,3,0,0,0,0
+kendall.carter246@bluepeakintelligen.com,Devon,Carter,Nova Intelligence 83,HS100525,SFLED000525,Partner,Lead,60,Manufacturing Tech,SMB,Northeast,4/28/2026,,,3,53.66666667,5/22/2026,ROI Calculator,0,2,0,0,0,0
+skyler.foster675@keystonenetworks6.co,Skyler,Foster,Keystone Networks 6,HS100675,SFLED000675,Outbound,Lead,44,Logistics Tech,SMB,Mountain,2/6/2026,,,1,80,2/6/2026,CRM Audit,0,4,0,0,0,0
+devon.stone1362@northstarsystems.ai,Devon,Stone,Northstar Systems,,SFLED001362,Outbound,MQL,63,HR Tech,SMB,Mountain,2/8/2026,2/27/2026,,1,23,4/2/2026,CRM Audit,0,4,0,0,0,0
+devon.adams2314@nimbusdynamics49.com,Devon,Adams,Nimbus Dynamics 49,HS102314,SFLED002314,Referral,Disqualified,59,SaaS,Enterprise,International,6/27/2026,,,2,42,6/30/2026,CRM Audit,0,5,0,0,0,0
+drew.long745@keystonenetworks.io,Drew,Long,Keystone Networks,HS100745,SFLED000745,Content Download,Lead,37,FinTech,SMB,West,1/8/2025,,,3,45.33333333,3/13/2025,Contact Us,0,3,0,0,0,0
+alex.parker1497@catalystlabs.io,Alex,Parker,Catalyst Labs,HS101497,SFLED001497,Content Download,Lead,35,Healthcare Tech,SMB,West,11/16/2025,,,0,0,,,0,5,0,0,0,0
+taylor.adams3576@keystoneplatform12.net,Taylor,Adams,Keystone Platform 12,HS103576,SFLED003576,Partner,MQL,65,Manufacturing Tech,SMB,Northeast,2/28/2026,3/18/2026,,0,0,,,0,4,0,0,0,0
+devon.young3088@nimbusdata29.net,Devon,Young,Nimbus Data 29,HS103088,SFLED003088,LinkedIn,Disqualified,96,Cybersecurity,Mid-Market,International,10/29/2025,,,2,8,12/25/2025,Contact Us,0,5,0,0,0,0
+rowan.gray3548@bluepeaksolutions.net,Rowan,Gray,BluePeak Solutions,HS103548,SFLED003548,Organic Search,SQL,76,Cybersecurity,Mid-Market,West,5/12/2026,5/27/2026,5/20/2026,0,0,,,0,5,0,0,0,0
+blake.parker3853@catalystsystems.ai,Blake,Parker,Catalyst Systems,HS103853,SFLED003853,Content Download,Lead,42,Healthcare Tech,Mid-Market,International,2/5/2025,,,3,32.33333333,4/7/2025,Contact Us,0,5,0,0,0,0
+hayden.parker1221@clearpathworks85.co,Hayden,Parker,Clearpath Works 85,HS101221,SFLED001221,Webinar,Lead,50,Healthcare Tech,Mid-Market,Mountain,3/3/2025,,,3,45.66666667,4/28/2025,CRM Audit,0,3,0,0,0,0
+quinn.nelson4017@bluepeaksystems86.net,Quinn,Nelson,BluePeak Systems 86,,SFLED004017,Event,Lead,42,Logistics Tech,Mid-Market,Southeast,1/15/2026,,,0,0,,,0,2,0,0,0,0
+sam.foster4020@meridiandata.com,Sam,Foster,Meridian Data,HS104020,SFLED004020,Referral,Lead,72,Healthcare Tech,SMB,Southeast,10/27/2025,,,0,0,,,0,2,0,0,0,0
+morgan.king3287@summitsoftware94.net,Morgan,King,Summit Software 94,HS103287,SFLED003287,Content Download,Lead,31,Logistics Tech,SMB,Central,11/29/2025,,,0,0,,,0,4,0,0,0,0
+elliot.james3524@meridianhealth.net,Elliot,James,Meridian Health,HS103524,SFLED003524,Content Download,Lead,54,HR Tech,SMB,Northeast,9/3/2025,,,2,43,10/22/2025,CRM Audit,0,0,0,0,0,0
+elliot.patel1213@novacloud58.com,Elliot,Patel,Nova Cloud 58,HS101213,SFLED001213,LinkedIn,Lead,35,Logistics Tech,Enterprise,Southeast,1/28/2025,,,0,0,,,0,3,0,0,0,0
+sam.gray279@meridiandynamics77.ai,Sam,Gray,Meridian Dynamics 77,HS100279,SFLED000279,Organic Search,MQL,83,FinTech,Enterprise,Southeast,5/3/2025,5/6/2025,,1,47,5/3/2025,Contact Us,0,5,0,0,0,0
+rowan.miller1693@atlassoftware93.ai,Rowan,Miller,Atlas Software 93,HS101693,SFLED001693,Organic Search,Lead,81,HR Tech,SMB,International,10/14/2025,,,4,48,12/12/2025,Contact Us,0,2,0,0,0,0
+drew.miller1023@nimbusdata.ai,Drew,Miller,Nimbus Data,HS101023,SFLED001023,Referral,Lead,45,SaaS,Enterprise,Southeast,8/9/2025,,,2,61,9/12/2025,Contact Us,0,5,0,0,0,0
+skyler.bell2049@brightsoftware.ai,Skyler,Bell,Bright Software,HS102049,SFLED002049,Content Download,MQL,46,Manufacturing Tech,Enterprise,Mountain,4/25/2025,5/12/2025,,0,0,,,0,1,0,0,0,0
+devon.wright727@evergreenanalytics.io,Devon,Wright,Evergreen Analytics 41,HS100727,,Organic Search,Subscriber,82,Ecommerce,Enterprise,Mountain,10/19/2025,,,1,38,10/26/2025,Webinar Registration,0,3,0,0,0,0
+reese.ross650@nimbussolutions.ai,Reese,Ross,Nimbus Solutions,HS100650,SFLED000650,Paid Search,Lead,55,HR Tech,Mid-Market,Mountain,6/26/2026,,,0,0,,,0,1,0,0,0,0
+devon.stone1920@brightcloud66.net,Devon,Stone,Bright Cloud 66,HS101920,SFLED001920,LinkedIn,Disqualified,68,Ecommerce,Enterprise,West,6/13/2025,,,1,59,7/5/2025,Demo Request,0,2,0,0,0,0
+maya.bell2513@summithealth69.io,Maya,Bell,Summit Health 69,HS102513,SFLED002513,Partner,Lead,63,HR Tech,Enterprise,Mountain,3/15/2026,,,0,0,,,0,1,0,0,0,0
+casey.chen2752@catalystnetworks.ai,Casey,Chen,Catalyst Networks,HS102752,SFLED002752,Direct,Disqualified,52,Manufacturing Tech,Enterprise,West,4/3/2025,,,1,64,4/16/2025,ROI Calculator,0,3,0,0,0,0
+casey.ross3709@evergreendata88.ai,Casey,Ross,Evergreen Data 88,,SFLED003709,Outbound,Lead,41,SaaS,SMB,Southeast,5/23/2025,,,3,61.66666667,7/24/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+reese.murphy197@brightsystems91.io,Reese,Murphy,Bright Systems 91,HS100197,SFLED000197,Paid Search,Lead,3,Healthcare Tech,Mid-Market,Southeast,8/26/2025,,,1,44,10/17/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+rowan.davis180@bluepeaksystems86.net,Rowan,Davis,BluePeak Systems 86,HS100180,SFLED000180,LinkedIn,Lead,20,Logistics Tech,Mid-Market,Southeast,5/28/2026,,,0,0,,,0,2,0,0,0,0
+jamie.reed497@nimbushealth11.ai,Jamie,Reed,Nimbus Health 11,,SFLED000497,LinkedIn,Lead,16,FinTech,SMB,Southeast,1/23/2025,,,3,50.66666667,3/28/2025,RevOps Playbook,0,5,0,0,0,0
+riley.murphy544@cobaltsoftware.io,Riley,Murphy,Cobalt Software,HS100544,SFLED000544,Paid Search,Lead,57,EdTech,Enterprise,West,6/6/2026,,,3,26,6/30/2026,Contact Us,0,1,0,0,0,0
+riley.perry3646@catalystops.co,Riley,Perry,Catalyst Ops,HS103646,SFLED003646,Organic Search,Lead,43,SaaS,Enterprise,Mountain,2/26/2026,,,2,22.5,4/10/2026,ROI Calculator,0,2,0,0,0,0
+elliot.stone2797@evergreenlabs24.ai,Elliot,Stone,Evergreen Labs 24,HS102797,SFLED002797,LinkedIn,Lead,36,SaaS,Enterprise,Mountain,4/8/2026,,,0,0,,,0,5,0,0,0,0
+quinn.james1691@atlashealth.net,Quinn,James,Atlas Health,,SFLED001691,Paid Search,Lead,93,SaaS,Mid-Market,Central,1/25/2026,,,1,16,3/12/2026,Webinar Registration,0,1,0,0,0,0
+maya.murphy789@cobaltlabs91.com,Maya,Murphy,Cobalt Labs 91,HS100789,SFLED000789,Direct,Lead,21,Ecommerce,Mid-Market,Northeast,11/4/2025,,,1,56,12/11/2025,Contact Us,0,1,0,0,0,0
+avery.miller3385@apexsolutions9.co,Avery,Miller,Apex Solutions 9,HS103385,SFLED003385,Event,SQL,100,Manufacturing Tech,Enterprise,Central,1/1/2026,1/14/2026,2/9/2026,2,65.5,2/2/2026,Demo Request,0,3,0,0,0,0
+bailey.long3861@evergreenmarkets75.io,Bailey,Long,Evergreen Markets 75,HS103861,SFLED003861,Event,SQL,73,Logistics Tech,Enterprise,Central,5/12/2026,5/21/2026,6/2/2026,1,68,6/30/2026,ROI Calculator,0,2,0,0,0,0
+avery.ross1322@clearpathintellige.co,Avery,Ross,Clearpath Intelligence 77,,SFLED001322,Content Download,Lead,6,HR Tech,Enterprise,International,6/26/2025,,,3,59,8/26/2025,CRM Audit,0,2,0,0,0,0
+reese.gray1998@brightnetworks83.co,Reese,Gray,Bright Networks 83,HS101998,SFLED001998,Referral,Lead,47,Logistics Tech,SMB,West,3/15/2026,,,1,24,5/7/2026,ROI Calculator,0,1,0,0,0,0
+maya.carter792@clearpathsolutions.com,Maya,Carter,Clearpath Solutions 31,HS100792,SFLED000792,Webinar,MQL,60,HR Tech,SMB,Mountain,4/20/2026,4/29/2026,,1,28,6/1/2026,Contact Us,0,5,0,0,0,0
+morgan.king3635@keystonesoftware.io,Morgan,King,Keystone Software,HS103635,SFLED003635,Paid Search,Lead,0,Cybersecurity,Mid-Market,Mountain,10/22/2025,,,2,48,11/3/2025,CRM Audit,0,2,0,0,0,0
+logan.long1288@meridianlabs60.com,Logan,Long,Meridian Labs 60,HS101288,SFLED001288,Webinar,MQL,42,Ecommerce,Enterprise,Central,6/9/2025,6/10/2025,,0,0,,,0,2,0,0,0,0
+riley.bennett1868@nimbusplatform45.ai,Riley,Bennett,Nimbus Platform 45,,SFLED001868,Webinar,Lead,27,Logistics Tech,Mid-Market,Mountain,10/5/2025,,,3,55.33333333,12/8/2025,Webinar Registration,0,3,0,0,0,0
+bailey.sullivan1337@nimbusmarkets.ai,Emerson,Parker,Summit Dynamics 97,HS102168,SFLED002168,Organic Search,MQL,40,EdTech,Mid-Market,Mountain,9/27/2025,10/7/2025,,2,54,10/28/2025,Contact Us,0,3,0,0,0,0
+taylor.long3981@atlasgroup.com,Taylor,Long,Atlas Group,HS103981,SFLED003981,Outbound,Lead,38,SaaS,SMB,Southeast,6/9/2026,,,1,47,6/30/2026,CRM Audit,0,1,0,0,0,0
+emerson.stone1820@signalanalytics.net,Emerson,Stone,Signal Analytics,HS101820,SFLED001820,Direct,MQL,36,HR Tech,Mid-Market,West,10/11/2025,10/26/2025,,0,0,,,0,6,0,0,0,0
+hayden.foster2014@evergreenlabs24.ai,Avery,Price,Nimbus Data,HS103391,SFLED003391,Referral,Lead,49,SaaS,Enterprise,Southeast,1/17/2026,,,5,50.6,3/22/2026,RevOps Playbook,0,3,0,0,0,0
+avery.young2848@ironwooddynamics22.co,Avery,Young,Ironwood Dynamics 22,HS102848,SFLED002848,Outbound,Lead,21,Healthcare Tech,SMB,West,4/6/2026,,,1,69,5/19/2026,HubSpot-SFDC Checklist,0,3,0,0,0,0
+drew.perry568@evergreensystems95.co,Drew,Perry,Evergreen Systems 95,HS100568,SFLED000568,Paid Search,Lead,44,HR Tech,Enterprise,Southeast,1/10/2025,,,1,53,1/25/2025,Contact Us,0,1,0,0,0,0
+charlie.price1334@ironwoodsoftware.ai,Charlie,Price,Ironwood Software,HS101334,SFLED001334,Event,MQL,49,Cybersecurity,Enterprise,Central,5/17/2025,5/21/2025,,0,0,,,0,3,0,0,0,0
+bailey.parker3922@catalystnetworks.ai,Bailey,Parker,Catalyst Networks,HS103922,SFLED003922,LinkedIn,Lead,40,Manufacturing Tech,Enterprise,West,3/21/2025,,,4,52.5,4/19/2025,RevOps Playbook,0,2,0,0,0,0
+riley.sullivan3838@cobaltsoftware99.net,Riley,Sullivan,Cobalt Software 99,HS103838,SFLED003838,LinkedIn,MQL,65,Manufacturing Tech,Enterprise,Mountain,3/20/2025,4/12/2025,,0,0,,,0,0,0,0,0,0
+jordan.bell1176@clearpathmarkets43.net,Jordan,Bell,Clearpath Markets 43,HS101176,SFLED001176,LinkedIn,Lead,10,SaaS,SMB,International,5/26/2025,,,1,39,5/26/2025,CRM Audit,0,7,0,0,0,0
+cameron.patel3723@evergreenops.net,Cameron,Patel,Evergreen Ops,HS103723,SFLED003723,Content Download,Lead,34,SaaS,Enterprise,Central,3/6/2026,,,2,55.5,4/23/2026,CRM Audit,0,4,0,0,0,0
+logan.king3126@evergreenmarkets.co,Logan,King,Evergreen Markets,HS103126,SFLED003126,Paid Search,Lead,33,Healthcare Tech,Mid-Market,Northeast,5/8/2025,,,2,61,5/23/2025,CRM Audit,0,6,0,0,0,0
+emerson.james3225@brightgroup.co,Emerson,James,Bright Group,HS103225,SFLED003225,Webinar,SQL,62,EdTech,SMB,Southeast,6/28/2025,7/13/2025,7/27/2025,1,30,8/31/2025,ROI Calculator,0,1,0,0,0,0
+hayden.parker3160@pioneersystems72.net,Hayden,Parker,Pioneer Systems 72,HS103160,,Paid Search,Lead,19,FinTech,Mid-Market,West,12/9/2025,,,0,0,,,0,2,0,0,0,0
+charlie.perry3989@evergreenmarkets75.io,Charlie,Perry,Evergreen Markets 75,HS103989,SFLED003989,LinkedIn,Lead,76,Logistics Tech,Enterprise,Central,5/9/2026,,,2,62.5,6/18/2026,CRM Audit,0,2,0,0,0,0
+reese.gray3236@vertexsoftware28.com,Reese,Gray,Vertex Software 28,HS103236,SFLED003236,Direct,Lead,36,Ecommerce,SMB,Northeast,6/9/2026,,,0,0,,,0,3,0,0,0,0
+maya.price2892@pioneersolutions.com,Maya,Price,Pioneer Solutions,HS102892,,Content Download,Lead,3,FinTech,Enterprise,West,3/27/2026,,,0,0,,,0,1,0,0,0,0
+quinn.price4117@northstarmarkets.co,Quinn,Price,Northstar Markets,HS104117,SFLED004117,Partner,MQL,78,Ecommerce,Mid-Market,Northeast,3/11/2026,3/23/2026,,0,0,,,0,4,0,0,0,0
+maya.gray1108@nimbusanalytics49.io,Maya,Gray,Nimbus Analytics 49,HS101108,SFLED001108,Outbound,Lead,3,SaaS,Mid-Market,Southeast,4/26/2025,,,2,49,6/12/2025,Contact Us,0,2,0,0,0,0
+riley.reed2753@atlassystems51.com,Riley,Reed,Atlas Systems 51,HS102753,SFLED002753,Outbound,Lead,52,FinTech,Enterprise,Northeast,9/17/2025,,,0,0,,,0,2,0,0,0,0
+elliot.patel2250@northstarmarkets19.co,Elliot,Patel,Northstar Markets 19,HS102250,SFLED002250,Webinar,Lead,69,Healthcare Tech,SMB,Central,7/10/2025,,,0,0,,,0,3,0,0,0,0
+sam.brooks733@catalystops.co,Sam,Brooks,Catalyst Ops,HS100733,SFLED000733,Referral,Subscriber,21,SaaS,Enterprise,Mountain,2/11/2025,,,0,0,,,0,1,0,0,0,0
+jamie.james3905@nimbussolutions.ai,Jamie,James,Nimbus Solutions,HS103905,SFLED003905,Content Download,Lead,59,HR Tech,Mid-Market,Mountain,4/6/2026,,,0,0,,,0,4,0,0,0,0
+bailey.young1405@bluepeaksystems86.net,Bailey,Young,BluePeak Systems 86,HS101405,SFLED001405,Webinar,MQL,90,Logistics Tech,Mid-Market,Southeast,8/11/2025,8/20/2025,,2,53.5,8/31/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+logan.parker867@pioneerhealth24.net,Logan,Parker,Pioneer Health 24,HS100867,SFLED000867,Content Download,MQL,63,EdTech,Enterprise,Northeast,6/9/2025,7/2/2025,,1,51,7/31/2025,Demo Request,0,3,0,0,0,0
+cameron.long863@nimbussystems47.com,Cameron,Long,Nimbus Systems 47,HS100863,SFLED000863,Webinar,Lead,60,Ecommerce,Enterprise,Mountain,8/20/2025,,,1,63,10/17/2025,Webinar Registration,0,2,0,0,0,0
+sam.parker1787@catalystworks6.co,Sam,Parker,Catalyst Works 6,HS101787,,Partner,SQL,60,Cybersecurity,Enterprise,Central,6/25/2025,7/6/2025,7/6/2025,1,73,8/27/2025,Demo Request,0,0,0,0,0,0
+logan.james1320@summitsoftware.ai,Logan,James,Summit Software,HS101320,SFLED001320,LinkedIn,Lead,7,Ecommerce,SMB,International,8/11/2025,,,2,66.5,9/27/2025,Demo Request,0,0,0,0,0,0
+jamie.reed2810@cobaltsoftware.io,Jamie,Reed,Cobalt Software,HS102810,SFLED002810,Content Download,Disqualified,53,EdTech,Enterprise,West,4/6/2025,,,1,35,6/1/2025,ROI Calculator,0,2,0,0,0,0
+drew.nelson372@catalystdynamics59.ai,Drew,Nelson,Catalyst Dynamics 59,HS100372,SFLED000372,Organic Search,Lead,39,EdTech,SMB,Southeast,7/16/2025,,,0,0,,,0,1,0,0,0,0
+logan.miller2006@evergreennetworks9.co,Logan,Miller,Evergreen Networks 99,HS102006,SFLED002006,Referral,Opportunity,92,Healthcare Tech,Enterprise,West,7/7/2025,7/11/2025,8/1/2025,1,30,7/27/2025,Contact Us,0,3,0,0,0,0
+rowan.foster2957@bluepeakmarkets96.com,Rowan,Foster,BluePeak Markets 96,HS102957,SFLED002957,Partner,Lead,68,FinTech,Mid-Market,Northeast,1/4/2026,,,0,0,,,0,1,0,0,0,0
+logan.king2530@apexgroup.com,Logan,King,Apex Group,HS102530,,Outbound,Lead,0,FinTech,Enterprise,International,9/27/2025,,,3,39.66666667,11/23/2025,CRM Audit,0,4,0,0,0,0
+devon.murphy3568@summitmarkets88.co,Devon,Murphy,Summit Markets 88,HS103568,SFLED003568,Referral,MQL,33,Logistics Tech,Mid-Market,Mountain,1/5/2026,1/11/2026,,1,63,2/2/2026,Contact Us,0,1,0,0,0,0
+kendall.davis931@pioneermarkets.net,Kendall,Davis,Pioneer Markets,HS100931,,Event,Lead,42,EdTech,Mid-Market,International,2/11/2025,,,1,63,2/23/2025,CRM Audit,0,3,0,0,0,0
+logan.kim3831@catalystsoftware96.net,Logan,Kim,Catalyst Software 96,HS103831,SFLED003831,Partner,Lead,53,Ecommerce,Mid-Market,International,9/23/2025,,,0,0,,,0,3,0,0,0,0
+reese.miller3101@meridianworks60.com,Reese,Miller,Meridian Works 60,HS103101,SFLED003101,Content Download,Lead,40,SaaS,SMB,Mountain,2/1/2025,,,1,63,3/18/2025,Demo Request,0,2,0,0,0,0
+blake.sullivan2522@evergreennetworks.com,Blake,Sullivan,Evergreen Networks,HS102522,SFLED002522,LinkedIn,Lead,39,Logistics Tech,SMB,Central,11/24/2025,,,2,53,1/16/2026,Contact Us,0,3,0,0,0,0
+avery.price3851@northstarworks5.com,Avery,Price,Northstar Works 5,HS103851,SFLED003851,Organic Search,Lead,25,Ecommerce,Mid-Market,West,11/11/2025,,,0,0,,,0,3,0,0,0,0
+casey.davis87@ironwoodmarkets.io,Casey,Davis,Ironwood Markets,HS100087,SFLED000087,Partner,MQL,89,EdTech,Enterprise,West,4/17/2026,4/24/2026,,1,45,6/10/2026,ROI Calculator,0,4,0,0,0,0
+taylor.wright2866@brightanalytics25.com,Taylor,Wright,Bright Analytics 25,,SFLED002866,Referral,Lead,50,Healthcare Tech,SMB,International,1/4/2026,,,0,0,,,0,3,0,0,0,0
+drew.king2612@apexnetworks54.co,Drew,King,Apex Networks 54,HS102612,SFLED002612,Organic Search,Lead,36,Logistics Tech,Enterprise,International,1/13/2025,,,0,0,,,0,3,0,0,0,0
+alex.young1001@apexsolutions85.ai,Alex,Young,Apex Solutions 85,HS101001,SFLED001001,Content Download,SQL,77,HR Tech,SMB,West,10/16/2025,11/4/2025,11/25/2025,2,32.5,12/12/2025,Contact Us,0,6,0,0,0,0
+sam.king2291@summitgroup.io,Sam,King,Summit Group,HS102291,SFLED002291,Partner,MQL,81,SaaS,Enterprise,Central,6/16/2025,7/9/2025,,4,65,8/12/2025,CRM Audit,0,2,0,0,0,0
+drew.bell1282@northstarsolutions.ai,Drew,Bell,Northstar Solutions 23,HS101282,SFLED001282,Outbound,Lead,0,Logistics Tech,Mid-Market,Northeast,6/25/2026,,,2,42.5,6/30/2026,Contact Us,0,4,0,0,0,0
+rowan.torres2475@bluepeaksystems86.net,Rowan,Torres,BluePeak Systems 86,HS102475,SFLED002475,Referral,Lead,58,Logistics Tech,Mid-Market,Southeast,5/14/2026,,,2,35.5,6/24/2026,Contact Us,0,4,0,0,0,0
+jamie.foster3764@summitmarkets97.com,Jamie,Foster,Summit Markets 97,HS103764,SFLED003764,Content Download,MQL,74,Healthcare Tech,SMB,Southeast,4/11/2026,4/28/2026,,1,47,5/7/2026,HubSpot-SFDC Checklist,0,5,0,0,0,0
+skyler.brooks3320@cobaltanalytics36.io,Skyler,Brooks,Cobalt Analytics 36,HS103320,SFLED003320,LinkedIn,Lead,47,EdTech,SMB,International,2/11/2026,,,0,0,,,0,3,0,0,0,0
+bailey.adams1134@clearpathlabs47.com,Bailey,Adams,Clearpath Labs 47,HS101134,SFLED001134,Organic Search,Lead,7,Logistics Tech,Mid-Market,Mountain,3/20/2026,,,2,61.5,5/21/2026,CRM Audit,0,4,0,0,0,0
+sam.bell1514@cobaltdata.net,Sam,Bell,Cobalt Data,HS101514,SFLED001514,Outbound,Lead,43,Healthcare Tech,SMB,West,12/15/2025,,,0,0,,,0,1,0,0,0,0
+elliot.sullivan949@vertexlabs77.net,Elliot,Sullivan,Vertex Labs 77,HS100949,SFLED000949,Organic Search,Disqualified,45,Manufacturing Tech,Mid-Market,Central,5/1/2026,,,1,27,6/3/2026,ROI Calculator,0,1,0,0,0,0
+kendall.price702@ironwoodlabs39.io,Kendall,Price,Ironwood Labs 39,,SFLED000702,Partner,SQL,72,Ecommerce,SMB,Northeast,7/9/2025,7/13/2025,8/11/2025,3,55.66666667,9/11/2025,Contact Us,0,3,0,0,0,0
+reese.adams1930@pioneersolutions.com,Reese,Adams,Pioneer Solutions,HS101930,SFLED001930,Webinar,Lead,85,FinTech,Enterprise,West,4/19/2025,,,1,50,5/10/2025,RevOps Playbook,0,2,0,0,0,0
+devon.perry2193@northstarmarkets.co,Devon,Perry,Northstar Markets,HS102193,SFLED002193,Webinar,MQL,60,Ecommerce,Mid-Market,Northeast,11/6/2025,11/20/2025,,2,42,11/22/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+harper.wright3238@ironwoodsystems49.ai,Harper,Wright,Ironwood Systems 49,HS103238,SFLED003238,Paid Search,Lead,29,Healthcare Tech,SMB,Southeast,7/19/2025,,,2,56,8/18/2025,ROI Calculator,0,1,0,0,0,0
+elliot.miller3766@atlassolutions.net,Elliot,Miller,Atlas Solutions,HS103766,SFLED003766,Outbound,SQL,75,SaaS,SMB,Central,3/22/2025,4/12/2025,3/29/2025,4,54.5,5/22/2025,Webinar Registration,0,2,0,0,0,0
+harper.murphy3099@brightsystems.io,Harper,Murphy,Bright Systems,HS103099,SFLED003099,Content Download,Lead,75,HR Tech,SMB,West,5/30/2025,,,1,55,7/10/2025,Contact Us,0,1,0,0,0,0
+charlie.gray1142@keystonecloud.co,Charlie,Gray,Keystone Cloud,HS101142,SFLED001142,Content Download,Subscriber,5,HR Tech,Enterprise,Central,1/28/2025,,,0,0,,,0,1,0,0,0,0
+reese.foster880@brightdata15.ai,Reese,Foster,Bright Data 15,HS100880,SFLED000880,Outbound,Lead,31,Healthcare Tech,Mid-Market,Northeast,6/28/2026,,,2,74.5,6/30/2026,CRM Audit,0,2,0,0,0,0
+rowan.torres1725@summitworks32.ai,Rowan,Torres,Summit Works 32,HS101725,SFLED001725,Partner,Lead,18,Healthcare Tech,SMB,West,8/16/2025,,,2,60.5,10/9/2025,Contact Us,0,2,0,0,0,0
+logan.long717@vertexworks80.net,Logan,Long,Vertex Works 80,HS100717,SFLED000717,Outbound,Lead,49,Healthcare Tech,SMB,Northeast,4/11/2026,,,2,19,5/26/2026,RevOps Playbook,0,4,0,0,0,0
+devon.bennett2278@ironwooddynamics22.co,Devon,Bennett,Ironwood Dynamics 22,HS102278,SFLED002278,Organic Search,Lead,53,Healthcare Tech,SMB,West,4/13/2026,,,3,35.66666667,5/18/2026,CRM Audit,0,4,0,0,0,0
+cameron.carter3279@evergreenanalytics.io,Cameron,Carter,Evergreen Analytics 41,HS103279,SFLED003279,Webinar,MQL,51,Ecommerce,Enterprise,Mountain,6/21/2025,7/5/2025,,1,46,7/25/2025,HubSpot-SFDC Checklist,0,4,0,0,0,0
+hayden.king1754@apexnetworks54.co,Hayden,King,Apex Networks 54,HS101754,SFLED001754,Organic Search,Subscriber,4,Logistics Tech,Enterprise,International,3/23/2025,,,0,0,,,0,4,0,0,0,0
+maya.bell640@catalystsystems.ai,Maya,Bell,Catalyst Systems,HS100640,SFLED000640,Paid Search,Lead,50,Healthcare Tech,Mid-Market,International,2/25/2025,,,1,50,3/24/2025,HubSpot-SFDC Checklist,0,1,0,0,0,0
+avery.gray3181@bluepeakops21.net,Avery,Gray,BluePeak Ops 21,HS103181,SFLED003181,Partner,Lead,69,Healthcare Tech,Mid-Market,Mountain,12/27/2025,,,1,75,1/4/2026,Demo Request,0,1,0,0,0,0
+hayden.wright1689@apexgroup17.co,Hayden,Wright,Apex Group 17,HS101689,SFLED001689,Content Download,Lead,67,FinTech,Enterprise,Southeast,9/7/2025,,,1,58,10/27/2025,Demo Request,0,1,0,0,0,0
+cameron.ward1055@catalystsoftware96.net,Cameron,Ward,Catalyst Software 96,HS101055,SFLED001055,Referral,Disqualified,55,Ecommerce,Mid-Market,International,8/22/2025,,,2,20,10/6/2025,Contact Us,0,5,0,0,0,0
+cameron.bennett2192@cobaltlabs56.ai,Cameron,Bennett,Cobalt Labs 56,HS102192,SFLED002192,Outbound,Lead,43,Healthcare Tech,Enterprise,Northeast,6/13/2025,,,2,29,7/16/2025,RevOps Playbook,0,0,0,0,0,0
+parker.parker1377@northstarsolutions.ai,Parker,Parker,Northstar Solutions 23,,SFLED001377,Organic Search,Subscriber,18,Logistics Tech,Mid-Market,Northeast,1/2/2025,,,2,36,1/9/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+parker.brooks3863@apexplatform59.net,Parker,Brooks,Apex Platform 59,HS103863,SFLED003863,Outbound,Lead,30,Manufacturing Tech,SMB,Mountain,4/8/2025,,,3,35,5/16/2025,Webinar Registration,0,3,0,0,0,0
+casey.wright362@cobaltcloud5.co,Casey,Wright,Cobalt Cloud 5,HS100362,SFLED000362,Organic Search,Lead,36,Ecommerce,Mid-Market,West,3/8/2025,,,2,40,4/20/2025,Contact Us,0,0,0,0,0,0
+maya.bennett690@bluepeaksolutions.net,Maya,Bennett,BluePeak Solutions,HS100690,SFLED000690,Direct,SQL,73,Cybersecurity,Mid-Market,West,8/29/2025,9/11/2025,10/7/2025,0,0,,,0,1,0,0,0,0
+jamie.foster1993@cobaltlabs40.ai,Jamie,Foster,Cobalt Labs 40,HS101993,SFLED001993,Webinar,MQL,64,Logistics Tech,Mid-Market,International,4/8/2025,4/13/2025,,1,58,4/21/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+emerson.carter1501@summitdynamics97.net,Emerson,Carter,Summit Dynamics 97,HS101501,SFLED001501,LinkedIn,Lead,49,EdTech,Mid-Market,Mountain,9/29/2025,,,1,83,11/28/2025,Webinar Registration,0,2,0,0,0,0
+quinn.sullivan3170@apexdata42.co,Quinn,Sullivan,Apex Data 42,HS103170,SFLED003170,Paid Search,Lead,55,FinTech,SMB,Southeast,3/25/2026,,,1,60,4/28/2026,Demo Request,0,2,0,0,0,0
+kendall.adams3241@evergreengroup93.net,Kendall,Adams,Evergreen Group 93,HS103241,SFLED003241,Paid Search,Lead,16,HR Tech,Enterprise,Mountain,5/23/2026,,,1,40,6/29/2026,RevOps Playbook,0,2,0,0,0,0
+jordan.ward2411@catalystworks.com,Jordan,Ward,Catalyst Works,HS102411,SFLED002411,Event,Lead,41,EdTech,SMB,International,6/26/2025,,,3,34,8/18/2025,RevOps Playbook,0,3,0,0,0,0
+skyler.wright1620@clearpathmarkets.com,Blake,Murphy,Nimbus Ops,HS102465,,Partner,Lead,53,EdTech,Mid-Market,Central,11/6/2025,,,0,0,,,0,3,0,0,0,0
+jamie.reed505@keystoneplatform46.co,Jamie,Reed,Keystone Platform 46,HS100505,SFLED000505,Partner,Subscriber,38,Cybersecurity,Mid-Market,Mountain,8/11/2025,,,1,33,9/6/2025,HubSpot-SFDC Checklist,0,2,0,0,0,0
+hayden.ward1311@apexgroup.com,Hayden,Ward,Apex Group,HS101311,SFLED001311,Paid Search,Lead,3,FinTech,Enterprise,International,1/10/2025,,,2,23,2/25/2025,CRM Audit,0,0,0,0,0,0
+casey.miller473@vertexhealth3.com,Casey,Miller,Vertex Health 3,,SFLED000473,Outbound,Lead,6,HR Tech,Mid-Market,Mountain,2/11/2025,,,1,34,3/14/2025,Contact Us,0,1,0,0,0,0
+avery.ward388@ironwoodnetworks73.io,Avery,Ward,Ironwood Networks 73,HS100388,SFLED000388,Direct,Lead,39,Logistics Tech,Mid-Market,Central,7/24/2025,,,1,18,9/12/2025,Contact Us,0,1,0,0,0,0
+hayden.patel3257@summithealth69.io,Hayden,Patel,Summit Health 69,HS103257,SFLED003257,Referral,Lead,63,HR Tech,Enterprise,Mountain,5/29/2025,,,1,50,6/28/2025,Demo Request,0,7,0,0,0,0
+harper.brooks1332@cobalthealth15.ai,Harper,Brooks,Cobalt Health 15,HS101332,SFLED001332,Paid Search,Lead,48,Ecommerce,Enterprise,Central,7/26/2025,,,1,44,8/16/2025,Webinar Registration,0,3,0,0,0,0
+parker.adams3897@clearpathlabs39.io,Parker,Adams,Clearpath Labs 39,HS103897,SFLED003897,Event,MQL,51,SaaS,Enterprise,Mountain,2/18/2025,2/24/2025,,2,70.5,3/30/2025,CRM Audit,0,1,0,0,0,0
+riley.sullivan3505@atlaslabs13.net,Riley,Sullivan,Atlas Labs 13,HS103505,SFLED003505,Outbound,MQL,46,HR Tech,Mid-Market,Northeast,1/31/2025,2/20/2025,,0,0,,,0,2,0,0,0,0
+skyler.stone4145@vertexdynamics.io,Skyler,Stone,Vertex Dynamics,HS104145,SFLED004145,Organic Search,Lead,94,FinTech,Mid-Market,Southeast,11/24/2025,,,0,0,,,0,5,0,0,0,0

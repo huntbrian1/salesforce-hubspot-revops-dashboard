@@ -1,0 +1,6 @@
+stage_name,opps,open_pipeline,expected_revenue,stale_opps,stale_rate
+Discovery,265,28051704,7012926.0,82,0.309
+Demo,278,27112722,10845088.8,81,0.291
+Proposal,231,25128118,15076870.8,60,0.26
+Prospecting,259,22233408,2223340.8,72,0.278
+Negotiation,155,17059882,12794911.5,49,0.316

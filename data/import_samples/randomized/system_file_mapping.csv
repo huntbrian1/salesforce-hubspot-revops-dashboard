@@ -1,0 +1,16 @@
+Target System,File,Purpose
+Salesforce,00_salesforce_users_reference_create_manually.csv,Reference only; create users manually or map records to your current user if needed.
+Salesforce,01_salesforce_accounts_import.csv,Companies/accounts owned by sales team; randomized account coverage based on referenced sampled records.
+Salesforce,02_salesforce_leads_import.csv,"Randomized, stratified sample of 900 leads across lead source and lifecycle stage."
+Salesforce,03_salesforce_contacts_import.csv,"Randomized, stratified sample of 900 contacts across persona and opt-in status."
+Salesforce,04_salesforce_opportunities_import.csv,"Randomized, stratified sample of 500 opportunities across stage and source."
+Salesforce,05_salesforce_campaigns_import.csv,All 36 campaigns from the original dataset.
+Salesforce,06_campaign_members_reference.csv,Campaign members limited to sampled leads/contacts; reference/import optional.
+Salesforce,07_salesforce_tasks_optional_reference.csv,Randomized task/activity reference limited to sampled CRM records.
+Salesforce,08_sync_errors_custom_object_import.csv,All sync errors; custom object import if desired.
+Salesforce,09_data_quality_audit_custom_object_import.csv,All CRM data-quality audit rows; custom object import.
+HubSpot,01_hubspot_companies_import.csv,Companies linked to the randomized HubSpot contact/lead sample.
+HubSpot,02_hubspot_contacts_import.csv,"Same randomized stratified 900-lead sample, shaped as HubSpot contacts with source/lifecycle/engagement fields."
+HubSpot,03_hubspot_deals_optional_import.csv,Optional HubSpot deals from the randomized Salesforce opportunity sample.
+HubSpot,04_hubspot_campaigns_reference_not_native_import.csv,Campaign reference table; HubSpot campaign import may require Marketing Hub features/custom object workaround.
+HubSpot,05_hubspot_marketing_activity_summary_reference.csv,Reference summary for dashboard/story; not necessarily native import.

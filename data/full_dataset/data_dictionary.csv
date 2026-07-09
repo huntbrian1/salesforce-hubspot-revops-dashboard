@@ -1,0 +1,134 @@
+table_name,field_name,sample_value
+salesforce_users,user_id,USR000001
+salesforce_users,full_name,Emerson Kim
+salesforce_users,role,SDR
+salesforce_users,team,Revenue
+salesforce_users,region,Central
+salesforce_users,is_active,True
+salesforce_accounts,account_id,ACC000001
+salesforce_accounts,account_name,Nimbus Ops
+salesforce_accounts,domain,nimbusops.net
+salesforce_accounts,industry,EdTech
+salesforce_accounts,segment,Mid-Market
+salesforce_accounts,region,Central
+salesforce_accounts,employee_count,431
+salesforce_accounts,annual_revenue_est,49814384
+salesforce_accounts,account_owner_id,USR000010
+salesforce_accounts,created_date,2023-06-16
+salesforce_accounts,is_pe_backed,True
+salesforce_accounts,crm_health_score,64
+salesforce_contacts,contact_id,CON000001
+salesforce_contacts,account_id,ACC000294
+salesforce_contacts,email,jamie.young2989@keystonenetworks6.co
+salesforce_contacts,job_title,RevOps Manager
+salesforce_contacts,created_date,2025-08-29
+salesforce_contacts,lead_id_source,LED002989
+salesforce_contacts,hubspot_contact_id,HS200002
+salesforce_contacts,salesforce_contact_id,SFCON000001
+salesforce_contacts,email_opt_in,True
+salesforce_contacts,persona,Technical Buyer
+salesforce_leads,lead_id,LED000001
+salesforce_leads,created_date,2025-02-08
+salesforce_leads,first_name,Cameron
+salesforce_leads,last_name,Bennett
+salesforce_leads,email,cameron.bennett1@bluepeaksolutions.net
+salesforce_leads,company,BluePeak Solutions
+salesforce_leads,account_id_matched,ACC000339
+salesforce_leads,industry,Cybersecurity
+salesforce_leads,segment,Mid-Market
+salesforce_leads,region,West
+salesforce_leads,lead_source,Webinar
+salesforce_leads,lifecycle_stage,Lead
+salesforce_leads,lead_score,37
+salesforce_leads,owner_id,USR000016
+salesforce_leads,assigned_date,2025-02-11
+salesforce_leads,first_sales_touch_datetime,2025-02-14T00:00:00
+salesforce_leads,mql_date,2026-07-03
+salesforce_leads,sql_date,2026-03-06
+salesforce_leads,disqualified_reason,Competitor
+salesforce_leads,hubspot_contact_id,HS100001
+salesforce_leads,salesforce_lead_id,SFLED000001
+salesforce_opportunities,opportunity_id,OPP000001
+salesforce_opportunities,account_id,ACC000304
+salesforce_opportunities,opportunity_name,Evergreen Markets 98 - HubSpot-SFDC Integration
+salesforce_opportunities,created_date,2025-07-05
+salesforce_opportunities,close_date,2025-10-30
+salesforce_opportunities,stage_name,Discovery
+salesforce_opportunities,amount,114626
+salesforce_opportunities,probability,0.25
+salesforce_opportunities,expected_revenue,28656.5
+salesforce_opportunities,owner_id,USR000023
+salesforce_opportunities,lead_source,Webinar
+salesforce_opportunities,primary_campaign_id,CMP000013
+salesforce_opportunities,forecast_category,Best Case
+salesforce_opportunities,next_step,No next step logged
+salesforce_opportunities,days_in_current_stage,29
+salesforce_opportunities,is_stale,True
+salesforce_tasks,task_id,TSK000001
+salesforce_tasks,activity_date,2025-03-16
+salesforce_tasks,owner_id,USR000013
+salesforce_tasks,related_object_type,Opportunity
+salesforce_tasks,related_object_id,OPP000737
+salesforce_tasks,task_type,Email
+salesforce_tasks,subject,Email - Replied
+salesforce_tasks,status,Completed
+salesforce_tasks,outcome,Replied
+salesforce_tasks,duration_minutes,30
+salesforce_tasks,logged_in_system,HubSpot
+salesforce_campaigns,campaign_id,CMP000001
+salesforce_campaigns,campaign_name,2025 Q%q Partner Campaign 1
+salesforce_campaigns,campaign_type,Partner Campaign
+salesforce_campaigns,start_date,2025-10-26
+salesforce_campaigns,end_date,2026-01-30
+salesforce_campaigns,budget,45373
+salesforce_campaigns,utm_source,partner
+salesforce_campaigns,utm_medium,event
+salesforce_campaigns,target_segment,Mid-Market
+campaign_members,campaign_member_id,CM000001
+campaign_members,campaign_id,CMP000017
+campaign_members,lead_id,LED001744
+campaign_members,contact_id,CON003270
+campaign_members,member_type,Lead
+campaign_members,status,Opened
+campaign_members,first_responded_date,2026-05-19
+hubspot_form_submissions,submission_id,HFS000001
+hubspot_form_submissions,hubspot_contact_id,HS101424
+hubspot_form_submissions,lead_id,LED001424
+hubspot_form_submissions,submission_date,2025-06-18
+hubspot_form_submissions,form_name,CRM Audit
+hubspot_form_submissions,page_url,https://example-client.com/crm-audit
+hubspot_form_submissions,utm_source,direct
+hubspot_form_submissions,utm_campaign,CMP000015
+hubspot_form_submissions,conversion_score,58
+hubspot_email_events,email_event_id,HEM000001
+hubspot_email_events,hubspot_contact_id,HS103778
+hubspot_email_events,lead_id,LED003778
+hubspot_email_events,event_datetime,2026-05-21T00:00:00
+hubspot_email_events,event_type,Clicked
+hubspot_email_events,campaign_id,CMP000012
+hubspot_email_events,email_name,Webinar Invite
+sync_errors,sync_error_id,SYN000001
+sync_errors,created_date,2025-01-06
+sync_errors,source_system,Salesforce
+sync_errors,target_system,HubSpot
+sync_errors,object_type,Lead
+sync_errors,object_id,LED003748
+sync_errors,error_type,Required Field Missing
+sync_errors,severity,Medium
+sync_errors,status,Resolved
+sync_errors,days_to_resolve,3
+data_quality_audit,audit_id,DQA000001
+data_quality_audit,object_name,Lead
+data_quality_audit,field_name,email
+data_quality_audit,missing_rate,0.0
+data_quality_audit,severity,Low
+data_quality_audit,business_impact,Email required for routing and dedupe
+data_quality_audit,recommended_fix,Fix field mapping and system-of-record ownership
+field_mapping,object_name,Lead
+field_mapping,business_field,Email
+field_mapping,hubspot_field,email
+field_mapping,salesforce_field_label,Email
+field_mapping,salesforce_api_name,email
+field_mapping,system_of_record,HubSpot
+field_mapping,sync_direction,Bi-directional
+field_mapping,notes,Required for dedupe and routing

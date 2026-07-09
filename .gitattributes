@@ -1,0 +1,6 @@
+﻿*.db binary
+*.pbix binary
+*.pdf binary
+*.png binary
+*.xlsx binary
+*.xls binary

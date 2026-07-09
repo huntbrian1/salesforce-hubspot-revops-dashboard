@@ -1,0 +1,37 @@
+External Campaign ID,Campaign Name,Type,Start Date,End Date,Budgeted Cost,UTM Source,UTM Medium,Target Segment
+CMP000001,2025 Q%q Partner Campaign 1,Partner Campaign,2025-10-26,2026-01-30,45373,partner,event,Mid-Market
+CMP000002,2025 Q%q Trade Show 2,Trade Show,2025-01-20,2025-04-05,8805,direct,referral,Mid-Market
+CMP000003,2026 Q%q Content Syndication 3,Content Syndication,2026-03-11,2026-04-11,40299,partner,event,Enterprise
+CMP000004,2026 Q%q Trade Show 4,Trade Show,2026-03-15,2026-06-20,8130,newsletter,referral,SMB
+CMP000005,2025 Q%q Paid Search 5,Paid Search,2025-02-11,2025-03-29,74907,google,organic,Enterprise
+CMP000006,2026 Q%q Paid Search 6,Paid Search,2026-03-03,2026-04-10,56542,direct,email,Enterprise
+CMP000007,2026 Q%q Partner Campaign 7,Partner Campaign,2026-01-04,2026-03-06,16120,direct,cpc,SMB
+CMP000008,2025 Q%q Paid Search 8,Paid Search,2025-08-20,2025-11-19,48526,newsletter,cpc,SMB
+CMP000009,2026 Q%q Webinar 9,Webinar,2026-01-11,2026-02-06,52892,newsletter,social,SMB
+CMP000010,2025 Q%q Webinar 10,Webinar,2025-11-13,2026-02-08,18840,newsletter,social,SMB
+CMP000011,2026 Q%q Webinar 11,Webinar,2026-02-25,2026-05-01,59795,partner,social,SMB
+CMP000012,2025 Q%q Webinar 12,Webinar,2025-09-26,2025-12-08,29517,direct,referral,Mid-Market
+CMP000013,2025 Q%q Paid Search 13,Paid Search,2025-09-17,2025-12-20,74763,linkedin,event,Mid-Market
+CMP000014,2025 Q%q Content Syndication 14,Content Syndication,2025-01-07,2025-02-06,32436,direct,organic,SMB
+CMP000015,2025 Q%q Trade Show 15,Trade Show,2025-08-03,2025-10-06,13593,linkedin,cpc,SMB
+CMP000016,2026 Q%q Partner Campaign 16,Partner Campaign,2026-01-02,2026-03-19,33026,partner,email,Mid-Market
+CMP000017,2025 Q%q Content Syndication 17,Content Syndication,2025-02-23,2025-04-12,30117,event,email,Enterprise
+CMP000018,2025 Q%q Content Syndication 18,Content Syndication,2025-06-13,2025-07-16,16725,linkedin,event,Enterprise
+CMP000019,2025 Q%q Paid Search 19,Paid Search,2025-12-14,2026-01-19,12528,event,social,Mid-Market
+CMP000020,2026 Q%q Partner Campaign 20,Partner Campaign,2026-02-18,2026-04-23,13193,direct,event,Enterprise
+CMP000021,2025 Q%q Content Syndication 21,Content Syndication,2025-08-05,2025-10-14,4514,event,event,Enterprise
+CMP000022,2026 Q%q Trade Show 22,Trade Show,2026-05-22,2026-06-30,51040,partner,email,Mid-Market
+CMP000023,2025 Q%q Trade Show 23,Trade Show,2025-09-03,2025-10-30,38881,linkedin,cpc,Mid-Market
+CMP000024,2025 Q%q LinkedIn Ads 24,LinkedIn Ads,2025-08-05,2025-08-31,53481,partner,referral,Mid-Market
+CMP000025,2025 Q%q Paid Search 25,Paid Search,2025-06-18,2025-09-19,40544,partner,cpc,SMB
+CMP000026,2026 Q%q Trade Show 26,Trade Show,2026-01-26,2026-04-05,34810,linkedin,email,Mid-Market
+CMP000027,2026 Q%q Content Syndication 27,Content Syndication,2026-05-28,2026-06-30,55509,event,cpc,Enterprise
+CMP000028,2026 Q%q Content Syndication 28,Content Syndication,2026-05-31,2026-06-30,51307,newsletter,email,SMB
+CMP000029,2026 Q%q Email Nurture 29,Email Nurture,2026-05-17,2026-06-09,46203,newsletter,email,Enterprise
+CMP000030,2026 Q%q Paid Search 30,Paid Search,2026-04-23,2026-06-30,70329,google,social,Mid-Market
+CMP000031,2025 Q%q Paid Search 31,Paid Search,2025-10-18,2025-11-14,30583,newsletter,social,Mid-Market
+CMP000032,2025 Q%q Content Syndication 32,Content Syndication,2025-10-19,2025-12-27,44512,linkedin,organic,Enterprise
+CMP000033,2025 Q%q Partner Campaign 33,Partner Campaign,2025-10-10,2025-11-30,73055,direct,referral,Mid-Market
+CMP000034,2025 Q%q Paid Search 34,Paid Search,2025-06-05,2025-07-23,15331,partner,cpc,Mid-Market
+CMP000035,2025 Q%q Partner Campaign 35,Partner Campaign,2025-07-06,2025-08-25,49473,linkedin,social,Enterprise
+CMP000036,2025 Q%q Email Nurture 36,Email Nurture,2025-10-31,2026-01-04,61512,direct,event,Mid-Market

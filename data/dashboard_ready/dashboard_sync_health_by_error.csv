@@ -1,0 +1,50 @@
+error_type,severity,status,errors,avg_days_to_resolve
+Required Field Missing,High,Resolved,70,6.0
+Required Field Missing,High,Open,65,
+Required Field Missing,Medium,Resolved,61,5.8
+Lifecycle Stage Conflict,Critical,Open,58,
+Required Field Missing,Medium,Open,54,
+Lifecycle Stage Conflict,Critical,Resolved,52,5.3
+Lifecycle Stage Conflict,High,Resolved,51,5.7
+Owner Mapping Failed,Medium,Resolved,51,5.2
+Lifecycle Stage Conflict,Medium,Open,49,
+Duplicate Email,High,Resolved,48,7.8
+Lifecycle Stage Conflict,Medium,Resolved,47,6.6
+Lifecycle Stage Conflict,High,Open,45,
+Owner Mapping Failed,High,Open,43,
+Owner Mapping Failed,High,Resolved,42,7.9
+Duplicate Email,Low,Resolved,39,6.3
+Duplicate Email,Medium,Resolved,38,4.7
+Duplicate Email,High,Open,33,
+Duplicate Email,Low,Open,32,
+Owner Mapping Failed,Medium,Open,32,
+Duplicate Email,Medium,Open,23,
+Currency Field Error,Medium,Resolved,16,8.1
+Required Field Missing,High,Ignored,16,
+Picklist Value Mismatch,Low,Resolved,15,4.4
+Picklist Value Mismatch,Low,Open,14,
+Picklist Value Mismatch,Medium,Resolved,14,5.3
+Currency Field Error,High,Open,13,
+Picklist Value Mismatch,High,Resolved,13,11.5
+Required Field Missing,Medium,Ignored,13,
+Picklist Value Mismatch,Medium,Open,12,
+Required Field Missing,Low,Resolved,11,5.5
+Currency Field Error,High,Resolved,10,7.5
+Currency Field Error,Low,Open,10,
+Currency Field Error,Low,Resolved,10,8.6
+Lifecycle Stage Conflict,Critical,Ignored,10,
+Lifecycle Stage Conflict,Medium,Ignored,10,
+Picklist Value Mismatch,High,Open,10,
+Owner Mapping Failed,High,Ignored,9,
+Owner Mapping Failed,Medium,Ignored,9,
+Required Field Missing,Low,Open,9,
+Lifecycle Stage Conflict,High,Ignored,8,
+Currency Field Error,Medium,Open,6,
+Duplicate Email,High,Ignored,2,
+Currency Field Error,High,Ignored,1,
+Currency Field Error,Low,Ignored,1,
+Currency Field Error,Medium,Ignored,1,
+Duplicate Email,Low,Ignored,1,
+Duplicate Email,Medium,Ignored,1,
+Picklist Value Mismatch,Medium,Ignored,1,
+Required Field Missing,Low,Ignored,1,

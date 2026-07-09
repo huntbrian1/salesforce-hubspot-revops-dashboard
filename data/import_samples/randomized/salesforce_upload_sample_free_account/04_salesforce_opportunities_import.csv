@@ -1,0 +1,501 @@
+External Opportunity ID,External Account ID,Opportunity Name,Created Date,Close Date,Salesforce Stage Suggested,Original Stage,Amount,Probability,Expected Revenue,Owner External ID,Lead Source,Primary Campaign External ID,Forecast Category,Next Step,Days in Current Stage,Is Stale
+OPP001285,ACC000555,Keystone Systems 68 - Lifecycle Redesign,2025-06-07,2025-09-07,Demo,Demo,54451,0.4,21780.4,USR000007,Organic Search,CMP000016,Commit,Send proposal,30,False
+OPP000120,ACC000300,Apex Solutions - Reporting Build,2026-04-18,2026-06-14,Discovery,Discovery,17520,0.25,4380.0,USR000011,Referral,CMP000004,Commit,Schedule discovery,22,False
+OPP000805,ACC000595,Bright Software 68 - Lifecycle Redesign,2025-07-26,2025-12-07,Proposal,Proposal,351793,0.6,211075.8,USR000027,LinkedIn,CMP000008,Pipeline,Executive follow-up,38,False
+OPP001386,ACC000101,Bright Labs 72 - Lifecycle Redesign,2025-06-15,2025-09-11,Discovery,Discovery,53377,0.25,13344.25,USR000010,Event,CMP000036,Commit,Executive follow-up,38,False
+OPP000226,ACC000009,Nova Markets - HubSpot-SFDC Integration,2025-04-05,2025-09-17,Demo,Demo,115888,0.4,46355.2,USR000014,Outbound,CMP000004,Commit,Send proposal,16,False
+OPP001282,ACC000054,Nova Ops - HubSpot-SFDC Integration,2025-11-08,2026-02-17,Closed Won,Closed Won,78061,1.0,78061.0,USR000009,Event,,Closed,,113,False
+OPP001268,ACC000609,Keystone Ops - Lifecycle Redesign,2026-01-29,2026-07-09,Prospecting,Prospecting,108962,0.1,10896.2,USR000019,Referral,,Commit,No next step logged,35,True
+OPP000334,ACC000591,Meridian Dynamics 77 - HubSpot-SFDC Integration,2025-12-29,2026-05-27,Negotiation,Negotiation,613320,0.75,459990.0,USR000011,LinkedIn,CMP000028,Pipeline,Schedule discovery,43,False
+OPP000380,ACC000035,Summit Analytics - HubSpot-SFDC Integration,2025-04-29,2025-05-31,Demo,Demo,62355,0.4,24942.0,USR000021,Referral,CMP000031,Commit,Send proposal,23,False
+OPP001116,ACC000325,Keystone Cloud - HubSpot-SFDC Integration,2025-08-20,2025-12-12,Closed Won,Closed Won,74282,1.0,74282.0,USR000019,LinkedIn,CMP000032,Closed,,31,False
+OPP001383,ACC000416,Keystone Platform 12 - HubSpot-SFDC Integration,2025-05-29,2025-06-26,Closed Won,Closed Won,12634,1.0,12634.0,USR000027,Organic Search,CMP000021,Closed,,20,False
+OPP000932,ACC000627,Clearpath Platform 74 - Reporting Build,2025-04-05,2025-04-29,Prospecting,Prospecting,25130,0.1,2513.0,USR000023,Paid Search,CMP000015,Best Case,No next step logged,47,True
+OPP001391,ACC000098,Summit Networks 26 - RevOps Retainer,2026-02-28,2026-05-10,Closed Won,Closed Won,10035,1.0,10035.0,USR000010,Webinar,CMP000029,Closed,,52,False
+OPP000108,ACC000153,Nimbus Platform 83 - RevOps Retainer,2026-04-06,2026-05-20,Demo,Demo,23722,0.4,9488.8,USR000027,Partner,CMP000014,Pipeline,Schedule discovery,13,False
+OPP000531,ACC000092,Ironwood Software - RevOps Retainer,2025-04-22,2025-08-31,Proposal,Proposal,378894,0.6,227336.4,USR000010,Organic Search,CMP000033,Commit,Send proposal,10,False
+OPP000450,ACC000316,Bright Ops - Lifecycle Redesign,2025-01-07,2025-02-09,Closed Won,Closed Won,51326,1.0,51326.0,USR000011,Organic Search,CMP000010,Closed,,3,False
+OPP000941,ACC000649,Atlas Data 82 - HubSpot-SFDC Integration,2025-09-23,2025-10-08,Demo,Demo,72503,0.4,29001.2,USR000014,Partner,CMP000035,Pipeline,Schedule discovery,53,True
+OPP001476,ACC000359,Clearpath Health 19 - RevOps Retainer,2025-09-13,2025-12-01,Prospecting,Prospecting,102148,0.1,10214.8,USR000027,Content Download,CMP000015,Pipeline,Schedule discovery,32,False
+OPP001514,ACC000203,Bright Data 15 - HubSpot-SFDC Integration,2026-05-03,2026-09-04,Closed Lost,Closed Lost,56000,0.0,0.0,USR000027,LinkedIn,CMP000007,Closed,,28,False
+OPP000821,ACC000405,Apex Group 17 - HubSpot-SFDC Integration,2025-01-02,2025-05-20,Discovery,Discovery,79556,0.25,19889.0,USR000022,Paid Search,CMP000024,Commit,Schedule discovery,10,False
+OPP001380,ACC000229,BluePeak Systems - RevOps Retainer,2025-07-12,2025-09-29,Discovery,Discovery,68190,0.25,17047.5,USR000007,Webinar,CMP000005,Best Case,No next step logged,38,True
+OPP000251,ACC000022,Summit Dynamics - CRM Cleanup,2026-01-11,2026-05-15,Closed Lost,Closed Lost,80411,0.0,0.0,USR000019,Referral,CMP000016,Closed,,70,False
+OPP000694,ACC000375,Apex Group - CRM Cleanup,2026-04-05,2026-09-11,Closed Won,Closed Won,369095,1.0,369095.0,USR000010,Outbound,CMP000028,Closed,,10,False
+OPP001084,ACC000115,Bright Networks - Lead Routing,2025-03-01,2025-05-07,Closed Lost,Closed Lost,15308,0.0,0.0,USR000018,Paid Search,,Closed,,99,False
+OPP000507,ACC000005,Summit Solutions - Lead Routing,2025-05-16,2025-08-03,Closed Won,Closed Won,29141,1.0,29141.0,USR000021,Direct,CMP000010,Closed,,84,False
+OPP000373,ACC000128,Ironwood Cloud - HubSpot-SFDC Integration,2025-04-15,2025-04-30,Prospecting,Prospecting,86339,0.1,8633.9,USR000022,Webinar,CMP000035,Commit,Schedule discovery,31,False
+OPP001452,ACC000508,Signal Health 89 - Lifecycle Redesign,2025-12-17,2026-04-18,Closed Lost,Closed Lost,59025,0.0,0.0,USR000009,Paid Search,CMP000035,Closed,,20,False
+OPP000745,ACC000143,Atlas Ops - HubSpot-SFDC Integration,2026-05-11,2026-10-11,Proposal,Proposal,67582,0.6,40549.2,USR000027,Outbound,,Commit,No next step logged,65,True
+OPP000754,ACC000168,Ironwood Platform 56 - HubSpot-SFDC Integration,2026-03-21,2026-06-27,Discovery,Discovery,38804,0.25,9701.0,USR000014,Organic Search,CMP000017,Best Case,Legal review,50,True
+OPP001591,ACC000532,Northstar Health - Lifecycle Redesign,2026-02-28,2026-08-14,Demo,Demo,82527,0.4,33010.8,USR000027,Content Download,CMP000008,Best Case,Send proposal,45,False
+OPP000189,ACC000387,Apex Dynamics - Reporting Build,2026-03-20,2026-07-12,Negotiation,Negotiation,471164,0.75,353373.0,USR000014,Direct,CMP000028,Pipeline,Schedule discovery,22,False
+OPP000690,ACC000620,Bright Networks 83 - Lifecycle Redesign,2026-01-12,2026-04-03,Discovery,Discovery,8657,0.25,2164.25,USR000014,Event,CMP000012,Pipeline,Schedule discovery,15,False
+OPP000199,ACC000063,Nova Analytics - CRM Cleanup,2025-05-12,2025-10-20,Proposal,Proposal,116653,0.6,69991.8,USR000022,Outbound,CMP000013,Commit,Technical scoping,21,False
+OPP000166,ACC000355,Cobalt Group - Lifecycle Redesign,2025-03-03,2025-04-14,Discovery,Discovery,68247,0.25,17061.75,USR000023,Partner,CMP000012,Pipeline,Technical scoping,7,False
+OPP000070,ACC000424,Nimbus Health 75 - Lead Routing,2025-09-14,2025-12-23,Discovery,Discovery,61909,0.25,15477.25,USR000018,Outbound,CMP000008,Best Case,Schedule discovery,18,False
+OPP001568,ACC000537,Keystone Dynamics 63 - Lifecycle Redesign,2025-12-05,2026-02-03,Negotiation,Negotiation,71600,0.75,53700.0,USR000022,LinkedIn,CMP000008,Best Case,Executive follow-up,19,False
+OPP000368,ACC000239,Evergreen Works - Reporting Build,2026-02-12,2026-06-01,Discovery,Discovery,44070,0.25,11017.5,USR000021,LinkedIn,CMP000019,Commit,Schedule discovery,26,False
+OPP001013,ACC000237,Northstar Markets - Lead Routing,2025-02-20,2025-05-05,Demo,Demo,20092,0.4,8036.8,USR000023,Content Download,,Best Case,Legal review,14,False
+OPP001420,ACC000189,Atlas Group - Lead Routing,2025-06-29,2025-09-03,Closed Lost,Closed Lost,10595,0.0,0.0,USR000022,Webinar,CMP000032,Closed,,42,False
+OPP000818,ACC000033,Signal Group - HubSpot-SFDC Integration,2025-09-05,2026-01-24,Proposal,Proposal,227688,0.6,136612.8,USR000019,Webinar,CMP000003,Commit,Legal review,35,False
+OPP001253,ACC000561,Atlas Data 24 - Lifecycle Redesign,2025-01-27,2025-03-10,Negotiation,Negotiation,14816,0.75,11112.0,USR000014,Webinar,,Pipeline,Schedule discovery,28,False
+OPP000767,ACC000489,Nimbus Ops 79 - Reporting Build,2025-10-09,2025-11-28,Prospecting,Prospecting,66612,0.1,6661.2,USR000011,Paid Search,CMP000017,Best Case,Send proposal,47,True
+OPP001349,ACC000538,Northstar Markets 65 - Lead Routing,2025-04-09,2025-08-27,Closed Won,Closed Won,112279,1.0,112279.0,USR000009,Event,CMP000012,Closed,,22,False
+OPP000332,ACC000111,Vertex Solutions 20 - Lead Routing,2025-09-13,2025-11-23,Closed Lost,Closed Lost,47791,0.0,0.0,USR000021,Event,CMP000015,Closed,,17,False
+OPP001255,ACC000313,Pioneer Health 24 - CRM Cleanup,2025-10-31,2026-01-24,Proposal,Proposal,80116,0.6,48069.6,USR000027,Organic Search,CMP000013,Best Case,Send proposal,35,False
+OPP000930,ACC000619,Nimbus Dynamics 49 - RevOps Retainer,2026-02-03,2026-05-27,Closed Won,Closed Won,234444,1.0,234444.0,USR000022,Direct,CMP000031,Closed,,29,False
+OPP000029,ACC000364,Evergreen Systems 95 - CRM Cleanup,2025-01-19,2025-06-13,Discovery,Discovery,138812,0.25,34703.0,USR000022,Partner,CMP000022,Best Case,Technical scoping,26,False
+OPP000486,ACC000337,Vertex Systems 29 - RevOps Retainer,2025-06-14,2025-10-12,Prospecting,Prospecting,224482,0.1,22448.2,USR000019,Paid Search,CMP000003,Best Case,Send proposal,20,False
+OPP001059,ACC000563,Apex Group 61 - Lifecycle Redesign,2025-02-06,2025-05-15,Demo,Demo,199504,0.4,79801.6,USR000021,Paid Search,CMP000009,Pipeline,No next step logged,24,True
+OPP001626,ACC000408,Clearpath Intelligence 94 - HubSpot-SFDC Integration,2025-04-29,2025-09-14,Demo,Demo,38603,0.4,15441.2,USR000021,Referral,CMP000028,Commit,No next step logged,21,True
+OPP001548,ACC000055,Signal Solutions - Lifecycle Redesign,2026-01-11,2026-04-19,Negotiation,Negotiation,42581,0.75,31935.75,USR000019,LinkedIn,,Commit,No next step logged,5,True
+OPP001296,ACC000099,BluePeak Works - Lead Routing,2026-03-24,2026-04-11,Closed Lost,Closed Lost,10384,0.0,0.0,USR000014,Content Download,CMP000026,Closed,,32,False
+OPP000228,ACC000573,Cobalt Cloud 5 - CRM Cleanup,2025-07-25,2025-09-12,Prospecting,Prospecting,49172,0.1,4917.2,USR000019,Organic Search,,Commit,No next step logged,58,True
+OPP000715,ACC000483,Apex Ops 16 - HubSpot-SFDC Integration,2026-03-16,2026-05-12,Proposal,Proposal,8116,0.6,4869.6,USR000023,Event,CMP000018,Best Case,Executive follow-up,55,True
+OPP000106,ACC000602,Vertex Networks 19 - Lifecycle Redesign,2025-02-13,2025-02-28,Prospecting,Prospecting,15675,0.1,1567.5,USR000009,Outbound,CMP000026,Commit,Legal review,24,False
+OPP000134,ACC000020,Keystone Intelligence - Lead Routing,2026-05-10,2026-06-30,Discovery,Discovery,9549,0.25,2387.25,USR000021,Event,CMP000003,Best Case,Technical scoping,33,False
+OPP000457,ACC000163,Catalyst Group 20 - Lifecycle Redesign,2025-10-19,2026-02-09,Closed Won,Closed Won,170136,1.0,170136.0,USR000011,Content Download,CMP000036,Closed,,30,False
+OPP000595,ACC000239,Evergreen Works - Lifecycle Redesign,2026-04-27,2026-07-26,Negotiation,Negotiation,113638,0.75,85228.5,USR000022,Paid Search,CMP000009,Commit,Schedule discovery,57,True
+OPP001523,ACC000506,Cobalt Dynamics 47 - RevOps Retainer,2025-03-21,2025-07-14,Prospecting,Prospecting,47353,0.1,4735.3,USR000014,Webinar,,Commit,Executive follow-up,21,False
+OPP000517,ACC000332,Bright Dynamics 96 - Reporting Build,2025-10-27,2025-12-10,Closed Lost,Closed Lost,24718,0.0,0.0,USR000011,Content Download,CMP000005,Closed,,2,False
+OPP001177,ACC000074,Meridian Markets 2 - Reporting Build,2025-01-27,2025-04-30,Prospecting,Prospecting,211773,0.1,21177.3,USR000022,Referral,CMP000019,Commit,Send proposal,32,False
+OPP000903,ACC000446,Northstar Ops 94 - CRM Cleanup,2026-02-12,2026-06-09,Discovery,Discovery,17601,0.25,4400.25,USR000023,LinkedIn,CMP000018,Commit,No next step logged,23,True
+OPP000522,ACC000381,Clearpath Networks 88 - Lead Routing,2026-03-14,2026-05-17,Closed Lost,Closed Lost,41795,0.0,0.0,USR000007,Direct,CMP000033,Closed,,7,False
+OPP001258,ACC000532,Northstar Health - Lead Routing,2025-08-15,2026-01-12,Closed Won,Closed Won,231682,1.0,231682.0,USR000019,Webinar,CMP000028,Closed,,50,False
+OPP001054,ACC000083,Nimbus Intelligence - RevOps Retainer,2026-05-21,2026-07-27,Discovery,Discovery,26094,0.25,6523.5,USR000018,Event,CMP000020,Commit,Schedule discovery,28,False
+OPP000363,ACC000346,Vertex Platform - Lifecycle Redesign,2025-12-26,2026-04-04,Closed Won,Closed Won,142608,1.0,142608.0,USR000019,Paid Search,CMP000018,Closed,,55,False
+OPP001625,ACC000025,Evergreen Systems - HubSpot-SFDC Integration,2026-05-25,2026-10-28,Proposal,Proposal,416730,0.6,250038.0,USR000014,Content Download,CMP000011,Commit,Legal review,32,False
+OPP001650,ACC000382,Catalyst Works 16 - Lifecycle Redesign,2026-03-30,2026-09-01,Closed Lost,Closed Lost,100175,0.0,0.0,USR000011,Outbound,CMP000014,Closed,,45,False
+OPP000097,ACC000209,Vertex Analytics 84 - Reporting Build,2025-04-23,2025-06-25,Proposal,Proposal,26784,0.6,16070.4,USR000019,Webinar,CMP000034,Commit,No next step logged,41,True
+OPP000520,ACC000408,Clearpath Intelligence 94 - Reporting Build,2026-06-07,2026-10-09,Negotiation,Negotiation,144864,0.75,108648.0,USR000007,Event,CMP000009,Pipeline,Legal review,14,False
+OPP000701,ACC000438,Summit Networks 59 - Reporting Build,2025-08-23,2025-09-29,Proposal,Proposal,60236,0.6,36141.6,USR000027,Paid Search,CMP000024,Commit,Legal review,5,False
+OPP000023,ACC000424,Nimbus Health 75 - Reporting Build,2025-06-20,2025-08-14,Discovery,Discovery,47499,0.25,11874.75,USR000007,Webinar,CMP000018,Commit,Send proposal,11,False
+OPP001460,ACC000146,Bright Markets 38 - RevOps Retainer,2025-03-21,2025-08-05,Discovery,Discovery,154421,0.25,38605.25,USR000011,Paid Search,CMP000005,Best Case,Send proposal,72,True
+OPP000293,ACC000528,Catalyst Data 39 - HubSpot-SFDC Integration,2025-04-11,2025-08-03,Negotiation,Negotiation,150260,0.75,112695.0,USR000022,Referral,,Pipeline,Technical scoping,2,False
+OPP000857,ACC000461,Northstar Intelligence - Reporting Build,2026-02-10,2026-05-01,Closed Lost,Closed Lost,28928,0.0,0.0,USR000010,LinkedIn,CMP000020,Closed,,49,False
+OPP001557,ACC000146,Bright Markets 38 - CRM Cleanup,2025-04-12,2025-08-04,Discovery,Discovery,92609,0.25,23152.25,USR000010,Direct,CMP000015,Pipeline,Executive follow-up,31,False
+OPP000553,ACC000275,Meridian Labs - CRM Cleanup,2025-11-04,2025-11-19,Demo,Demo,12834,0.4,5133.6,USR000005,Direct,CMP000004,Pipeline,Schedule discovery,78,True
+OPP001542,ACC000515,Catalyst Intelligence 41 - Reporting Build,2025-01-30,2025-03-21,Prospecting,Prospecting,40939,0.1,4093.9,USR000021,Direct,CMP000018,Pipeline,Schedule discovery,23,False
+OPP000540,ACC000589,Nimbus Analytics 95 - CRM Cleanup,2026-05-10,2026-08-29,Discovery,Discovery,31552,0.25,7888.0,USR000007,Outbound,CMP000033,Commit,Schedule discovery,45,False
+OPP001397,ACC000073,Evergreen Data - Lead Routing,2025-08-30,2025-10-24,Closed Won,Closed Won,16441,1.0,16441.0,USR000022,Organic Search,CMP000018,Closed,,24,False
+OPP001083,ACC000529,Atlas Intelligence 88 - CRM Cleanup,2025-07-18,2025-10-14,Prospecting,Prospecting,9347,0.1,934.7,USR000007,Direct,CMP000026,Commit,Technical scoping,27,False
+OPP000688,ACC000463,Catalyst Health 65 - Reporting Build,2025-06-18,2025-10-19,Proposal,Proposal,77942,0.6,46765.2,USR000014,LinkedIn,CMP000012,Best Case,Technical scoping,17,False
+OPP001082,ACC000005,Summit Solutions - Reporting Build,2025-06-06,2025-07-18,Demo,Demo,23021,0.4,9208.4,USR000007,Event,CMP000001,Commit,No next step logged,21,True
+OPP000025,ACC000575,Meridian Ops 42 - Lead Routing,2025-10-05,2026-03-15,Closed Lost,Closed Lost,187763,0.0,0.0,USR000009,Webinar,CMP000019,Closed,,30,False
+OPP000730,ACC000202,Clearpath Labs 59 - RevOps Retainer,2025-05-17,2025-08-25,Prospecting,Prospecting,22227,0.1,2222.7,USR000022,Content Download,CMP000016,Best Case,Technical scoping,19,False
+OPP000307,ACC000231,Summit Group - HubSpot-SFDC Integration,2025-04-10,2025-08-16,Demo,Demo,282144,0.4,112857.6,USR000019,Organic Search,CMP000004,Best Case,No next step logged,39,True
+OPP000867,ACC000498,Keystone Platform 46 - Lead Routing,2026-03-13,2026-04-12,Closed Won,Closed Won,39804,1.0,39804.0,USR000019,Organic Search,CMP000012,Closed,,42,False
+OPP000005,ACC000505,Atlas Health 62 - CRM Cleanup,2026-06-10,2026-07-28,Discovery,Discovery,90492,0.25,22623.0,USR000009,Outbound,CMP000018,Pipeline,Executive follow-up,34,False
+OPP001063,ACC000605,Northstar Solutions 23 - Lifecycle Redesign,2025-01-06,2025-03-11,Negotiation,Negotiation,99774,0.75,74830.5,USR000022,Webinar,CMP000024,Pipeline,Send proposal,24,False
+OPP001081,ACC000159,Pioneer Software - Lifecycle Redesign,2026-03-25,2026-07-26,Demo,Demo,334672,0.4,133868.8,USR000027,Event,CMP000002,Pipeline,Executive follow-up,10,False
+OPP000524,ACC000311,Cobalt Markets - Reporting Build,2025-03-13,2025-06-14,Closed Won,Closed Won,141229,1.0,141229.0,USR000011,Outbound,CMP000020,Closed,,57,False
+OPP001096,ACC000543,Pioneer Labs 30 - RevOps Retainer,2025-07-12,2025-09-06,Discovery,Discovery,29191,0.25,7297.75,USR000022,Organic Search,CMP000033,Pipeline,Send proposal,17,False
+OPP000178,ACC000158,Summit Markets 80 - Lifecycle Redesign,2025-04-27,2025-06-15,Proposal,Proposal,25218,0.6,15130.8,USR000005,Event,CMP000013,Pipeline,Schedule discovery,63,True
+OPP000256,ACC000361,Signal Markets - CRM Cleanup,2026-02-28,2026-05-15,Closed Lost,Closed Lost,86754,0.0,0.0,USR000022,Event,CMP000006,Closed,,17,False
+OPP000991,ACC000340,Summit Health 69 - RevOps Retainer,2025-02-17,2025-06-19,Negotiation,Negotiation,75481,0.75,56610.75,USR000011,Referral,CMP000002,Best Case,Technical scoping,61,True
+OPP000997,ACC000272,Cobalt Platform 66 - HubSpot-SFDC Integration,2026-01-04,2026-04-26,Closed Lost,Closed Lost,36698,0.0,0.0,USR000027,Referral,CMP000003,Closed,,17,False
+OPP001373,ACC000555,Keystone Systems 68 - RevOps Retainer,2026-01-07,2026-04-10,Demo,Demo,200762,0.4,80304.8,USR000021,Partner,CMP000027,Best Case,Executive follow-up,90,True
+OPP001517,ACC000264,Evergreen Health - CRM Cleanup,2025-06-07,2025-06-27,Discovery,Discovery,49115,0.25,12278.75,USR000018,Direct,CMP000023,Best Case,Schedule discovery,15,False
+OPP000175,ACC000272,Cobalt Platform 66 - HubSpot-SFDC Integration,2025-07-09,2025-12-12,Prospecting,Prospecting,83019,0.1,8301.9,USR000011,Partner,CMP000026,Pipeline,Executive follow-up,28,False
+OPP000234,ACC000253,Ironwood Ops - CRM Cleanup,2025-10-06,2026-01-09,Closed Won,Closed Won,51569,1.0,51569.0,USR000005,Direct,CMP000030,Closed,,23,False
+OPP001168,ACC000063,Nova Analytics - Reporting Build,2025-10-19,2026-04-27,Proposal,Proposal,94612,0.6,56767.2,USR000021,Organic Search,CMP000014,Commit,Executive follow-up,60,True
+OPP000242,ACC000128,Ironwood Cloud - Reporting Build,2025-02-06,2025-04-23,Discovery,Discovery,22626,0.25,5656.5,USR000023,Partner,CMP000006,Commit,Schedule discovery,27,False
+OPP001549,ACC000207,Meridian Works - Lead Routing,2025-01-07,2025-04-29,Closed Lost,Closed Lost,102160,0.0,0.0,USR000027,Content Download,CMP000009,Closed,,3,False
+OPP000735,ACC000100,Pioneer Networks - CRM Cleanup,2025-03-01,2025-04-26,Demo,Demo,8331,0.4,3332.4,USR000010,Organic Search,CMP000028,Pipeline,Schedule discovery,31,False
+OPP001612,ACC000323,Meridian Networks - Lifecycle Redesign,2025-10-14,2025-12-13,Proposal,Proposal,38339,0.6,23003.4,USR000010,Partner,CMP000002,Best Case,Technical scoping,41,False
+OPP001068,ACC000643,Meridian Software - Lifecycle Redesign,2025-11-07,2026-03-12,Proposal,Proposal,224001,0.6,134400.6,USR000021,Outbound,CMP000012,Commit,Technical scoping,21,False
+OPP001401,ACC000273,Summit Cloud - CRM Cleanup,2026-01-25,2026-06-21,Prospecting,Prospecting,71423,0.1,7142.3,USR000021,Outbound,CMP000004,Commit,Technical scoping,54,True
+OPP001183,ACC000181,Northstar Cloud - HubSpot-SFDC Integration,2025-06-21,2025-12-12,Proposal,Proposal,149389,0.6,89633.4,USR000018,Partner,CMP000007,Pipeline,Legal review,33,False
+OPP001138,ACC000253,Ironwood Ops - Lifecycle Redesign,2026-05-01,2026-08-09,Proposal,Proposal,33032,0.6,19819.2,USR000021,Direct,,Best Case,Schedule discovery,33,False
+OPP001418,ACC000412,Bright Dynamics 65 - Lead Routing,2026-05-05,2026-10-28,Negotiation,Negotiation,56977,0.75,42732.75,USR000018,Direct,CMP000019,Best Case,Schedule discovery,76,True
+OPP000246,ACC000337,Vertex Systems 29 - HubSpot-SFDC Integration,2025-09-15,2026-03-22,Negotiation,Negotiation,141492,0.75,106119.0,USR000027,Outbound,CMP000011,Best Case,No next step logged,30,True
+OPP000452,ACC000237,Northstar Markets - Lifecycle Redesign,2025-01-13,2025-04-06,Demo,Demo,94558,0.4,37823.2,USR000019,Outbound,CMP000022,Pipeline,No next step logged,26,True
+OPP001456,ACC000286,Signal Markets 42 - CRM Cleanup,2025-09-04,2025-12-06,Proposal,Proposal,15889,0.6,9533.4,USR000005,Outbound,CMP000009,Commit,Executive follow-up,47,True
+OPP000209,ACC000196,Summit Software - RevOps Retainer,2025-04-15,2025-04-30,Demo,Demo,8100,0.4,3240.0,USR000023,Partner,CMP000011,Commit,Technical scoping,6,False
+OPP000446,ACC000506,Cobalt Dynamics 47 - Reporting Build,2025-07-29,2025-11-22,Closed Won,Closed Won,144194,1.0,144194.0,USR000021,Content Download,CMP000033,Closed,,26,False
+OPP000144,ACC000575,Meridian Ops 42 - RevOps Retainer,2026-01-22,2026-06-07,Closed Lost,Closed Lost,164610,0.0,0.0,USR000027,Organic Search,CMP000017,Closed,,24,False
+OPP000451,ACC000173,Keystone Health - HubSpot-SFDC Integration,2026-04-23,2026-06-22,Prospecting,Prospecting,30270,0.1,3027.0,USR000010,Paid Search,CMP000018,Best Case,Executive follow-up,49,True
+OPP000054,ACC000491,Vertex Systems 24 - Lifecycle Redesign,2025-03-30,2025-05-14,Closed Won,Closed Won,14647,1.0,14647.0,USR000005,Content Download,CMP000032,Closed,,50,False
+OPP001272,ACC000375,Apex Group - RevOps Retainer,2025-02-04,2025-06-06,Discovery,Discovery,84866,0.25,21216.5,USR000014,Paid Search,CMP000029,Best Case,Send proposal,13,False
+OPP001037,ACC000193,Nova Networks 81 - HubSpot-SFDC Integration,2025-11-17,2026-03-13,Closed Lost,Closed Lost,97477,0.0,0.0,USR000023,Organic Search,CMP000025,Closed,,10,False
+OPP001624,ACC000521,Summit Ops 58 - Lead Routing,2026-02-12,2026-05-29,Negotiation,Negotiation,61932,0.75,46449.0,USR000021,Paid Search,CMP000031,Pipeline,No next step logged,10,True
+OPP000412,ACC000435,BluePeak Cloud 83 - Lead Routing,2026-01-08,2026-04-15,Prospecting,Prospecting,52877,0.1,5287.7,USR000022,Organic Search,,Pipeline,Schedule discovery,7,False
+OPP001152,ACC000579,Pioneer Systems 72 - RevOps Retainer,2026-05-20,2026-07-11,Prospecting,Prospecting,93659,0.1,9365.9,USR000014,Partner,,Commit,No next step logged,13,True
+OPP000193,ACC000251,Vertex Dynamics 65 - Lifecycle Redesign,2025-07-31,2026-01-13,Closed Lost,Closed Lost,82848,0.0,0.0,USR000023,Outbound,CMP000013,Closed,,17,False
+OPP000633,ACC000476,Northstar Data 7 - Reporting Build,2026-06-08,2026-08-07,Proposal,Proposal,28281,0.6,16968.6,USR000022,Content Download,CMP000013,Commit,Send proposal,19,False
+OPP000951,ACC000272,Cobalt Platform 66 - HubSpot-SFDC Integration,2026-06-01,2026-10-28,Discovery,Discovery,163106,0.25,40776.5,USR000018,Event,CMP000005,Pipeline,Legal review,28,False
+OPP001003,ACC000414,Evergreen Networks 99 - Reporting Build,2025-08-15,2025-11-22,Proposal,Proposal,148396,0.6,89037.6,USR000023,Referral,CMP000010,Pipeline,Technical scoping,11,False
+OPP001445,ACC000567,Pioneer Works 29 - Reporting Build,2026-02-04,2026-04-28,Demo,Demo,16622,0.4,6648.8,USR000021,Direct,CMP000002,Best Case,Executive follow-up,41,False
+OPP000305,ACC000252,Evergreen Cloud 80 - CRM Cleanup,2025-10-01,2025-11-18,Demo,Demo,11871,0.4,4748.4,USR000009,Referral,CMP000021,Pipeline,Send proposal,43,False
+OPP001104,ACC000580,Evergreen Analytics 41 - Lifecycle Redesign,2026-03-15,2026-07-18,Closed Lost,Closed Lost,196935,0.0,0.0,USR000027,Organic Search,CMP000025,Closed,,14,False
+OPP000270,ACC000216,Meridian Ops - CRM Cleanup,2025-07-09,2025-11-29,Closed Won,Closed Won,79753,1.0,79753.0,USR000019,Content Download,,Closed,,8,False
+OPP001207,ACC000255,BluePeak Labs - HubSpot-SFDC Integration,2026-01-01,2026-03-30,Closed Lost,Closed Lost,158403,0.0,0.0,USR000027,Partner,CMP000022,Closed,,17,False
+OPP001120,ACC000210,Northstar Software 45 - CRM Cleanup,2025-04-02,2025-06-18,Negotiation,Negotiation,101376,0.75,76032.0,USR000018,Direct,CMP000014,Commit,Send proposal,41,False
+OPP000668,ACC000606,Cobalt Dynamics - Lead Routing,2026-02-11,2026-08-14,Negotiation,Negotiation,81331,0.75,60998.25,USR000019,Organic Search,CMP000018,Commit,Executive follow-up,29,False
+OPP000766,ACC000445,Clearpath Cloud - Reporting Build,2025-09-07,2025-11-17,Demo,Demo,42435,0.4,16974.0,USR000023,Content Download,CMP000035,Best Case,Schedule discovery,34,False
+OPP000521,ACC000535,Ironwood Health 54 - HubSpot-SFDC Integration,2026-03-28,2026-05-26,Prospecting,Prospecting,59660,0.1,5966.0,USR000022,Paid Search,CMP000007,Best Case,Technical scoping,18,False
+OPP000083,ACC000606,Cobalt Dynamics - Reporting Build,2025-11-06,2026-02-26,Closed Won,Closed Won,147079,1.0,147079.0,USR000027,Referral,CMP000030,Closed,,22,False
+OPP000049,ACC000007,BluePeak Health - CRM Cleanup,2026-01-04,2026-03-05,Demo,Demo,23523,0.4,9409.2,USR000005,Event,CMP000004,Commit,Executive follow-up,40,False
+OPP000058,ACC000464,Catalyst Intelligence - CRM Cleanup,2025-11-03,2026-04-25,Closed Lost,Closed Lost,283042,0.0,0.0,USR000019,Referral,CMP000010,Closed,,18,False
+OPP000655,ACC000325,Keystone Cloud - CRM Cleanup,2026-01-05,2026-06-17,Prospecting,Prospecting,144645,0.1,14464.5,USR000019,LinkedIn,CMP000024,Best Case,Executive follow-up,30,False
+OPP000312,ACC000500,Summit Markets 10 - CRM Cleanup,2025-08-21,2025-12-08,Proposal,Proposal,118681,0.6,71208.6,USR000027,Content Download,CMP000030,Best Case,Technical scoping,31,False
+OPP000374,ACC000266,Keystone Dynamics - Reporting Build,2025-07-13,2025-12-23,Prospecting,Prospecting,458048,0.1,45804.8,USR000023,Organic Search,CMP000016,Commit,Schedule discovery,37,False
+OPP000111,ACC000435,BluePeak Cloud 83 - RevOps Retainer,2025-08-26,2025-12-13,Demo,Demo,23466,0.4,9386.4,USR000010,Direct,CMP000036,Pipeline,Schedule discovery,34,False
+OPP001121,ACC000436,Vertex Dynamics 39 - RevOps Retainer,2025-12-29,2026-03-24,Closed Lost,Closed Lost,158283,0.0,0.0,USR000019,Direct,CMP000013,Closed,,59,False
+OPP000666,ACC000105,Summit Ops - Reporting Build,2026-01-16,2026-07-19,Proposal,Proposal,226323,0.6,135793.8,USR000019,LinkedIn,CMP000025,Best Case,Legal review,14,False
+OPP001369,ACC000552,Evergreen Group 93 - RevOps Retainer,2025-01-11,2025-05-12,Demo,Demo,164899,0.4,65959.6,USR000019,Webinar,CMP000032,Pipeline,Legal review,91,True
+OPP001224,ACC000553,Vertex Networks 66 - RevOps Retainer,2025-12-31,2026-04-09,Negotiation,Negotiation,32132,0.75,24099.0,USR000005,Organic Search,CMP000010,Best Case,Legal review,15,False
+OPP000536,ACC000064,Vertex Systems - Lead Routing,2025-12-03,2026-05-20,Proposal,Proposal,209721,0.6,125832.6,USR000021,Event,CMP000006,Best Case,Legal review,7,False
+OPP001563,ACC000173,Keystone Health - CRM Cleanup,2025-11-08,2026-04-04,Discovery,Discovery,117676,0.25,29419.0,USR000027,LinkedIn,CMP000019,Best Case,Executive follow-up,26,False
+OPP000159,ACC000436,Vertex Dynamics 39 - RevOps Retainer,2025-03-24,2025-08-08,Proposal,Proposal,184971,0.6,110982.6,USR000023,Referral,CMP000019,Best Case,No next step logged,40,True
+OPP000963,ACC000528,Catalyst Data 39 - RevOps Retainer,2026-04-01,2026-08-30,Negotiation,Negotiation,44729,0.75,33546.75,USR000027,Content Download,CMP000027,Pipeline,Legal review,20,False
+OPP000722,ACC000199,Nova Cloud 58 - Lead Routing,2025-05-12,2025-11-03,Demo,Demo,217374,0.4,86949.6,USR000021,Webinar,CMP000007,Best Case,Technical scoping,20,False
+OPP000576,ACC000131,Bright Cloud 66 - Lifecycle Redesign,2025-09-19,2026-01-21,Closed Won,Closed Won,49440,1.0,49440.0,USR000014,Event,CMP000012,Closed,,70,False
+OPP000401,ACC000322,BluePeak Group 91 - HubSpot-SFDC Integration,2025-10-30,2026-01-28,Negotiation,Negotiation,9610,0.75,7207.5,USR000010,Referral,CMP000015,Best Case,Executive follow-up,11,False
+OPP000542,ACC000084,Summit Systems - RevOps Retainer,2026-05-05,2026-09-17,Proposal,Proposal,25828,0.6,15496.8,USR000023,Paid Search,CMP000024,Best Case,Executive follow-up,49,True
+OPP000599,ACC000589,Nimbus Analytics 95 - Lead Routing,2025-02-14,2025-06-23,Prospecting,Prospecting,184223,0.1,18422.3,USR000011,Direct,CMP000014,Pipeline,Legal review,33,False
+OPP000654,ACC000070,Catalyst Solutions 58 - RevOps Retainer,2025-08-22,2025-10-28,Prospecting,Prospecting,100999,0.1,10099.9,USR000021,Event,CMP000002,Commit,Legal review,36,False
+OPP000833,ACC000346,Vertex Platform - Reporting Build,2025-10-04,2026-02-24,Prospecting,Prospecting,230892,0.1,23089.2,USR000010,Referral,CMP000033,Pipeline,Send proposal,38,False
+OPP001521,ACC000479,Evergreen Markets 75 - RevOps Retainer,2025-05-24,2025-08-23,Discovery,Discovery,228782,0.25,57195.5,USR000007,Direct,,Pipeline,No next step logged,29,True
+OPP000479,ACC000157,Meridian Data 49 - Lead Routing,2025-06-16,2025-10-12,Prospecting,Prospecting,72522,0.1,7252.2,USR000011,Event,CMP000026,Pipeline,Executive follow-up,21,False
+OPP000007,ACC000044,Evergreen Cloud - RevOps Retainer,2026-04-14,2026-07-10,Discovery,Discovery,38879,0.25,9719.75,USR000023,Webinar,CMP000028,Pipeline,Legal review,31,False
+OPP001399,ACC000320,Atlas Cloud 86 - HubSpot-SFDC Integration,2025-04-23,2025-05-08,Closed Won,Closed Won,239370,1.0,239370.0,USR000014,Partner,CMP000034,Closed,,38,False
+OPP001226,ACC000003,Northstar Ops - RevOps Retainer,2026-04-03,2026-07-04,Negotiation,Negotiation,81255,0.75,60941.25,USR000023,Outbound,CMP000035,Commit,Executive follow-up,12,False
+OPP001147,ACC000346,Vertex Platform - CRM Cleanup,2026-04-11,2026-08-29,Demo,Demo,83597,0.4,33438.8,USR000010,Organic Search,CMP000025,Commit,Send proposal,17,False
+OPP001217,ACC000290,Vertex Health - RevOps Retainer,2026-02-13,2026-05-29,Closed Won,Closed Won,94234,1.0,94234.0,USR000011,Event,CMP000026,Closed,,11,False
+OPP000725,ACC000610,Ironwood Platform 46 - Lifecycle Redesign,2026-06-08,2026-09-23,Discovery,Discovery,50864,0.25,12716.0,USR000019,Referral,CMP000013,Pipeline,No next step logged,24,True
+OPP001544,ACC000512,Cobalt Cloud 80 - Lifecycle Redesign,2026-03-27,2026-05-15,Demo,Demo,8639,0.4,3455.6,USR000014,Webinar,CMP000030,Pipeline,Executive follow-up,8,False
+OPP001000,ACC000147,Vertex Health 82 - HubSpot-SFDC Integration,2025-07-09,2025-09-24,Closed Lost,Closed Lost,90250,0.0,0.0,USR000023,Organic Search,,Closed,,25,False
+OPP000984,ACC000445,Clearpath Cloud - RevOps Retainer,2025-01-23,2025-03-31,Closed Won,Closed Won,218415,1.0,218415.0,USR000027,Outbound,CMP000012,Closed,,30,False
+OPP001290,ACC000635,Nimbus Markets 25 - HubSpot-SFDC Integration,2025-11-17,2026-05-01,Discovery,Discovery,230708,0.25,57677.0,USR000011,Partner,CMP000030,Commit,Executive follow-up,70,True
+OPP000615,ACC000310,Cobalt Labs 56 - Reporting Build,2025-08-17,2025-12-04,Closed Lost,Closed Lost,53377,0.0,0.0,USR000007,Outbound,CMP000029,Closed,,31,False
+OPP001583,ACC000426,Evergreen Ops 30 - CRM Cleanup,2025-09-18,2026-01-30,Closed Won,Closed Won,122413,1.0,122413.0,USR000014,Content Download,CMP000028,Closed,,16,False
+OPP000481,ACC000340,Summit Health 69 - Lifecycle Redesign,2025-11-24,2026-03-11,Demo,Demo,252971,0.4,101188.4,USR000005,Paid Search,CMP000034,Pipeline,Technical scoping,38,False
+OPP000405,ACC000317,Cobalt Health - CRM Cleanup,2025-08-15,2025-09-14,Closed Won,Closed Won,40084,1.0,40084.0,USR000023,Webinar,CMP000009,Closed,,8,False
+OPP001308,ACC000573,Cobalt Cloud 5 - HubSpot-SFDC Integration,2026-03-17,2026-06-10,Prospecting,Prospecting,57845,0.1,5784.5,USR000007,LinkedIn,CMP000031,Pipeline,Legal review,23,False
+OPP000585,ACC000259,Nimbus Software - CRM Cleanup,2025-07-11,2025-11-18,Prospecting,Prospecting,18104,0.1,1810.4,USR000007,Paid Search,CMP000021,Pipeline,No next step logged,14,True
+OPP001623,ACC000471,Evergreen Solutions - Lifecycle Redesign,2025-03-10,2025-06-04,Prospecting,Prospecting,54722,0.1,5472.2,USR000021,Direct,CMP000015,Best Case,Send proposal,23,False
+OPP001146,ACC000633,Catalyst Software 33 - RevOps Retainer,2025-06-13,2025-10-17,Proposal,Proposal,24259,0.6,14555.4,USR000021,LinkedIn,CMP000029,Commit,Schedule discovery,48,True
+OPP000376,ACC000330,Clearpath Intelligence 41 - Lifecycle Redesign,2025-01-28,2025-07-07,Discovery,Discovery,103287,0.25,25821.75,USR000009,Content Download,CMP000010,Commit,No next step logged,48,True
+OPP000119,ACC000246,Apex Networks - RevOps Retainer,2025-09-15,2026-01-09,Proposal,Proposal,164970,0.6,98982.0,USR000021,Content Download,CMP000024,Best Case,No next step logged,16,True
+OPP000277,ACC000397,Clearpath Markets 43 - HubSpot-SFDC Integration,2025-01-01,2025-02-10,Closed Won,Closed Won,10089,1.0,10089.0,USR000005,Event,CMP000003,Closed,,14,False
+OPP000432,ACC000273,Summit Cloud - Lead Routing,2026-04-13,2026-08-07,Proposal,Proposal,119144,0.6,71486.4,USR000023,Webinar,CMP000002,Commit,Schedule discovery,39,False
+OPP000912,ACC000265,Catalyst Cloud 14 - Reporting Build,2026-01-16,2026-05-01,Prospecting,Prospecting,42018,0.1,4201.8,USR000023,Paid Search,CMP000009,Best Case,No next step logged,23,True
+OPP001143,ACC000638,Apex Systems - RevOps Retainer,2025-03-29,2025-09-08,Negotiation,Negotiation,73629,0.75,55221.75,USR000021,Direct,,Pipeline,Legal review,8,False
+OPP000617,ACC000426,Evergreen Ops 30 - Reporting Build,2025-10-21,2026-01-20,Demo,Demo,211934,0.4,84773.6,USR000019,Paid Search,CMP000024,Pipeline,Executive follow-up,43,False
+OPP000584,ACC000022,Summit Dynamics - Lead Routing,2025-07-15,2025-12-17,Closed Lost,Closed Lost,123667,0.0,0.0,USR000010,Direct,,Closed,,29,False
+OPP000431,ACC000133,Vertex Analytics - RevOps Retainer,2025-12-07,2026-04-10,Demo,Demo,83515,0.4,33406.0,USR000022,Event,CMP000004,Commit,Legal review,29,False
+OPP001286,ACC000063,Nova Analytics - CRM Cleanup,2025-12-19,2026-05-14,Prospecting,Prospecting,31707,0.1,3170.7,USR000021,Event,CMP000030,Pipeline,Executive follow-up,12,False
+OPP000913,ACC000033,Signal Group - Reporting Build,2025-03-09,2025-05-31,Closed Lost,Closed Lost,33149,0.0,0.0,USR000009,Direct,CMP000007,Closed,,21,False
+OPP000647,ACC000412,Bright Dynamics 65 - RevOps Retainer,2025-06-04,2025-09-29,Discovery,Discovery,173920,0.25,43480.0,USR000023,Partner,CMP000022,Pipeline,Send proposal,13,False
+OPP001483,ACC000412,Bright Dynamics 65 - Reporting Build,2025-02-05,2025-06-23,Closed Lost,Closed Lost,48732,0.0,0.0,USR000014,LinkedIn,CMP000001,Closed,,13,False
+OPP000308,ACC000578,Northstar Dynamics 19 - Lifecycle Redesign,2025-05-06,2025-08-14,Closed Lost,Closed Lost,76543,0.0,0.0,USR000011,Content Download,CMP000001,Closed,,95,False
+OPP000484,ACC000461,Northstar Intelligence - Lead Routing,2025-10-29,2026-01-21,Discovery,Discovery,35436,0.25,8859.0,USR000023,Referral,CMP000021,Commit,Send proposal,19,False
+OPP000752,ACC000249,Nova Intelligence 92 - RevOps Retainer,2025-09-19,2026-01-05,Proposal,Proposal,291370,0.6,174822.0,USR000010,Webinar,CMP000012,Best Case,Send proposal,58,True
+OPP000968,ACC000307,Nova Data - Reporting Build,2025-01-03,2025-04-06,Closed Lost,Closed Lost,81582,0.0,0.0,USR000021,Content Download,CMP000003,Closed,,20,False
+OPP000863,ACC000516,Cobalt Labs 40 - RevOps Retainer,2026-05-01,2026-08-20,Proposal,Proposal,69964,0.6,41978.4,USR000023,Webinar,CMP000013,Best Case,Send proposal,18,False
+OPP001110,ACC000089,Ironwood Data - Reporting Build,2025-12-06,2026-03-25,Negotiation,Negotiation,33406,0.75,25054.5,USR000010,Outbound,CMP000035,Best Case,Legal review,38,False
+OPP000325,ACC000027,Meridian Systems - Lifecycle Redesign,2025-09-26,2026-03-14,Prospecting,Prospecting,272264,0.1,27226.4,USR000007,Event,CMP000030,Best Case,Executive follow-up,14,False
+OPP001560,ACC000255,BluePeak Labs - Reporting Build,2025-04-05,2025-08-07,Discovery,Discovery,141783,0.25,35445.75,USR000018,LinkedIn,CMP000016,Commit,Send proposal,42,False
+OPP000670,ACC000375,Apex Group - HubSpot-SFDC Integration,2026-04-04,2026-10-04,Prospecting,Prospecting,75381,0.1,7538.1,USR000027,Content Download,CMP000027,Commit,Send proposal,30,False
+OPP001494,ACC000118,Meridian Labs 60 - Lifecycle Redesign,2025-12-03,2026-05-15,Proposal,Proposal,175029,0.6,105017.4,USR000010,Organic Search,CMP000021,Pipeline,Schedule discovery,14,False
+OPP000179,ACC000105,Summit Ops - RevOps Retainer,2025-02-27,2025-06-29,Prospecting,Prospecting,125431,0.1,12543.1,USR000014,Event,CMP000024,Best Case,Send proposal,36,False
+OPP001313,ACC000384,Ironwood Networks 73 - RevOps Retainer,2025-09-03,2025-11-10,Closed Lost,Closed Lost,97212,0.0,0.0,USR000014,Webinar,CMP000004,Closed,,35,False
+OPP000170,ACC000259,Nimbus Software - Lifecycle Redesign,2025-12-23,2026-03-26,Discovery,Discovery,35714,0.25,8928.5,USR000011,Partner,CMP000033,Commit,Technical scoping,65,True
+OPP000702,ACC000607,BluePeak Ops 21 - CRM Cleanup,2025-04-06,2025-07-11,Proposal,Proposal,65498,0.6,39298.8,USR000022,LinkedIn,CMP000036,Commit,Technical scoping,62,True
+OPP000769,ACC000581,Northstar Networks 30 - Lead Routing,2025-02-13,2025-05-06,Demo,Demo,151586,0.4,60634.4,USR000021,Organic Search,CMP000027,Best Case,Send proposal,23,False
+OPP000954,ACC000408,Clearpath Intelligence 94 - HubSpot-SFDC Integration,2025-08-25,2026-01-01,Prospecting,Prospecting,80864,0.1,8086.4,USR000009,Outbound,,Commit,Legal review,30,False
+OPP000184,ACC000026,Ironwood Markets - Lead Routing,2026-06-10,2026-10-15,Proposal,Proposal,41580,0.6,24948.0,USR000021,Direct,CMP000006,Pipeline,Technical scoping,31,False
+OPP000039,ACC000277,Meridian Works 77 - RevOps Retainer,2025-01-15,2025-03-14,Closed Lost,Closed Lost,259650,0.0,0.0,USR000021,Referral,CMP000010,Closed,,39,False
+OPP000243,ACC000078,Bright Solutions - Reporting Build,2026-04-24,2026-05-13,Closed Lost,Closed Lost,28577,0.0,0.0,USR000027,Webinar,CMP000012,Closed,,27,False
+OPP001122,ACC000028,Keystone Markets - HubSpot-SFDC Integration,2026-02-26,2026-03-28,Proposal,Proposal,9249,0.6,5549.4,USR000027,Partner,CMP000024,Pipeline,No next step logged,42,True
+OPP000205,ACC000640,Northstar Markets 56 - Reporting Build,2026-01-20,2026-05-23,Negotiation,Negotiation,135263,0.75,101447.25,USR000009,Event,CMP000015,Best Case,Legal review,19,False
+OPP000570,ACC000607,BluePeak Ops 21 - Lifecycle Redesign,2026-05-19,2026-09-20,Proposal,Proposal,67504,0.6,40502.4,USR000005,Content Download,CMP000023,Pipeline,Legal review,17,False
+OPP000009,ACC000138,Pioneer Intelligence - HubSpot-SFDC Integration,2026-06-06,2026-06-21,Demo,Demo,5000,0.4,2000.0,USR000027,Event,CMP000035,Commit,Schedule discovery,14,False
+OPP001129,ACC000343,Bright Systems 91 - CRM Cleanup,2026-04-06,2026-08-02,Negotiation,Negotiation,157545,0.75,118158.75,USR000022,Content Download,CMP000001,Commit,Executive follow-up,10,False
+OPP000649,ACC000353,Pioneer Solutions - Lead Routing,2025-02-12,2025-04-18,Closed Lost,Closed Lost,65698,0.0,0.0,USR000005,Outbound,CMP000012,Closed,,53,False
+OPP001060,ACC000126,Meridian Software 78 - Reporting Build,2025-01-16,2025-06-03,Demo,Demo,193523,0.4,77409.2,USR000021,Outbound,CMP000003,Pipeline,Technical scoping,24,False
+OPP000841,ACC000141,Nimbus Data - CRM Cleanup,2025-06-23,2025-11-10,Closed Lost,Closed Lost,162790,0.0,0.0,USR000005,Direct,CMP000012,Closed,,9,False
+OPP000163,ACC000009,Nova Markets - Reporting Build,2026-05-17,2026-10-24,Discovery,Discovery,108424,0.25,27106.0,USR000007,Partner,CMP000036,Best Case,No next step logged,9,True
+OPP000161,ACC000379,Evergreen Networks 48 - RevOps Retainer,2025-05-09,2025-09-03,Proposal,Proposal,76607,0.6,45964.2,USR000011,Direct,CMP000024,Pipeline,Technical scoping,43,False
+OPP001148,ACC000398,Cobalt Platform 29 - Reporting Build,2025-07-20,2025-10-21,Demo,Demo,29974,0.4,11989.6,USR000023,Content Download,CMP000034,Commit,Technical scoping,34,False
+OPP000072,ACC000404,Cobalt Cloud - Reporting Build,2025-05-15,2025-06-04,Proposal,Proposal,13365,0.6,8019.0,USR000023,Outbound,CMP000013,Pipeline,Executive follow-up,70,True
+OPP000764,ACC000095,Cobalt Works - Reporting Build,2025-07-25,2025-09-22,Prospecting,Prospecting,34222,0.1,3422.2,USR000023,Referral,,Pipeline,Schedule discovery,9,False
+OPP001014,ACC000228,Cobalt Intelligence - RevOps Retainer,2026-01-17,2026-05-15,Prospecting,Prospecting,33868,0.1,3386.8,USR000011,Direct,CMP000014,Pipeline,Technical scoping,27,False
+OPP000748,ACC000199,Nova Cloud 58 - RevOps Retainer,2025-04-06,2025-07-29,Prospecting,Prospecting,87629,0.1,8762.9,USR000010,Organic Search,CMP000017,Commit,Send proposal,24,False
+OPP001194,ACC000259,Nimbus Software - CRM Cleanup,2025-01-10,2025-03-24,Closed Lost,Closed Lost,13494,0.0,0.0,USR000022,Event,CMP000017,Closed,,14,False
+OPP001099,ACC000248,Signal Health - RevOps Retainer,2025-12-06,2026-03-31,Demo,Demo,334072,0.4,133628.8,USR000010,Outbound,CMP000016,Pipeline,Send proposal,8,False
+OPP000449,ACC000513,Ironwood Platform - Lead Routing,2025-07-14,2025-09-19,Demo,Demo,5298,0.4,2119.2,USR000009,Webinar,CMP000014,Pipeline,Legal review,37,False
+OPP000892,ACC000156,Bright Works - CRM Cleanup,2026-04-01,2026-05-04,Demo,Demo,19611,0.4,7844.4,USR000019,LinkedIn,CMP000029,Commit,No next step logged,11,True
+OPP001111,ACC000069,Clearpath Networks - HubSpot-SFDC Integration,2025-12-06,2026-02-06,Closed Lost,Closed Lost,5000,0.0,0.0,USR000023,Paid Search,CMP000004,Closed,,60,False
+OPP000280,ACC000487,Bright Markets - RevOps Retainer,2025-05-01,2025-06-20,Prospecting,Prospecting,48029,0.1,4802.9,USR000021,Outbound,CMP000030,Pipeline,Executive follow-up,26,False
+OPP000191,ACC000464,Catalyst Intelligence - HubSpot-SFDC Integration,2025-07-18,2025-12-12,Closed Lost,Closed Lost,62948,0.0,0.0,USR000022,Organic Search,CMP000028,Closed,,2,False
+OPP000079,ACC000606,Cobalt Dynamics - Reporting Build,2025-03-26,2025-07-21,Closed Won,Closed Won,291421,1.0,291421.0,USR000021,Paid Search,CMP000002,Closed,,88,False
+OPP000020,ACC000483,Apex Ops 16 - Lifecycle Redesign,2025-04-24,2025-07-09,Demo,Demo,28669,0.4,11467.6,USR000027,Partner,,Commit,Send proposal,26,False
+OPP000746,ACC000025,Evergreen Systems - HubSpot-SFDC Integration,2025-08-07,2026-01-08,Prospecting,Prospecting,423015,0.1,42301.5,USR000007,LinkedIn,CMP000031,Commit,Schedule discovery,22,False
+OPP000557,ACC000339,BluePeak Solutions - RevOps Retainer,2025-01-20,2025-05-02,Discovery,Discovery,57360,0.25,14340.0,USR000010,Content Download,CMP000005,Best Case,Legal review,24,False
+OPP000091,ACC000290,Vertex Health - RevOps Retainer,2026-02-05,2026-05-30,Demo,Demo,105320,0.4,42128.0,USR000010,Outbound,CMP000036,Commit,No next step logged,14,True
+OPP000059,ACC000337,Vertex Systems 29 - Lifecycle Redesign,2025-08-10,2025-11-14,Demo,Demo,139980,0.4,55992.0,USR000018,Event,CMP000022,Pipeline,Technical scoping,3,False
+OPP001447,ACC000021,Bright Health - RevOps Retainer,2025-11-14,2025-12-19,Prospecting,Prospecting,11257,0.1,1125.7,USR000007,Paid Search,CMP000027,Commit,Executive follow-up,37,False
+OPP000488,ACC000397,Clearpath Markets 43 - Lifecycle Redesign,2025-11-22,2025-12-07,Closed Won,Closed Won,18738,1.0,18738.0,USR000005,Event,CMP000029,Closed,,23,False
+OPP001389,ACC000135,Ironwood Labs - RevOps Retainer,2026-05-29,2026-08-12,Proposal,Proposal,10813,0.6,6487.8,USR000019,Paid Search,CMP000034,Best Case,Send proposal,18,False
+OPP000262,ACC000317,Cobalt Health - Reporting Build,2025-10-19,2025-12-21,Proposal,Proposal,41335,0.6,24801.0,USR000022,Organic Search,CMP000029,Best Case,Technical scoping,36,False
+OPP000777,ACC000411,Atlas Software 68 - Lead Routing,2025-06-19,2025-09-01,Closed Lost,Closed Lost,50687,0.0,0.0,USR000005,Event,CMP000009,Closed,,24,False
+OPP001270,ACC000176,Pioneer Ops 94 - Lifecycle Redesign,2026-02-13,2026-07-23,Demo,Demo,417327,0.4,166930.8,USR000005,Referral,CMP000025,Commit,No next step logged,42,True
+OPP000680,ACC000253,Ironwood Ops - RevOps Retainer,2025-09-11,2025-10-02,Closed Lost,Closed Lost,75953,0.0,0.0,USR000007,Partner,CMP000029,Closed,,62,False
+OPP001072,ACC000423,BluePeak Intelligence - Lifecycle Redesign,2025-11-08,2026-02-28,Negotiation,Negotiation,448573,0.75,336429.75,USR000014,Webinar,CMP000027,Pipeline,Executive follow-up,59,True
+OPP000350,ACC000176,Pioneer Ops 94 - RevOps Retainer,2025-09-21,2026-01-08,Demo,Demo,249914,0.4,99965.6,USR000018,Paid Search,CMP000030,Best Case,Schedule discovery,35,False
+OPP000630,ACC000382,Catalyst Works 16 - HubSpot-SFDC Integration,2025-12-08,2026-04-04,Demo,Demo,181046,0.4,72418.4,USR000007,LinkedIn,CMP000018,Pipeline,Schedule discovery,30,False
+OPP000504,ACC000480,BluePeak Cloud 17 - RevOps Retainer,2025-09-24,2025-11-26,Negotiation,Negotiation,28485,0.75,21363.75,USR000019,Direct,CMP000002,Best Case,Technical scoping,4,False
+OPP001427,ACC000050,Clearpath Intelligence - Reporting Build,2025-12-23,2026-04-03,Discovery,Discovery,171157,0.25,42789.25,USR000022,Organic Search,CMP000031,Best Case,Schedule discovery,29,False
+OPP000955,ACC000049,Summit Platform - HubSpot-SFDC Integration,2025-10-06,2025-10-28,Negotiation,Negotiation,93577,0.75,70182.75,USR000007,Paid Search,CMP000020,Pipeline,Technical scoping,19,False
+OPP001634,ACC000442,Apex Platform 59 - CRM Cleanup,2025-02-15,2025-04-12,Proposal,Proposal,22736,0.6,13641.6,USR000021,Partner,CMP000018,Commit,Executive follow-up,18,False
+OPP000682,ACC000249,Nova Intelligence 92 - RevOps Retainer,2025-06-03,2025-11-16,Demo,Demo,114485,0.4,45794.0,USR000018,Content Download,CMP000019,Commit,Schedule discovery,43,False
+OPP001199,ACC000179,Catalyst Ops 73 - Reporting Build,2025-11-01,2026-01-17,Closed Won,Closed Won,125157,1.0,125157.0,USR000009,Paid Search,CMP000027,Closed,,38,False
+OPP001123,ACC000375,Apex Group - Lifecycle Redesign,2026-04-28,2026-09-04,Closed Lost,Closed Lost,133892,0.0,0.0,USR000018,Content Download,CMP000022,Closed,,11,False
+OPP001482,ACC000616,Pioneer Platform 96 - HubSpot-SFDC Integration,2025-10-13,2026-03-11,Demo,Demo,148081,0.4,59232.4,USR000022,Event,,Best Case,Send proposal,44,False
+OPP001556,ACC000101,Bright Labs 72 - CRM Cleanup,2026-06-03,2026-08-24,Prospecting,Prospecting,39497,0.1,3949.7,USR000023,Partner,CMP000022,Commit,Schedule discovery,34,False
+OPP000583,ACC000041,Keystone Solutions - RevOps Retainer,2025-01-14,2025-03-02,Prospecting,Prospecting,31848,0.1,3184.8,USR000022,Organic Search,CMP000034,Pipeline,Send proposal,32,False
+OPP000392,ACC000282,BluePeak Markets 96 - Lead Routing,2025-12-23,2026-03-06,Closed Won,Closed Won,51701,1.0,51701.0,USR000011,Partner,CMP000020,Closed,,9,False
+OPP000882,ACC000543,Pioneer Labs 30 - Reporting Build,2025-10-19,2026-02-16,Discovery,Discovery,41548,0.25,10387.0,USR000007,Webinar,CMP000001,Commit,Executive follow-up,30,False
+OPP001539,ACC000207,Meridian Works - RevOps Retainer,2025-04-08,2025-09-19,Closed Lost,Closed Lost,73685,0.0,0.0,USR000009,Direct,CMP000034,Closed,,22,False
+OPP001077,ACC000308,BluePeak Data 9 - Reporting Build,2026-04-11,2026-06-23,Closed Lost,Closed Lost,50553,0.0,0.0,USR000010,LinkedIn,CMP000024,Closed,,19,False
+OPP000454,ACC000092,Ironwood Software - Reporting Build,2025-12-03,2026-05-08,Discovery,Discovery,72554,0.25,18138.5,USR000011,Referral,CMP000002,Commit,Technical scoping,33,False
+OPP000627,ACC000614,Evergreen Ops 74 - RevOps Retainer,2026-01-24,2026-03-09,Proposal,Proposal,19361,0.6,11616.6,USR000009,Event,,Commit,Schedule discovery,36,False
+OPP000055,ACC000179,Catalyst Ops 73 - Lifecycle Redesign,2026-04-29,2026-08-04,Closed Lost,Closed Lost,23202,0.0,0.0,USR000011,Outbound,CMP000029,Closed,,44,False
+OPP001535,ACC000532,Northstar Health - Lifecycle Redesign,2025-02-12,2025-07-10,Demo,Demo,192476,0.4,76990.4,USR000011,Webinar,CMP000009,Pipeline,Executive follow-up,21,False
+OPP000513,ACC000268,Ironwood Systems 13 - CRM Cleanup,2025-12-15,2026-01-30,Closed Lost,Closed Lost,24615,0.0,0.0,USR000009,LinkedIn,CMP000023,Closed,,9,False
+OPP000916,ACC000136,Atlas Dynamics - CRM Cleanup,2025-05-27,2025-07-28,Closed Lost,Closed Lost,12817,0.0,0.0,USR000007,Referral,CMP000029,Closed,,36,False
+OPP000931,ACC000532,Northstar Health - Lead Routing,2026-03-13,2026-07-24,Closed Won,Closed Won,296383,1.0,296383.0,USR000014,Outbound,CMP000015,Closed,,38,False
+OPP000314,ACC000469,Nova Markets 92 - HubSpot-SFDC Integration,2026-03-12,2026-07-13,Closed Won,Closed Won,69826,1.0,69826.0,USR000018,LinkedIn,CMP000030,Closed,,28,False
+OPP001613,ACC000251,Vertex Dynamics 65 - Lifecycle Redesign,2025-10-28,2026-01-19,Demo,Demo,49416,0.4,19766.4,USR000019,Organic Search,,Pipeline,Legal review,14,False
+OPP000326,ACC000433,Catalyst Ops - Lead Routing,2026-01-29,2026-05-23,Closed Won,Closed Won,136372,1.0,136372.0,USR000019,Direct,CMP000016,Closed,,21,False
+OPP000501,ACC000511,Apex Data - Lead Routing,2026-05-01,2026-08-12,Proposal,Proposal,83749,0.6,50249.4,USR000022,Partner,CMP000026,Best Case,Schedule discovery,27,False
+OPP000953,ACC000049,Summit Platform - RevOps Retainer,2025-01-23,2025-03-31,Closed Lost,Closed Lost,62034,0.0,0.0,USR000019,LinkedIn,CMP000036,Closed,,23,False
+OPP000689,ACC000226,BluePeak Dynamics 93 - RevOps Retainer,2025-05-18,2025-06-22,Closed Won,Closed Won,29771,1.0,29771.0,USR000027,Direct,,Closed,,25,False
+OPP001382,ACC000091,Meridian Group - Reporting Build,2025-06-29,2025-08-19,Negotiation,Negotiation,36133,0.75,27099.75,USR000009,Organic Search,CMP000016,Best Case,No next step logged,7,True
+OPP000734,ACC000485,Nimbus Platform 85 - HubSpot-SFDC Integration,2025-10-02,2025-12-29,Discovery,Discovery,26412,0.25,6603.0,USR000014,Outbound,CMP000010,Pipeline,Technical scoping,42,False
+OPP000319,ACC000609,Keystone Ops - CRM Cleanup,2025-12-30,2026-05-08,Proposal,Proposal,277556,0.6,166533.6,USR000021,Content Download,CMP000033,Pipeline,Executive follow-up,39,False
+OPP000300,ACC000060,Atlas Platform - CRM Cleanup,2026-03-27,2026-06-06,Closed Lost,Closed Lost,45745,0.0,0.0,USR000009,Partner,,Closed,,32,False
+OPP001107,ACC000118,Meridian Labs 60 - Lead Routing,2025-10-27,2026-01-24,Prospecting,Prospecting,114681,0.1,11468.1,USR000023,Referral,CMP000006,Pipeline,Technical scoping,43,False
+OPP000866,ACC000424,Nimbus Health 75 - CRM Cleanup,2025-08-28,2025-10-27,Discovery,Discovery,63589,0.25,15897.25,USR000007,Content Download,CMP000008,Commit,Executive follow-up,43,False
+OPP000264,ACC000582,Evergreen Data 84 - Lifecycle Redesign,2025-12-20,2026-02-22,Discovery,Discovery,6056,0.25,1514.0,USR000027,Content Download,CMP000017,Commit,Schedule discovery,34,False
+OPP001242,ACC000033,Signal Group - Lifecycle Redesign,2025-01-20,2025-06-29,Proposal,Proposal,650000,0.6,390000.0,USR000007,Event,CMP000018,Pipeline,Send proposal,43,False
+OPP001510,ACC000578,Northstar Dynamics 19 - HubSpot-SFDC Integration,2025-11-26,2026-03-27,Closed Lost,Closed Lost,350643,0.0,0.0,USR000022,Referral,CMP000012,Closed,,14,False
+OPP000426,ACC000032,Bright Analytics - HubSpot-SFDC Integration,2026-05-28,2026-09-07,Demo,Demo,12391,0.4,4956.4,USR000007,Webinar,,Commit,No next step logged,19,True
+OPP000675,ACC000030,Bright Analytics 25 - RevOps Retainer,2025-02-23,2025-03-23,Demo,Demo,59148,0.4,23659.2,USR000005,Outbound,CMP000012,Commit,Legal review,33,False
+OPP000950,ACC000098,Summit Networks 26 - Lead Routing,2025-10-29,2026-01-17,Closed Lost,Closed Lost,47935,0.0,0.0,USR000009,Content Download,CMP000001,Closed,,28,False
+OPP000562,ACC000220,Meridian Intelligence - CRM Cleanup,2025-11-09,2026-02-06,Proposal,Proposal,20313,0.6,12187.8,USR000009,Direct,,Commit,Technical scoping,6,False
+OPP000121,ACC000463,Catalyst Health 65 - Reporting Build,2025-05-04,2025-09-24,Closed Won,Closed Won,270701,1.0,270701.0,USR000023,Partner,CMP000030,Closed,,47,False
+OPP000060,ACC000359,Clearpath Health 19 - Lifecycle Redesign,2025-03-30,2025-07-15,Demo,Demo,52951,0.4,21180.4,USR000009,Event,CMP000003,Commit,Executive follow-up,35,False
+OPP000886,ACC000244,Meridian Labs 79 - HubSpot-SFDC Integration,2026-04-15,2026-07-20,Demo,Demo,20436,0.4,8174.4,USR000010,Direct,CMP000028,Pipeline,Legal review,25,False
+OPP000284,ACC000494,Northstar Markets 77 - Lifecycle Redesign,2025-02-21,2025-06-29,Demo,Demo,173140,0.4,69256.0,USR000010,Direct,CMP000012,Best Case,Schedule discovery,31,False
+OPP001558,ACC000150,Northstar Solutions - RevOps Retainer,2025-03-29,2025-05-25,Prospecting,Prospecting,23217,0.1,2321.7,USR000019,Webinar,CMP000023,Commit,Schedule discovery,36,False
+OPP000597,ACC000314,Apex Works 61 - Lead Routing,2025-09-10,2025-12-01,Proposal,Proposal,127820,0.6,76692.0,USR000014,Event,CMP000016,Best Case,Send proposal,35,False
+OPP001640,ACC000548,Bright Health 59 - HubSpot-SFDC Integration,2025-12-09,2026-04-12,Discovery,Discovery,97600,0.25,24400.0,USR000007,Outbound,CMP000024,Best Case,Send proposal,41,False
+OPP001076,ACC000314,Apex Works 61 - CRM Cleanup,2025-11-22,2026-02-25,Demo,Demo,80725,0.4,32290.0,USR000027,Paid Search,CMP000020,Pipeline,Send proposal,27,False
+OPP000094,ACC000273,Summit Cloud - Lead Routing,2026-05-28,2026-10-24,Prospecting,Prospecting,56262,0.1,5626.2,USR000010,Referral,CMP000016,Best Case,Executive follow-up,28,False
+OPP000268,ACC000298,Signal Networks - Lead Routing,2026-05-21,2026-10-19,Discovery,Discovery,136060,0.25,34015.0,USR000019,Direct,CMP000012,Commit,No next step logged,5,True
+OPP000160,ACC000176,Pioneer Ops 94 - Lead Routing,2026-01-25,2026-07-04,Prospecting,Prospecting,41977,0.1,4197.7,USR000021,Partner,CMP000033,Pipeline,Schedule discovery,17,False
+OPP000622,ACC000515,Catalyst Intelligence 41 - HubSpot-SFDC Integration,2025-09-03,2025-12-18,Proposal,Proposal,25381,0.6,15228.6,USR000018,Event,CMP000017,Commit,Executive follow-up,29,False
+OPP000194,ACC000649,Atlas Data 82 - Lifecycle Redesign,2026-06-02,2026-09-01,Prospecting,Prospecting,55396,0.1,5539.6,USR000005,Organic Search,CMP000018,Pipeline,Executive follow-up,46,True
+OPP001635,ACC000201,Clearpath Data 6 - Reporting Build,2026-03-11,2026-07-02,Closed Lost,Closed Lost,41389,0.0,0.0,USR000019,Webinar,CMP000031,Closed,,26,False
+OPP001141,ACC000479,Evergreen Markets 75 - HubSpot-SFDC Integration,2025-08-06,2025-12-28,Negotiation,Negotiation,175606,0.75,131704.5,USR000007,Partner,CMP000011,Pipeline,No next step logged,46,True
+OPP001423,ACC000146,Bright Markets 38 - HubSpot-SFDC Integration,2026-01-19,2026-06-08,Closed Lost,Closed Lost,149118,0.0,0.0,USR000007,Organic Search,CMP000015,Closed,,43,False
+OPP000979,ACC000526,Signal Markets 44 - CRM Cleanup,2025-10-02,2026-01-04,Demo,Demo,132454,0.4,52981.6,USR000010,Direct,CMP000017,Pipeline,Executive follow-up,59,True
+OPP000905,ACC000223,Clearpath Systems - HubSpot-SFDC Integration,2026-01-23,2026-03-14,Discovery,Discovery,102981,0.25,25745.25,USR000019,Content Download,CMP000013,Best Case,Send proposal,22,False
+OPP000002,ACC000041,Keystone Solutions - Lifecycle Redesign,2025-09-22,2025-10-13,Demo,Demo,11171,0.4,4468.4,USR000023,Referral,CMP000003,Pipeline,Executive follow-up,22,False
+OPP001353,ACC000181,Northstar Cloud - CRM Cleanup,2026-04-27,2026-09-12,Closed Won,Closed Won,75141,1.0,75141.0,USR000010,Direct,CMP000002,Closed,,59,False
+OPP000008,ACC000110,Cobalt Dynamics 35 - CRM Cleanup,2025-04-28,2025-08-17,Proposal,Proposal,187387,0.6,112432.2,USR000022,Paid Search,CMP000034,Best Case,Schedule discovery,62,True
+OPP001437,ACC000151,Cobalt Cloud 98 - HubSpot-SFDC Integration,2025-08-21,2026-02-11,Discovery,Discovery,89517,0.25,22379.25,USR000021,Paid Search,CMP000014,Best Case,Schedule discovery,21,False
+OPP000465,ACC000293,Atlas Labs 13 - Reporting Build,2025-01-29,2025-05-01,Discovery,Discovery,53295,0.25,13323.75,USR000010,LinkedIn,CMP000025,Pipeline,No next step logged,52,True
+OPP000186,ACC000479,Evergreen Markets 75 - Reporting Build,2025-07-29,2026-01-20,Proposal,Proposal,83879,0.6,50327.4,USR000023,Event,CMP000004,Pipeline,Technical scoping,29,False
+OPP001351,ACC000382,Catalyst Works 16 - CRM Cleanup,2025-03-18,2025-07-29,Discovery,Discovery,294724,0.25,73681.0,USR000011,Webinar,,Pipeline,Send proposal,32,False
+OPP001184,ACC000574,Northstar Solutions 73 - HubSpot-SFDC Integration,2025-01-04,2025-02-19,Closed Lost,Closed Lost,38701,0.0,0.0,USR000022,Referral,CMP000024,Closed,,59,False
+OPP000331,ACC000275,Meridian Labs - HubSpot-SFDC Integration,2025-01-09,2025-03-12,Proposal,Proposal,14764,0.6,8858.4,USR000011,Direct,CMP000009,Best Case,Executive follow-up,17,False
+OPP000964,ACC000181,Northstar Cloud - Lead Routing,2026-03-01,2026-07-20,Discovery,Discovery,83528,0.25,20882.0,USR000027,Paid Search,CMP000028,Commit,Technical scoping,38,False
+OPP001551,ACC000011,Ironwood Analytics - RevOps Retainer,2025-04-04,2025-09-08,Discovery,Discovery,150322,0.25,37580.5,USR000010,Outbound,CMP000031,Pipeline,Schedule discovery,7,False
+OPP000051,ACC000246,Apex Networks - RevOps Retainer,2026-02-10,2026-05-08,Discovery,Discovery,121519,0.25,30379.75,USR000007,Outbound,CMP000036,Commit,No next step logged,69,True
+OPP001079,ACC000210,Northstar Software 45 - HubSpot-SFDC Integration,2025-06-05,2025-07-25,Prospecting,Prospecting,100565,0.1,10056.5,USR000014,Webinar,CMP000035,Best Case,Send proposal,36,False
+OPP001408,ACC000151,Cobalt Cloud 98 - Lead Routing,2025-05-26,2025-09-23,Discovery,Discovery,276919,0.25,69229.75,USR000007,Event,CMP000015,Commit,Executive follow-up,36,False
+OPP000309,ACC000063,Nova Analytics - Reporting Build,2026-06-08,2026-10-25,Demo,Demo,200104,0.4,80041.6,USR000009,Paid Search,CMP000028,Pipeline,Send proposal,16,False
+OPP000276,ACC000637,Clearpath Health 91 - CRM Cleanup,2026-02-18,2026-04-25,Closed Lost,Closed Lost,5000,0.0,0.0,USR000005,Partner,CMP000025,Closed,,11,False
+OPP001247,ACC000534,Clearpath Networks 80 - CRM Cleanup,2026-02-01,2026-04-23,Demo,Demo,10936,0.4,4374.4,USR000009,Partner,CMP000029,Pipeline,Technical scoping,15,False
+OPP001109,ACC000310,Cobalt Labs 56 - CRM Cleanup,2025-05-31,2025-08-15,Prospecting,Prospecting,60300,0.1,6030.0,USR000009,Content Download,CMP000001,Pipeline,Technical scoping,24,False
+OPP000832,ACC000528,Catalyst Data 39 - Lifecycle Redesign,2025-01-22,2025-07-15,Closed Won,Closed Won,82195,1.0,82195.0,USR000019,Content Download,CMP000005,Closed,,8,False
+OPP001486,ACC000192,Nova Ops 75 - Lifecycle Redesign,2026-05-29,2026-08-09,Demo,Demo,19183,0.4,7673.2,USR000022,Organic Search,CMP000021,Best Case,Send proposal,46,True
+OPP001185,ACC000029,Bright Labs - Lifecycle Redesign,2025-08-05,2025-11-19,Discovery,Discovery,42703,0.25,10675.75,USR000022,Event,CMP000030,Pipeline,No next step logged,28,True
+OPP001596,ACC000518,Catalyst Dynamics 95 - Lifecycle Redesign,2025-07-11,2025-10-31,Discovery,Discovery,267798,0.25,66949.5,USR000007,Paid Search,CMP000008,Pipeline,Technical scoping,49,True
+OPP000173,ACC000235,Signal Works 47 - Reporting Build,2025-12-22,2026-03-01,Prospecting,Prospecting,80344,0.1,8034.4,USR000005,Outbound,CMP000008,Pipeline,Legal review,24,False
+OPP001606,ACC000495,Atlas Systems 51 - Lead Routing,2025-02-27,2025-07-24,Discovery,Discovery,43849,0.25,10962.25,USR000027,Direct,CMP000004,Commit,Technical scoping,95,True
+OPP000345,ACC000207,Meridian Works - Lifecycle Redesign,2026-04-06,2026-08-31,Discovery,Discovery,181057,0.25,45264.25,USR000007,Organic Search,CMP000002,Pipeline,Legal review,13,False
+OPP001221,ACC000613,Signal Group 54 - Lead Routing,2025-01-31,2025-04-09,Discovery,Discovery,35091,0.25,8772.75,USR000009,Direct,CMP000035,Commit,Legal review,32,False
+OPP000292,ACC000576,Cobalt Labs 91 - RevOps Retainer,2025-08-12,2025-11-14,Closed Lost,Closed Lost,85519,0.0,0.0,USR000022,Event,CMP000031,Closed,,27,False
+OPP000266,ACC000646,Summit Data 97 - Reporting Build,2026-05-10,2026-07-06,Closed Won,Closed Won,37586,1.0,37586.0,USR000027,Referral,CMP000019,Closed,,29,False
+OPP000645,ACC000307,Nova Data - RevOps Retainer,2025-06-05,2025-08-23,Closed Lost,Closed Lost,58278,0.0,0.0,USR000005,Referral,CMP000024,Closed,,72,False
+OPP000696,ACC000435,BluePeak Cloud 83 - RevOps Retainer,2026-02-23,2026-05-03,Negotiation,Negotiation,14386,0.75,10789.5,USR000009,Organic Search,,Pipeline,Schedule discovery,30,False
+OPP001026,ACC000284,Evergreen Group 71 - Lead Routing,2026-01-25,2026-02-21,Prospecting,Prospecting,11802,0.1,1180.2,USR000010,Partner,CMP000014,Commit,Legal review,20,False
+OPP001070,ACC000608,Cobalt Markets 86 - RevOps Retainer,2025-02-26,2025-04-11,Negotiation,Negotiation,10775,0.75,8081.25,USR000022,Direct,CMP000030,Best Case,Executive follow-up,35,False
+OPP000782,ACC000434,Bright Dynamics 68 - CRM Cleanup,2026-01-12,2026-03-01,Proposal,Proposal,24906,0.6,14943.6,USR000014,Referral,CMP000018,Commit,Executive follow-up,44,False
+OPP000218,ACC000098,Summit Networks 26 - HubSpot-SFDC Integration,2026-05-10,2026-08-11,Closed Won,Closed Won,104967,1.0,104967.0,USR000011,Paid Search,CMP000024,Closed,,21,False
+OPP000641,ACC000426,Evergreen Ops 30 - CRM Cleanup,2026-05-05,2026-08-06,Demo,Demo,181155,0.4,72462.0,USR000027,Webinar,CMP000026,Commit,No next step logged,30,True
+OPP000061,ACC000649,Atlas Data 82 - Lifecycle Redesign,2025-04-06,2025-07-16,Prospecting,Prospecting,32192,0.1,3219.2,USR000014,Event,CMP000013,Best Case,Schedule discovery,21,False
+OPP001422,ACC000485,Nimbus Platform 85 - HubSpot-SFDC Integration,2025-02-28,2025-05-10,Closed Lost,Closed Lost,33847,0.0,0.0,USR000014,Partner,CMP000027,Closed,,29,False
+OPP000729,ACC000040,Nimbus Markets - Lead Routing,2025-08-16,2026-01-24,Closed Lost,Closed Lost,61778,0.0,0.0,USR000007,Referral,CMP000024,Closed,,81,False
+OPP001630,ACC000433,Catalyst Ops - RevOps Retainer,2025-10-03,2026-02-17,Negotiation,Negotiation,215973,0.75,161979.75,USR000005,Partner,CMP000008,Pipeline,Legal review,81,True
+OPP000088,ACC000076,Nova Platform - HubSpot-SFDC Integration,2025-05-29,2025-08-15,Demo,Demo,29286,0.4,11714.4,USR000005,LinkedIn,CMP000028,Pipeline,Send proposal,31,False
+OPP000202,ACC000292,Apex Networks 54 - HubSpot-SFDC Integration,2025-09-09,2026-01-14,Proposal,Proposal,176996,0.6,106197.6,USR000011,LinkedIn,CMP000034,Commit,Technical scoping,32,False
+OPP000555,ACC000649,Atlas Data 82 - Lead Routing,2025-06-01,2025-09-21,Negotiation,Negotiation,130773,0.75,98079.75,USR000014,Event,CMP000026,Pipeline,Technical scoping,15,False
+OPP001571,ACC000448,Atlas Markets 54 - Lead Routing,2025-11-04,2026-01-06,Discovery,Discovery,29995,0.25,7498.75,USR000018,LinkedIn,CMP000007,Best Case,Legal review,11,False
+OPP000605,ACC000053,Nimbus Labs 15 - RevOps Retainer,2026-03-28,2026-07-18,Closed Lost,Closed Lost,15737,0.0,0.0,USR000007,Content Download,CMP000003,Closed,,22,False
+OPP000215,ACC000532,Northstar Health - Reporting Build,2026-03-05,2026-07-20,Discovery,Discovery,117241,0.25,29310.25,USR000019,Organic Search,CMP000018,Pipeline,Send proposal,23,False
+OPP000395,ACC000463,Catalyst Health 65 - RevOps Retainer,2025-08-08,2025-12-28,Discovery,Discovery,133674,0.25,33418.5,USR000014,LinkedIn,CMP000032,Commit,Executive follow-up,47,True
+OPP000566,ACC000476,Northstar Data 7 - RevOps Retainer,2025-05-31,2025-08-20,Negotiation,Negotiation,10344,0.75,7758.0,USR000022,Referral,CMP000022,Commit,Executive follow-up,21,False
+OPP001159,ACC000251,Vertex Dynamics 65 - Lifecycle Redesign,2025-12-10,2026-04-16,Demo,Demo,116042,0.4,46416.8,USR000021,LinkedIn,CMP000030,Pipeline,Executive follow-up,32,False
+OPP000750,ACC000601,Summit Markets 88 - RevOps Retainer,2025-09-18,2025-11-17,Prospecting,Prospecting,66655,0.1,6665.5,USR000023,LinkedIn,CMP000020,Pipeline,Send proposal,21,False
+OPP000188,ACC000207,Meridian Works - RevOps Retainer,2025-03-18,2025-06-19,Prospecting,Prospecting,181758,0.1,18175.8,USR000007,Direct,CMP000032,Best Case,Schedule discovery,16,False
+OPP001288,ACC000089,Ironwood Data - HubSpot-SFDC Integration,2025-07-21,2025-10-13,Prospecting,Prospecting,29373,0.1,2937.3,USR000011,Webinar,CMP000021,Commit,Schedule discovery,15,False
+OPP000850,ACC000518,Catalyst Dynamics 95 - Lifecycle Redesign,2025-08-16,2025-10-30,Closed Lost,Closed Lost,52216,0.0,0.0,USR000007,Referral,CMP000033,Closed,,11,False
+OPP001338,ACC000059,Signal Ops - HubSpot-SFDC Integration,2026-06-09,2026-08-07,Prospecting,Prospecting,30018,0.1,3001.8,USR000021,Partner,,Best Case,Send proposal,50,True
+OPP001629,ACC000033,Signal Group - Reporting Build,2025-12-23,2026-04-28,Demo,Demo,262797,0.4,105118.8,USR000018,Paid Search,CMP000013,Commit,Legal review,54,True
+OPP000257,ACC000535,Ironwood Health 54 - Reporting Build,2025-09-12,2026-03-05,Discovery,Discovery,59981,0.25,14995.25,USR000014,Organic Search,CMP000002,Pipeline,No next step logged,13,True
+OPP001620,ACC000324,Atlas Cloud - RevOps Retainer,2026-05-14,2026-10-12,Demo,Demo,44988,0.4,17995.2,USR000011,Event,CMP000023,Pipeline,Send proposal,18,False
+OPP000370,ACC000637,Clearpath Health 91 - CRM Cleanup,2025-07-23,2025-08-29,Demo,Demo,12377,0.4,4950.8,USR000011,Direct,CMP000024,Commit,Send proposal,31,False
+OPP001218,ACC000223,Clearpath Systems - HubSpot-SFDC Integration,2026-03-23,2026-07-28,Negotiation,Negotiation,12879,0.75,9659.25,USR000014,Outbound,CMP000016,Best Case,Send proposal,22,False
+OPP000901,ACC000137,Northstar Works 5 - HubSpot-SFDC Integration,2025-08-15,2025-11-24,Prospecting,Prospecting,54399,0.1,5439.9,USR000009,Referral,CMP000030,Commit,Send proposal,34,False
+OPP001006,ACC000065,Keystone Software 93 - Reporting Build,2026-03-27,2026-05-05,Prospecting,Prospecting,42411,0.1,4241.1,USR000007,Event,CMP000015,Pipeline,Executive follow-up,28,False
+OPP000772,ACC000055,Signal Solutions - RevOps Retainer,2025-07-09,2025-09-18,Demo,Demo,14492,0.4,5796.8,USR000022,Webinar,CMP000024,Pipeline,Legal review,80,True
+OPP000378,ACC000350,Keystone Networks 89 - Lifecycle Redesign,2026-05-08,2026-06-22,Closed Lost,Closed Lost,105940,0.0,0.0,USR000019,Webinar,CMP000021,Closed,,38,False
+OPP001498,ACC000623,Meridian Platform 77 - Reporting Build,2025-04-27,2025-07-19,Closed Won,Closed Won,33598,1.0,33598.0,USR000027,LinkedIn,CMP000030,Closed,,42,False
+OPP000176,ACC000597,Meridian Platform 48 - RevOps Retainer,2026-03-28,2026-04-26,Closed Won,Closed Won,11622,1.0,11622.0,USR000005,Outbound,CMP000010,Closed,,28,False
+OPP001405,ACC000504,Catalyst Markets - Lifecycle Redesign,2026-05-20,2026-10-14,Proposal,Proposal,650000,0.6,390000.0,USR000005,Outbound,CMP000009,Pipeline,Executive follow-up,24,False
+OPP001243,ACC000057,Nova Group - RevOps Retainer,2025-04-22,2025-05-29,Discovery,Discovery,35395,0.25,8848.75,USR000019,Outbound,CMP000002,Commit,No next step logged,52,True
+OPP000755,ACC000343,Bright Systems 91 - HubSpot-SFDC Integration,2025-10-15,2026-01-21,Discovery,Discovery,51498,0.25,12874.5,USR000018,Paid Search,CMP000026,Best Case,Legal review,22,False
+OPP000741,ACC000439,Signal Data 41 - Lifecycle Redesign,2025-01-20,2025-06-21,Discovery,Discovery,95049,0.25,23762.25,USR000009,Direct,CMP000034,Commit,No next step logged,23,True
+OPP001524,ACC000250,Atlas Networks - CRM Cleanup,2025-04-12,2025-06-17,Demo,Demo,59213,0.4,23685.2,USR000019,Webinar,CMP000026,Best Case,Schedule discovery,38,False
+OPP000241,ACC000224,Summit Works 32 - RevOps Retainer,2025-09-05,2025-09-20,Discovery,Discovery,51889,0.25,12972.25,USR000018,Event,CMP000027,Pipeline,Technical scoping,18,False
+OPP001371,ACC000616,Pioneer Platform 96 - RevOps Retainer,2025-10-16,2026-03-17,Discovery,Discovery,210326,0.25,52581.5,USR000009,Event,,Pipeline,Legal review,20,False
+OPP000290,ACC000118,Meridian Labs 60 - CRM Cleanup,2026-06-07,2026-09-18,Proposal,Proposal,295497,0.6,177298.2,USR000007,Referral,CMP000002,Pipeline,Schedule discovery,21,False
+OPP000221,ACC000387,Apex Dynamics - Reporting Build,2026-04-24,2026-09-30,Proposal,Proposal,55003,0.6,33001.8,USR000018,Event,CMP000036,Commit,Send proposal,27,False
+OPP000034,ACC000425,Apex Dynamics 7 - Lead Routing,2025-03-17,2025-04-26,Demo,Demo,7512,0.4,3004.8,USR000014,Outbound,CMP000025,Pipeline,No next step logged,31,True
+OPP000113,ACC000326,Clearpath Intelligence 13 - HubSpot-SFDC Integration,2026-02-25,2026-05-11,Proposal,Proposal,59699,0.6,35819.4,USR000027,Partner,CMP000015,Best Case,Executive follow-up,34,False
+OPP000483,ACC000555,Keystone Systems 68 - RevOps Retainer,2026-03-14,2026-04-26,Demo,Demo,37778,0.4,15111.2,USR000010,Content Download,CMP000016,Commit,Schedule discovery,19,False
+OPP001086,ACC000141,Nimbus Data - RevOps Retainer,2025-08-03,2025-12-19,Discovery,Discovery,132428,0.25,33107.0,USR000010,Outbound,CMP000032,Commit,Legal review,46,True
+OPP001275,ACC000221,Catalyst Systems - RevOps Retainer,2025-10-08,2025-12-10,Closed Lost,Closed Lost,31778,0.0,0.0,USR000021,Content Download,CMP000035,Closed,,26,False
+OPP000344,ACC000489,Nimbus Ops 79 - HubSpot-SFDC Integration,2026-06-07,2026-07-30,Proposal,Proposal,35620,0.6,21372.0,USR000022,Event,CMP000033,Best Case,Executive follow-up,27,False
+OPP000027,ACC000525,BluePeak Software 47 - HubSpot-SFDC Integration,2025-04-06,2025-07-04,Closed Lost,Closed Lost,24606,0.0,0.0,USR000019,Direct,CMP000019,Closed,,31,False
+OPP001451,ACC000090,Cobalt Solutions - CRM Cleanup,2026-02-14,2026-05-10,Closed Won,Closed Won,27877,1.0,27877.0,USR000023,Organic Search,CMP000021,Closed,,46,False
+OPP000224,ACC000650,Cobalt Analytics 22 - CRM Cleanup,2025-09-08,2026-02-06,Discovery,Discovery,214134,0.25,53533.5,USR000011,Partner,CMP000035,Best Case,Technical scoping,30,False
+OPP000324,ACC000452,Apex Solutions 9 - Reporting Build,2026-01-09,2026-04-01,Prospecting,Prospecting,48602,0.1,4860.2,USR000014,LinkedIn,CMP000034,Commit,Technical scoping,15,False
+OPP000383,ACC000194,Keystone Platform 69 - Reporting Build,2026-04-09,2026-05-05,Proposal,Proposal,30864,0.6,18518.4,USR000010,Partner,CMP000023,Commit,Legal review,31,False
+OPP000758,ACC000022,Summit Dynamics - Lead Routing,2025-11-21,2026-03-21,Negotiation,Negotiation,267355,0.75,200516.25,USR000027,Direct,CMP000017,Commit,Legal review,35,False
+OPP001047,ACC000243,Clearpath Labs - Lead Routing,2026-01-30,2026-05-22,Proposal,Proposal,5000,0.6,3000.0,USR000014,Referral,CMP000025,Pipeline,Technical scoping,33,False
+OPP000066,ACC000327,Cobalt Software 99 - Lifecycle Redesign,2026-05-01,2026-08-25,Closed Lost,Closed Lost,128359,0.0,0.0,USR000011,Content Download,CMP000030,Closed,,23,False
+OPP001112,ACC000007,BluePeak Health - Reporting Build,2025-02-21,2025-04-09,Prospecting,Prospecting,14948,0.1,1494.8,USR000022,Organic Search,CMP000030,Commit,Send proposal,10,False
+OPP000102,ACC000399,Nova Cloud 74 - Lead Routing,2026-03-18,2026-05-08,Demo,Demo,54209,0.4,21683.6,USR000010,LinkedIn,CMP000020,Commit,Send proposal,52,True
+OPP000146,ACC000440,Northstar Works - Reporting Build,2026-05-19,2026-07-27,Demo,Demo,13961,0.4,5584.4,USR000022,Paid Search,CMP000010,Commit,Send proposal,69,True
+OPP001256,ACC000086,Atlas Health - Reporting Build,2025-08-15,2025-09-28,Negotiation,Negotiation,53005,0.75,39753.75,USR000011,Webinar,CMP000028,Best Case,Send proposal,64,True
+OPP000596,ACC000193,Nova Networks 81 - Lifecycle Redesign,2026-05-09,2026-10-19,Closed Won,Closed Won,115625,1.0,115625.0,USR000011,Webinar,CMP000017,Closed,,21,False
+OPP001294,ACC000593,Clearpath Networks 24 - RevOps Retainer,2025-12-14,2026-03-22,Closed Won,Closed Won,18444,1.0,18444.0,USR000022,Direct,CMP000024,Closed,,14,False
+OPP000044,ACC000557,Vertex Labs - Lifecycle Redesign,2026-05-13,2026-09-19,Prospecting,Prospecting,40537,0.1,4053.7,USR000022,Outbound,CMP000004,Best Case,Technical scoping,17,False
+OPP000185,ACC000360,Clearpath Group 57 - HubSpot-SFDC Integration,2025-09-06,2026-02-26,Closed Lost,Closed Lost,87031,0.0,0.0,USR000022,Referral,CMP000009,Closed,,25,False
+OPP000883,ACC000504,Catalyst Markets - HubSpot-SFDC Integration,2025-11-16,2026-02-25,Prospecting,Prospecting,81184,0.1,8118.4,USR000018,Outbound,CMP000029,Pipeline,Schedule discovery,121,True
+OPP000533,ACC000295,Apex Works 74 - Reporting Build,2025-03-04,2025-06-15,Closed Won,Closed Won,63936,1.0,63936.0,USR000011,LinkedIn,CMP000011,Closed,,48,False
+OPP001323,ACC000272,Cobalt Platform 66 - Lead Routing,2026-02-04,2026-08-20,Demo,Demo,266019,0.4,106407.6,USR000014,Referral,CMP000034,Pipeline,Legal review,34,False
+OPP000137,ACC000215,Atlas Markets 26 - RevOps Retainer,2025-08-20,2025-11-14,Negotiation,Negotiation,76847,0.75,57635.25,USR000019,Partner,CMP000036,Commit,No next step logged,4,True
+OPP000665,ACC000085,Signal Analytics - Reporting Build,2025-10-02,2025-12-17,Prospecting,Prospecting,95709,0.1,9570.9,USR000009,Organic Search,CMP000027,Commit,Schedule discovery,52,True
+OPP001196,ACC000166,BluePeak Health 97 - HubSpot-SFDC Integration,2025-01-05,2025-01-31,Closed Won,Closed Won,17251,1.0,17251.0,USR000018,Referral,CMP000036,Closed,,6,False
+OPP000771,ACC000379,Evergreen Networks 48 - Reporting Build,2025-03-18,2025-06-10,Demo,Demo,113959,0.4,45583.6,USR000014,Partner,CMP000028,Commit,No next step logged,29,True
+OPP001507,ACC000481,Bright Ops 12 - HubSpot-SFDC Integration,2025-01-16,2025-06-27,Closed Lost,Closed Lost,229397,0.0,0.0,USR000009,LinkedIn,CMP000026,Closed,,46,False
+OPP001273,ACC000585,Atlas Cloud 74 - HubSpot-SFDC Integration,2025-03-24,2025-07-11,Proposal,Proposal,51110,0.6,30666.0,USR000018,Paid Search,CMP000013,Pipeline,Legal review,55,True
+OPP000515,ACC000307,Nova Data - HubSpot-SFDC Integration,2026-02-11,2026-04-09,Prospecting,Prospecting,55950,0.1,5595.0,USR000009,Content Download,CMP000018,Commit,Legal review,67,True
+OPP001538,ACC000012,Ironwood Networks - Lifecycle Redesign,2025-03-22,2025-05-26,Closed Won,Closed Won,20419,1.0,20419.0,USR000014,Partner,CMP000004,Closed,,49,False
+OPP000619,ACC000025,Evergreen Systems - CRM Cleanup,2025-12-04,2026-03-15,Closed Won,Closed Won,157480,1.0,157480.0,USR000014,Organic Search,CMP000009,Closed,,35,False
+OPP000105,ACC000324,Atlas Cloud - RevOps Retainer,2025-01-22,2025-05-16,Prospecting,Prospecting,109072,0.1,10907.2,USR000009,Referral,CMP000016,Pipeline,Send proposal,8,False
+OPP000042,ACC000362,Atlas Markets - Lifecycle Redesign,2025-08-09,2025-09-20,Closed Won,Closed Won,62093,1.0,62093.0,USR000011,Paid Search,CMP000030,Closed,,14,False
+OPP000844,ACC000050,Clearpath Intelligence - RevOps Retainer,2026-05-03,2026-06-19,Negotiation,Negotiation,49624,0.75,37218.0,USR000021,Event,CMP000014,Commit,Technical scoping,30,False
+OPP001518,ACC000535,Ironwood Health 54 - Lead Routing,2025-06-02,2025-09-10,Proposal,Proposal,40694,0.6,24416.4,USR000005,Content Download,CMP000016,Commit,Legal review,40,False
+OPP001512,ACC000580,Evergreen Analytics 41 - Lifecycle Redesign,2026-01-03,2026-07-05,Demo,Demo,57981,0.4,23192.4,USR000018,Paid Search,CMP000002,Commit,Legal review,54,True
+OPP000227,ACC000413,Cobalt Systems - CRM Cleanup,2026-04-27,2026-07-06,Closed Lost,Closed Lost,106185,0.0,0.0,USR000005,LinkedIn,CMP000025,Closed,,5,False
+OPP000282,ACC000500,Summit Markets 10 - Lead Routing,2025-12-05,2026-03-26,Discovery,Discovery,229979,0.25,57494.75,USR000021,Organic Search,CMP000029,Best Case,Legal review,40,False
+OPP000895,ACC000110,Cobalt Dynamics 35 - HubSpot-SFDC Integration,2026-05-17,2026-09-26,Prospecting,Prospecting,303528,0.1,30352.8,USR000019,Content Download,CMP000026,Pipeline,No next step logged,43,True
+OPP000747,ACC000525,BluePeak Software 47 - Lead Routing,2025-04-29,2025-05-22,Closed Lost,Closed Lost,5000,0.0,0.0,USR000011,Paid Search,CMP000030,Closed,,7,False
+OPP001299,ACC000635,Nimbus Markets 25 - Lifecycle Redesign,2026-01-31,2026-05-30,Prospecting,Prospecting,163233,0.1,16323.3,USR000018,Paid Search,CMP000004,Best Case,Executive follow-up,56,True
+OPP001569,ACC000556,Signal Solutions 98 - Lifecycle Redesign,2025-01-30,2025-05-28,Discovery,Discovery,12172,0.25,3043.0,USR000018,Outbound,CMP000036,Pipeline,Send proposal,4,False
+OPP000295,ACC000024,Cobalt Data - Reporting Build,2025-04-05,2025-05-28,Discovery,Discovery,13749,0.25,3437.25,USR000023,Paid Search,CMP000004,Best Case,Send proposal,23,False
+OPP000564,ACC000237,Northstar Markets - CRM Cleanup,2026-03-19,2026-06-24,Negotiation,Negotiation,72548,0.75,54411.0,USR000010,LinkedIn,CMP000007,Commit,Schedule discovery,28,False
+OPP000677,ACC000065,Keystone Software 93 - CRM Cleanup,2025-08-09,2025-12-30,Closed Won,Closed Won,81683,1.0,81683.0,USR000007,Organic Search,CMP000005,Closed,,23,False
+OPP000634,ACC000326,Clearpath Intelligence 13 - HubSpot-SFDC Integration,2026-03-03,2026-07-25,Demo,Demo,43162,0.4,17264.8,USR000009,Outbound,CMP000030,Best Case,Send proposal,66,True
+OPP001552,ACC000272,Cobalt Platform 66 - HubSpot-SFDC Integration,2025-02-23,2025-07-24,Discovery,Discovery,127941,0.25,31985.25,USR000009,Referral,CMP000012,Pipeline,Technical scoping,4,False
+OPP000532,ACC000379,Evergreen Networks 48 - Lead Routing,2025-02-14,2025-04-21,Demo,Demo,33326,0.4,13330.4,USR000010,Direct,CMP000003,Best Case,Legal review,10,False
+OPP001505,ACC000343,Bright Systems 91 - Reporting Build,2026-02-26,2026-05-06,Closed Lost,Closed Lost,46937,0.0,0.0,USR000014,Paid Search,CMP000029,Closed,,52,False
+OPP000340,ACC000175,Vertex Labs 77 - CRM Cleanup,2026-03-13,2026-05-21,Closed Lost,Closed Lost,15634,0.0,0.0,USR000027,Webinar,CMP000011,Closed,,11,False
+OPP000707,ACC000006,Northstar Data - Reporting Build,2025-03-30,2025-09-04,Negotiation,Negotiation,42011,0.75,31508.25,USR000023,Content Download,CMP000027,Best Case,No next step logged,18,True
+OPP000128,ACC000325,Keystone Cloud - HubSpot-SFDC Integration,2025-04-23,2025-08-17,Closed Lost,Closed Lost,98657,0.0,0.0,USR000018,Referral,CMP000024,Closed,,22,False
+OPP000642,ACC000441,Catalyst Intelligence 52 - Lead Routing,2025-04-21,2025-08-25,Proposal,Proposal,94138,0.6,56482.8,USR000007,Referral,CMP000020,Commit,Legal review,56,True
+OPP001585,ACC000037,Atlas Systems - RevOps Retainer,2025-07-10,2025-08-14,Closed Lost,Closed Lost,141958,0.0,0.0,USR000011,Webinar,CMP000031,Closed,,17,False
+OPP000928,ACC000149,Signal Cloud 71 - CRM Cleanup,2025-08-09,2025-11-21,Discovery,Discovery,42029,0.25,10507.25,USR000014,Referral,CMP000020,Best Case,Executive follow-up,119,True
+OPP001239,ACC000553,Vertex Networks 66 - Reporting Build,2025-06-11,2025-08-16,Negotiation,Negotiation,74450,0.75,55837.5,USR000014,Webinar,,Pipeline,Executive follow-up,63,True
+OPP001604,ACC000084,Summit Systems - Lifecycle Redesign,2026-01-19,2026-02-15,Demo,Demo,39158,0.4,15663.2,USR000011,Content Download,CMP000004,Best Case,Technical scoping,53,True
+OPP001317,ACC000095,Cobalt Works - HubSpot-SFDC Integration,2025-12-25,2026-03-27,Discovery,Discovery,86497,0.25,21624.25,USR000014,Content Download,CMP000001,Commit,No next step logged,35,True
+OPP000529,ACC000274,Evergreen Intelligence - Lifecycle Redesign,2025-01-17,2025-05-19,Closed Lost,Closed Lost,153707,0.0,0.0,USR000022,Event,CMP000020,Closed,,22,False
+OPP000475,ACC000249,Nova Intelligence 92 - HubSpot-SFDC Integration,2026-03-24,2026-06-26,Prospecting,Prospecting,116939,0.1,11693.9,USR000007,Direct,CMP000025,Commit,Legal review,14,False
+OPP000887,ACC000428,Catalyst Labs 53 - RevOps Retainer,2026-04-29,2026-07-28,Demo,Demo,53979,0.4,21591.6,USR000014,LinkedIn,CMP000023,Commit,No next step logged,18,True
+OPP000889,ACC000040,Nimbus Markets - CRM Cleanup,2025-09-22,2026-01-03,Prospecting,Prospecting,224303,0.1,22430.3,USR000014,Outbound,CMP000001,Best Case,No next step logged,12,True
+OPP001151,ACC000606,Cobalt Dynamics - Reporting Build,2025-02-22,2025-07-10,Closed Lost,Closed Lost,79550,0.0,0.0,USR000011,Partner,CMP000015,Closed,,21,False
+OPP000614,ACC000547,Summit Platform 29 - Lifecycle Redesign,2025-09-01,2026-01-08,Closed Lost,Closed Lost,31184,0.0,0.0,USR000022,Outbound,,Closed,,31,False
+OPP001075,ACC000220,Meridian Intelligence - Reporting Build,2025-03-02,2025-04-25,Prospecting,Prospecting,8459,0.1,845.9,USR000011,Webinar,CMP000006,Commit,No next step logged,71,True
+OPP000281,ACC000247,Nimbus Data 29 - Lead Routing,2026-05-13,2026-08-08,Prospecting,Prospecting,108872,0.1,10887.2,USR000010,Partner,CMP000034,Commit,Executive follow-up,11,False
+OPP000033,ACC000296,Vertex Data 36 - HubSpot-SFDC Integration,2026-03-26,2026-05-21,Closed Lost,Closed Lost,37330,0.0,0.0,USR000010,Organic Search,CMP000025,Closed,,80,False
+OPP001019,ACC000092,Ironwood Software - HubSpot-SFDC Integration,2026-01-07,2026-05-23,Negotiation,Negotiation,298364,0.75,223773.0,USR000021,Outbound,CMP000032,Best Case,Legal review,71,True
+OPP000526,ACC000353,Pioneer Solutions - Reporting Build,2025-08-18,2025-12-02,Closed Lost,Closed Lost,125821,0.0,0.0,USR000023,Referral,CMP000007,Closed,,58,False
+OPP000775,ACC000600,Northstar Networks 48 - HubSpot-SFDC Integration,2025-11-11,2026-02-09,Proposal,Proposal,384575,0.6,230745.0,USR000018,Direct,CMP000031,Pipeline,Legal review,36,False
+OPP001031,ACC000095,Cobalt Works - Lifecycle Redesign,2025-03-23,2025-06-18,Demo,Demo,28269,0.4,11307.6,USR000023,Direct,CMP000002,Pipeline,Legal review,54,True
+OPP000779,ACC000246,Apex Networks - Reporting Build,2026-04-23,2026-07-26,Closed Lost,Closed Lost,194401,0.0,0.0,USR000009,Webinar,CMP000034,Closed,,59,False
+OPP000406,ACC000176,Pioneer Ops 94 - HubSpot-SFDC Integration,2026-05-23,2026-09-30,Negotiation,Negotiation,137223,0.75,102917.25,USR000021,Webinar,CMP000030,Pipeline,No next step logged,26,True
+OPP001424,ACC000443,Vertex Health 3 - RevOps Retainer,2025-02-15,2025-05-04,Prospecting,Prospecting,26738,0.1,2673.8,USR000005,Outbound,CMP000032,Commit,Legal review,14,False
+OPP001364,ACC000401,Keystone Software - Reporting Build,2025-08-06,2025-11-08,Closed Won,Closed Won,81119,1.0,81119.0,USR000011,Paid Search,CMP000024,Closed,,28,False
+OPP000384,ACC000208,Atlas Platform 18 - HubSpot-SFDC Integration,2025-10-07,2025-12-14,Closed Lost,Closed Lost,121262,0.0,0.0,USR000005,Direct,CMP000030,Closed,,40,False
+OPP001132,ACC000552,Evergreen Group 93 - Lifecycle Redesign,2025-12-09,2026-05-25,Discovery,Discovery,332980,0.25,83245.0,USR000027,Webinar,CMP000024,Pipeline,Technical scoping,32,False
+OPP001352,ACC000453,Catalyst Solutions 70 - Reporting Build,2025-03-27,2025-07-17,Demo,Demo,60892,0.4,24356.8,USR000011,Organic Search,CMP000026,Best Case,Send proposal,3,False
+OPP001370,ACC000554,Pioneer Markets - Lifecycle Redesign,2025-03-29,2025-07-08,Demo,Demo,61633,0.4,24653.2,USR000009,Event,CMP000006,Best Case,No next step logged,37,True
+OPP000511,ACC000472,Evergreen Markets 21 - Lifecycle Redesign,2025-09-10,2025-12-04,Negotiation,Negotiation,50714,0.75,38035.5,USR000023,Paid Search,CMP000036,Pipeline,Executive follow-up,23,False
+OPP000056,ACC000511,Apex Data - Lifecycle Redesign,2025-06-04,2025-08-14,Closed Won,Closed Won,30921,1.0,30921.0,USR000010,Webinar,CMP000014,Closed,,41,False
+OPP000860,ACC000052,Pioneer Platform - Lead Routing,2025-01-09,2025-02-03,Proposal,Proposal,36906,0.6,22143.6,USR000010,Webinar,CMP000025,Pipeline,No next step logged,12,True
+OPP000217,ACC000632,Signal Markets 96 - CRM Cleanup,2026-05-06,2026-07-06,Proposal,Proposal,45235,0.6,27141.0,USR000022,Organic Search,CMP000003,Pipeline,Legal review,30,False
+OPP000396,ACC000283,Evergreen Group - Lifecycle Redesign,2026-05-25,2026-09-02,Proposal,Proposal,164728,0.6,98836.8,USR000021,LinkedIn,CMP000015,Pipeline,Send proposal,22,False
+OPP001238,ACC000260,Apex Markets - Lead Routing,2026-04-25,2026-08-10,Demo,Demo,83551,0.4,33420.4,USR000018,Content Download,CMP000026,Pipeline,Legal review,25,False
+OPP000656,ACC000010,Catalyst Labs - RevOps Retainer,2025-02-17,2025-03-11,Discovery,Discovery,14079,0.25,3519.75,USR000010,Direct,CMP000025,Pipeline,Schedule discovery,21,False
+OPP000885,ACC000561,Atlas Data 24 - Reporting Build,2025-04-29,2025-05-31,Prospecting,Prospecting,21298,0.1,2129.8,USR000018,Event,,Best Case,Legal review,2,False
+OPP000499,ACC000182,Apex Analytics - CRM Cleanup,2026-06-02,2026-10-14,Proposal,Proposal,131200,0.6,78720.0,USR000011,Referral,CMP000035,Pipeline,Send proposal,28,False
+OPP000422,ACC000330,Clearpath Intelligence 41 - Reporting Build,2026-01-07,2026-07-30,Proposal,Proposal,102532,0.6,61519.2,USR000005,Paid Search,CMP000004,Best Case,Executive follow-up,6,False
+OPP001257,ACC000563,Apex Group 61 - CRM Cleanup,2026-06-05,2026-09-14,Prospecting,Prospecting,137023,0.1,13702.3,USR000010,LinkedIn,,Best Case,Technical scoping,30,False
+OPP000435,ACC000599,Clearpath Networks 31 - HubSpot-SFDC Integration,2025-11-26,2026-02-03,Prospecting,Prospecting,44554,0.1,4455.4,USR000009,Referral,CMP000018,Best Case,Legal review,45,False
+OPP001429,ACC000393,Nova Works 39 - Lead Routing,2025-09-01,2025-12-01,Closed Won,Closed Won,5641,1.0,5641.0,USR000005,Direct,CMP000017,Closed,,8,False
+OPP000067,ACC000237,Northstar Markets - CRM Cleanup,2025-05-12,2025-07-01,Closed Lost,Closed Lost,42826,0.0,0.0,USR000011,Content Download,CMP000028,Closed,,30,False
+OPP000329,ACC000176,Pioneer Ops 94 - Lead Routing,2025-10-13,2026-02-03,Closed Won,Closed Won,110845,1.0,110845.0,USR000011,Referral,CMP000026,Closed,,23,False
+OPP000208,ACC000537,Keystone Dynamics 63 - CRM Cleanup,2025-11-09,2026-02-19,Discovery,Discovery,73618,0.25,18404.5,USR000010,Outbound,CMP000019,Commit,Schedule discovery,55,True
+OPP001622,ACC000449,Vertex Ops 27 - RevOps Retainer,2026-04-01,2026-05-10,Negotiation,Negotiation,67332,0.75,50499.0,USR000009,Paid Search,CMP000016,Pipeline,Executive follow-up,34,False
+OPP001175,ACC000251,Vertex Dynamics 65 - Lifecycle Redesign,2026-01-26,2026-06-21,Discovery,Discovery,52973,0.25,13243.25,USR000023,Webinar,CMP000018,Best Case,Send proposal,16,False
+OPP000871,ACC000140,Meridian Dynamics - Lead Routing,2026-02-10,2026-05-23,Negotiation,Negotiation,154377,0.75,115782.75,USR000005,Event,CMP000035,Pipeline,Legal review,39,False
+OPP001643,ACC000073,Evergreen Data - RevOps Retainer,2026-03-13,2026-06-16,Discovery,Discovery,118699,0.25,29674.75,USR000007,Webinar,CMP000006,Pipeline,No next step logged,24,True
+OPP001472,ACC000370,Catalyst Dynamics 59 - Reporting Build,2025-01-11,2025-01-26,Closed Won,Closed Won,12449,1.0,12449.0,USR000007,Content Download,,Closed,,31,False
+OPP000698,ACC000337,Vertex Systems 29 - Lifecycle Redesign,2025-01-17,2025-06-15,Demo,Demo,47916,0.4,19166.4,USR000007,LinkedIn,CMP000021,Best Case,Legal review,16,False
+OPP000258,ACC000317,Cobalt Health - CRM Cleanup,2025-05-03,2025-08-15,Closed Won,Closed Won,95604,1.0,95604.0,USR000023,Partner,CMP000021,Closed,,27,False
+OPP001641,ACC000516,Cobalt Labs 40 - CRM Cleanup,2025-07-03,2025-09-16,Prospecting,Prospecting,36794,0.1,3679.4,USR000027,Content Download,CMP000006,Pipeline,Technical scoping,20,False
+OPP000436,ACC000346,Vertex Platform - Lifecycle Redesign,2026-03-31,2026-08-01,Closed Won,Closed Won,119901,1.0,119901.0,USR000007,Partner,CMP000011,Closed,,34,False
+OPP000881,ACC000500,Summit Markets 10 - RevOps Retainer,2025-07-22,2025-12-23,Closed Lost,Closed Lost,112598,0.0,0.0,USR000007,Organic Search,CMP000017,Closed,,15,False
+OPP000657,ACC000547,Summit Platform 29 - Reporting Build,2025-09-02,2025-11-01,Proposal,Proposal,84884,0.6,50930.4,USR000018,Partner,CMP000008,Pipeline,Legal review,28,False
+OPP000130,ACC000609,Keystone Ops - RevOps Retainer,2025-11-03,2026-03-02,Closed Won,Closed Won,125529,1.0,125529.0,USR000023,Content Download,CMP000029,Closed,,28,False
+OPP000407,ACC000029,Bright Labs - Lifecycle Redesign,2026-03-17,2026-06-09,Closed Won,Closed Won,85942,1.0,85942.0,USR000021,Outbound,CMP000003,Closed,,30,False
+OPP000865,ACC000535,Ironwood Health 54 - CRM Cleanup,2025-03-23,2025-07-08,Prospecting,Prospecting,70565,0.1,7056.5,USR000014,Webinar,CMP000002,Pipeline,Executive follow-up,27,False
+OPP000852,ACC000216,Meridian Ops - CRM Cleanup,2026-01-03,2026-06-15,Discovery,Discovery,233775,0.25,58443.75,USR000027,Webinar,CMP000005,Pipeline,No next step logged,28,True
+OPP000460,ACC000464,Catalyst Intelligence - Lifecycle Redesign,2025-03-04,2025-09-03,Demo,Demo,190567,0.4,76226.8,USR000022,Webinar,CMP000020,Best Case,Legal review,62,True
+OPP001004,ACC000283,Evergreen Group - Reporting Build,2025-05-16,2025-09-17,Prospecting,Prospecting,75697,0.1,7569.7,USR000014,LinkedIn,CMP000006,Best Case,Schedule discovery,13,False
+OPP001495,ACC000058,Keystone Group - HubSpot-SFDC Integration,2025-02-16,2025-03-03,Prospecting,Prospecting,16934,0.1,1693.4,USR000019,Referral,CMP000002,Commit,Legal review,17,False
+OPP001593,ACC000265,Catalyst Cloud 14 - HubSpot-SFDC Integration,2025-03-13,2025-06-12,Discovery,Discovery,25427,0.25,6356.75,USR000018,Organic Search,,Best Case,No next step logged,33,True
+OPP000934,ACC000126,Meridian Software 78 - RevOps Retainer,2026-03-29,2026-07-06,Demo,Demo,198373,0.4,79349.2,USR000022,Direct,CMP000021,Commit,Schedule discovery,28,False
+OPP000981,ACC000485,Nimbus Platform 85 - HubSpot-SFDC Integration,2025-03-27,2025-06-13,Proposal,Proposal,28737,0.6,17242.2,USR000009,Webinar,CMP000001,Pipeline,Send proposal,9,False
+OPP000123,ACC000304,Evergreen Markets 98 - Lead Routing,2026-06-03,2026-10-05,Demo,Demo,107669,0.4,43067.6,USR000027,Referral,CMP000030,Commit,Send proposal,24,False
+OPP001005,ACC000562,Meridian Labs 56 - Lead Routing,2025-12-08,2026-01-31,Closed Won,Closed Won,23384,1.0,23384.0,USR000021,Event,CMP000017,Closed,,28,False

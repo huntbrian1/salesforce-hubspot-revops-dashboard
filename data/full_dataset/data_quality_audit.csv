@@ -1,0 +1,10 @@
+audit_id,object_name,field_name,missing_rate,severity,business_impact,recommended_fix
+DQA000001,Lead,email,0.0,Low,Email required for routing and dedupe,Fix field mapping and system-of-record ownership
+DQA000002,Lead,account_id_matched,0.1786,High,Account matching gap breaks account-based reporting,Add automation to backfill from source system
+DQA000003,Lead,assigned_date,0.0369,Low,No assignment date prevents SLA tracking,Add enrichment and validation rule
+DQA000004,Lead,hubspot_contact_id,0.0831,Medium,Missing HubSpot ID breaks cross-system attribution,Fix field mapping and system-of-record ownership
+DQA000005,Lead,salesforce_lead_id,0.0631,Medium,Missing Salesforce ID breaks sync traceability,Make field required at correct lifecycle stage
+DQA000006,Opportunity,next_step,0.28,High,Missing next steps creates stale pipeline risk,Create weekly data-quality dashboard
+DQA000007,Opportunity,primary_campaign_id,0.0697,Medium,No campaign attribution reduces ROI visibility,Create weekly data-quality dashboard
+DQA000008,Contact,hubspot_contact_id,0.0433,Low,Missing HubSpot contact ID limits marketing engagement reporting,Make field required at correct lifecycle stage
+DQA000009,Contact,salesforce_contact_id,0.0372,Low,Missing Salesforce contact ID limits CRM linkage,Fix field mapping and system-of-record ownership

@@ -1,0 +1,69 @@
+Lead Source,Lifecycle Stage,Contacts,Avg Lead Score,Form Submissions,Email Opens,Email Clicks,Email Bounces
+Content Download,Customer,1,78.0,0.0,0.0,0.0,0.0
+Content Download,Disqualified,6,53.0,8.0,0.0,0.0,0.0
+Content Download,Lead,72,45.8,94.0,0.0,0.0,0.0
+Content Download,MQL,15,62.0,15.0,0.0,0.0,0.0
+Content Download,Opportunity,2,93.5,2.0,0.0,0.0,0.0
+Content Download,SQL,4,83.8,5.0,0.0,0.0,0.0
+Content Download,Subscriber,6,41.7,4.0,0.0,0.0,0.0
+Direct,Customer,1,84.0,0.0,0.0,0.0,0.0
+Direct,Disqualified,5,36.8,5.0,0.0,0.0,0.0
+Direct,Lead,45,40.7,44.0,0.0,0.0,0.0
+Direct,MQL,9,52.6,11.0,0.0,0.0,0.0
+Direct,Opportunity,1,28.0,1.0,0.0,0.0,0.0
+Direct,SQL,3,54.3,4.0,0.0,0.0,0.0
+Direct,Subscriber,4,45.5,3.0,0.0,0.0,0.0
+Event,Customer,1,70.0,2.0,0.0,0.0,0.0
+Event,Disqualified,3,42.7,4.0,0.0,0.0,0.0
+Event,Lead,32,54.3,32.0,0.0,0.0,0.0
+Event,MQL,12,70.0,14.0,0.0,0.0,0.0
+Event,Opportunity,1,94.0,0.0,0.0,0.0,0.0
+Event,SQL,7,72.4,11.0,0.0,0.0,0.0
+Event,Subscriber,3,66.3,2.0,0.0,0.0,0.0
+LinkedIn,Customer,1,55.0,0.0,0.0,0.0,0.0
+LinkedIn,Disqualified,7,46.4,9.0,0.0,0.0,0.0
+LinkedIn,Lead,76,35.2,91.0,0.0,0.0,0.0
+LinkedIn,MQL,15,53.7,11.0,0.0,0.0,0.0
+LinkedIn,Opportunity,1,35.0,1.0,0.0,0.0,0.0
+LinkedIn,SQL,4,72.8,6.0,0.0,0.0,0.0
+LinkedIn,Subscriber,8,43.0,9.0,0.0,0.0,0.0
+Organic Search,Customer,1,37.0,2.0,0.0,0.0,0.0
+Organic Search,Disqualified,4,54.5,4.0,0.0,0.0,0.0
+Organic Search,Lead,56,44.4,62.0,0.0,0.0,0.0
+Organic Search,MQL,13,60.8,12.0,0.0,0.0,0.0
+Organic Search,Opportunity,1,100.0,2.0,0.0,0.0,0.0
+Organic Search,SQL,6,69.7,4.0,0.0,0.0,0.0
+Organic Search,Subscriber,6,38.2,4.0,0.0,0.0,0.0
+Outbound,Customer,1,83.0,0.0,0.0,0.0,0.0
+Outbound,Disqualified,10,39.5,15.0,0.0,0.0,0.0
+Outbound,Lead,77,36.2,91.0,0.0,0.0,0.0
+Outbound,MQL,15,55.3,28.0,0.0,0.0,0.0
+Outbound,Opportunity,1,57.0,1.0,0.0,0.0,0.0
+Outbound,SQL,5,76.0,14.0,0.0,0.0,0.0
+Outbound,Subscriber,9,39.6,7.0,0.0,0.0,0.0
+Paid Search,Disqualified,8,34.8,11.0,0.0,0.0,0.0
+Paid Search,Lead,78,36.6,84.0,0.0,0.0,0.0
+Paid Search,MQL,12,58.8,17.0,0.0,0.0,0.0
+Paid Search,Opportunity,2,63.5,2.0,0.0,0.0,0.0
+Paid Search,SQL,4,61.8,3.0,0.0,0.0,0.0
+Paid Search,Subscriber,6,43.7,11.0,0.0,0.0,0.0
+Partner,Customer,1,57.0,1.0,0.0,0.0,0.0
+Partner,Disqualified,4,42.2,4.0,0.0,0.0,0.0
+Partner,Lead,46,47.1,60.0,0.0,0.0,0.0
+Partner,MQL,14,70.8,22.0,0.0,0.0,0.0
+Partner,Opportunity,1,100.0,2.0,0.0,0.0,0.0
+Partner,SQL,6,73.8,12.0,0.0,0.0,0.0
+Partner,Subscriber,6,51.7,9.0,0.0,0.0,0.0
+Referral,Disqualified,3,57.7,4.0,0.0,0.0,0.0
+Referral,Lead,39,50.9,52.0,0.0,0.0,0.0
+Referral,MQL,15,60.7,14.0,0.0,0.0,0.0
+Referral,Opportunity,3,74.3,2.0,0.0,0.0,0.0
+Referral,SQL,5,66.6,6.0,0.0,0.0,0.0
+Referral,Subscriber,6,36.5,7.0,0.0,0.0,0.0
+Webinar,Customer,1,96.0,1.0,0.0,0.0,0.0
+Webinar,Disqualified,4,43.2,6.0,0.0,0.0,0.0
+Webinar,Lead,52,50.2,72.0,0.0,0.0,0.0
+Webinar,MQL,18,64.9,19.0,0.0,0.0,0.0
+Webinar,Opportunity,3,72.0,3.0,0.0,0.0,0.0
+Webinar,SQL,7,72.0,12.0,0.0,0.0,0.0
+Webinar,Subscriber,6,65.3,4.0,0.0,0.0,0.0

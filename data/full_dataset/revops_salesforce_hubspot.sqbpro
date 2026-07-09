@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="revops_salesforce_hubspot.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5253"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="campaign_members" custom_title="0" dock_id="1" table="4,16:maincampaign_members"/><dock_state state="000000ff00000000fd00000001000000020000000000000000fc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000ffffffff0000011e00ffffff000000000000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1*">
+
+-- RevOps Salesforce + HubSpot Synthetic Dataset: Starter SQL
+-- Works against revops_salesforce_hubspot.db
+
+
+
+
+
+-- 1) Lead funnel by month and source
+DROP TABLE IF EXISTS dashboard_lead_funnel_monthly;
+CREATE TABLE dashboard_lead_funnel_monthly AS
+SELECT
+  lead_month,
+  lead_source,
+  SUM(leads) AS leads,
+  SUM(mqls) AS mqls,
+  SUM(sqls) AS sqls,
+  SUM(opportunity_leads) AS opportunity_leads,
+  ROUND(1.0 * SUM(mqls) / NULLIF(SUM(leads), 0), 3) AS mql_rate,
+  ROUND(1.0 * SUM(sqls) / NULLIF(SUM(mqls), 0), 3) AS sql_rate,
+  ROUND(AVG(avg_speed_to_lead_hours), 1) AS avg_speed_to_lead_hours
+FROM vw_lead_funnel
+GROUP BY 1,2
+ORDER BY 1,2;
+
+
+-- 2) Open pipeline health by stage
+DROP TABLE IF EXISTS dashboard_open_pipeline_health_by_stage;
+CREATE TABLE dashboard_open_pipeline_health_by_stage AS
+SELECT
+  stage_name,
+  COUNT(*) AS opps,
+  SUM(open_pipeline_amount) AS open_pipeline,
+  SUM(expected_revenue) AS expected_revenue,
+  SUM(CASE WHEN is_stale = 1 THEN 1 ELSE 0 END) AS stale_opps,
+  ROUND(1.0 * SUM(CASE WHEN is_stale = 1 THEN 1 ELSE 0 END) / COUNT(*), 3) AS stale_rate
+FROM vw_pipeline_health
+WHERE stage_name NOT IN ('Closed Won','Closed Lost')
+GROUP BY stage_name
+ORDER BY open_pipeline DESC;
+
+
+
+
+-- 3) Campaign ROI
+DROP TABLE IF EXISTS dashboard_campaign_roi;
+CREATE TABLE dashboard_campaign_roi AS
+SELECT
+  campaign_name,
+  campaign_type,
+  budget,
+  members,
+  engaged_members,
+  influenced_opportunities,
+  won_revenue,
+  expected_revenue,
+  won_revenue_to_budget
+FROM vw_campaign_roi
+ORDER BY won_revenue_to_budget DESC, won_revenue DESC
+LIMIT 15;
+
+
+
+
+-- 4) Sync health by error type and severity
+DROP TABLE IF EXISTS dashboard_sync_health_by_error;
+CREATE TABLE dashboard_sync_health_by_error AS
+SELECT
+  error_type,
+  severity,
+  status,
+  COUNT(*) AS errors,
+  ROUND(AVG(days_to_resolve), 1) AS avg_days_to_resolve
+FROM sync_errors
+GROUP BY 1,2,3
+ORDER BY errors DESC;
+
+
+
+-- 5) CRM data quality audit
+DROP TABLE IF EXISTS dashboard_crm_data_quality_audit;
+CREATE TABLE dashboard_crm_data_quality_audit AS
+SELECT
+  object_name,
+  field_name,
+  missing_rate,
+  severity,
+  business_impact,
+  recommended_fix
+FROM data_quality_audit
+ORDER BY missing_rate DESC;
+
+
+
+
+
+SELECT name
+FROM sqlite_master
+WHERE type = 'table'
+  AND name LIKE 'dashboard_%'
+ORDER BY name;</sql><current_tab id="0"/></tab_sql></sqlb_project>

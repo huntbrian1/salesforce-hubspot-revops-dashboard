@@ -1,0 +1,418 @@
+Company name,Company domain name,Industry,Segment,Region,Number of employees,Annual revenue,CRM Health Score,PE Backed,Salesforce Account ID
+Nimbus Ops,nimbusops.net,EdTech,Mid-Market,Central,431,49814384,64,True,ACC000001
+Northstar Ops,northstarops.net,Healthcare Tech,Mid-Market,Southeast,400,38063311,57,False,ACC000003
+Clearpath Solutions,clearpathsolutions.net,SaaS,SMB,International,70,8483387,93,False,ACC000004
+Northstar Data,northstardata.com,Cybersecurity,Mid-Market,Northeast,466,82953906,94,True,ACC000006
+BluePeak Health,bluepeakhealth.ai,Manufacturing Tech,Mid-Market,Northeast,482,48770011,66,False,ACC000007
+Nova Markets,novamarkets.com,Healthcare Tech,Enterprise,Central,1821,189951273,88,True,ACC000009
+Ironwood Analytics,ironwoodanalytics.net,FinTech,Enterprise,Mountain,2584,324027754,82,False,ACC000011
+Pioneer Data,pioneerdata.net,Logistics Tech,SMB,West,96,18644903,80,False,ACC000014
+BluePeak Dynamics,bluepeakdynamics.ai,Logistics Tech,SMB,Mountain,141,27754522,57,True,ACC000018
+Catalyst Markets 54,catalystmarkets54.io,Healthcare Tech,Mid-Market,West,280,36903151,72,True,ACC000019
+Bright Health,brighthealth.com,EdTech,SMB,International,134,21513042,63,False,ACC000021
+Summit Dynamics,summitdynamics.io,HR Tech,Enterprise,Northeast,1566,260315892,77,True,ACC000022
+Vertex Ops,vertexops.io,Cybersecurity,Mid-Market,Southeast,171,31938682,72,False,ACC000023
+Cobalt Data,cobaltdata.net,Healthcare Tech,SMB,West,58,13264834,67,False,ACC000024
+Evergreen Systems,evergreensystems.com,HR Tech,Enterprise,Mountain,4230,534155278,98,False,ACC000025
+Ironwood Markets,ironwoodmarkets.io,EdTech,Enterprise,West,905,128855199,88,False,ACC000026
+Bright Labs,brightlabs.ai,SaaS,Mid-Market,West,209,41136818,81,False,ACC000029
+Bright Analytics 25,brightanalytics25.com,Healthcare Tech,SMB,International,188,37250505,61,False,ACC000030
+Meridian Health,meridianhealth.net,HR Tech,SMB,Northeast,42,5317134,61,False,ACC000031
+Bright Analytics,brightanalytics.co,Manufacturing Tech,Mid-Market,Central,373,53156886,84,False,ACC000032
+Signal Group,signalgroup.io,Cybersecurity,Enterprise,Southeast,1993,350370655,50,True,ACC000033
+Summit Analytics,summitanalytics.net,HR Tech,Mid-Market,Northeast,314,46398103,82,True,ACC000035
+Atlas Systems,atlassystems.net,Cybersecurity,Mid-Market,International,721,145004126,72,False,ACC000037
+Atlas Software 93,atlassoftware93.ai,HR Tech,SMB,International,46,4629492,78,True,ACC000039
+Nimbus Markets,nimbusmarkets.ai,SaaS,Enterprise,West,2074,323069299,66,True,ACC000040
+Keystone Solutions,keystonesolutions.com,SaaS,SMB,Central,71,6803589,80,False,ACC000041
+Nimbus Networks,nimbusnetworks.co,Manufacturing Tech,SMB,International,66,15495993,82,True,ACC000042
+Summit Analytics 90,summitanalytics90.io,Manufacturing Tech,SMB,West,334,61995238,97,False,ACC000043
+Pioneer Labs,pioneerlabs.ai,HR Tech,SMB,International,58,6727660,95,False,ACC000045
+Summit Intelligence,summitintelligence.net,EdTech,SMB,Northeast,99,16582939,80,False,ACC000046
+Vertex Dynamics,vertexdynamics.io,FinTech,Mid-Market,Southeast,174,24950886,65,True,ACC000047
+Northstar Group,northstargroup.co,HR Tech,SMB,Central,132,18736825,80,False,ACC000048
+Summit Platform,summitplatform.com,Logistics Tech,Mid-Market,Mountain,316,46196637,73,False,ACC000049
+Clearpath Intelligence,clearpathintellige.ai,HR Tech,Mid-Market,Mountain,1168,213017124,77,False,ACC000050
+Signal Platform,signalplatform.ai,Cybersecurity,SMB,West,128,22569104,73,False,ACC000051
+Pioneer Platform,pioneerplatform.net,Ecommerce,SMB,West,117,21515241,78,True,ACC000052
+Nova Ops,novaops.net,Manufacturing Tech,Mid-Market,West,204,33538746,60,False,ACC000054
+Signal Solutions,signalsolutions.com,EdTech,Mid-Market,West,492,103576892,80,False,ACC000055
+Nova Data 58,novadata58.co,HR Tech,SMB,Northeast,107,20958595,95,True,ACC000061
+Nova Analytics,novaanalytics.io,Cybersecurity,Enterprise,Mountain,2047,255842679,55,True,ACC000063
+Keystone Software 93,keystonesoftware93.co,Logistics Tech,Mid-Market,Southeast,261,40498789,55,True,ACC000065
+Summit Ops 30,summitops30.io,Manufacturing Tech,Mid-Market,Southeast,481,97117138,60,False,ACC000066
+Catalyst Solutions 58,catalystsolutions5.com,Cybersecurity,Mid-Market,Mountain,651,63027839,74,False,ACC000070
+Evergreen Analytics 19,evergreenanalytics.io,HR Tech,SMB,Southeast,55,7719195,68,True,ACC000071
+Vertex Software,vertexsoftware.com,EdTech,Mid-Market,Southeast,711,72280399,46,True,ACC000072
+Evergreen Data,evergreendata.co,SaaS,Mid-Market,Mountain,1043,136261323,51,False,ACC000073
+Meridian Systems 12,meridiansystems12.co,FinTech,SMB,Southeast,90,18481330,72,False,ACC000077
+Apex Labs,apexlabs.ai,HR Tech,Mid-Market,International,813,110703434,70,False,ACC000080
+Bright Systems,brightsystems.io,HR Tech,SMB,West,113,18306779,90,False,ACC000081
+Vertex Markets 87,vertexmarkets87.com,HR Tech,Mid-Market,Southeast,237,26178005,81,False,ACC000082
+Summit Systems,summitsystems.ai,EdTech,Mid-Market,Southeast,988,216722301,52,False,ACC000084
+Signal Analytics,signalanalytics.net,HR Tech,Mid-Market,West,519,51866470,80,False,ACC000085
+Atlas Health,atlashealth.net,SaaS,Mid-Market,Central,748,94264338,51,True,ACC000086
+Vertex Ops 24,vertexops24.net,Cybersecurity,SMB,Northeast,67,7808955,60,True,ACC000088
+Ironwood Software,ironwoodsoftware.ai,Cybersecurity,Enterprise,Central,3049,517384392,61,True,ACC000092
+Atlas Intelligence,atlasintelligence.co,Manufacturing Tech,Mid-Market,Northeast,249,42470929,71,False,ACC000096
+Summit Networks 26,summitnetworks26.io,Logistics Tech,Mid-Market,Central,186,19579730,79,True,ACC000098
+BluePeak Works,bluepeakworks.com,HR Tech,SMB,Central,57,12797344,64,True,ACC000099
+Pioneer Networks,pioneernetworks.ai,SaaS,SMB,International,99,22533324,84,False,ACC000100
+Bright Labs 72,brightlabs72.ai,FinTech,Mid-Market,International,631,124791980,79,False,ACC000101
+Summit Ops,summitops.net,HR Tech,Enterprise,Northeast,3475,445481441,63,False,ACC000105
+Clearpath Data,clearpathdata.ai,EdTech,Mid-Market,Central,103,14660014,60,False,ACC000106
+Signal Software 35,signalsoftware35.com,FinTech,SMB,Mountain,68,15569784,54,True,ACC000107
+Evergreen Analytics,evergreenanalytics.io,SaaS,Mid-Market,Southeast,540,113362507,81,True,ACC000108
+Vertex Solutions 20,vertexsolutions20.com,SaaS,Mid-Market,Mountain,144,21416013,85,False,ACC000111
+Evergreen Markets,evergreenmarkets.co,Healthcare Tech,Mid-Market,Northeast,525,125818293,94,False,ACC000113
+Keystone Markets 13,keystonemarkets13.co,Ecommerce,Mid-Market,Southeast,409,71503937,70,True,ACC000116
+Meridian Labs 60,meridianlabs60.com,Ecommerce,Enterprise,Central,3220,576201083,58,False,ACC000118
+BluePeak Systems 86,bluepeaksystems86.net,Logistics Tech,Mid-Market,Southeast,454,51247908,78,False,ACC000119
+Signal Intelligence,signalintelligence.net,Logistics Tech,SMB,International,75,8612105,65,True,ACC000120
+Bright Software,brightsoftware.ai,Manufacturing Tech,Enterprise,Mountain,2060,368104109,87,False,ACC000121
+Clearpath Markets,clearpathmarkets.com,SaaS,Mid-Market,International,566,102195958,63,False,ACC000122
+Catalyst Networks,catalystnetworks.ai,Manufacturing Tech,Enterprise,West,1927,312415928,83,False,ACC000123
+Atlas Solutions 55,atlassolutions55.co,Logistics Tech,SMB,Mountain,60,7380874,84,True,ACC000125
+Meridian Software 78,meridiansoftware78.net,FinTech,Enterprise,West,1723,177128621,56,True,ACC000126
+Ironwood Cloud,ironwoodcloud.co,Manufacturing Tech,Mid-Market,Southeast,733,130560523,66,False,ACC000128
+Clearpath Group 26,clearpathgroup26.io,EdTech,Mid-Market,Mountain,93,13960644,87,True,ACC000129
+Bright Group,brightgroup.co,EdTech,SMB,Southeast,41,7650597,61,False,ACC000130
+Bright Cloud 66,brightcloud66.net,Ecommerce,Enterprise,West,1734,299563047,86,False,ACC000131
+Summit Data,summitdata.com,FinTech,Mid-Market,Southeast,630,140565015,45,False,ACC000132
+Vertex Analytics,vertexanalytics.co,Cybersecurity,Enterprise,Central,2012,424587374,72,False,ACC000133
+Atlas Dynamics,atlasdynamics.com,EdTech,SMB,West,69,6564260,87,False,ACC000136
+Northstar Works 5,northstarworks5.com,Ecommerce,Mid-Market,West,680,83590073,66,False,ACC000137
+Keystone Networks,keystonenetworks.io,FinTech,SMB,West,106,19612303,48,False,ACC000139
+Meridian Dynamics,meridiandynamics.co,FinTech,Mid-Market,Mountain,299,27734821,61,False,ACC000140
+Nimbus Data,nimbusdata.ai,SaaS,Enterprise,Southeast,1315,198285185,71,False,ACC000141
+Evergreen Networks,evergreennetworks.com,Logistics Tech,SMB,Central,219,41556454,93,False,ACC000142
+Meridian Markets,meridianmarkets.com,HR Tech,Mid-Market,Southeast,447,56680657,61,False,ACC000144
+Pioneer Works,pioneerworks.ai,SaaS,Mid-Market,International,457,82973239,78,False,ACC000145
+Signal Cloud 71,signalcloud71.ai,Manufacturing Tech,Mid-Market,Northeast,595,124897867,64,False,ACC000149
+Cobalt Cloud 98,cobaltcloud98.io,EdTech,Enterprise,Northeast,967,165632732,68,False,ACC000151
+Cobalt Platform,cobaltplatform.com,Cybersecurity,Mid-Market,Northeast,628,116547214,85,False,ACC000152
+Nimbus Platform 83,nimbusplatform83.ai,Healthcare Tech,SMB,International,141,13407957,73,False,ACC000153
+Ironwood Systems,ironwoodsystems.net,Manufacturing Tech,SMB,Central,80,16744102,58,True,ACC000154
+Clearpath Works 85,clearpathworks85.co,Healthcare Tech,Mid-Market,Mountain,1346,252408788,76,True,ACC000155
+Meridian Data 49,meridiandata49.net,EdTech,Mid-Market,Northeast,444,84026234,91,False,ACC000157
+Summit Markets 80,summitmarkets80.co,Cybersecurity,Mid-Market,West,357,56867039,85,True,ACC000158
+Pioneer Software,pioneersoftware.co,Logistics Tech,Enterprise,Mountain,2958,620640121,72,True,ACC000159
+Evergreen Intelligence 9,evergreenintellige.co,Cybersecurity,SMB,Mountain,375,49032392,62,False,ACC000160
+Catalyst Cloud,catalystcloud.net,HR Tech,SMB,West,115,20512122,82,True,ACC000162
+Catalyst Group,catalystgroup.com,FinTech,Enterprise,Central,1894,284548945,72,False,ACC000165
+Clearpath Dynamics 80,clearpathdynamics8.com,Manufacturing Tech,SMB,Central,196,38103006,64,False,ACC000167
+Nimbus Group,nimbusgroup.co,Manufacturing Tech,SMB,Central,118,23633263,69,True,ACC000170
+BluePeak Ops,bluepeakops.com,Healthcare Tech,SMB,International,79,13421339,73,True,ACC000171
+Keystone Health,keystonehealth.ai,EdTech,Mid-Market,Central,740,148064001,73,False,ACC000173
+Vertex Labs 77,vertexlabs77.net,Manufacturing Tech,Mid-Market,Central,368,51618560,74,False,ACC000175
+Pioneer Health,pioneerhealth.net,Manufacturing Tech,Mid-Market,Mountain,345,31519496,59,False,ACC000177
+Catalyst Ops 73,catalystops73.net,Manufacturing Tech,Mid-Market,West,297,61071550,78,True,ACC000179
+Northstar Solutions 91,northstarsolutions.ai,Ecommerce,Mid-Market,Central,354,34935576,97,True,ACC000180
+Northstar Cloud,northstarcloud.net,EdTech,Enterprise,West,1469,299293295,77,True,ACC000181
+Apex Analytics,apexanalytics.net,HR Tech,Enterprise,Southeast,3733,477362274,65,False,ACC000182
+Clearpath Group,clearpathgroup.io,Ecommerce,Mid-Market,Central,205,42890393,69,True,ACC000183
+Keystone Markets 79,keystonemarkets79.co,EdTech,SMB,Central,114,24920857,75,False,ACC000185
+Atlas Labs,atlaslabs.io,EdTech,SMB,Northeast,45,9884418,92,False,ACC000187
+Atlas Group,atlasgroup.com,SaaS,SMB,Southeast,178,28876646,78,False,ACC000189
+Vertex Platform 70,vertexplatform70.io,Manufacturing Tech,Mid-Market,Northeast,493,61048693,49,True,ACC000190
+Pioneer Analytics,pioneeranalytics.co,SaaS,Mid-Market,Southeast,640,87394748,62,True,ACC000191
+Nova Networks 81,novanetworks81.co,Ecommerce,Enterprise,West,1173,148157820,71,False,ACC000193
+Keystone Platform 69,keystoneplatform69.com,EdTech,SMB,Central,40,5676099,70,True,ACC000194
+Summit Software,summitsoftware.ai,Ecommerce,SMB,International,100,19341974,57,True,ACC000196
+Cobalt Networks,cobaltnetworks.co,Logistics Tech,SMB,Northeast,243,53616824,77,False,ACC000198
+Nova Cloud 58,novacloud58.com,Logistics Tech,Enterprise,Southeast,4123,650806243,74,True,ACC000199
+Atlas Solutions,atlassolutions.net,SaaS,SMB,Central,227,40631137,65,False,ACC000200
+Clearpath Data 6,clearpathdata6.com,Ecommerce,Mid-Market,Central,332,66945097,43,False,ACC000201
+Clearpath Labs 59,clearpathlabs59.net,HR Tech,Mid-Market,Central,1043,129611744,78,False,ACC000202
+Bright Data 15,brightdata15.ai,Healthcare Tech,Mid-Market,Northeast,565,56968815,57,False,ACC000203
+BluePeak Networks,bluepeaknetworks.ai,Ecommerce,SMB,Central,101,15735023,86,False,ACC000205
+Bright Group 10,brightgroup10.ai,Healthcare Tech,Mid-Market,Northeast,832,156625165,78,False,ACC000206
+Meridian Works,meridianworks.ai,FinTech,Enterprise,Central,2678,494717740,54,True,ACC000207
+Atlas Platform 18,atlasplatform18.net,Healthcare Tech,Mid-Market,Central,1003,185435723,50,False,ACC000208
+Northstar Software 45,northstarsoftware4.co,HR Tech,Mid-Market,Mountain,758,86812664,47,True,ACC000210
+Atlas Health 66,atlashealth66.net,Manufacturing Tech,SMB,West,231,34534261,93,False,ACC000211
+Nova Cloud,novacloud.net,EdTech,SMB,Mountain,28,6001310,75,True,ACC000212
+Catalyst Data,catalystdata.net,Cybersecurity,SMB,International,204,39944799,74,False,ACC000214
+Nimbus Labs,nimbuslabs.co,Ecommerce,Mid-Market,Northeast,309,59604604,37,False,ACC000217
+Cobalt Dynamics 59,cobaltdynamics59.ai,SaaS,SMB,Southeast,53,10123787,81,False,ACC000219
+Meridian Intelligence,meridianintelligen.io,EdTech,SMB,West,140,33151257,54,False,ACC000220
+Vertex Labs 38,vertexlabs38.co,FinTech,Mid-Market,International,445,102853430,82,False,ACC000222
+Clearpath Systems,clearpathsystems.com,SaaS,Mid-Market,Central,234,42293882,65,False,ACC000223
+Keystone Data,keystonedata.com,Healthcare Tech,Mid-Market,Southeast,662,146754592,70,False,ACC000225
+Cobalt Intelligence,cobaltintelligence.com,Manufacturing Tech,Mid-Market,Northeast,412,47489863,68,False,ACC000228
+Nimbus Systems 47,nimbussystems47.com,Ecommerce,Enterprise,Mountain,814,131464517,74,False,ACC000230
+Summit Group,summitgroup.io,SaaS,Enterprise,Central,1738,398097905,77,False,ACC000231
+Clearpath Labs 39,clearpathlabs39.io,SaaS,Enterprise,Mountain,698,126721947,77,True,ACC000233
+Nova Works,novaworks.net,EdTech,SMB,Northeast,83,15949917,69,False,ACC000234
+Signal Works 47,signalworks47.com,Ecommerce,Mid-Market,Central,440,56533143,58,False,ACC000235
+Northstar Markets,northstarmarkets.co,Ecommerce,Mid-Market,Northeast,414,51423753,72,False,ACC000237
+Cobalt Ops,cobaltops.com,EdTech,SMB,Northeast,135,27741380,68,True,ACC000238
+Evergreen Works,evergreenworks.ai,Healthcare Tech,Mid-Market,West,627,96282582,64,True,ACC000239
+Atlas Works,atlasworks.co,EdTech,Mid-Market,Mountain,1369,157711717,54,False,ACC000240
+Meridian Intelligence 67,meridianintelligen.io,SaaS,Mid-Market,Mountain,296,53034749,52,False,ACC000242
+Meridian Labs 79,meridianlabs79.io,Logistics Tech,SMB,Central,106,18736351,64,True,ACC000244
+Apex Networks,apexnetworks.co,Manufacturing Tech,Enterprise,Southeast,1500,279037850,74,False,ACC000246
+Nimbus Data 29,nimbusdata29.net,Cybersecurity,Mid-Market,International,134,18753338,77,False,ACC000247
+Nova Intelligence 92,novaintelligence92.com,Manufacturing Tech,Enterprise,Northeast,2687,322816323,59,False,ACC000249
+Evergreen Cloud 80,evergreencloud80.com,Healthcare Tech,SMB,Central,113,20483844,76,False,ACC000252
+Ironwood Ops,ironwoodops.co,Healthcare Tech,Mid-Market,Mountain,261,26921213,53,False,ACC000253
+BluePeak Labs,bluepeaklabs.com,Manufacturing Tech,Mid-Market,Mountain,1021,151778199,98,False,ACC000255
+Vertex Works 80,vertexworks80.net,Healthcare Tech,SMB,Northeast,66,6166648,85,False,ACC000257
+Northstar Group 74,northstargroup74.com,SaaS,SMB,West,92,19630231,74,False,ACC000258
+Apex Markets,apexmarkets.net,Cybersecurity,Mid-Market,International,224,32509156,67,True,ACC000260
+Meridian Works 60,meridianworks60.com,SaaS,SMB,Mountain,92,21608345,79,True,ACC000261
+Catalyst Cloud 14,catalystcloud14.com,Cybersecurity,Mid-Market,Southeast,269,33119386,61,False,ACC000265
+Keystone Dynamics,keystonedynamics.io,Ecommerce,Enterprise,Northeast,3236,487729157,81,True,ACC000266
+Bright Labs 38,brightlabs38.co,Logistics Tech,SMB,Central,39,3580906,74,False,ACC000269
+Apex Health,apexhealth.co,FinTech,SMB,Central,41,7663454,61,True,ACC000270
+Pioneer Labs 53,pioneerlabs53.com,Manufacturing Tech,SMB,Mountain,134,28354787,54,False,ACC000271
+Cobalt Platform 66,cobaltplatform66.co,Manufacturing Tech,Enterprise,Central,3745,582873554,56,True,ACC000272
+Summit Cloud,summitcloud.com,EdTech,Enterprise,Central,3117,666320558,62,False,ACC000273
+Evergreen Intelligence,evergreenintellige.io,HR Tech,Enterprise,Northeast,4088,408791031,93,False,ACC000274
+BluePeak Data 21,bluepeakdata21.net,Manufacturing Tech,SMB,Mountain,42,5983130,58,False,ACC000276
+Ironwood Systems 49,ironwoodsystems49.ai,Healthcare Tech,SMB,Southeast,155,28473427,61,False,ACC000278
+Apex Data 42,apexdata42.co,FinTech,SMB,Southeast,102,10633678,59,False,ACC000281
+BluePeak Markets 96,bluepeakmarkets96.com,FinTech,Mid-Market,Northeast,554,69861564,74,True,ACC000282
+Evergreen Group,evergreengroup.co,Manufacturing Tech,Enterprise,Southeast,1025,227437556,87,False,ACC000283
+Signal Markets 42,signalmarkets42.co,Ecommerce,Mid-Market,Northeast,481,49918484,62,False,ACC000286
+Signal Software 70,signalsoftware70.ai,Manufacturing Tech,SMB,International,141,33666780,59,True,ACC000289
+Vertex Health,vertexhealth.net,HR Tech,Enterprise,Mountain,980,197325163,87,False,ACC000290
+Apex Networks 54,apexnetworks54.co,Logistics Tech,Enterprise,International,3149,603842236,83,False,ACC000292
+Atlas Labs 13,atlaslabs13.net,HR Tech,Mid-Market,Northeast,344,64157643,58,True,ACC000293
+Keystone Networks 6,keystonenetworks6.co,Logistics Tech,SMB,Mountain,72,10666874,66,False,ACC000294
+Apex Works 74,apexworks74.net,Healthcare Tech,Mid-Market,Central,295,52214282,74,False,ACC000295
+Vertex Data 36,vertexdata36.io,Healthcare Tech,SMB,Central,358,64555221,67,True,ACC000296
+Northstar Systems 96,northstarsystems96.ai,Cybersecurity,Mid-Market,Northeast,518,104578388,60,True,ACC000297
+Apex Solutions,apexsolutions.co,HR Tech,SMB,Southeast,115,18908870,56,True,ACC000300
+Apex Solutions 85,apexsolutions85.ai,HR Tech,SMB,West,73,12832001,87,True,ACC000301
+Catalyst Dynamics 19,catalystdynamics19.co,FinTech,Enterprise,Southeast,1449,230767627,53,False,ACC000303
+Evergreen Markets 98,evergreenmarkets98.net,HR Tech,Enterprise,Mountain,3294,321086945,91,False,ACC000304
+Nova Data,novadata.com,HR Tech,Mid-Market,International,388,59881216,75,True,ACC000307
+BluePeak Data 9,bluepeakdata9.co,FinTech,SMB,Northeast,160,22702090,98,False,ACC000308
+Evergreen Data 88,evergreendata88.ai,SaaS,SMB,Southeast,103,17924598,73,False,ACC000309
+Cobalt Labs 56,cobaltlabs56.ai,Healthcare Tech,Enterprise,Northeast,2692,441951480,89,True,ACC000310
+Cobalt Markets,cobaltmarkets.com,Cybersecurity,Mid-Market,Southeast,474,75645599,53,False,ACC000311
+Pioneer Health 24,pioneerhealth24.net,EdTech,Enterprise,Northeast,1524,261185970,52,False,ACC000313
+Apex Works 61,apexworks61.net,EdTech,Mid-Market,Northeast,385,62641210,60,True,ACC000314
+Bright Ops,brightops.net,SaaS,Mid-Market,Mountain,408,86071901,61,True,ACC000316
+Cobalt Health,cobalthealth.net,SaaS,Mid-Market,Southeast,282,32347078,60,False,ACC000317
+Bright Platform 58,brightplatform58.io,Manufacturing Tech,Mid-Market,Mountain,236,30284464,78,False,ACC000318
+Vertex Works,vertexworks.io,Ecommerce,Mid-Market,Northeast,1102,114743310,98,False,ACC000319
+Atlas Cloud 86,atlascloud86.net,HR Tech,Mid-Market,Southeast,475,101324850,61,False,ACC000320
+Keystone Cloud,keystonecloud.co,HR Tech,Enterprise,Central,3470,816016934,63,True,ACC000325
+Cobalt Software 99,cobaltsoftware99.net,Manufacturing Tech,Enterprise,Mountain,1039,95474881,68,False,ACC000327
+Atlas Systems 29,atlassystems29.io,Healthcare Tech,Mid-Market,International,259,56650178,80,False,ACC000328
+Catalyst Software,catalystsoftware.co,HR Tech,SMB,Northeast,185,29394609,70,True,ACC000329
+Bright Dynamics 96,brightdynamics96.io,SaaS,Mid-Market,Central,1175,235834682,49,False,ACC000332
+Cobalt Labs,cobaltlabs.com,EdTech,SMB,Mountain,158,36457824,53,True,ACC000336
+Vertex Systems 29,vertexsystems29.net,Logistics Tech,Enterprise,Central,3205,288540573,76,False,ACC000337
+Apex Systems 70,apexsystems70.net,EdTech,SMB,West,53,8051450,67,True,ACC000338
+BluePeak Solutions,bluepeaksolutions.net,Cybersecurity,Mid-Market,West,499,117722307,62,False,ACC000339
+Summit Health 69,summithealth69.io,HR Tech,Enterprise,Mountain,1194,256004584,87,False,ACC000340
+Atlas Analytics 85,atlasanalytics85.com,Healthcare Tech,Mid-Market,Southeast,636,64322579,64,True,ACC000342
+Bright Systems 91,brightsystems91.io,Healthcare Tech,Mid-Market,Southeast,510,91281450,84,False,ACC000343
+BluePeak Labs 31,bluepeaklabs31.io,Logistics Tech,Mid-Market,Central,305,47085103,83,False,ACC000344
+Evergreen Labs 24,evergreenlabs24.ai,SaaS,Enterprise,Mountain,1334,286417840,72,True,ACC000345
+Vertex Platform,vertexplatform.com,Cybersecurity,Enterprise,Mountain,3416,757828788,79,True,ACC000346
+Catalyst Platform,catalystplatform.net,Ecommerce,Mid-Market,Southeast,217,30623551,70,False,ACC000347
+BluePeak Intelligence 8,bluepeakintelligen.com,EdTech,Mid-Market,Mountain,789,154166707,96,False,ACC000348
+Nova Systems 83,novasystems83.ai,Logistics Tech,SMB,Southeast,134,31572400,62,True,ACC000349
+Keystone Networks 89,keystonenetworks89.net,EdTech,Mid-Market,West,664,60050934,68,False,ACC000350
+Cobalt Analytics 36,cobaltanalytics36.io,EdTech,SMB,International,71,16736823,62,False,ACC000351
+Pioneer Solutions,pioneersolutions.com,FinTech,Enterprise,West,1530,243924523,82,False,ACC000353
+Evergreen Ops 15,evergreenops15.com,Healthcare Tech,SMB,Central,82,8451241,81,False,ACC000354
+Evergreen Dynamics 75,evergreendynamics7.net,FinTech,Mid-Market,International,910,202328292,62,False,ACC000356
+Nimbus Works 36,nimbusworks36.co,FinTech,Mid-Market,West,669,156050322,64,False,ACC000357
+Clearpath Health 19,clearpathhealth19.ai,SaaS,Mid-Market,Southeast,557,57840394,87,False,ACC000359
+Clearpath Group 57,clearpathgroup57.net,FinTech,Enterprise,Central,795,160969703,59,False,ACC000360
+Signal Markets,signalmarkets.ai,FinTech,Mid-Market,Southeast,458,75717953,84,False,ACC000361
+Atlas Markets,atlasmarkets.net,HR Tech,Mid-Market,Central,497,53717629,80,False,ACC000362
+Nimbus Platform,nimbusplatform.ai,Healthcare Tech,SMB,Northeast,88,11814537,69,False,ACC000363
+Evergreen Systems 95,evergreensystems95.co,HR Tech,Enterprise,Southeast,1815,385702891,51,False,ACC000364
+Evergreen Ops,evergreenops.net,SaaS,Enterprise,Central,1914,323220797,67,True,ACC000367
+Summit Dynamics 86,summitdynamics86.ai,FinTech,Mid-Market,International,370,62006785,78,False,ACC000368
+Bright Platform,brightplatform.ai,EdTech,SMB,West,82,11207975,62,False,ACC000369
+Catalyst Dynamics 59,catalystdynamics59.ai,EdTech,SMB,Southeast,254,28215068,65,True,ACC000370
+BluePeak Cloud,bluepeakcloud.ai,SaaS,Enterprise,Southeast,1082,113496747,73,False,ACC000371
+Apex Group,apexgroup.com,FinTech,Enterprise,International,6000,691503260,46,False,ACC000375
+Evergreen Networks 44,evergreennetworks4.net,EdTech,Mid-Market,Southeast,224,26699360,59,False,ACC000376
+Northstar Ops 52,northstarops52.com,HR Tech,SMB,Southeast,93,13214514,78,True,ACC000377
+Keystone Platform,keystoneplatform.com,HR Tech,Enterprise,Mountain,2827,565927768,62,True,ACC000378
+BluePeak Group 78,bluepeakgroup78.co,EdTech,Mid-Market,Northeast,463,78713701,78,True,ACC000380
+Clearpath Networks 88,clearpathnetworks8.ai,Healthcare Tech,Mid-Market,International,277,53215407,73,True,ACC000381
+Catalyst Works 16,catalystworks16.io,Ecommerce,Enterprise,International,2018,209974641,81,False,ACC000382
+BluePeak Platform,bluepeakplatform.co,FinTech,Mid-Market,Northeast,181,21807506,60,False,ACC000383
+Ironwood Networks 73,ironwoodnetworks73.io,Logistics Tech,Mid-Market,Central,1796,394826483,68,False,ACC000384
+Clearpath Labs 47,clearpathlabs47.com,Logistics Tech,Mid-Market,Mountain,929,196008224,95,True,ACC000385
+Apex Dynamics,apexdynamics.ai,SaaS,Enterprise,Central,2769,509465199,30,False,ACC000387
+Northstar Data 74,northstardata74.co,Manufacturing Tech,Mid-Market,Northeast,421,77835160,87,False,ACC000388
+Evergreen Intelligence 71,evergreenintellige.com,Logistics Tech,Enterprise,Northeast,1221,285246604,62,True,ACC000389
+Catalyst Works 6,catalystworks6.co,Cybersecurity,Enterprise,Central,1866,345090481,67,True,ACC000390
+Catalyst Software 96,catalystsoftware96.net,Ecommerce,Mid-Market,International,591,121106177,88,False,ACC000391
+Vertex Software 28,vertexsoftware28.com,Ecommerce,SMB,Northeast,57,8614492,71,True,ACC000392
+Keystone Labs 37,keystonelabs37.io,FinTech,Mid-Market,Mountain,312,51509215,68,True,ACC000394
+Meridian Markets 20,meridianmarkets20.net,Cybersecurity,SMB,International,51,6739684,61,True,ACC000395
+Meridian Data,meridiandata.com,Healthcare Tech,SMB,Southeast,169,29126654,75,True,ACC000396
+Clearpath Markets 43,clearpathmarkets43.net,SaaS,SMB,International,203,23989814,65,False,ACC000397
+Cobalt Platform 29,cobaltplatform29.co,HR Tech,Mid-Market,Southeast,1086,109432278,89,False,ACC000398
+Nova Cloud 74,novacloud74.co,Ecommerce,Mid-Market,International,264,35242816,57,False,ACC000399
+Nimbus Analytics 49,nimbusanalytics49.io,SaaS,Mid-Market,Southeast,656,116433425,74,True,ACC000402
+Keystone Analytics 92,keystoneanalytics9.com,SaaS,Mid-Market,Mountain,280,40329824,67,False,ACC000403
+Apex Group 17,apexgroup17.co,FinTech,Enterprise,Southeast,1323,127462797,76,False,ACC000405
+Cobalt Health 15,cobalthealth15.ai,Ecommerce,Enterprise,Central,1257,161065327,77,False,ACC000406
+Atlas Software 68,atlassoftware68.net,Manufacturing Tech,Mid-Market,Mountain,347,66510177,77,False,ACC000411
+Bright Dynamics 65,brightdynamics65.co,Healthcare Tech,Enterprise,Mountain,2452,579134868,63,False,ACC000412
+Evergreen Networks 99,evergreennetworks9.co,Healthcare Tech,Enterprise,West,2267,237989712,92,True,ACC000414
+Nimbus Software 7,nimbussoftware7.com,EdTech,Enterprise,Northeast,2635,612181364,83,False,ACC000415
+Keystone Platform 12,keystoneplatform12.net,Manufacturing Tech,SMB,Northeast,339,31014626,82,False,ACC000416
+Nimbus Analytics,nimbusanalytics.ai,Healthcare Tech,SMB,Northeast,195,30856377,64,False,ACC000417
+Northstar Health 3,northstarhealth3.io,SaaS,Mid-Market,Mountain,490,84301798,82,False,ACC000420
+BluePeak Analytics 35,bluepeakanalytics3.net,Healthcare Tech,Enterprise,Southeast,1420,140519612,98,False,ACC000422
+BluePeak Intelligence,bluepeakintelligen.com,Logistics Tech,Enterprise,Northeast,2684,271998589,72,True,ACC000423
+Nimbus Health 75,nimbushealth75.com,HR Tech,Mid-Market,International,637,138279428,75,False,ACC000424
+Evergreen Ops 30,evergreenops30.ai,HR Tech,Enterprise,Southeast,3959,676284105,59,False,ACC000426
+Evergreen Data 3,evergreendata3.ai,HR Tech,Mid-Market,Central,367,63906139,53,False,ACC000429
+Clearpath Intelligence 77,clearpathintellige.co,HR Tech,Enterprise,International,1259,301212231,77,False,ACC000430
+Catalyst Ops,catalystops.co,SaaS,Enterprise,Mountain,1899,414235110,77,False,ACC000433
+Vertex Dynamics 39,vertexdynamics39.ai,Ecommerce,Enterprise,Southeast,2065,436213317,53,False,ACC000436
+Clearpath Solutions 31,clearpathsolutions.com,HR Tech,SMB,Mountain,285,30715987,68,False,ACC000437
+Signal Data 41,signaldata41.co,Cybersecurity,Enterprise,West,2111,303072415,80,False,ACC000439
+Northstar Works,northstarworks.net,SaaS,SMB,Mountain,32,6946904,94,False,ACC000440
+Apex Platform 59,apexplatform59.net,Manufacturing Tech,SMB,Mountain,227,39611204,64,False,ACC000442
+Vertex Health 3,vertexhealth3.com,HR Tech,Mid-Market,Mountain,246,55132079,53,False,ACC000443
+Cobalt Solutions 11,cobaltsolutions11.com,Healthcare Tech,SMB,Mountain,129,28809971,79,True,ACC000444
+Clearpath Cloud,clearpathcloud.com,Ecommerce,Mid-Market,West,298,65039850,57,False,ACC000445
+Pioneer Software 25,pioneersoftware25.ai,Cybersecurity,Mid-Market,Southeast,281,60054808,88,False,ACC000447
+Atlas Markets 54,atlasmarkets54.net,Logistics Tech,Mid-Market,West,294,28116885,48,False,ACC000448
+Vertex Ops 27,vertexops27.net,HR Tech,Mid-Market,International,282,40700055,73,True,ACC000449
+Apex Platform,apexplatform.ai,Logistics Tech,SMB,Northeast,51,4601274,61,True,ACC000450
+Pioneer Group,pioneergroup.co,Cybersecurity,Mid-Market,Mountain,582,89275528,78,False,ACC000451
+Apex Solutions 9,apexsolutions9.co,Manufacturing Tech,Enterprise,Central,1249,135895535,59,False,ACC000452
+Catalyst Solutions 70,catalystsolutions7.com,HR Tech,Enterprise,Northeast,4459,843429383,47,False,ACC000453
+Catalyst Dynamics 4,catalystdynamics4.net,Logistics Tech,Mid-Market,West,113,25983076,74,True,ACC000456
+Northstar Intelligence,northstarintellige.io,FinTech,Mid-Market,Southeast,1097,240677489,72,False,ACC000461
+Northstar Systems 91,northstarsystems91.net,EdTech,Mid-Market,Northeast,447,85633069,75,True,ACC000462
+Catalyst Health 65,catalysthealth65.io,Ecommerce,Enterprise,International,3579,456573691,80,False,ACC000463
+Catalyst Intelligence,catalystintelligen.ai,FinTech,Enterprise,International,1630,280895943,74,False,ACC000464
+Apex Solutions 28,apexsolutions28.io,Healthcare Tech,SMB,Central,130,20095534,70,False,ACC000465
+Ironwood Dynamics 22,ironwooddynamics22.co,Healthcare Tech,SMB,West,121,22537479,69,False,ACC000467
+Nimbus Health 11,nimbushealth11.ai,FinTech,SMB,Southeast,207,21777628,65,True,ACC000468
+Nova Markets 92,novamarkets92.com,EdTech,Enterprise,International,2496,263248638,71,False,ACC000469
+Bright Health 44,brighthealth44.io,HR Tech,Mid-Market,Southeast,146,21847711,58,False,ACC000470
+Evergreen Solutions,evergreensolutions.ai,Cybersecurity,Mid-Market,Mountain,606,104499209,91,False,ACC000471
+Evergreen Markets 21,evergreenmarkets21.com,Ecommerce,Mid-Market,West,385,39966868,74,False,ACC000472
+Ironwood Software 14,ironwoodsoftware14.com,HR Tech,SMB,Mountain,277,54172570,82,True,ACC000473
+Atlas Analytics,atlasanalytics.co,Healthcare Tech,Mid-Market,Central,632,86543620,93,True,ACC000474
+Northstar Data 7,northstardata7.ai,Logistics Tech,SMB,Southeast,224,43011759,82,False,ACC000476
+Evergreen Markets 75,evergreenmarkets75.io,Logistics Tech,Enterprise,Central,2058,320549443,90,False,ACC000479
+BluePeak Cloud 17,bluepeakcloud17.co,FinTech,Mid-Market,Mountain,198,39027365,81,True,ACC000480
+Bright Ops 12,brightops12.co,HR Tech,Enterprise,International,1298,169545992,62,False,ACC000481
+Summit Health,summithealth.net,Healthcare Tech,SMB,Central,196,39334771,81,False,ACC000484
+Nimbus Platform 85,nimbusplatform85.co,Logistics Tech,Mid-Market,West,560,78422970,63,False,ACC000485
+Vertex Platform 6,vertexplatform6.co,Ecommerce,Enterprise,International,3462,642869648,68,False,ACC000486
+Bright Markets,brightmarkets.ai,Ecommerce,Mid-Market,West,542,53983715,74,True,ACC000487
+Nimbus Markets 91,nimbusmarkets91.com,HR Tech,Mid-Market,Mountain,275,45007698,72,True,ACC000488
+Nimbus Ops 79,nimbusops79.com,HR Tech,Mid-Market,Southeast,1055,136132441,57,True,ACC000489
+Vertex Systems 24,vertexsystems24.io,HR Tech,SMB,West,85,14705597,82,False,ACC000491
+Bright Data,brightdata.com,Ecommerce,SMB,International,95,11628856,73,False,ACC000492
+Clearpath Platform 83,clearpathplatform8.com,SaaS,SMB,Mountain,94,21729803,40,True,ACC000493
+Northstar Markets 77,northstarmarkets77.net,Ecommerce,Enterprise,Central,2367,495112124,41,False,ACC000494
+Atlas Systems 51,atlassystems51.com,FinTech,Enterprise,Northeast,1612,292710205,94,False,ACC000495
+Vertex Networks 78,vertexnetworks78.com,HR Tech,Mid-Market,Central,203,20814229,72,False,ACC000497
+Keystone Platform 46,keystoneplatform46.co,Cybersecurity,Mid-Market,Mountain,746,80390642,97,True,ACC000498
+Summit Systems 67,summitsystems67.ai,Manufacturing Tech,SMB,International,42,5163189,64,False,ACC000499
+Summit Markets 10,summitmarkets10.ai,Cybersecurity,Enterprise,International,4554,1005160078,64,False,ACC000500
+Nimbus Solutions,nimbussolutions.ai,HR Tech,Mid-Market,Mountain,403,61172866,53,False,ACC000501
+Keystone Platform 51,keystoneplatform51.com,HR Tech,Enterprise,Central,1141,233585686,72,False,ACC000503
+Catalyst Markets,catalystmarkets.ai,Manufacturing Tech,Enterprise,Central,2685,586931160,90,False,ACC000504
+Atlas Health 62,atlashealth62.io,Cybersecurity,Mid-Market,International,902,115447753,85,False,ACC000505
+Signal Health 89,signalhealth89.co,Manufacturing Tech,Mid-Market,Central,395,73930623,69,False,ACC000508
+Vertex Software 45,vertexsoftware45.co,Logistics Tech,SMB,Mountain,143,33635011,40,False,ACC000509
+Ironwood Group 82,ironwoodgroup82.io,Ecommerce,Enterprise,International,3079,733980219,31,False,ACC000510
+Apex Data,apexdata.ai,HR Tech,Mid-Market,Mountain,222,31652333,62,True,ACC000511
+Cobalt Cloud 80,cobaltcloud80.co,EdTech,SMB,Southeast,237,44676733,68,False,ACC000512
+Pioneer Systems,pioneersystems.ai,Manufacturing Tech,Mid-Market,Mountain,269,55138882,73,False,ACC000514
+Catalyst Intelligence 41,catalystintelligen.io,Healthcare Tech,Mid-Market,Southeast,842,171578787,56,True,ACC000515
+Cobalt Labs 40,cobaltlabs40.ai,Logistics Tech,Mid-Market,International,960,136362623,56,True,ACC000516
+Summit Intelligence 93,summitintelligence.com,EdTech,Mid-Market,International,499,109394300,54,False,ACC000519
+Summit Ops 58,summitops58.co,Healthcare Tech,Mid-Market,Northeast,989,183473600,98,True,ACC000521
+Nimbus Cloud,nimbuscloud.co,Healthcare Tech,SMB,Northeast,126,20062783,79,True,ACC000523
+Signal Markets 44,signalmarkets44.io,SaaS,Mid-Market,West,586,130805588,67,False,ACC000526
+Ironwood Cloud 13,ironwoodcloud13.net,Healthcare Tech,Enterprise,International,1543,272347770,81,False,ACC000527
+Catalyst Data 39,catalystdata39.ai,Logistics Tech,Enterprise,West,6000,813627245,55,True,ACC000528
+Atlas Intelligence 88,atlasintelligence8.ai,EdTech,SMB,International,175,30612243,63,False,ACC000529
+Northstar Health,northstarhealth.co,EdTech,Enterprise,Southeast,1647,322992428,93,False,ACC000532
+Keystone Networks 16,keystonenetworks16.io,SaaS,Mid-Market,Mountain,339,49400060,85,False,ACC000533
+Ironwood Health 54,ironwoodhealth54.co,SaaS,Mid-Market,West,776,113271472,88,False,ACC000535
+Nova Systems,novasystems.net,HR Tech,Mid-Market,International,439,103664208,65,False,ACC000536
+Keystone Dynamics 63,keystonedynamics63.ai,EdTech,Mid-Market,Mountain,331,39926869,89,False,ACC000537
+Northstar Markets 65,northstarmarkets65.io,Healthcare Tech,Mid-Market,Southeast,335,31112029,76,True,ACC000538
+Cobalt Data 58,cobaltdata58.net,Logistics Tech,Mid-Market,West,219,38520147,67,False,ACC000540
+Pioneer Labs 30,pioneerlabs30.co,Ecommerce,Mid-Market,Northeast,514,98954286,72,False,ACC000543
+Nova Intelligence 83,novaintelligence83.ai,Manufacturing Tech,SMB,Northeast,57,8515471,44,False,ACC000545
+Northstar Markets 19,northstarmarkets19.co,Healthcare Tech,SMB,Central,198,30181676,75,True,ACC000546
+Bright Health 59,brighthealth59.co,Manufacturing Tech,Enterprise,Mountain,2694,331243513,54,True,ACC000548
+Summit Platform 86,summitplatform86.net,Ecommerce,Enterprise,Northeast,3190,361736843,93,False,ACC000550
+Nimbus Platform 45,nimbusplatform45.ai,Logistics Tech,Mid-Market,Mountain,489,64081524,57,False,ACC000551
+Evergreen Group 93,evergreengroup93.net,HR Tech,Enterprise,Mountain,4675,618445728,61,False,ACC000552
+Vertex Networks 66,vertexnetworks66.net,Ecommerce,Mid-Market,International,1105,228245919,83,True,ACC000553
+Pioneer Markets,pioneermarkets.net,EdTech,Mid-Market,International,346,41269142,83,False,ACC000554
+Keystone Systems 68,keystonesystems68.com,SaaS,Mid-Market,Southeast,1111,209659462,80,False,ACC000555
+Summit Dynamics 97,summitdynamics97.net,EdTech,Mid-Market,Mountain,474,69121518,50,True,ACC000558
+Meridian Labs 56,meridianlabs56.ai,Manufacturing Tech,SMB,Central,112,14274438,67,True,ACC000562
+Apex Group 61,apexgroup61.io,SaaS,Enterprise,Mountain,2681,543009376,89,False,ACC000563
+Evergreen Platform,evergreenplatform.com,Ecommerce,Mid-Market,Mountain,768,88785603,66,True,ACC000566
+Pioneer Works 29,pioneerworks29.net,Manufacturing Tech,SMB,Southeast,338,76587709,75,False,ACC000567
+Pioneer Data 32,pioneerdata32.net,HR Tech,SMB,West,41,8935839,83,False,ACC000568
+Summit Platform 34,summitplatform34.net,Cybersecurity,SMB,West,87,10929095,66,False,ACC000569
+Ironwood Labs 39,ironwoodlabs39.io,Ecommerce,SMB,Northeast,39,4524951,82,False,ACC000570
+Summit Networks,summitnetworks.net,Manufacturing Tech,SMB,West,67,13796352,77,False,ACC000571
+Cobalt Software,cobaltsoftware.io,EdTech,Enterprise,West,907,183589408,57,False,ACC000572
+Cobalt Cloud 5,cobaltcloud5.co,Ecommerce,Mid-Market,West,274,25897269,55,True,ACC000573
+Meridian Ops 42,meridianops42.com,EdTech,Enterprise,International,1225,161996947,85,False,ACC000575
+Cobalt Labs 91,cobaltlabs91.com,Ecommerce,Mid-Market,Northeast,129,20039726,80,True,ACC000576
+Cobalt Works 99,cobaltworks99.co,EdTech,SMB,Southeast,84,10849211,60,False,ACC000577
+Northstar Dynamics 19,northstardynamics1.co,Manufacturing Tech,Mid-Market,Central,187,21455017,68,True,ACC000578
+Pioneer Systems 72,pioneersystems72.net,FinTech,Mid-Market,West,422,53593490,30,True,ACC000579
+Evergreen Analytics 41,evergreenanalytics.io,Ecommerce,Enterprise,Mountain,970,113081508,83,False,ACC000580
+Evergreen Data 84,evergreendata84.net,Healthcare Tech,SMB,Central,57,7685228,86,True,ACC000582
+Summit Software 94,summitsoftware94.net,Logistics Tech,SMB,Central,67,10351074,57,True,ACC000583
+Summit Works 81,summitworks81.com,HR Tech,Mid-Market,Central,148,24260594,75,True,ACC000584
+Atlas Cloud 74,atlascloud74.net,Ecommerce,Mid-Market,Central,760,112873706,97,False,ACC000585
+Northstar Systems,northstarsystems.ai,HR Tech,SMB,Mountain,143,32851852,89,False,ACC000586
+Pioneer Cloud 88,pioneercloud88.ai,Logistics Tech,Mid-Market,Southeast,358,49768875,84,True,ACC000587
+Ironwood Health 24,ironwoodhealth24.net,Healthcare Tech,SMB,Central,78,7905234,74,True,ACC000588
+Nimbus Analytics 95,nimbusanalytics95.com,SaaS,Enterprise,Northeast,4600,436385977,80,False,ACC000589
+Meridian Dynamics 77,meridiandynamics77.ai,FinTech,Enterprise,Southeast,1926,273738179,78,True,ACC000591
+Clearpath Networks 24,clearpathnetworks2.net,FinTech,SMB,International,114,18422691,78,True,ACC000593
+Bright Dynamics 99,brightdynamics99.co,HR Tech,SMB,West,46,9898677,74,False,ACC000594
+Bright Software 68,brightsoftware68.ai,EdTech,Enterprise,Southeast,1472,310975987,53,False,ACC000595
+Meridian Platform 48,meridianplatform48.net,Healthcare Tech,SMB,Northeast,137,25055362,54,False,ACC000597
+BluePeak Platform 47,bluepeakplatform47.ai,Logistics Tech,Enterprise,Southeast,1344,224239749,61,False,ACC000598
+Clearpath Networks 31,clearpathnetworks3.com,Manufacturing Tech,Mid-Market,International,358,61790623,63,False,ACC000599
+Northstar Networks 48,northstarnetworks4.net,Healthcare Tech,Enterprise,International,846,108542185,91,False,ACC000600
+Summit Markets 88,summitmarkets88.co,Logistics Tech,Mid-Market,Mountain,1455,191645219,98,False,ACC000601
+Northstar Solutions 23,northstarsolutions.ai,Logistics Tech,Mid-Market,Northeast,1205,185893766,76,False,ACC000605
+Cobalt Dynamics,cobaltdynamics.co,EdTech,Enterprise,Mountain,2298,379334530,66,True,ACC000606
+BluePeak Ops 21,bluepeakops21.net,Healthcare Tech,Mid-Market,Mountain,530,64808756,68,True,ACC000607
+Keystone Ops,keystoneops.ai,SaaS,Enterprise,International,1860,385940137,80,False,ACC000609
+Ironwood Platform 46,ironwoodplatform46.net,Healthcare Tech,Mid-Market,Southeast,111,15059800,52,True,ACC000610
+Signal Group 54,signalgroup54.ai,Healthcare Tech,SMB,Mountain,69,7004957,58,False,ACC000613
+Pioneer Platform 96,pioneerplatform96.io,Healthcare Tech,Enterprise,International,1366,173729251,86,False,ACC000616
+Nimbus Dynamics 49,nimbusdynamics49.com,SaaS,Enterprise,International,1443,178804814,81,True,ACC000619
+Bright Networks 83,brightnetworks83.co,Logistics Tech,SMB,West,40,5278475,84,False,ACC000620
+Signal Labs 78,signallabs78.net,Manufacturing Tech,Enterprise,International,3110,505868488,84,False,ACC000621
+Pioneer Dynamics 85,pioneerdynamics85.com,FinTech,Enterprise,West,1431,160826398,78,False,ACC000622
+Evergreen Works 94,evergreenworks94.net,Ecommerce,Mid-Market,Central,538,69388130,56,False,ACC000624
+Keystone Intelligence 68,keystoneintelligen.net,SaaS,SMB,International,35,3828165,64,False,ACC000629
+Signal Markets 96,signalmarkets96.io,HR Tech,SMB,International,162,15673422,76,False,ACC000632
+Nimbus Markets 25,nimbusmarkets25.net,Cybersecurity,Enterprise,Southeast,3986,712706870,66,True,ACC000635
+Apex Systems,apexsystems.io,EdTech,Enterprise,Northeast,832,179403848,84,False,ACC000638
+Northstar Markets 56,northstarmarkets56.io,EdTech,Enterprise,International,2233,510548969,68,False,ACC000640
+Meridian Software,meridiansoftware.io,FinTech,Enterprise,Southeast,2087,348882118,79,False,ACC000643
+Ironwood Cloud 82,ironwoodcloud82.net,Manufacturing Tech,SMB,International,66,10692469,53,True,ACC000644
+Nimbus Labs 52,nimbuslabs52.com,FinTech,SMB,West,88,14940707,75,False,ACC000645
+Summit Data 97,summitdata97.ai,Cybersecurity,Mid-Market,Central,296,40215031,86,False,ACC000646
+Pioneer Systems 54,pioneersystems54.com,Ecommerce,Mid-Market,International,260,48063454,66,False,ACC000647
+Atlas Intelligence 43,atlasintelligence4.net,Logistics Tech,Mid-Market,International,713,157522315,83,True,ACC000648
+Atlas Data 82,atlasdata82.io,FinTech,Mid-Market,International,748,101824843,82,False,ACC000649

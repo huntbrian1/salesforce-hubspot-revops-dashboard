@@ -1,0 +1,901 @@
+﻿External Contact ID,External Account ID,Account Name,First Name,Last Name,Email,Title,Created Date,Source Lead External ID,HubSpot Contact ID,Salesforce Contact ID,Email Opt In,Persona
+CON001160,ACC000263,Nova Intelligence,Jamie,Perry,jamie.perry1160@novaintelligence.co,CFO,2025-05-07,,HS201160,SFCON001160,False,Influencer
+CON001851,ACC000625,Clearpath Platform 75,Rowan,Young,rowan.young1851@clearpathplatform7.com,VP Sales,2024-11-01,,HS201851,SFCON001851,False,Economic Buyer
+CON002577,ACC000183,Clearpath Group,Harper,Young,harper.young2577@clearpathgroup.io,RevOps Manager,2024-02-20,,HS202577,SFCON002577,True,Procurement
+CON003559,ACC000479,Evergreen Markets 75,Jamie,Torres,jamie.torres3559@evergreenmarkets75.io,Operations Director,2024-06-21,,HS203559,SFCON003559,False,Procurement
+CON002017,ACC000117,Nova Health,Quinn,Brooks,quinn.brooks2017@novahealth.io,Sales Ops Analyst,2026-02-28,,HS202017,SFCON002017,False,Economic Buyer
+CON003410,ACC000199,Nova Cloud 58,Sam,Torres,sam.torres3410@novacloud58.com,VP Sales,2025-01-02,,HS203410,SFCON003410,True,Procurement
+CON001279,ACC000473,Ironwood Software 14,Devon,Kim,devon.kim1279@ironwoodsoftware14.com,CFO,2025-07-13,,,SFCON001279,True,User
+CON000421,ACC000372,Cobalt Health 95,Quinn,Wright,quinn.wright421@cobalthealth95.io,Operations Director,2024-09-06,,HS200421,SFCON000421,False,Influencer
+CON001882,ACC000126,Meridian Software 78,Charlie,Parker,charlie.parker1882@meridiansoftware78.net,CEO,2024-02-25,,HS201882,SFCON001882,True,Procurement
+CON003093,ACC000247,Nimbus Data 29,Parker,Murphy,parker.murphy3093@nimbusdata29.net,CFO,2024-02-26,,HS203093,SFCON003093,False,Champion
+CON000183,ACC000249,Nova Intelligence 92,Hayden,Bennett,hayden.bennett3841@novaintelligence92.com,Marketing Director,2026-01-25,LED003841,HS200183,SFCON000183,True,User
+CON000476,ACC000173,Keystone Health,Avery,Chen,avery.chen476@keystonehealth.ai,Sales Ops Analyst,2024-01-24,,HS200476,SFCON000476,True,Technical Buyer
+CON000533,ACC000141,Nimbus Data,Parker,Gray,parker.gray533@nimbusdata.ai,RevOps Manager,2025-04-15,,HS200533,SFCON000533,True,Influencer
+CON002026,ACC000413,Cobalt Systems,Kendall,James,kendall.james2026@cobaltsystems.ai,Marketing Director,2024-01-17,,HS202026,SFCON002026,True,Economic Buyer
+CON001358,ACC000223,Clearpath Systems,Emerson,Kim,emerson.kim1358@clearpathsystems.com,IT Admin,2024-02-19,,HS201358,SFCON001358,True,Economic Buyer
+CON000083,ACC000046,Summit Intelligence,Alex,Sullivan,alex.sullivan2828@vertexsystems.com,RevOps Manager,2026-02-17,LED002828,,SFCON000083,True,Influencer
+CON002570,ACC000239,Evergreen Works,Parker,Torres,parker.torres2570@evergreenworks.ai,IT Admin,2024-03-21,,HS202570,SFCON002570,False,Influencer
+CON001509,ACC000440,Northstar Works,Skyler,Price,skyler.price1509@northstarworks.net,Sales Manager,2025-03-22,,HS201509,SFCON001509,True,Procurement
+CON000657,ACC000067,Evergreen Dynamics,Casey,Young,casey.young657@evergreendynamics.com,RevOps Manager,2024-02-22,,HS200657,SFCON000657,True,Procurement
+CON003356,ACC000609,Keystone Ops,Jordan,Perry,jordan.perry3356@keystoneops.ai,RevOps Manager,2025-01-20,,HS203356,SFCON003356,True,Procurement
+CON002008,ACC000546,Northstar Markets 19,Skyler,Stone,skyler.stone2008@northstarmarkets19.co,Sales Manager,2024-06-06,,,SFCON002008,True,User
+CON003544,ACC000328,Atlas Systems 29,Drew,Perry,drew.perry3544@atlassystems29.io,RevOps Manager,2025-07-30,,HS203544,SFCON003544,True,Technical Buyer
+CON001601,ACC000298,Signal Networks,Elliot,Bell,elliot.bell1601@signalnetworks.net,Sales Ops Analyst,2026-03-02,,HS201601,SFCON001601,True,Technical Buyer
+CON002996,ACC000589,Nimbus Analytics 95,Drew,Young,drew.young2996@nimbusanalytics95.com,Marketing Director,2024-10-23,,HS202996,SFCON002996,True,Technical Buyer
+CON001903,ACC000061,Nova Data 58,Cameron,Foster,cameron.foster1903@novadata58.co,Demand Gen Manager,2024-06-15,,HS201903,SFCON001903,False,Technical Buyer
+CON003126,ACC000498,Keystone Platform 46,Logan,King,logan.king3126@keystoneplatform46.co,IT Admin,2025-06-24,,HS203126,SFCON003126,True,Technical Buyer
+CON001295,ACC000548,Bright Health 59,Bailey,Brooks,bailey.brooks1295@brighthealth59.co,Sales Ops Analyst,2024-12-25,,HS201295,SFCON001295,True,Economic Buyer
+CON001013,ACC000388,Northstar Data 74,Finley,King,finley.king1013@northstardata74.co,Demand Gen Manager,2026-01-13,,HS201013,SFCON001013,True,Champion
+CON001152,ACC000492,Bright Data,Avery,Gray,avery.gray1152@brightdata.com,Marketing Director,2024-07-16,,HS201152,SFCON001152,False,Economic Buyer
+CON000435,ACC000074,Meridian Markets 2,Drew,King,drew.king435@meridianmarkets2.ai,Marketing Director,2024-12-02,,HS200435,SFCON000435,False,Procurement
+CON002596,ACC000195,Nova Dynamics,Hayden,Ross,hayden.ross2596@novadynamics.ai,Sales Manager,2025-10-07,,HS202596,SFCON002596,True,User
+CON000622,ACC000548,Bright Health 59,Rowan,Reed,rowan.reed622@brighthealth59.co,RevOps Manager,2025-02-23,,HS200622,SFCON000622,True,Champion
+CON003454,ACC000579,Pioneer Systems 72,Riley,Ward,riley.ward3454@pioneersystems72.net,Sales Ops Analyst,2026-03-06,,HS203454,SFCON003454,True,Champion
+CON003028,ACC000346,Vertex Platform,Bailey,Ward,bailey.ward3028@vertexplatform.com,IT Admin,2024-02-03,,,SFCON003028,True,Procurement
+CON001671,ACC000017,Bright Dynamics,Hayden,Davis,hayden.davis1671@brightdynamics.com,Operations Director,2026-06-30,,HS201671,SFCON001671,True,User
+CON000400,ACC000470,Bright Health 44,Hayden,Stone,hayden.stone400@brighthealth44.io,Demand Gen Manager,2025-12-22,,HS200400,SFCON000400,True,Champion
+CON000186,ACC000415,Nimbus Software 7,Parker,Bennett,parker.bennett1072@nimbussoftware7.com,Demand Gen Manager,2025-11-10,LED001072,HS200186,SFCON000186,True,Economic Buyer
+CON001621,ACC000444,Cobalt Solutions 11,Parker,Bennett,parker.bennett1621@cobaltsolutions11.com,Demand Gen Manager,2026-05-22,,,SFCON001621,True,Procurement
+CON000356,ACC000427,Nova Solutions,Emerson,Torres,emerson.torres356@novasolutions.com,CFO,2024-08-10,,HS200356,SFCON000356,False,User
+CON001445,ACC000572,Cobalt Software,Cameron,Wright,cameron.wright1445@cobaltsoftware.io,Demand Gen Manager,2025-07-03,,HS201445,SFCON001445,False,Influencer
+CON001268,ACC000406,Cobalt Health 15,Taylor,Stone,taylor.stone1268@cobalthealth15.ai,CEO,2026-02-21,,HS201268,SFCON001268,True,Procurement
+CON003070,ACC000645,Nimbus Labs 52,Taylor,Bennett,taylor.bennett3070@nimbuslabs52.com,Demand Gen Manager,2024-10-13,,HS203070,SFCON003070,True,Procurement
+CON002965,ACC000557,Vertex Labs,Logan,Patel,logan.patel2965@vertexlabs.ai,Sales Ops Analyst,2026-06-22,,HS202965,SFCON002965,True,User
+CON002836,ACC000594,Bright Dynamics 99,Riley,Davis,riley.davis2836@brightdynamics99.co,Marketing Director,2024-04-22,,,SFCON002836,True,Procurement
+CON001231,ACC000220,Meridian Intelligence,Hayden,Ross,hayden.ross1231@meridianintelligen.io,Operations Director,2026-03-07,,HS201231,SFCON001231,True,Procurement
+CON001936,ACC000260,Apex Markets,Morgan,Murphy,morgan.murphy1936@apexmarkets.net,Operations Director,2024-10-19,,HS201936,SFCON001936,False,Procurement
+CON001987,ACC000454,Northstar Dynamics 77,Skyler,Davis,skyler.davis1987@northstardynamics7.ai,VP Sales,2024-07-01,,HS201987,SFCON001987,True,Influencer
+CON000381,ACC000315,Clearpath Intelligence 21,Emerson,Kim,emerson.kim381@clearpathintellige.ai,CEO,2025-08-17,,HS200381,SFCON000381,False,Champion
+CON002739,ACC000237,Northstar Markets,Drew,Price,drew.price2739@northstarmarkets.co,Operations Director,2026-05-28,,HS202739,SFCON002739,True,Champion
+CON000229,ACC000500,Summit Markets 10,Maya,Chen,maya.chen4112@summitmarkets10.ai,Sales Manager,2026-03-10,LED004112,HS200229,SFCON000229,True,User
+CON001437,ACC000323,Meridian Networks,Elliot,Davis,elliot.davis1437@meridiannetworks.net,IT Admin,2026-01-13,,HS201437,,False,Champion
+CON001537,ACC000622,Pioneer Dynamics 85,Taylor,Patel,taylor.patel1537@pioneerdynamics85.com,Operations Director,2024-12-23,,HS201537,SFCON001537,True,Procurement
+CON001997,ACC000040,Nimbus Markets,Avery,Wright,avery.wright1997@nimbusmarkets.ai,Sales Manager,2024-04-19,,HS201997,SFCON001997,True,Champion
+CON003163,ACC000371,BluePeak Cloud,Casey,James,casey.james3163@bluepeakcloud.ai,Operations Director,2025-09-12,,HS203163,SFCON003163,True,Technical Buyer
+CON002198,ACC000010,Catalyst Labs,Rowan,Nelson,rowan.nelson2198@catalystlabs.io,IT Admin,2025-02-08,,HS202198,SFCON002198,False,Technical Buyer
+CON000219,ACC000574,Northstar Solutions 73,Blake,Foster,blake.foster2231@northstarsolutions.com,Demand Gen Manager,2025-08-31,LED002231,HS200219,SFCON000219,True,Economic Buyer
+CON000779,ACC000502,Meridian Group 89,Emerson,Bell,emerson.bell779@meridiangroup89.io,IT Admin,2026-06-14,,HS200779,SFCON000779,True,Champion
+CON000713,ACC000207,Meridian Works,Skyler,Kim,skyler.kim713@meridianworks.ai,RevOps Manager,2024-07-20,,HS200713,SFCON000713,True,Champion
+CON001840,ACC000419,Bright Dynamics 13,Alex,Murphy,alex.murphy1840@brightdynamics13.co,Demand Gen Manager,2026-06-02,,HS201840,SFCON001840,True,Technical Buyer
+CON000924,ACC000616,Pioneer Platform 96,Morgan,Ross,morgan.ross924@pioneerplatform96.io,RevOps Manager,2024-07-20,,HS200924,SFCON000924,True,User
+CON003303,ACC000424,Nimbus Health 75,Devon,Bennett,devon.bennett3303@nimbushealth75.com,Marketing Director,2026-05-27,,HS203303,,True,Economic Buyer
+CON000417,ACC000225,Keystone Data,Taylor,Parker,taylor.parker417@keystonedata.com,Sales Manager,2026-06-20,,HS200417,SFCON000417,True,Champion
+CON002339,ACC000128,Ironwood Cloud,Hayden,Chen,hayden.chen2339@ironwoodcloud.co,CEO,2025-02-01,,HS202339,SFCON002339,False,Influencer
+CON002145,ACC000142,Evergreen Networks,Blake,Torres,blake.torres2145@evergreennetworks.com,RevOps Manager,2024-06-29,,HS202145,SFCON002145,True,Technical Buyer
+CON001958,ACC000069,Clearpath Networks,Jordan,Ross,jordan.ross1958@clearpathnetworks.co,Sales Manager,2024-11-23,,HS201958,SFCON001958,True,Champion
+CON001166,ACC000255,BluePeak Labs,Rowan,Long,rowan.long1166@bluepeaklabs.com,Sales Manager,2024-10-15,,HS201166,SFCON001166,True,Champion
+CON001560,ACC000165,Catalyst Group,Devon,Price,devon.price1560@catalystgroup.com,Marketing Director,2024-08-02,,HS201560,SFCON001560,True,Procurement
+CON000255,ACC000028,Keystone Markets,Riley,Carter,riley.carter139@meridiansystems.co,IT Admin,2025-06-03,LED000139,HS200255,SFCON000255,False,Technical Buyer
+CON001508,ACC000452,Apex Solutions 9,Avery,Wright,avery.wright1508@apexsolutions9.co,Sales Ops Analyst,2024-03-21,,HS201508,SFCON001508,True,User
+CON001528,ACC000123,Catalyst Networks,Morgan,King,morgan.king1528@catalystnetworks.ai,Sales Manager,2024-01-14,,HS201528,SFCON001528,True,Champion
+CON001873,ACC000574,Northstar Solutions 73,Sam,Carter,sam.carter1873@northstarsolutions.com,CFO,2024-01-20,,HS201873,SFCON001873,True,Influencer
+CON001326,ACC000649,Atlas Data 82,Avery,Carter,avery.carter1326@atlasdata82.io,Sales Manager,2026-06-24,,HS201326,SFCON001326,True,Influencer
+CON001541,ACC000390,Catalyst Works 6,Emerson,Kim,emerson.kim1541@catalystworks6.co,Marketing Director,2024-01-01,,HS201541,SFCON001541,True,Economic Buyer
+CON000614,ACC000175,Vertex Labs 77,Skyler,Murphy,skyler.murphy614@vertexlabs77.net,CFO,2024-01-24,,HS200614,SFCON000614,True,Economic Buyer
+CON001168,ACC000147,Vertex Health 82,Morgan,King,morgan.king1168@vertexhealth82.com,Demand Gen Manager,2024-10-27,,HS201168,SFCON001168,True,Influencer
+CON001147,ACC000210,Northstar Software 45,Jordan,Stone,jordan.stone1147@northstarsoftware4.co,Demand Gen Manager,2025-11-20,,HS201147,SFCON001147,True,Technical Buyer
+CON000460,ACC000602,Vertex Networks 19,Finley,Sullivan,finley.sullivan460@vertexnetworks19.net,Operations Director,2024-07-02,,HS200460,SFCON000460,True,Economic Buyer
+CON001929,ACC000557,Vertex Labs,Riley,Young,riley.young1929@vertexlabs.ai,Demand Gen Manager,2024-05-14,,HS201929,SFCON001929,True,Procurement
+CON002602,ACC000016,Catalyst Dynamics,Morgan,Stone,morgan.stone2602@catalystdynamics.com,Sales Manager,2025-12-23,,HS202602,SFCON002602,True,Influencer
+CON002784,ACC000301,Apex Solutions 85,Logan,James,logan.james2784@apexsolutions85.ai,RevOps Manager,2024-02-03,,HS202784,SFCON002784,True,Technical Buyer
+CON001063,ACC000382,Catalyst Works 16,Parker,Bennett,parker.bennett1063@catalystworks16.io,Sales Manager,2025-09-28,,HS201063,SFCON001063,False,Technical Buyer
+CON002348,ACC000069,Clearpath Networks,Quinn,Adams,quinn.adams2348@clearpathnetworks.co,Demand Gen Manager,2025-01-27,,HS202348,SFCON002348,True,Influencer
+CON002246,ACC000301,Apex Solutions 85,Bailey,James,bailey.james2246@apexsolutions85.ai,Sales Ops Analyst,2024-11-14,,HS202246,SFCON002246,True,Technical Buyer
+CON000913,ACC000101,Bright Labs 72,Skyler,Murphy,skyler.murphy913@brightlabs72.ai,RevOps Manager,2026-03-15,,HS200913,SFCON000913,True,Champion
+CON001529,ACC000554,Pioneer Markets,Cameron,Patel,cameron.patel1529@pioneermarkets.net,Sales Manager,2024-08-22,,HS201529,SFCON001529,True,Influencer
+CON002819,ACC000458,Apex Cloud,Kendall,Gray,kendall.gray2819@apexcloud.net,Sales Manager,2024-09-11,,HS202819,SFCON002819,True,Technical Buyer
+CON003444,ACC000550,Summit Platform 86,Drew,Murphy,drew.murphy3444@summitplatform86.net,Sales Manager,2025-06-07,,HS203444,SFCON003444,False,Procurement
+CON001314,ACC000343,Bright Systems 91,Reese,Chen,reese.chen1314@brightsystems91.io,Operations Director,2025-06-25,,HS201314,SFCON001314,True,Champion
+CON002463,ACC000216,Meridian Ops,Maya,Reed,maya.reed2463@meridianops.io,CFO,2025-11-16,,HS202463,SFCON002463,True,Economic Buyer
+CON002213,ACC000412,Bright Dynamics 65,Reese,Brooks,reese.brooks2213@brightdynamics65.co,RevOps Manager,2025-10-15,,HS202213,SFCON002213,False,User
+CON002713,ACC000056,Evergreen Software,Maya,Murphy,maya.murphy2713@evergreensoftware.ai,Sales Ops Analyst,2026-05-22,,HS202713,SFCON002713,True,Champion
+CON001692,ACC000164,Northstar Health 86,Logan,Adams,logan.adams1692@northstarhealth86.com,RevOps Manager,2025-05-15,,HS201692,SFCON001692,True,Technical Buyer
+CON002411,ACC000083,Nimbus Intelligence,Quinn,Parker,quinn.parker2411@nimbusintelligence.io,Demand Gen Manager,2024-06-13,,HS202411,SFCON002411,True,Champion
+CON000629,ACC000587,Pioneer Cloud 88,Blake,Adams,blake.adams629@pioneercloud88.ai,CEO,2026-04-13,,HS200629,SFCON000629,False,Procurement
+CON001955,ACC000169,Cobalt Analytics,Harper,Stone,harper.stone1955@cobaltanalytics.ai,RevOps Manager,2025-05-30,,HS201955,SFCON001955,True,Champion
+CON000402,ACC000503,Keystone Platform 51,Quinn,Sullivan,quinn.sullivan402@keystoneplatform51.com,RevOps Manager,2026-01-10,,HS200402,SFCON000402,True,Influencer
+CON003123,ACC000089,Ironwood Data,Finley,Kim,finley.kim3123@ironwooddata.co,Demand Gen Manager,2026-04-16,,HS203123,SFCON003123,True,Technical Buyer
+CON003474,ACC000091,Meridian Group,Casey,Long,casey.long3474@meridiangroup.com,Sales Manager,2026-05-03,,,SFCON003474,True,Economic Buyer
+CON002580,ACC000197,Summit Cloud 34,Alex,Bell,alex.bell2580@summitcloud34.io,Demand Gen Manager,2024-03-12,,HS202580,SFCON002580,True,Champion
+CON001411,ACC000310,Cobalt Labs 56,Cameron,Sullivan,cameron.sullivan1411@cobaltlabs56.ai,Sales Ops Analyst,2024-12-24,,HS201411,SFCON001411,True,Economic Buyer
+CON002401,ACC000572,Cobalt Software,Reese,James,reese.james2401@cobaltsoftware.io,Sales Manager,2026-05-15,,HS202401,SFCON002401,True,Procurement
+CON001843,ACC000637,Clearpath Health 91,Reese,Ross,reese.ross1843@clearpathhealth91.net,RevOps Manager,2025-03-11,,HS201843,SFCON001843,False,User
+CON001853,ACC000468,Nimbus Health 11,Emerson,Ward,emerson.ward1853@nimbushealth11.ai,CEO,2024-07-18,,HS201853,SFCON001853,True,Champion
+CON000958,ACC000435,BluePeak Cloud 83,Quinn,Parker,quinn.parker958@bluepeakcloud83.co,VP Sales,2026-06-29,,HS200958,SFCON000958,True,Technical Buyer
+CON000263,ACC000464,Catalyst Intelligence,Rowan,Davis,rowan.davis2652@catalystintelligen.ai,Sales Manager,2025-03-24,LED002652,HS200263,SFCON000263,True,Economic Buyer
+CON001663,ACC000023,Vertex Ops,Alex,Nelson,alex.nelson1663@vertexops.io,Marketing Director,2025-12-05,,HS201663,SFCON001663,True,Economic Buyer
+CON002072,ACC000016,Catalyst Dynamics,Maya,Foster,maya.foster2072@catalystdynamics.com,Sales Ops Analyst,2025-03-25,,HS202072,SFCON002072,False,User
+CON000981,ACC000422,BluePeak Analytics 35,Rowan,King,rowan.king981@bluepeakanalytics3.net,Sales Manager,2026-05-29,,HS200981,SFCON000981,True,User
+CON001111,ACC000337,Vertex Systems 29,Sam,Young,sam.young1111@vertexsystems29.net,IT Admin,2026-03-08,,HS201111,SFCON001111,True,Champion
+CON000780,ACC000313,Pioneer Health 24,Casey,Bennett,casey.bennett780@pioneerhealth24.net,Sales Manager,2025-01-12,,HS200780,,True,Economic Buyer
+CON001820,ACC000504,Catalyst Markets,Riley,Young,riley.young1820@catalystmarkets.ai,CEO,2026-06-20,,HS201820,SFCON001820,True,User
+CON000682,ACC000513,Ironwood Platform,Bailey,Kim,bailey.kim682@ironwoodplatform.com,RevOps Manager,2024-11-15,,HS200682,SFCON000682,True,User
+CON001219,ACC000397,Clearpath Markets 43,Cameron,Bennett,cameron.bennett1219@clearpathmarkets43.net,Operations Director,2024-09-10,,HS201219,SFCON001219,True,Influencer
+CON003360,ACC000297,Northstar Systems 96,Sam,Sullivan,sam.sullivan3360@northstarsystems96.ai,Sales Ops Analyst,2026-06-14,,HS203360,SFCON003360,True,Technical Buyer
+CON003455,ACC000594,Bright Dynamics 99,Cameron,Kim,cameron.kim3455@brightdynamics99.co,Sales Ops Analyst,2025-09-14,,HS203455,SFCON003455,True,Procurement
+CON000486,ACC000631,Evergreen Networks 62,Reese,Kim,reese.kim486@evergreennetworks6.ai,Operations Director,2024-03-24,,HS200486,SFCON000486,True,Economic Buyer
+CON002817,ACC000378,Keystone Platform,Harper,Kim,harper.kim2817@keystoneplatform.com,Demand Gen Manager,2025-07-27,,HS202817,SFCON002817,True,Influencer
+CON002478,ACC000531,Pioneer Data 81,Drew,James,drew.james2478@pioneerdata81.ai,CFO,2025-08-05,,HS202478,SFCON002478,True,Procurement
+CON000082,ACC000588,Ironwood Health 24,Devon,Ross,devon.ross379@ironwoodhealth24.net,VP Sales,2026-04-10,LED000379,HS200082,SFCON000082,True,Influencer
+CON002699,ACC000467,Ironwood Dynamics 22,Taylor,Chen,taylor.chen2699@ironwooddynamics22.co,Sales Ops Analyst,2024-06-02,,,SFCON002699,True,Technical Buyer
+CON000141,ACC000634,Ironwood Systems 99,Hayden,Davis,hayden.davis3519@ironwoodsystems99.net,CFO,2025-10-14,LED003519,HS200141,SFCON000141,True,Champion
+CON002757,ACC000563,Apex Group 61,Logan,Wright,logan.wright2757@apexgroup61.io,VP Sales,2025-08-24,,HS202757,,True,Influencer
+CON002651,ACC000636,BluePeak Ops 63,Quinn,Long,quinn.long2651@bluepeakops63.net,Sales Ops Analyst,2026-02-22,,HS202651,SFCON002651,True,Procurement
+CON001052,ACC000363,Nimbus Platform,Blake,Parker,blake.parker1052@nimbusplatform.ai,IT Admin,2025-05-27,,HS201052,SFCON001052,True,Influencer
+CON000404,ACC000396,Meridian Data,Harper,Torres,harper.torres404@meridiandata.com,Sales Ops Analyst,2025-10-14,,HS200404,SFCON000404,True,Economic Buyer
+CON000459,ACC000209,Vertex Analytics 84,Bailey,Reed,bailey.reed459@vertexanalytics84.co,Demand Gen Manager,2025-05-23,,HS200459,SFCON000459,True,Procurement
+CON001083,ACC000554,Pioneer Markets,Drew,Torres,drew.torres1083@pioneermarkets.net,VP Sales,2024-11-12,,,SFCON001083,True,Technical Buyer
+CON000631,ACC000216,Meridian Ops,Rowan,Davis,rowan.davis631@meridianops.io,Marketing Director,2024-09-11,,,SFCON000631,True,Champion
+CON000653,ACC000360,Clearpath Group 57,Elliot,Ward,elliot.ward653@clearpathgroup57.net,Sales Manager,2025-02-03,,HS200653,SFCON000653,True,Economic Buyer
+CON000812,ACC000382,Catalyst Works 16,Taylor,Sullivan,taylor.sullivan812@catalystworks16.io,Sales Manager,2025-01-02,,,SFCON000812,True,Champion
+CON002262,ACC000320,Atlas Cloud 86,Blake,Young,blake.young2262@atlascloud86.net,Marketing Director,2024-02-06,,HS202262,SFCON002262,True,Technical Buyer
+CON002201,ACC000157,Meridian Data 49,Parker,Reed,parker.reed2201@meridiandata49.net,RevOps Manager,2025-05-20,,HS202201,SFCON002201,True,User
+CON001212,ACC000149,Signal Cloud 71,Harper,Long,harper.long1212@signalcloud71.ai,Marketing Director,2024-09-30,,HS201212,SFCON001212,True,Technical Buyer
+CON002148,ACC000250,Atlas Networks,Reese,King,reese.king2148@atlasnetworks.io,CEO,2024-03-18,,HS202148,SFCON002148,False,Influencer
+CON001772,ACC000580,Evergreen Analytics 41,Harper,Parker,harper.parker1772@evergreenanalytics.io,Marketing Director,2026-05-26,,HS201772,SFCON001772,True,Economic Buyer
+CON002132,ACC000184,Bright Cloud 22,Jamie,Miller,jamie.miller2132@brightcloud22.net,IT Admin,2024-02-26,,HS202132,SFCON002132,True,User
+CON001839,ACC000328,Atlas Systems 29,Jordan,Price,jordan.price1839@atlassystems29.io,Sales Ops Analyst,2024-05-21,,,SFCON001839,True,User
+CON001596,ACC000330,Clearpath Intelligence 41,Casey,Bell,casey.bell1596@clearpathintellige.ai,Operations Director,2024-10-10,,HS201596,,True,Economic Buyer
+CON002469,ACC000387,Apex Dynamics,Logan,Torres,logan.torres2469@apexdynamics.ai,Marketing Director,2025-07-29,,HS202469,SFCON002469,True,Champion
+CON001717,ACC000328,Atlas Systems 29,Quinn,Wright,quinn.wright1717@atlassystems29.io,CFO,2024-07-15,,HS201717,SFCON001717,True,Champion
+CON002640,ACC000038,Vertex Solutions,Harper,Patel,harper.patel2640@vertexsolutions.com,Sales Ops Analyst,2025-12-22,,HS202640,SFCON002640,False,Economic Buyer
+CON000238,ACC000486,Vertex Platform 6,Sam,Carter,sam.carter402@vertexplatform6.co,Demand Gen Manager,2025-03-28,LED000402,,SFCON000238,True,Technical Buyer
+CON000953,ACC000139,Keystone Networks,Cameron,Sullivan,cameron.sullivan953@keystonenetworks.io,Operations Director,2025-04-26,,HS200953,SFCON000953,True,Procurement
+CON002443,ACC000421,Northstar Intelligence 18,Alex,Stone,alex.stone2443@northstarintellige.ai,Operations Director,2026-01-01,,HS202443,SFCON002443,True,Champion
+CON001457,ACC000189,Atlas Group,Drew,King,drew.king1457@atlasgroup.com,RevOps Manager,2025-01-15,,HS201457,SFCON001457,True,Influencer
+CON001311,ACC000358,Keystone Works 63,Riley,Parker,riley.parker1311@keystoneworks63.com,CFO,2025-10-21,,HS201311,SFCON001311,True,Technical Buyer
+CON001902,ACC000082,Vertex Markets 87,Casey,Price,casey.price1902@vertexmarkets87.com,VP Sales,2025-01-28,,HS201902,SFCON001902,False,Influencer
+CON000181,ACC000362,Atlas Markets,Drew,Chen,drew.chen2850@atlasmarkets.net,Sales Manager,2026-07-08,LED002850,HS200181,SFCON000181,True,Economic Buyer
+CON001347,ACC000086,Atlas Health,Parker,Ward,parker.ward1347@atlashealth.net,Operations Director,2024-06-28,,HS201347,SFCON001347,True,User
+CON000962,ACC000174,Vertex Markets 10,Drew,Foster,drew.foster962@vertexmarkets10.com,Sales Manager,2025-02-18,,HS200962,SFCON000962,True,Influencer
+CON001233,ACC000255,BluePeak Labs,Kendall,Chen,kendall.chen1233@bluepeaklabs.com,Demand Gen Manager,2024-04-01,,HS201233,,True,Economic Buyer
+CON001580,ACC000636,BluePeak Ops 63,Casey,Patel,casey.patel1580@bluepeakops63.net,VP Sales,2025-02-06,,HS201580,SFCON001580,True,Technical Buyer
+CON002230,ACC000634,Ironwood Systems 99,Jamie,Brooks,jamie.brooks2230@ironwoodsystems99.net,Marketing Director,2025-10-11,,HS202230,SFCON002230,True,User
+CON001332,ACC000347,Catalyst Platform,Alex,Sullivan,alex.sullivan1332@catalystplatform.net,Operations Director,2024-07-24,,HS201332,SFCON001332,True,Influencer
+CON001461,ACC000009,Nova Markets,Casey,Foster,casey.foster1461@novamarkets.com,RevOps Manager,2026-01-28,,HS201461,SFCON001461,True,Champion
+CON002497,ACC000453,Catalyst Solutions 70,Harper,Perry,harper.perry2497@catalystsolutions7.com,Sales Ops Analyst,2025-07-20,,HS202497,,True,Influencer
+CON001771,ACC000114,Nimbus Systems 13,Blake,Perry,blake.perry1771@nimbussystems13.io,Operations Director,2024-07-22,,HS201771,SFCON001771,True,Economic Buyer
+CON000875,ACC000337,Vertex Systems 29,Reese,King,reese.king875@vertexsystems29.net,Operations Director,2026-01-26,,HS200875,SFCON000875,False,Technical Buyer
+CON000931,ACC000348,BluePeak Intelligence 8,Morgan,Stone,morgan.stone931@bluepeakintelligen.com,Operations Director,2025-02-06,,HS200931,SFCON000931,True,Technical Buyer
+CON000085,ACC000164,Northstar Health 86,Harper,Price,harper.price2011@vertexsystems29.net,CFO,2025-07-03,LED002011,HS200085,SFCON000085,True,Influencer
+CON000594,ACC000439,Signal Data 41,Blake,Ward,blake.ward594@signaldata41.co,CEO,2024-06-24,,HS200594,,True,Procurement
+CON000422,ACC000221,Catalyst Systems,Logan,Wright,logan.wright422@catalystsystems.ai,Sales Manager,2025-11-11,,HS200422,SFCON000422,False,Technical Buyer
+CON003112,ACC000350,Keystone Networks 89,Reese,Young,reese.young3112@keystonenetworks89.net,IT Admin,2024-09-16,,HS203112,SFCON003112,True,Influencer
+CON002059,ACC000407,Meridian Cloud,Casey,Murphy,casey.murphy2059@meridiancloud.io,Operations Director,2024-10-15,,HS202059,SFCON002059,True,Economic Buyer
+CON000593,ACC000620,Bright Networks 83,Logan,Brooks,logan.brooks593@brightnetworks83.co,Demand Gen Manager,2024-05-23,,HS200593,SFCON000593,True,Technical Buyer
+CON002002,ACC000203,Bright Data 15,Quinn,Wright,quinn.wright2002@brightdata15.ai,VP Sales,2026-02-19,,HS202002,SFCON002002,True,Economic Buyer
+CON003485,ACC000324,Atlas Cloud,Jamie,Brooks,jamie.brooks3485@atlascloud.co,IT Admin,2026-03-08,,HS203485,SFCON003485,False,Procurement
+CON000257,ACC000115,Bright Networks,Elliot,Gray,elliot.gray549@brightnetworks.co,Operations Director,2025-02-17,LED000549,HS200257,SFCON000257,False,Procurement
+CON001162,ACC000149,Signal Cloud 71,Kendall,Nelson,kendall.nelson1162@signalcloud71.ai,RevOps Manager,2024-05-24,,HS201162,SFCON001162,False,User
+CON003177,ACC000268,Ironwood Systems 13,Logan,Davis,logan.davis3177@ironwoodsystems13.co,Marketing Director,2024-10-10,,HS203177,SFCON003177,True,Procurement
+CON001985,ACC000581,Northstar Networks 30,Harper,Parker,harper.parker1985@northstarnetworks3.net,Marketing Director,2024-05-04,,HS201985,SFCON001985,True,Procurement
+CON001562,ACC000459,Pioneer Platform 77,Emerson,Nelson,emerson.nelson1562@pioneerplatform77.com,Sales Manager,2025-12-17,,HS201562,SFCON001562,True,Economic Buyer
+CON000333,ACC000384,Ironwood Networks 73,Blake,Sullivan,blake.sullivan333@ironwoodnetworks73.io,CFO,2024-03-27,,HS200333,SFCON000333,True,Champion
+CON002806,ACC000077,Meridian Systems 12,Emerson,Patel,emerson.patel2806@meridiansystems12.co,Operations Director,2026-06-08,,HS202806,SFCON002806,False,Economic Buyer
+CON001867,ACC000430,Clearpath Intelligence 77,Riley,Chen,riley.chen1867@clearpathintellige.co,CFO,2025-01-14,,HS201867,SFCON001867,True,Economic Buyer
+CON000836,ACC000147,Vertex Health 82,Kendall,Bennett,kendall.bennett836@vertexhealth82.com,Marketing Director,2026-04-14,,HS200836,SFCON000836,True,Influencer
+CON002976,ACC000518,Catalyst Dynamics 95,Finley,Ward,finley.ward2976@catalystdynamics95.io,Operations Director,2026-02-25,,HS202976,SFCON002976,True,Procurement
+CON000413,ACC000025,Evergreen Systems,Quinn,Gray,quinn.gray413@evergreensystems.com,CEO,2024-11-16,,HS200413,SFCON000413,True,Economic Buyer
+CON003033,ACC000255,BluePeak Labs,Maya,Reed,maya.reed3033@bluepeaklabs.com,Sales Manager,2024-02-14,,HS203033,SFCON003033,False,User
+CON001491,ACC000528,Catalyst Data 39,Hayden,Brooks,hayden.brooks1491@catalystdata39.ai,Operations Director,2024-07-27,,HS201491,SFCON001491,False,User
+CON000502,ACC000113,Evergreen Markets,Maya,Gray,maya.gray502@evergreenmarkets.co,RevOps Manager,2025-05-23,,HS200502,SFCON000502,True,Champion
+CON003281,ACC000279,Ironwood Solutions 85,Blake,Wright,blake.wright3281@ironwoodsolutions8.net,Marketing Director,2024-11-18,,HS203281,SFCON003281,False,User
+CON002479,ACC000258,Northstar Group 74,Rowan,Perry,rowan.perry2479@northstargroup74.com,IT Admin,2024-09-15,,HS202479,SFCON002479,True,Champion
+CON003594,ACC000180,Northstar Solutions 91,Rowan,Adams,rowan.adams3594@northstarsolutions.ai,Sales Ops Analyst,2025-06-15,,HS203594,SFCON003594,True,Procurement
+CON001058,ACC000131,Bright Cloud 66,Elliot,Wright,elliot.wright1058@brightcloud66.net,VP Sales,2024-08-01,,HS201058,SFCON001058,True,Procurement
+CON002813,ACC000327,Cobalt Software 99,Quinn,Reed,quinn.reed2813@cobaltsoftware99.net,IT Admin,2025-03-01,,HS202813,SFCON002813,True,User
+CON001232,ACC000006,Northstar Data,Devon,Patel,devon.patel1232@northstardata.com,CFO,2026-05-10,,HS201232,SFCON001232,False,Influencer
+CON003086,ACC000084,Summit Systems,Casey,Torres,casey.torres3086@summitsystems.ai,Marketing Director,2026-01-25,,HS203086,SFCON003086,True,Economic Buyer
+CON002921,ACC000578,Northstar Dynamics 19,Hayden,Sullivan,hayden.sullivan2921@northstardynamics1.co,CEO,2025-03-02,,HS202921,SFCON002921,True,Champion
+CON002087,ACC000555,Keystone Systems 68,Emerson,Carter,emerson.carter2087@keystonesystems68.com,IT Admin,2025-01-28,,HS202087,SFCON002087,False,Champion
+CON002286,ACC000257,Vertex Works 80,Bailey,Young,bailey.young2286@vertexworks80.net,Marketing Director,2024-11-27,,HS202286,SFCON002286,True,Procurement
+CON001035,ACC000185,Keystone Markets 79,Alex,Torres,alex.torres1035@keystonemarkets79.co,Marketing Director,2025-11-01,,HS201035,SFCON001035,True,Influencer
+CON001740,ACC000444,Cobalt Solutions 11,Taylor,Brooks,taylor.brooks1740@cobaltsolutions11.com,Sales Ops Analyst,2026-06-19,,HS201740,SFCON001740,True,User
+CON000433,ACC000157,Meridian Data 49,Reese,James,reese.james433@meridiandata49.net,RevOps Manager,2025-02-26,,HS200433,SFCON000433,True,Technical Buyer
+CON002714,ACC000428,Catalyst Labs 53,Jordan,Torres,jordan.torres2714@catalystlabs53.com,Marketing Director,2026-04-11,,HS202714,SFCON002714,False,Economic Buyer
+CON001273,ACC000279,Ironwood Solutions 85,Riley,Kim,riley.kim1273@ironwoodsolutions8.net,CFO,2025-12-11,,HS201273,SFCON001273,True,Technical Buyer
+CON002284,ACC000136,Atlas Dynamics,Maya,Parker,maya.parker2284@atlasdynamics.com,RevOps Manager,2024-12-21,,HS202284,SFCON002284,True,User
+CON000092,ACC000599,Clearpath Networks 31,Rowan,Parker,rowan.parker3407@clearpathnetworks3.com,VP Sales,2026-02-14,LED003407,HS200092,SFCON000092,True,Champion
+CON000030,ACC000553,Vertex Networks 66,Sam,King,sam.king3483@vertexnetworks66.net,Marketing Director,2025-07-24,LED003483,HS200030,SFCON000030,True,Influencer
+CON003166,ACC000347,Catalyst Platform,Elliot,James,elliot.james3166@catalystplatform.net,CFO,2025-07-11,,HS203166,SFCON003166,True,Influencer
+CON002766,ACC000228,Cobalt Intelligence,Riley,Carter,riley.carter2766@cobaltintelligence.com,Marketing Director,2026-01-12,,HS202766,,True,Champion
+CON000763,ACC000040,Nimbus Markets,Parker,Miller,parker.miller763@nimbusmarkets.ai,RevOps Manager,2024-08-21,,HS200763,SFCON000763,False,Procurement
+CON002199,ACC000124,Keystone Analytics,Jamie,Bell,jamie.bell2199@keystoneanalytics.io,Sales Manager,2024-02-07,,HS202199,SFCON002199,True,Technical Buyer
+CON003122,ACC000241,Clearpath Labs 95,Quinn,Nelson,quinn.nelson3122@clearpathlabs95.ai,Demand Gen Manager,2026-06-20,,HS203122,SFCON003122,True,Influencer
+CON000748,ACC000286,Signal Markets 42,Harper,Miller,harper.miller748@signalmarkets42.co,CEO,2024-12-04,,HS200748,SFCON000748,False,Influencer
+CON002317,ACC000057,Nova Group,Devon,Parker,devon.parker2317@novagroup.com,VP Sales,2024-09-03,,HS202317,SFCON002317,False,Technical Buyer
+CON002530,ACC000407,Meridian Cloud,Emerson,Foster,emerson.foster2530@meridiancloud.io,Operations Director,2026-06-26,,HS202530,SFCON002530,False,Technical Buyer
+CON001228,ACC000531,Pioneer Data 81,Riley,Reed,riley.reed1228@pioneerdata81.ai,IT Admin,2024-01-31,,HS201228,SFCON001228,True,Procurement
+CON000943,ACC000536,Nova Systems,Kendall,James,kendall.james943@novasystems.net,Sales Manager,2026-05-08,,HS200943,SFCON000943,True,Economic Buyer
+CON002898,ACC000202,Clearpath Labs 59,Skyler,Murphy,skyler.murphy2898@clearpathlabs59.net,Sales Manager,2025-03-04,,HS202898,SFCON002898,True,Procurement
+CON000743,ACC000511,Apex Data,Cameron,Bennett,cameron.bennett743@apexdata.ai,Sales Manager,2025-01-28,,HS200743,SFCON000743,False,Economic Buyer
+CON002111,ACC000398,Cobalt Platform 29,Drew,Nelson,drew.nelson2111@cobaltplatform29.co,Marketing Director,2024-01-31,,HS202111,SFCON002111,True,Champion
+CON002998,ACC000421,Northstar Intelligence 18,Reese,Murphy,reese.murphy2998@northstarintellige.ai,Operations Director,2026-06-21,,HS202998,SFCON002998,False,Procurement
+CON001598,ACC000100,Pioneer Networks,Quinn,Bennett,quinn.bennett1598@pioneernetworks.ai,Sales Manager,2025-11-16,,HS201598,SFCON001598,False,Economic Buyer
+CON003302,ACC000123,Catalyst Networks,Bailey,Long,bailey.long3302@catalystnetworks.ai,Sales Ops Analyst,2025-06-05,,HS203302,SFCON003302,True,Influencer
+CON000615,ACC000621,Signal Labs 78,Sam,Long,sam.long615@signallabs78.net,RevOps Manager,2024-05-02,,HS200615,SFCON000615,True,Champion
+CON002795,ACC000468,Nimbus Health 11,Reese,Davis,reese.davis2795@nimbushealth11.ai,Operations Director,2025-04-17,,HS202795,SFCON002795,True,User
+CON003015,ACC000462,Northstar Systems 91,Drew,Adams,drew.adams3015@northstarsystems91.net,VP Sales,2025-06-13,,HS203015,SFCON003015,True,Influencer
+CON000576,ACC000313,Pioneer Health 24,Emerson,Bell,emerson.bell576@pioneerhealth24.net,CEO,2026-04-27,,HS200576,SFCON000576,True,Champion
+CON002827,ACC000649,Atlas Data 82,Kendall,King,kendall.king2827@atlasdata82.io,CFO,2026-03-11,,HS202827,SFCON002827,True,Influencer
+CON000892,ACC000606,Cobalt Dynamics,Avery,Torres,avery.torres892@cobaltdynamics.co,Operations Director,2025-06-05,,HS200892,SFCON000892,False,Economic Buyer
+CON001310,ACC000245,Vertex Intelligence 52,Casey,Perry,casey.perry1310@vertexintelligence.ai,Marketing Director,2025-05-15,,HS201310,SFCON001310,False,Procurement
+CON000231,ACC000013,Signal Software,Jordan,Carter,jordan.carter3703@signalsoftware.ai,VP Sales,2025-02-17,LED003703,HS200231,SFCON000231,False,Influencer
+CON001774,ACC000486,Vertex Platform 6,Parker,Long,parker.long1774@vertexplatform6.co,CFO,2024-10-16,,HS201774,SFCON001774,False,Economic Buyer
+CON000928,ACC000464,Catalyst Intelligence,Kendall,Parker,kendall.parker928@catalystintelligen.ai,CFO,2026-01-09,,HS200928,SFCON000928,True,Champion
+CON002156,ACC000095,Cobalt Works,Avery,Young,avery.young2156@cobaltworks.io,VP Sales,2024-09-03,,HS202156,SFCON002156,False,Economic Buyer
+CON001618,ACC000549,Evergreen Ops 76,Casey,Nelson,casey.nelson1618@evergreenops76.co,Sales Ops Analyst,2025-03-13,,HS201618,SFCON001618,True,Champion
+CON001340,ACC000020,Keystone Intelligence,Skyler,Chen,skyler.chen1340@keystoneintelligen.co,VP Sales,2024-02-07,,HS201340,,False,Economic Buyer
+CON000294,ACC000534,Clearpath Networks 80,Harper,Parker,harper.parker698@clearpathnetworks8.co,Marketing Director,2026-05-05,LED000698,HS200294,,True,Influencer
+CON000396,ACC000240,Atlas Works,Kendall,Perry,kendall.perry396@atlasworks.co,VP Sales,2025-06-18,,HS200396,SFCON000396,True,Technical Buyer
+CON000232,ACC000460,Vertex Networks,Casey,Bennett,casey.bennett350@vertexnetworks.co,CFO,2025-02-24,LED000350,HS200232,SFCON000232,True,Champion
+CON000863,ACC000630,Catalyst Works,Bailey,Carter,bailey.carter863@catalystworks.com,Sales Manager,2025-04-23,,HS200863,SFCON000863,False,Procurement
+CON000131,ACC000384,Ironwood Networks 73,Charlie,Gray,charlie.gray881@ironwoodnetworks73.io,RevOps Manager,2025-07-30,LED000881,HS200131,SFCON000131,True,Technical Buyer
+CON001713,ACC000159,Pioneer Software,Bailey,Price,bailey.price1713@pioneersoftware.co,VP Sales,2025-03-24,,HS201713,SFCON001713,True,Influencer
+CON002458,ACC000312,Pioneer Platform 59,Parker,James,parker.james2458@pioneerplatform59.co,Operations Director,2025-12-11,,HS202458,SFCON002458,True,Economic Buyer
+CON001077,ACC000208,Atlas Platform 18,Avery,Perry,avery.perry1077@atlasplatform18.net,Sales Manager,2024-09-05,,HS201077,SFCON001077,True,User
+CON000857,ACC000487,Bright Markets,Bailey,James,bailey.james857@brightmarkets.ai,CEO,2025-06-17,,HS200857,SFCON000857,False,User
+CON000043,ACC000027,Meridian Systems,Blake,Patel,blake.patel1502@meridiansystems.co,IT Admin,2025-12-12,LED001502,HS200043,SFCON000043,False,Champion
+CON001998,ACC000430,Clearpath Intelligence 77,Jamie,Foster,jamie.foster1998@clearpathintellige.co,Marketing Director,2025-01-08,,HS201998,SFCON001998,False,Champion
+CON001200,ACC000487,Bright Markets,Drew,Brooks,drew.brooks1200@brightmarkets.ai,Sales Ops Analyst,2024-06-21,,HS201200,SFCON001200,True,Influencer
+CON001981,ACC000278,Ironwood Systems 49,Elliot,Gray,elliot.gray1981@ironwoodsystems49.ai,Sales Manager,2026-01-31,,HS201981,SFCON001981,False,Champion
+CON003320,ACC000464,Catalyst Intelligence,Jordan,James,jordan.james3320@catalystintelligen.ai,Sales Manager,2025-06-02,,HS203320,SFCON003320,True,Technical Buyer
+CON001331,ACC000402,Nimbus Analytics 49,Harper,Carter,harper.carter1331@nimbusanalytics49.io,RevOps Manager,2025-12-18,,HS201331,SFCON001331,True,User
+CON002312,ACC000481,Bright Ops 12,Jamie,Carter,jamie.carter2312@brightops12.co,VP Sales,2026-05-16,,HS202312,SFCON002312,True,Economic Buyer
+CON001616,ACC000199,Nova Cloud 58,Maya,Kim,maya.kim1616@novacloud58.com,Sales Ops Analyst,2025-10-18,,HS201616,SFCON001616,False,User
+CON001597,ACC000380,BluePeak Group 78,Charlie,Bell,charlie.bell1597@bluepeakgroup78.co,RevOps Manager,2025-06-11,,HS201597,SFCON001597,True,Influencer
+CON002696,ACC000280,BluePeak Platform 20,Jordan,Brooks,jordan.brooks2696@bluepeakplatform20.io,Marketing Director,2025-05-10,,HS202696,SFCON002696,True,User
+CON001171,ACC000071,Evergreen Analytics 19,Morgan,Chen,morgan.chen1171@evergreenanalytics.io,RevOps Manager,2026-03-10,,HS201171,,True,Champion
+CON000669,ACC000216,Meridian Ops,Bailey,Price,bailey.price669@meridianops.io,RevOps Manager,2024-01-06,,HS200669,SFCON000669,True,Champion
+CON002553,ACC000510,Ironwood Group 82,Morgan,Foster,morgan.foster2553@ironwoodgroup82.io,CEO,2024-05-04,,HS202553,SFCON002553,True,Economic Buyer
+CON001898,ACC000463,Catalyst Health 65,Cameron,Price,cameron.price1898@catalysthealth65.io,CFO,2025-11-30,,HS201898,SFCON001898,True,Procurement
+CON003465,ACC000135,Ironwood Labs,Morgan,Foster,morgan.foster3465@ironwoodlabs.net,IT Admin,2025-07-21,,HS203465,SFCON003465,True,Procurement
+CON001641,ACC000399,Nova Cloud 74,Skyler,Perry,skyler.perry1641@novacloud74.co,CEO,2024-06-28,,HS201641,SFCON001641,True,User
+CON002835,ACC000357,Nimbus Works 36,Morgan,Price,morgan.price2835@nimbusworks36.co,VP Sales,2025-09-28,,HS202835,SFCON002835,True,Economic Buyer
+CON001389,ACC000005,Summit Solutions,Kendall,Long,kendall.long1389@summitsolutions.ai,Sales Manager,2026-01-10,,HS201389,SFCON001389,True,User
+CON001280,ACC000561,Atlas Data 24,Parker,Stone,parker.stone1280@atlasdata24.com,RevOps Manager,2026-01-19,,HS201280,SFCON001280,False,Influencer
+CON001062,ACC000557,Vertex Labs,Skyler,James,skyler.james1062@vertexlabs.ai,IT Admin,2024-05-10,,HS201062,SFCON001062,True,Economic Buyer
+CON002269,ACC000520,Evergreen Labs,Morgan,Gray,morgan.gray2269@evergreenlabs.net,Sales Ops Analyst,2025-04-22,,HS202269,SFCON002269,False,Champion
+CON000273,ACC000370,Catalyst Dynamics 59,Quinn,Adams,quinn.adams3317@catalystdynamics59.ai,RevOps Manager,2026-03-09,LED003317,HS200273,SFCON000273,False,Procurement
+CON001355,ACC000022,Summit Dynamics,Logan,Chen,logan.chen1355@summitdynamics.io,Sales Manager,2025-10-02,,HS201355,,True,Influencer
+CON000228,ACC000078,Bright Solutions,Jordan,Carter,jordan.carter117@brightsolutions.co,IT Admin,2025-12-19,LED000117,HS200228,SFCON000228,True,Procurement
+CON002670,ACC000133,Vertex Analytics,Jordan,King,jordan.king2670@vertexanalytics.co,Marketing Director,2024-03-16,,HS202670,SFCON002670,True,Technical Buyer
+CON002063,ACC000544,Ironwood Intelligence,Drew,Murphy,drew.murphy2063@ironwoodintelligen.co,Marketing Director,2026-03-02,,HS202063,SFCON002063,True,Procurement
+CON003331,ACC000595,Bright Software 68,Bailey,Foster,bailey.foster3331@brightsoftware68.ai,VP Sales,2025-05-24,,HS203331,,True,Economic Buyer
+CON001744,ACC000583,Summit Software 94,Jamie,Wright,jamie.wright1744@summitsoftware94.net,Demand Gen Manager,2025-01-02,,HS201744,SFCON001744,True,User
+CON002445,ACC000345,Evergreen Labs 24,Blake,Gray,blake.gray2445@evergreenlabs24.ai,CFO,2024-08-05,,HS202445,SFCON002445,True,Champion
+CON002285,ACC000634,Ironwood Systems 99,Riley,Price,riley.price2285@ironwoodsystems99.net,RevOps Manager,2024-09-18,,HS202285,SFCON002285,True,Procurement
+CON000471,ACC000519,Summit Intelligence 93,Hayden,King,hayden.king471@summitintelligence.com,Sales Manager,2025-11-20,,HS200471,SFCON000471,True,Procurement
+CON002018,ACC000492,Bright Data,Elliot,Miller,elliot.miller2018@brightdata.com,IT Admin,2025-02-01,,HS202018,,False,Technical Buyer
+CON002408,ACC000446,Northstar Ops 94,Devon,Perry,devon.perry2408@northstarops94.co,VP Sales,2025-12-07,,HS202408,SFCON002408,True,Influencer
+CON003208,ACC000064,Vertex Systems,Riley,Ross,riley.ross3208@vertexsystems.com,CEO,2024-01-25,,HS203208,SFCON003208,False,User
+CON002849,ACC000598,BluePeak Platform 47,Avery,Perry,avery.perry2849@bluepeakplatform47.ai,Operations Director,2026-01-08,,HS202849,SFCON002849,True,Economic Buyer
+CON002011,ACC000510,Ironwood Group 82,Finley,Murphy,finley.murphy2011@ironwoodgroup82.io,VP Sales,2025-03-08,,HS202011,SFCON002011,True,Economic Buyer
+CON000461,ACC000273,Summit Cloud,Logan,Murphy,logan.murphy461@summitcloud.com,Demand Gen Manager,2026-04-13,,HS200461,SFCON000461,True,User
+CON001382,ACC000076,Nova Platform,Taylor,Kim,taylor.kim1382@novaplatform.io,VP Sales,2025-01-13,,HS201382,SFCON001382,False,Technical Buyer
+CON001749,ACC000112,Summit Data 90,Emerson,Price,emerson.price1749@summitdata90.ai,Sales Manager,2025-04-18,,HS201749,SFCON001749,True,Procurement
+CON001010,ACC000572,Cobalt Software,Blake,Miller,blake.miller1010@cobaltsoftware.io,RevOps Manager,2025-02-10,,,SFCON001010,True,Technical Buyer
+CON001856,ACC000240,Atlas Works,Jordan,Murphy,jordan.murphy1856@atlasworks.co,Demand Gen Manager,2024-04-09,,HS201856,SFCON001856,True,Champion
+CON002184,ACC000033,Signal Group,Charlie,Brooks,charlie.brooks2184@signalgroup.io,Marketing Director,2024-03-06,,HS202184,SFCON002184,True,Technical Buyer
+CON001246,ACC000144,Meridian Markets,Cameron,Nelson,cameron.nelson1246@meridianmarkets.com,VP Sales,2025-02-16,,HS201246,SFCON001246,True,Procurement
+CON002242,ACC000107,Signal Software 35,Finley,Murphy,finley.murphy2242@signalsoftware35.com,Demand Gen Manager,2026-02-05,,HS202242,SFCON002242,True,Technical Buyer
+CON001126,ACC000241,Clearpath Labs 95,Taylor,Bell,taylor.bell1126@clearpathlabs95.ai,IT Admin,2025-10-26,,HS201126,SFCON001126,True,Economic Buyer
+CON001644,ACC000121,Bright Software,Skyler,James,skyler.james1644@brightsoftware.ai,Sales Ops Analyst,2025-09-10,,HS201644,SFCON001644,True,Procurement
+CON002603,ACC000340,Summit Health 69,Bailey,Price,bailey.price2603@summithealth69.io,IT Admin,2024-06-11,,HS202603,SFCON002603,True,User
+CON003027,ACC000609,Keystone Ops,Bailey,Reed,bailey.reed3027@keystoneops.ai,CEO,2025-03-03,,HS203027,SFCON003027,True,Technical Buyer
+CON003107,ACC000345,Evergreen Labs 24,Maya,Gray,maya.gray3107@evergreenlabs24.ai,Sales Manager,2024-02-10,,HS203107,SFCON003107,True,Economic Buyer
+CON001260,ACC000520,Evergreen Labs,Skyler,Gray,skyler.gray1260@evergreenlabs.net,Demand Gen Manager,2026-03-24,,HS201260,SFCON001260,True,Influencer
+CON003420,ACC000177,Pioneer Health,Harper,Ross,harper.ross3420@pioneerhealth.net,Operations Director,2024-10-02,,HS203420,SFCON003420,True,Procurement
+CON000786,ACC000107,Signal Software 35,Blake,Adams,blake.adams786@signalsoftware35.com,Marketing Director,2025-08-25,,HS200786,SFCON000786,False,Procurement
+CON001612,ACC000014,Pioneer Data,Jamie,Gray,jamie.gray1612@pioneerdata.net,CEO,2024-01-11,,HS201612,SFCON001612,True,Procurement
+CON002680,ACC000469,Nova Markets 92,Devon,Carter,devon.carter2680@novamarkets92.com,RevOps Manager,2025-03-07,,HS202680,SFCON002680,True,Influencer
+CON002484,ACC000437,Clearpath Solutions 31,Parker,Long,parker.long2484@clearpathsolutions.com,Operations Director,2024-12-21,,HS202484,SFCON002484,True,Economic Buyer
+CON003329,ACC000345,Evergreen Labs 24,Maya,Long,maya.long3329@evergreenlabs24.ai,Sales Manager,2024-01-27,,HS203329,SFCON003329,True,Technical Buyer
+CON000221,ACC000235,Signal Works 47,Avery,Adams,avery.adams457@signalworks47.com,CEO,2026-04-13,LED000457,HS200221,SFCON000221,True,Influencer
+CON002578,ACC000460,Vertex Networks,Casey,Stone,casey.stone2578@vertexnetworks.co,CFO,2025-04-21,,HS202578,SFCON002578,True,Influencer
+CON000627,ACC000348,BluePeak Intelligence 8,Blake,Gray,blake.gray627@bluepeakintelligen.com,Demand Gen Manager,2024-01-14,,HS200627,SFCON000627,False,Procurement
+CON003417,ACC000118,Meridian Labs 60,Hayden,Sullivan,hayden.sullivan3417@meridianlabs60.com,IT Admin,2025-05-04,,HS203417,SFCON003417,False,Influencer
+CON001690,ACC000238,Cobalt Ops,Avery,Nelson,avery.nelson1690@cobaltops.com,RevOps Manager,2025-10-01,,HS201690,SFCON001690,False,Influencer
+CON000751,ACC000332,Bright Dynamics 96,Charlie,Reed,charlie.reed751@brightdynamics96.io,Sales Ops Analyst,2024-09-03,,HS200751,SFCON000751,True,Procurement
+CON002995,ACC000197,Summit Cloud 34,Alex,Murphy,alex.murphy2995@summitcloud34.io,Marketing Director,2024-12-25,,HS202995,SFCON002995,True,Champion
+CON003301,ACC000416,Keystone Platform 12,Harper,Carter,harper.carter3301@keystoneplatform12.net,Sales Manager,2024-09-21,,HS203301,SFCON003301,False,Procurement
+CON003335,ACC000072,Vertex Software,Reese,Nelson,reese.nelson3335@vertexsoftware.com,VP Sales,2026-06-08,,HS203335,SFCON003335,True,User
+CON001079,ACC000330,Clearpath Intelligence 41,Drew,Carter,drew.carter1079@clearpathintellige.ai,CFO,2025-05-14,,HS201079,SFCON001079,True,Procurement
+CON002770,ACC000043,Summit Analytics 90,Harper,Stone,harper.stone2770@summitanalytics90.io,CFO,2024-04-29,,HS202770,SFCON002770,True,Influencer
+CON003029,ACC000483,Apex Ops 16,Avery,Bennett,avery.bennett3029@apexops16.co,Demand Gen Manager,2025-05-08,,HS203029,SFCON003029,False,Technical Buyer
+CON001294,ACC000421,Northstar Intelligence 18,Emerson,Bennett,emerson.bennett1294@northstarintellige.ai,Sales Ops Analyst,2025-12-23,,HS201294,SFCON001294,True,Procurement
+CON001195,ACC000300,Apex Solutions,Jamie,Torres,jamie.torres1195@apexsolutions.co,Sales Ops Analyst,2025-01-16,,HS201195,SFCON001195,True,Procurement
+CON002811,ACC000479,Evergreen Markets 75,Rowan,Carter,rowan.carter2811@evergreenmarkets75.io,CEO,2024-03-24,,HS202811,SFCON002811,True,Influencer
+CON003241,ACC000636,BluePeak Ops 63,Blake,Young,blake.young3241@bluepeakops63.net,RevOps Manager,2024-05-17,,HS203241,SFCON003241,True,User
+CON000387,ACC000022,Summit Dynamics,Sam,Kim,sam.kim387@summitdynamics.io,IT Admin,2024-08-06,,HS200387,SFCON000387,True,Technical Buyer
+CON000745,ACC000445,Clearpath Cloud,Bailey,Bennett,bailey.bennett745@clearpathcloud.com,RevOps Manager,2024-07-01,,HS200745,SFCON000745,False,Technical Buyer
+CON003536,ACC000256,Nova Dynamics 46,Blake,King,blake.king3536@novadynamics46.net,Sales Manager,2024-09-14,,HS203536,SFCON003536,True,Champion
+CON001015,ACC000291,Catalyst Labs 14,Cameron,Bell,cameron.bell1015@catalystlabs14.co,CEO,2024-01-26,,HS201015,SFCON001015,True,Technical Buyer
+CON002158,ACC000621,Signal Labs 78,Devon,Perry,devon.perry2158@signallabs78.net,CFO,2026-03-01,,HS202158,SFCON002158,True,Procurement
+CON001871,ACC000216,Meridian Ops,Jamie,Ward,jamie.ward1871@meridianops.io,CFO,2024-08-01,,,SFCON001871,False,User
+CON000821,ACC000592,Meridian Intelligence 66,Riley,Patel,riley.patel821@meridianintelligen.com,VP Sales,2025-08-11,,HS200821,SFCON000821,True,Procurement
+CON003049,ACC000535,Ironwood Health 54,Rowan,Brooks,rowan.brooks3049@ironwoodhealth54.co,CEO,2026-06-26,,HS203049,SFCON003049,True,Procurement
+CON001928,ACC000133,Vertex Analytics,Reese,Foster,reese.foster1928@vertexanalytics.co,VP Sales,2024-01-03,,HS201928,SFCON001928,True,Procurement
+CON001948,ACC000543,Pioneer Labs 30,Rowan,Patel,rowan.patel1948@pioneerlabs30.co,Marketing Director,2024-02-07,,HS201948,,True,Procurement
+CON002126,ACC000159,Pioneer Software,Bailey,Davis,bailey.davis2126@pioneersoftware.co,CFO,2026-06-26,,HS202126,SFCON002126,True,User
+CON003274,ACC000521,Summit Ops 58,Avery,Davis,avery.davis3274@summitops58.co,Sales Manager,2024-03-06,,HS203274,SFCON003274,True,Economic Buyer
+CON002488,ACC000007,BluePeak Health,Drew,Bennett,drew.bennett2488@bluepeakhealth.ai,RevOps Manager,2025-08-08,,HS202488,SFCON002488,False,User
+CON000328,ACC000325,Keystone Cloud,Reese,Bell,reese.bell328@keystonecloud.co,Marketing Director,2026-02-23,,HS200328,SFCON000328,True,Influencer
+CON000582,ACC000457,Signal Cloud,Drew,King,drew.king582@signalcloud.ai,RevOps Manager,2024-08-14,,,SFCON000582,False,Technical Buyer
+CON002512,ACC000532,Northstar Health,Morgan,Sullivan,morgan.sullivan2512@northstarhealth.co,Operations Director,2024-12-12,,HS202512,SFCON002512,True,Influencer
+CON000933,ACC000224,Summit Works 32,Emerson,Price,emerson.price933@summitworks32.ai,Marketing Director,2024-03-19,,HS200933,SFCON000933,True,User
+CON001876,ACC000459,Pioneer Platform 77,Drew,Carter,drew.carter1876@pioneerplatform77.com,CFO,2025-04-20,,HS201876,SFCON001876,False,Technical Buyer
+CON001317,ACC000201,Clearpath Data 6,Hayden,Ward,hayden.ward1317@clearpathdata6.com,RevOps Manager,2025-06-06,,HS201317,SFCON001317,True,Champion
+CON000800,ACC000609,Keystone Ops,Skyler,Chen,skyler.chen800@keystoneops.ai,Sales Ops Analyst,2026-05-10,,HS200800,SFCON000800,True,Influencer
+CON002551,ACC000434,Bright Dynamics 68,Elliot,Reed,elliot.reed2551@brightdynamics68.co,Sales Manager,2024-04-10,,HS202551,SFCON002551,True,Technical Buyer
+CON003035,ACC000100,Pioneer Networks,Elliot,Gray,elliot.gray3035@pioneernetworks.ai,Sales Manager,2024-10-24,,HS203035,SFCON003035,False,Influencer
+CON002915,ACC000018,BluePeak Dynamics,Kendall,Foster,kendall.foster2915@bluepeakdynamics.ai,RevOps Manager,2024-03-16,,HS202915,SFCON002915,True,User
+CON000789,ACC000292,Apex Networks 54,Devon,Gray,devon.gray789@apexnetworks54.co,Operations Director,2026-05-24,,HS200789,SFCON000789,False,Economic Buyer
+CON001060,ACC000242,Meridian Intelligence 67,Rowan,Torres,rowan.torres1060@meridianintelligen.io,IT Admin,2024-06-28,,HS201060,SFCON001060,True,Economic Buyer
+CON001734,ACC000160,Evergreen Intelligence 9,Alex,Perry,alex.perry1734@evergreenintellige.co,Sales Ops Analyst,2025-10-08,,HS201734,SFCON001734,True,User
+CON000440,ACC000092,Ironwood Software,Taylor,James,taylor.james440@ironwoodsoftware.ai,IT Admin,2024-03-30,,HS200440,SFCON000440,False,Economic Buyer
+CON000180,ACC000375,Apex Group,Kendall,Carter,kendall.carter1639@apexgroup.com,Sales Ops Analyst,2025-05-08,LED001639,HS200180,SFCON000180,True,Champion
+CON001823,ACC000302,Atlas Networks 53,Logan,Nelson,logan.nelson1823@atlasnetworks53.net,Operations Director,2024-03-24,,HS201823,SFCON001823,True,Technical Buyer
+CON001963,ACC000338,Apex Systems 70,Devon,Price,devon.price1963@apexsystems70.net,Operations Director,2026-01-15,,HS201963,SFCON001963,True,Champion
+CON003139,ACC000280,BluePeak Platform 20,Harper,Adams,harper.adams3139@bluepeakplatform20.io,Sales Ops Analyst,2025-11-14,,HS203139,SFCON003139,True,Champion
+CON003484,ACC000360,Clearpath Group 57,Parker,Long,parker.long3484@clearpathgroup57.net,Sales Manager,2025-08-10,,HS203484,SFCON003484,True,Economic Buyer
+CON001444,ACC000146,Bright Markets 38,Skyler,Gray,skyler.gray1444@brightmarkets38.io,Operations Director,2026-06-02,,HS201444,SFCON001444,True,User
+CON000926,ACC000354,Evergreen Ops 15,Logan,Gray,logan.gray926@evergreenops15.com,CFO,2024-02-26,,HS200926,SFCON000926,True,Procurement
+CON000990,ACC000246,Apex Networks,Jordan,Ward,jordan.ward990@apexnetworks.co,Sales Manager,2024-03-08,,HS200990,SFCON000990,True,Economic Buyer
+CON001214,ACC000605,Northstar Solutions 23,Emerson,Nelson,emerson.nelson1214@northstarsolutions.ai,CEO,2024-08-15,,HS201214,SFCON001214,True,User
+CON002584,ACC000156,Bright Works,Harper,Wright,harper.wright2584@brightworks.co,Sales Manager,2025-09-14,,HS202584,SFCON002584,False,Procurement
+CON000782,ACC000231,Summit Group,Emerson,Carter,emerson.carter782@summitgroup.io,Sales Ops Analyst,2026-01-11,,HS200782,SFCON000782,True,User
+CON000957,ACC000375,Apex Group,Sam,Chen,sam.chen957@apexgroup.com,Operations Director,2024-04-22,,HS200957,SFCON000957,False,Influencer
+CON000468,ACC000074,Meridian Markets 2,Cameron,Bennett,cameron.bennett468@meridianmarkets2.ai,RevOps Manager,2024-05-15,,HS200468,SFCON000468,True,Champion
+CON000069,ACC000199,Nova Cloud 58,Cameron,Bennett,cameron.bennett304@novacloud58.com,Operations Director,2026-03-02,LED000304,,SFCON000069,False,Champion
+CON003153,ACC000535,Ironwood Health 54,Jordan,King,jordan.king3153@ironwoodhealth54.co,Marketing Director,2025-03-31,,HS203153,SFCON003153,True,Procurement
+CON003256,ACC000288,Atlas Labs 38,Parker,Ward,parker.ward3256@atlaslabs38.com,IT Admin,2024-01-31,,HS203256,SFCON003256,True,Champion
+CON002778,ACC000540,Cobalt Data 58,Jordan,Miller,jordan.miller2778@cobaltdata58.net,RevOps Manager,2024-04-29,,HS202778,SFCON002778,True,Influencer
+CON002540,ACC000546,Northstar Markets 19,Casey,Torres,casey.torres2540@northstarmarkets19.co,Sales Ops Analyst,2025-05-12,,HS202540,SFCON002540,True,User
+CON001315,ACC000541,Summit Markets 97,Casey,Kim,casey.kim1315@summitmarkets97.com,IT Admin,2025-04-12,,HS201315,SFCON001315,True,Influencer
+CON002170,ACC000527,Ironwood Cloud 13,Skyler,Parker,skyler.parker2170@ironwoodcloud13.net,CEO,2024-04-03,,HS202170,SFCON002170,False,User
+CON000526,ACC000415,Nimbus Software 7,Casey,Wright,casey.wright526@nimbussoftware7.com,CEO,2024-06-24,,HS200526,SFCON000526,False,Economic Buyer
+CON002307,ACC000619,Nimbus Dynamics 49,Riley,Ross,riley.ross2307@nimbusdynamics49.com,Operations Director,2025-03-31,,HS202307,SFCON002307,True,Champion
+CON000893,ACC000058,Keystone Group,Reese,Wright,reese.wright893@keystonegroup.co,Sales Ops Analyst,2024-02-05,,HS200893,SFCON000893,False,User
+CON002485,ACC000178,Ironwood Dynamics,Bailey,Sullivan,bailey.sullivan2485@ironwooddynamics.com,Demand Gen Manager,2025-03-04,,HS202485,SFCON002485,True,User
+CON000473,ACC000270,Apex Health,Riley,Kim,riley.kim473@apexhealth.co,Sales Manager,2025-05-16,,HS200473,,True,Technical Buyer
+CON000102,ACC000073,Evergreen Data,Logan,Torres,logan.torres2484@pioneerhealth.net,Marketing Director,2026-04-06,LED002484,HS200102,SFCON000102,True,Procurement
+CON003077,ACC000616,Pioneer Platform 96,Casey,Bell,casey.bell3077@pioneerplatform96.io,CFO,2025-03-17,,HS203077,SFCON003077,True,User
+CON001304,ACC000375,Apex Group,Riley,Wright,riley.wright1304@apexgroup.com,CEO,2025-08-16,,HS201304,SFCON001304,True,User
+CON003429,ACC000095,Cobalt Works,Casey,Davis,casey.davis3429@cobaltworks.io,VP Sales,2024-02-27,,HS203429,SFCON003429,True,Economic Buyer
+CON002762,ACC000324,Atlas Cloud,Casey,Stone,casey.stone2762@atlascloud.co,CEO,2024-12-15,,HS202762,SFCON002762,True,Technical Buyer
+CON000596,ACC000104,Bright Cloud,Riley,Gray,riley.gray596@brightcloud.io,Sales Manager,2025-11-21,,HS200596,SFCON000596,True,Influencer
+CON000103,ACC000504,Catalyst Markets,Harper,Stone,harper.stone547@catalystmarkets.ai,CFO,2026-04-16,LED000547,HS200103,SFCON000103,False,User
+CON002367,ACC000313,Pioneer Health 24,Finley,Foster,finley.foster2367@pioneerhealth24.net,Marketing Director,2024-08-15,,HS202367,SFCON002367,True,Procurement
+CON000702,ACC000593,Clearpath Networks 24,Casey,Davis,casey.davis702@clearpathnetworks2.net,Sales Manager,2026-02-16,,HS200702,SFCON000702,True,Influencer
+CON001950,ACC000435,BluePeak Cloud 83,Reese,Reed,reese.reed1950@bluepeakcloud83.co,Demand Gen Manager,2026-06-25,,HS201950,SFCON001950,True,User
+CON002886,ACC000516,Cobalt Labs 40,Cameron,Ward,cameron.ward2886@cobaltlabs40.ai,IT Admin,2025-08-28,,HS202886,SFCON002886,False,Economic Buyer
+CON002945,ACC000054,Nova Ops,Riley,Carter,riley.carter2945@novaops.net,IT Admin,2024-03-28,,HS202945,SFCON002945,True,User
+CON001250,ACC000484,Summit Health,Elliot,Ward,elliot.ward1250@summithealth.net,Sales Manager,2026-01-01,,HS201250,SFCON001250,True,Procurement
+CON000639,ACC000634,Ironwood Systems 99,Quinn,Kim,quinn.kim639@ironwoodsystems99.net,Sales Ops Analyst,2025-04-17,,HS200639,SFCON000639,True,Technical Buyer
+CON000149,ACC000040,Nimbus Markets,Kendall,Price,kendall.price2692@nimbusmarkets.ai,Operations Director,2025-02-08,LED002692,HS200149,SFCON000149,True,Procurement
+CON002412,ACC000185,Keystone Markets 79,Cameron,Carter,cameron.carter2412@keystonemarkets79.co,Sales Ops Analyst,2024-07-06,,HS202412,SFCON002412,False,Technical Buyer
+CON002229,ACC000137,Northstar Works 5,Hayden,Stone,hayden.stone2229@northstarworks5.com,VP Sales,2024-03-17,,HS202229,SFCON002229,True,User
+CON001357,ACC000085,Signal Analytics,Finley,Sullivan,finley.sullivan1357@signalanalytics.net,Operations Director,2025-04-02,,HS201357,SFCON001357,True,User
+CON001048,ACC000185,Keystone Markets 79,Elliot,Perry,elliot.perry1048@keystonemarkets79.co,Sales Ops Analyst,2024-11-14,,HS201048,SFCON001048,True,User
+CON002115,ACC000414,Evergreen Networks 99,Charlie,Long,charlie.long2115@evergreennetworks9.co,Sales Manager,2026-03-20,,HS202115,SFCON002115,False,Champion
+CON003152,ACC000170,Nimbus Group,Maya,Bennett,maya.bennett3152@nimbusgroup.co,Demand Gen Manager,2024-12-17,,HS203152,SFCON003152,True,Economic Buyer
+CON002695,ACC000453,Catalyst Solutions 70,Harper,Gray,harper.gray2695@catalystsolutions7.com,VP Sales,2026-03-20,,HS202695,SFCON002695,True,Champion
+CON001914,ACC000494,Northstar Markets 77,Skyler,Young,skyler.young1914@northstarmarkets77.net,Sales Manager,2024-06-30,,HS201914,SFCON001914,True,User
+CON000410,ACC000164,Northstar Health 86,Casey,Nelson,casey.nelson410@northstarhealth86.com,Demand Gen Manager,2025-06-01,,HS200410,SFCON000410,True,Champion
+CON000116,ACC000423,BluePeak Intelligence,Quinn,Kim,quinn.kim236@bluepeakintelligen.com,Demand Gen Manager,2025-03-19,LED000236,HS200116,SFCON000116,True,Champion
+CON001124,ACC000505,Atlas Health 62,Alex,Nelson,alex.nelson1124@atlashealth62.io,CFO,2024-02-12,,HS201124,SFCON001124,False,Technical Buyer
+CON003476,ACC000226,BluePeak Dynamics 93,Emerson,Young,emerson.young3476@bluepeakdynamics93.io,Operations Director,2025-07-16,,HS203476,,False,Champion
+CON001587,ACC000250,Atlas Networks,Skyler,Perry,skyler.perry1587@atlasnetworks.io,Operations Director,2026-05-15,,HS201587,SFCON001587,True,Economic Buyer
+CON002455,ACC000063,Nova Analytics,Charlie,Long,charlie.long2455@novaanalytics.io,Operations Director,2025-01-09,,HS202455,SFCON002455,True,Influencer
+CON001107,ACC000210,Northstar Software 45,Jordan,Brooks,jordan.brooks1107@northstarsoftware4.co,Marketing Director,2024-06-25,,HS201107,SFCON001107,False,Champion
+CON000340,ACC000589,Nimbus Analytics 95,Harper,Adams,harper.adams340@nimbusanalytics95.com,VP Sales,2024-11-28,,HS200340,SFCON000340,True,User
+CON000758,ACC000533,Keystone Networks 16,Parker,Davis,parker.davis758@keystonenetworks16.io,IT Admin,2024-12-03,,HS200758,SFCON000758,False,Champion
+CON001691,ACC000337,Vertex Systems 29,Maya,Price,maya.price1691@vertexsystems29.net,Operations Director,2025-12-18,,HS201691,SFCON001691,True,Procurement
+CON001566,ACC000128,Ironwood Cloud,Cameron,Perry,cameron.perry1566@ironwoodcloud.co,CFO,2025-11-13,,HS201566,SFCON001566,True,Economic Buyer
+CON001258,ACC000027,Meridian Systems,Finley,Wright,finley.wright1258@meridiansystems.co,IT Admin,2026-05-07,,HS201258,,True,Technical Buyer
+CON001339,ACC000022,Summit Dynamics,Devon,Chen,devon.chen1339@summitdynamics.io,Sales Manager,2024-02-20,,HS201339,SFCON001339,False,User
+CON000488,ACC000165,Catalyst Group,Parker,Davis,parker.davis488@catalystgroup.com,IT Admin,2024-03-27,,HS200488,SFCON000488,True,Champion
+CON003025,ACC000600,Northstar Networks 48,Avery,Price,avery.price3025@northstarnetworks4.net,IT Admin,2024-10-03,,HS203025,SFCON003025,True,Influencer
+CON002351,ACC000108,Evergreen Analytics,Quinn,Brooks,quinn.brooks2351@evergreenanalytics.io,Demand Gen Manager,2025-03-16,,HS202351,SFCON002351,True,Technical Buyer
+CON000209,ACC000528,Catalyst Data 39,Taylor,Bell,taylor.bell3132@catalystdata39.ai,RevOps Manager,2025-03-05,LED003132,HS200209,SFCON000209,True,Champion
+CON003352,ACC000390,Catalyst Works 6,Jordan,Adams,jordan.adams3352@catalystworks6.co,Sales Manager,2024-05-09,,HS203352,SFCON003352,True,Champion
+CON002523,ACC000364,Evergreen Systems 95,Jordan,Foster,jordan.foster2523@evergreensystems95.co,RevOps Manager,2026-03-28,,HS202523,SFCON002523,True,Technical Buyer
+CON001900,ACC000282,BluePeak Markets 96,Bailey,Torres,bailey.torres1900@bluepeakmarkets96.com,RevOps Manager,2026-05-24,,,SFCON001900,True,Economic Buyer
+CON001047,ACC000357,Nimbus Works 36,Drew,Perry,drew.perry1047@nimbusworks36.co,Sales Ops Analyst,2024-03-30,,HS201047,SFCON001047,True,Influencer
+CON002876,ACC000278,Ironwood Systems 49,Casey,James,casey.james2876@ironwoodsystems49.ai,RevOps Manager,2025-01-28,,HS202876,SFCON002876,True,Technical Buyer
+CON000810,ACC000210,Northstar Software 45,Alex,King,alex.king810@northstarsoftware4.co,Demand Gen Manager,2025-01-10,,HS200810,SFCON000810,True,User
+CON001793,ACC000470,Bright Health 44,Harper,Ross,harper.ross1793@brighthealth44.io,Operations Director,2025-09-11,,HS201793,SFCON001793,False,Champion
+CON000744,ACC000379,Evergreen Networks 48,Taylor,Patel,taylor.patel744@evergreennetworks4.ai,IT Admin,2025-01-05,,HS200744,SFCON000744,True,Procurement
+CON000310,ACC000159,Pioneer Software,Hayden,Bennett,hayden.bennett3264@pioneersoftware.co,Operations Director,2025-01-24,LED003264,HS200310,SFCON000310,True,User
+CON000425,ACC000342,Atlas Analytics 85,Elliot,Bennett,elliot.bennett425@atlasanalytics85.com,Sales Ops Analyst,2024-07-15,,HS200425,SFCON000425,True,User
+CON001078,ACC000589,Nimbus Analytics 95,Jamie,Brooks,jamie.brooks1078@nimbusanalytics95.com,CFO,2024-11-07,,HS201078,SFCON001078,False,Champion
+CON001019,ACC000437,Clearpath Solutions 31,Reese,Kim,reese.kim1019@clearpathsolutions.com,Sales Manager,2025-07-07,,HS201019,SFCON001019,True,User
+CON002508,ACC000436,Vertex Dynamics 39,Quinn,Stone,quinn.stone2508@vertexdynamics39.ai,Operations Director,2026-03-02,,HS202508,SFCON002508,True,Procurement
+CON001383,ACC000266,Keystone Dynamics,Riley,Gray,riley.gray1383@keystonedynamics.io,CEO,2025-09-04,,HS201383,SFCON001383,True,User
+CON000956,ACC000149,Signal Cloud 71,Riley,Nelson,riley.nelson956@signalcloud71.ai,Operations Director,2025-08-14,,HS200956,SFCON000956,True,Technical Buyer
+CON002918,ACC000387,Apex Dynamics,Hayden,Ross,hayden.ross2918@apexdynamics.ai,Marketing Director,2025-01-18,,HS202918,SFCON002918,True,User
+CON000737,ACC000274,Evergreen Intelligence,Taylor,Stone,taylor.stone737@evergreenintellige.io,VP Sales,2025-03-20,,,SFCON000737,True,Influencer
+CON001150,ACC000547,Summit Platform 29,Drew,Adams,drew.adams1150@summitplatform29.co,Sales Manager,2024-12-20,,HS201150,SFCON001150,True,User
+CON001498,ACC000381,Clearpath Networks 88,Avery,Foster,avery.foster1498@clearpathnetworks8.ai,Sales Manager,2026-05-07,,HS201498,SFCON001498,True,Influencer
+CON001137,ACC000409,Cobalt Health 19,Devon,Long,devon.long1137@cobalthealth19.com,CEO,2024-10-22,,HS201137,SFCON001137,True,Economic Buyer
+CON001373,ACC000548,Bright Health 59,Jordan,Torres,jordan.torres1373@brighthealth59.co,Sales Manager,2026-03-22,,HS201373,SFCON001373,True,Influencer
+CON002701,ACC000093,Nimbus Systems,Parker,Patel,parker.patel2701@nimbussystems.net,IT Admin,2024-03-08,,HS202701,SFCON002701,True,Technical Buyer
+CON001815,ACC000515,Catalyst Intelligence 41,Parker,Gray,parker.gray1815@catalystintelligen.io,CFO,2025-09-22,,HS201815,SFCON001815,True,Procurement
+CON000537,ACC000504,Catalyst Markets,Harper,Patel,harper.patel537@catalystmarkets.ai,CEO,2024-10-20,,HS200537,SFCON000537,True,User
+CON002834,ACC000570,Ironwood Labs 39,Blake,Adams,blake.adams2834@ironwoodlabs39.io,Sales Manager,2024-06-22,,HS202834,SFCON002834,True,Champion
+CON003415,ACC000443,Vertex Health 3,Hayden,Foster,hayden.foster3415@vertexhealth3.com,CEO,2024-05-10,,HS203415,SFCON003415,True,Procurement
+CON002573,ACC000364,Evergreen Systems 95,Skyler,Foster,skyler.foster2573@evergreensystems95.co,IT Admin,2024-04-24,,HS202573,SFCON002573,True,Influencer
+CON001512,ACC000514,Pioneer Systems,Jamie,Stone,jamie.stone1512@pioneersystems.ai,CEO,2025-11-27,,HS201512,SFCON001512,True,Influencer
+CON002209,ACC000618,Meridian Systems 13,Sam,Stone,sam.stone2209@meridiansystems13.io,Sales Manager,2026-06-14,,HS202209,SFCON002209,True,Technical Buyer
+CON000881,ACC000094,Evergreen Dynamics 90,Elliot,Carter,elliot.carter881@evergreendynamics9.co,Demand Gen Manager,2026-01-12,,HS200881,SFCON000881,True,Influencer
+CON000411,ACC000178,Ironwood Dynamics,Maya,Bennett,maya.bennett411@ironwooddynamics.com,CEO,2026-01-18,,HS200411,SFCON000411,False,Technical Buyer
+CON000428,ACC000252,Evergreen Cloud 80,Logan,Carter,logan.carter428@evergreencloud80.com,Operations Director,2025-02-15,,,SFCON000428,True,Influencer
+CON002707,ACC000033,Signal Group,Taylor,Ward,taylor.ward2707@signalgroup.io,CEO,2024-12-19,,HS202707,SFCON002707,True,Procurement
+CON002783,ACC000302,Atlas Networks 53,Kendall,Brooks,kendall.brooks2783@atlasnetworks53.net,CFO,2024-06-10,,HS202783,SFCON002783,True,Technical Buyer
+CON000489,ACC000374,Clearpath Group 10,Sam,Torres,sam.torres489@clearpathgroup10.ai,Demand Gen Manager,2024-12-17,,HS200489,SFCON000489,False,User
+CON001841,ACC000521,Summit Ops 58,Sam,Chen,sam.chen1841@summitops58.co,Operations Director,2024-02-08,,HS201841,SFCON001841,False,Procurement
+CON002620,ACC000421,Northstar Intelligence 18,Skyler,Nelson,skyler.nelson2620@northstarintellige.ai,RevOps Manager,2025-12-24,,HS202620,SFCON002620,False,Economic Buyer
+CON001453,ACC000364,Evergreen Systems 95,Sam,Chen,sam.chen1453@evergreensystems95.co,VP Sales,2024-08-14,,HS201453,SFCON001453,True,Champion
+CON002365,ACC000142,Evergreen Networks,Charlie,Perry,charlie.perry2365@evergreennetworks.com,Sales Manager,2026-05-01,,HS202365,,True,Economic Buyer
+CON002648,ACC000605,Northstar Solutions 23,Casey,Parker,casey.parker2648@northstarsolutions.ai,IT Admin,2025-11-20,,HS202648,SFCON002648,True,Technical Buyer
+CON000735,ACC000264,Evergreen Health,Reese,Murphy,reese.murphy735@evergreenhealth.ai,Demand Gen Manager,2025-02-06,,HS200735,SFCON000735,True,Technical Buyer
+CON001672,ACC000566,Evergreen Platform,Reese,Murphy,reese.murphy1672@evergreenplatform.com,CEO,2024-12-15,,HS201672,SFCON001672,True,Influencer
+CON000382,ACC000019,Catalyst Markets 54,Finley,Brooks,finley.brooks382@catalystmarkets54.io,Marketing Director,2026-01-03,,HS200382,SFCON000382,False,Champion
+CON000054,ACC000241,Clearpath Labs 95,Jordan,Reed,jordan.reed986@clearpathlabs95.ai,Sales Manager,2025-04-13,LED000986,HS200054,SFCON000054,True,User
+CON000498,ACC000635,Nimbus Markets 25,Morgan,Sullivan,morgan.sullivan498@nimbusmarkets25.net,VP Sales,2024-10-01,,HS200498,SFCON000498,True,Technical Buyer
+CON001810,ACC000038,Vertex Solutions,Jamie,Bennett,jamie.bennett1810@vertexsolutions.com,Sales Ops Analyst,2025-06-16,,HS201810,SFCON001810,True,Champion
+CON002647,ACC000328,Atlas Systems 29,Rowan,Parker,rowan.parker2647@atlassystems29.io,IT Admin,2024-01-03,,HS202647,SFCON002647,True,Champion
+CON001639,ACC000346,Vertex Platform,Finley,Bell,finley.bell1639@vertexplatform.com,Operations Director,2025-06-26,,HS201639,SFCON001639,True,Procurement
+CON000969,ACC000489,Nimbus Ops 79,Blake,Torres,blake.torres969@nimbusops79.com,Sales Ops Analyst,2024-02-05,,HS200969,SFCON000969,True,Procurement
+CON001527,ACC000333,Keystone Works,Quinn,Carter,quinn.carter1527@keystoneworks.io,IT Admin,2026-05-14,,HS201527,SFCON001527,False,Technical Buyer
+CON002855,ACC000609,Keystone Ops,Harper,Miller,harper.miller2855@keystoneops.ai,IT Admin,2026-02-10,,HS202855,SFCON002855,True,Procurement
+CON002922,ACC000472,Evergreen Markets 21,Blake,Kim,blake.kim2922@evergreenmarkets21.com,IT Admin,2024-05-03,,,SFCON002922,True,Champion
+CON002319,ACC000154,Ironwood Systems,Jamie,Kim,jamie.kim2319@ironwoodsystems.net,VP Sales,2025-10-19,,HS202319,SFCON002319,True,Technical Buyer
+CON001865,ACC000595,Bright Software 68,Reese,Price,reese.price1865@brightsoftware68.ai,Sales Manager,2024-07-16,,HS201865,SFCON001865,True,Champion
+CON000093,ACC000111,Vertex Solutions 20,Alex,James,alex.james365@vertexsolutions20.com,IT Admin,2025-08-05,LED000365,HS200093,SFCON000093,True,Technical Buyer
+CON001414,ACC000609,Keystone Ops,Casey,Sullivan,casey.sullivan1414@keystoneops.ai,Sales Ops Analyst,2024-03-17,,HS201414,SFCON001414,True,Economic Buyer
+CON003017,ACC000201,Clearpath Data 6,Bailey,Carter,bailey.carter3017@clearpathdata6.com,Operations Director,2024-05-31,,HS203017,SFCON003017,True,Champion
+CON001991,ACC000115,Bright Networks,Avery,Patel,avery.patel1991@brightnetworks.co,Sales Manager,2026-03-09,,HS201991,SFCON001991,True,Influencer
+CON002278,ACC000542,Cobalt Works 67,Blake,Stone,blake.stone2278@cobaltworks67.net,Sales Manager,2025-04-14,,HS202278,SFCON002278,True,Economic Buyer
+CON002010,ACC000501,Nimbus Solutions,Rowan,Davis,rowan.davis2010@nimbussolutions.ai,Marketing Director,2025-12-20,,HS202010,SFCON002010,True,Champion
+CON000632,ACC000065,Keystone Software 93,Charlie,Wright,charlie.wright632@keystonesoftware93.co,Operations Director,2024-11-24,,HS200632,SFCON000632,False,Influencer
+CON003492,ACC000538,Northstar Markets 65,Casey,Gray,casey.gray3492@northstarmarkets65.io,IT Admin,2026-04-11,,HS203492,SFCON003492,True,Economic Buyer
+CON003438,ACC000320,Atlas Cloud 86,Finley,Parker,finley.parker3438@atlascloud86.net,Demand Gen Manager,2024-04-18,,HS203438,SFCON003438,True,User
+CON002621,ACC000041,Keystone Solutions,Jamie,Torres,jamie.torres2621@keystonesolutions.com,RevOps Manager,2024-12-06,,HS202621,SFCON002621,True,Economic Buyer
+CON001937,ACC000199,Nova Cloud 58,Cameron,Miller,cameron.miller1937@novacloud58.com,RevOps Manager,2026-03-23,,HS201937,SFCON001937,False,Influencer
+CON000874,ACC000589,Nimbus Analytics 95,Harper,Adams,harper.adams874@nimbusanalytics95.com,Marketing Director,2024-08-10,,HS200874,SFCON000874,False,User
+CON001251,ACC000146,Bright Markets 38,Logan,Stone,logan.stone1251@brightmarkets38.io,Marketing Director,2024-09-20,,HS201251,SFCON001251,True,Champion
+CON001322,ACC000495,Atlas Systems 51,Riley,Parker,riley.parker1322@atlassystems51.com,Demand Gen Manager,2025-03-27,,HS201322,SFCON001322,False,Technical Buyer
+CON002057,ACC000043,Summit Analytics 90,Harper,Davis,harper.davis2057@summitanalytics90.io,VP Sales,2026-02-24,,HS202057,SFCON002057,True,Champion
+CON003079,ACC000367,Evergreen Ops,Emerson,Long,emerson.long3079@evergreenops.net,Sales Ops Analyst,2024-01-23,,HS203079,SFCON003079,False,Influencer
+CON001157,ACC000437,Clearpath Solutions 31,Finley,Brooks,finley.brooks1157@clearpathsolutions.com,Sales Ops Analyst,2024-11-14,,HS201157,SFCON001157,True,Economic Buyer
+CON001611,ACC000131,Bright Cloud 66,Finley,Perry,finley.perry1611@brightcloud66.net,VP Sales,2025-01-24,,HS201611,SFCON001611,True,Champion
+CON001237,ACC000022,Summit Dynamics,Drew,Patel,drew.patel1237@summitdynamics.io,Sales Ops Analyst,2024-05-05,,HS201237,SFCON001237,False,Champion
+CON003324,ACC000281,Apex Data 42,Devon,Miller,devon.miller3324@apexdata42.co,VP Sales,2025-05-29,,HS203324,SFCON003324,False,Economic Buyer
+CON002122,ACC000482,Cobalt Analytics 51,Skyler,Wright,skyler.wright2122@cobaltanalytics51.net,Marketing Director,2025-05-04,,HS202122,SFCON002122,True,Influencer
+CON000799,ACC000132,Summit Data,Logan,Ward,logan.ward799@summitdata.com,RevOps Manager,2024-03-28,,HS200799,SFCON000799,True,Economic Buyer
+CON001534,ACC000157,Meridian Data 49,Morgan,Sullivan,morgan.sullivan1534@meridiandata49.net,Demand Gen Manager,2025-11-23,,HS201534,SFCON001534,False,Champion
+CON000442,ACC000572,Cobalt Software,Harper,James,harper.james442@cobaltsoftware.io,Operations Director,2025-07-21,,HS200442,,True,User
+CON002535,ACC000438,Summit Networks 59,Riley,Gray,riley.gray2535@summitnetworks59.co,Operations Director,2025-08-30,,HS202535,SFCON002535,True,Technical Buyer
+CON000844,ACC000594,Bright Dynamics 99,Avery,James,avery.james844@brightdynamics99.co,CEO,2025-10-06,,HS200844,SFCON000844,False,Influencer
+CON002853,ACC000188,Apex Software,Charlie,Brooks,charlie.brooks2853@apexsoftware.ai,Demand Gen Manager,2025-05-28,,HS202853,SFCON002853,False,User
+CON003370,ACC000052,Pioneer Platform,Devon,Long,devon.long3370@pioneerplatform.net,Sales Ops Analyst,2026-04-19,,HS203370,SFCON003370,True,User
+CON002711,ACC000295,Apex Works 74,Finley,King,finley.king2711@apexworks74.net,Sales Manager,2026-06-21,,HS202711,SFCON002711,True,Procurement
+CON001726,ACC000199,Nova Cloud 58,Devon,Nelson,devon.nelson1726@novacloud58.com,Operations Director,2026-03-05,,HS201726,SFCON001726,True,Procurement
+CON002536,ACC000101,Bright Labs 72,Riley,Perry,riley.perry2536@brightlabs72.ai,Sales Ops Analyst,2024-12-17,,HS202536,SFCON002536,True,Influencer
+CON002960,ACC000257,Vertex Works 80,Sam,Patel,sam.patel2960@vertexworks80.net,RevOps Manager,2025-02-11,,HS202960,SFCON002960,True,Technical Buyer
+CON003128,ACC000182,Apex Analytics,Alex,Ross,alex.ross3128@apexanalytics.net,Operations Director,2025-12-11,,HS203128,SFCON003128,True,Procurement
+CON003426,ACC000547,Summit Platform 29,Morgan,Brooks,morgan.brooks3426@summitplatform29.co,Demand Gen Manager,2024-05-09,,HS203426,SFCON003426,True,Technical Buyer
+CON000840,ACC000274,Evergreen Intelligence,Emerson,Young,emerson.young840@evergreenintellige.io,VP Sales,2025-03-05,,HS200840,SFCON000840,True,Procurement
+CON003512,ACC000266,Keystone Dynamics,Jordan,Brooks,jordan.brooks3512@keystonedynamics.io,CFO,2026-04-19,,HS203512,SFCON003512,True,Economic Buyer
+CON000066,ACC000364,Evergreen Systems 95,Sam,Brooks,sam.brooks2239@evergreensystems95.co,CFO,2025-10-03,LED002239,HS200066,SFCON000066,True,Technical Buyer
+CON001221,ACC000035,Summit Analytics,Taylor,Miller,taylor.miller1221@summitanalytics.net,Marketing Director,2025-07-19,,HS201221,SFCON001221,False,Procurement
+CON002875,ACC000494,Northstar Markets 77,Casey,Brooks,casey.brooks2875@northstarmarkets77.net,CEO,2026-05-17,,HS202875,SFCON002875,True,Technical Buyer
+CON001276,ACC000115,Bright Networks,Kendall,Nelson,kendall.nelson1276@brightnetworks.co,Operations Director,2024-08-06,,HS201276,SFCON001276,True,Champion
+CON002001,ACC000177,Pioneer Health,Skyler,Bennett,skyler.bennett2001@pioneerhealth.net,RevOps Manager,2025-12-24,,HS202001,SFCON002001,True,Economic Buyer
+CON000449,ACC000376,Evergreen Networks 44,Logan,Nelson,logan.nelson449@evergreennetworks4.net,IT Admin,2024-12-30,,HS200449,SFCON000449,True,User
+CON001306,ACC000197,Summit Cloud 34,Avery,Bell,avery.bell1306@summitcloud34.io,IT Admin,2026-06-21,,HS201306,SFCON001306,True,Influencer
+CON002227,ACC000384,Ironwood Networks 73,Emerson,Murphy,emerson.murphy2227@ironwoodnetworks73.io,RevOps Manager,2025-08-07,,HS202227,SFCON002227,True,Influencer
+CON000153,ACC000516,Cobalt Labs 40,Quinn,James,quinn.james2535@cobaltlabs40.ai,VP Sales,2026-05-30,LED002535,HS200153,SFCON000153,True,Champion
+CON000918,ACC000232,Nova Networks,Logan,Torres,logan.torres918@novanetworks.co,Sales Ops Analyst,2025-07-24,,HS200918,SFCON000918,True,Technical Buyer
+CON002193,ACC000385,Clearpath Labs 47,Cameron,Ross,cameron.ross2193@clearpathlabs47.com,CEO,2025-05-29,,HS202193,SFCON002193,True,Influencer
+CON003182,ACC000327,Cobalt Software 99,Devon,Brooks,devon.brooks3182@cobaltsoftware99.net,Sales Manager,2025-07-10,,HS203182,SFCON003182,True,Procurement
+CON000712,ACC000607,BluePeak Ops 21,Harper,Bell,harper.bell712@bluepeakops21.net,IT Admin,2026-03-21,,HS200712,SFCON000712,True,Economic Buyer
+CON000046,ACC000424,Nimbus Health 75,Quinn,James,quinn.james3871@nimbushealth75.com,RevOps Manager,2025-12-09,LED003871,HS200046,SFCON000046,True,Procurement
+CON002514,ACC000334,Ironwood Group 34,Harper,Miller,harper.miller2514@ironwoodgroup34.co,Sales Manager,2024-12-13,,HS202514,SFCON002514,True,Procurement
+CON002174,ACC000096,Atlas Intelligence,Elliot,Murphy,elliot.murphy2174@atlasintelligence.co,CFO,2024-10-12,,HS202174,SFCON002174,False,Technical Buyer
+CON000423,ACC000497,Vertex Networks 78,Casey,Long,casey.long423@vertexnetworks78.com,CFO,2024-03-28,,HS200423,SFCON000423,True,User
+CON002619,ACC000279,Ironwood Solutions 85,Cameron,Murphy,cameron.murphy2619@ironwoodsolutions8.net,IT Admin,2024-06-28,,HS202619,SFCON002619,True,Economic Buyer
+CON002592,ACC000051,Signal Platform,Casey,King,casey.king2592@signalplatform.ai,Sales Ops Analyst,2024-09-11,,HS202592,SFCON002592,True,Procurement
+CON001728,ACC000442,Apex Platform 59,Bailey,Bennett,bailey.bennett1728@apexplatform59.net,Sales Ops Analyst,2025-06-21,,HS201728,SFCON001728,False,Technical Buyer
+CON001932,ACC000363,Nimbus Platform,Skyler,Long,skyler.long1932@nimbusplatform.ai,IT Admin,2025-11-27,,HS201932,SFCON001932,True,Procurement
+CON002991,ACC000140,Meridian Dynamics,Kendall,Wright,kendall.wright2991@meridiandynamics.co,Marketing Director,2026-06-03,,HS202991,,True,Economic Buyer
+CON003219,ACC000605,Northstar Solutions 23,Parker,King,parker.king3219@northstarsolutions.ai,Marketing Director,2025-08-02,,HS203219,SFCON003219,False,Procurement
+CON002642,ACC000191,Pioneer Analytics,Drew,Long,drew.long2642@pioneeranalytics.co,Demand Gen Manager,2026-02-12,,HS202642,SFCON002642,False,User
+CON000361,ACC000563,Apex Group 61,Emerson,Gray,emerson.gray361@apexgroup61.io,CEO,2024-08-01,,HS200361,SFCON000361,True,Influencer
+CON003524,ACC000526,Signal Markets 44,Alex,Davis,alex.davis3524@signalmarkets44.io,Sales Manager,2024-09-15,,HS203524,SFCON003524,False,Procurement
+CON000336,ACC000402,Nimbus Analytics 49,Parker,King,parker.king336@nimbusanalytics49.io,Sales Ops Analyst,2025-06-09,,HS200336,SFCON000336,True,Technical Buyer
+CON000837,ACC000557,Vertex Labs,Kendall,Carter,kendall.carter837@vertexlabs.ai,Demand Gen Manager,2025-07-26,,HS200837,SFCON000837,True,Procurement
+CON000867,ACC000385,Clearpath Labs 47,Cameron,Ward,cameron.ward867@clearpathlabs47.com,CFO,2025-03-30,,HS200867,SFCON000867,True,Influencer
+CON000930,ACC000578,Northstar Dynamics 19,Jordan,Stone,jordan.stone930@northstardynamics1.co,VP Sales,2025-07-23,,HS200930,SFCON000930,True,Procurement
+CON002290,ACC000447,Pioneer Software 25,Blake,Parker,blake.parker2290@pioneersoftware25.ai,CFO,2024-11-17,,HS202290,SFCON002290,False,Procurement
+CON002082,ACC000618,Meridian Systems 13,Hayden,Bell,hayden.bell2082@meridiansystems13.io,IT Admin,2024-10-01,,HS202082,SFCON002082,False,User
+CON001000,ACC000061,Nova Data 58,Skyler,Price,skyler.price1000@novadata58.co,Sales Ops Analyst,2025-08-31,,HS201000,SFCON001000,False,Procurement
+CON000794,ACC000287,Nimbus Works,Cameron,James,cameron.james794@nimbusworks.com,IT Admin,2024-07-27,,HS200794,SFCON000794,True,User
+CON002923,ACC000547,Summit Platform 29,Quinn,Chen,quinn.chen2923@summitplatform29.co,RevOps Manager,2024-07-17,,HS202923,SFCON002923,False,User
+CON001220,ACC000174,Vertex Markets 10,Parker,Gray,parker.gray1220@vertexmarkets10.com,Sales Manager,2024-01-04,,HS201220,SFCON001220,True,Economic Buyer
+CON003129,ACC000433,Catalyst Ops,Morgan,Miller,morgan.miller3129@catalystops.co,CFO,2025-05-03,,HS203129,SFCON003129,True,Technical Buyer
+CON000201,ACC000132,Summit Data,Parker,Stone,parker.stone1530@summitdata.com,Demand Gen Manager,2026-07-06,LED001530,HS200201,SFCON000201,True,User
+CON001119,ACC000293,Atlas Labs 13,Morgan,Parker,morgan.parker1119@atlaslabs13.net,Sales Ops Analyst,2025-03-19,,HS201119,SFCON001119,False,Influencer
+CON001708,ACC000298,Signal Networks,Bailey,Bennett,bailey.bennett1708@signalnetworks.net,CEO,2025-10-11,,HS201708,SFCON001708,True,Champion
+CON001990,ACC000464,Catalyst Intelligence,Emerson,James,emerson.james1990@catalystintelligen.ai,IT Admin,2026-05-05,,HS201990,SFCON001990,True,User
+CON001631,ACC000389,Evergreen Intelligence 71,Riley,Bell,riley.bell1631@evergreenintellige.com,Demand Gen Manager,2025-11-07,,HS201631,SFCON001631,True,User
+CON002334,ACC000355,Cobalt Group,Finley,Ward,finley.ward2334@cobaltgroup.co,Demand Gen Manager,2025-09-25,,HS202334,SFCON002334,True,Influencer
+CON002982,ACC000414,Evergreen Networks 99,Morgan,Patel,morgan.patel2982@evergreennetworks9.co,Operations Director,2024-08-29,,HS202982,SFCON002982,False,Influencer
+CON003522,ACC000495,Atlas Systems 51,Hayden,Perry,hayden.perry3522@atlassystems51.com,Demand Gen Manager,2026-02-23,,HS203522,SFCON003522,True,Champion
+CON002822,ACC000588,Ironwood Health 24,Riley,Ross,riley.ross2822@ironwoodhealth24.net,IT Admin,2024-05-25,,HS202822,SFCON002822,False,Technical Buyer
+CON000591,ACC000175,Vertex Labs 77,Cameron,Miller,cameron.miller591@vertexlabs77.net,RevOps Manager,2024-10-17,,HS200591,SFCON000591,True,Champion
+CON003446,ACC000223,Clearpath Systems,Bailey,Davis,bailey.davis3446@clearpathsystems.com,CEO,2026-03-15,,HS203446,SFCON003446,False,Champion
+CON001499,ACC000631,Evergreen Networks 62,Cameron,Gray,cameron.gray1499@evergreennetworks6.ai,Sales Ops Analyst,2024-08-11,,HS201499,SFCON001499,True,Economic Buyer
+CON000739,ACC000026,Ironwood Markets,Kendall,Adams,kendall.adams739@ironwoodmarkets.io,Sales Ops Analyst,2025-03-26,,HS200739,SFCON000739,True,Influencer
+CON000089,ACC000343,Bright Systems 91,Quinn,Torres,quinn.torres788@brightsystems91.io,Sales Ops Analyst,2026-07-03,LED000788,HS200089,SFCON000089,True,Technical Buyer
+CON002160,ACC000202,Clearpath Labs 59,Rowan,Carter,rowan.carter2160@clearpathlabs59.net,VP Sales,2025-07-20,,HS202160,SFCON002160,True,User
+CON000481,ACC000484,Summit Health,Bailey,Young,bailey.young481@summithealth.net,Sales Ops Analyst,2024-11-17,,HS200481,SFCON000481,True,User
+CON000062,ACC000185,Keystone Markets 79,Drew,Carter,drew.carter2979@keystonemarkets79.co,VP Sales,2025-04-25,LED002979,HS200062,SFCON000062,True,Procurement
+CON001886,ACC000248,Signal Health,Rowan,Chen,rowan.chen1886@signalhealth.io,CEO,2025-10-15,,HS201886,SFCON001886,True,Procurement
+CON002332,ACC000270,Apex Health,Emerson,Bennett,emerson.bennett2332@apexhealth.co,Operations Director,2025-06-26,,HS202332,SFCON002332,True,Technical Buyer
+CON001330,ACC000303,Catalyst Dynamics 19,Maya,Miller,maya.miller1330@catalystdynamics19.co,Demand Gen Manager,2024-07-14,,HS201330,SFCON001330,True,User
+CON003073,ACC000348,BluePeak Intelligence 8,Logan,Sullivan,logan.sullivan3073@bluepeakintelligen.com,Sales Ops Analyst,2024-08-26,,HS203073,SFCON003073,True,Technical Buyer
+CON000884,ACC000186,Pioneer Ops 16,Emerson,Brooks,emerson.brooks884@pioneerops16.ai,CEO,2025-03-18,,HS200884,SFCON000884,True,Procurement
+CON000045,ACC000580,Evergreen Analytics 41,Kendall,Reed,kendall.reed606@evergreenanalytics.io,Sales Manager,2025-08-30,LED000606,HS200045,SFCON000045,True,Champion
+CON000184,ACC000342,Atlas Analytics 85,Hayden,Carter,hayden.carter854@apexnetworks.co,RevOps Manager,2026-04-29,LED000854,HS200184,SFCON000184,True,Economic Buyer
+CON002338,ACC000606,Cobalt Dynamics,Alex,Parker,alex.parker2338@cobaltdynamics.co,Sales Ops Analyst,2026-03-16,,HS202338,SFCON002338,False,Champion
+CON000906,ACC000081,Bright Systems,Taylor,Chen,taylor.chen906@brightsystems.io,Demand Gen Manager,2026-01-24,,HS200906,SFCON000906,True,Champion
+CON001395,ACC000280,BluePeak Platform 20,Avery,Price,avery.price1395@bluepeakplatform20.io,RevOps Manager,2024-12-07,,HS201395,SFCON001395,True,Technical Buyer
+CON000142,ACC000507,Atlas Data 17,Morgan,Foster,morgan.foster3956@meridiansolutions9.co,Demand Gen Manager,2025-11-08,LED003956,HS200142,SFCON000142,True,Procurement
+CON002169,ACC000585,Atlas Cloud 74,Skyler,Foster,skyler.foster2169@atlascloud74.net,IT Admin,2024-10-26,,HS202169,SFCON002169,False,Champion
+CON001374,ACC000033,Signal Group,Bailey,Ward,bailey.ward1374@signalgroup.io,CEO,2025-02-23,,HS201374,SFCON001374,True,Champion
+CON002607,ACC000544,Ironwood Intelligence,Morgan,Miller,morgan.miller2607@ironwoodintelligen.co,Marketing Director,2025-03-18,,HS202607,SFCON002607,True,Influencer
+CON002313,ACC000552,Evergreen Group 93,Cameron,Gray,cameron.gray2313@evergreengroup93.net,Demand Gen Manager,2025-05-01,,HS202313,SFCON002313,True,Technical Buyer
+CON002496,ACC000271,Pioneer Labs 53,Casey,Reed,casey.reed2496@pioneerlabs53.com,RevOps Manager,2024-04-29,,HS202496,SFCON002496,True,Influencer
+CON000495,ACC000639,Nimbus Networks 72,Drew,James,drew.james495@nimbusnetworks72.ai,RevOps Manager,2024-01-20,,HS200495,SFCON000495,True,User
+CON002085,ACC000399,Nova Cloud 74,Kendall,Torres,kendall.torres2085@novacloud74.co,Operations Director,2026-02-11,,HS202085,SFCON002085,True,Economic Buyer
+CON002962,ACC000607,BluePeak Ops 21,Drew,Stone,drew.stone2962@bluepeakops21.net,CEO,2025-10-25,,HS202962,SFCON002962,False,Economic Buyer
+CON002177,ACC000640,Northstar Markets 56,Finley,Murphy,finley.murphy2177@northstarmarkets56.io,VP Sales,2026-03-24,,HS202177,SFCON002177,True,Procurement
+CON000623,ACC000202,Clearpath Labs 59,Kendall,King,kendall.king623@clearpathlabs59.net,Sales Manager,2025-04-26,,HS200623,SFCON000623,True,Economic Buyer
+CON003132,ACC000555,Keystone Systems 68,Reese,Carter,reese.carter3132@keystonesystems68.com,VP Sales,2025-11-18,,HS203132,SFCON003132,True,Procurement
+CON000362,ACC000186,Pioneer Ops 16,Emerson,James,emerson.james362@pioneerops16.ai,VP Sales,2025-07-18,,HS200362,SFCON000362,True,Procurement
+CON002581,ACC000345,Evergreen Labs 24,Drew,King,drew.king2581@evergreenlabs24.ai,Demand Gen Manager,2024-03-30,,HS202581,SFCON002581,True,Influencer
+CON001012,ACC000138,Pioneer Intelligence,Taylor,Adams,taylor.adams1012@pioneerintelligenc.co,CEO,2024-07-01,,HS201012,SFCON001012,True,Influencer
+CON002318,ACC000617,Summit Software 67,Maya,Ross,maya.ross2318@summitsoftware67.co,Sales Ops Analyst,2026-03-11,,HS202318,SFCON002318,True,Procurement
+CON002240,ACC000642,Catalyst Health,Taylor,Murphy,taylor.murphy2240@catalysthealth.ai,CEO,2025-09-19,,HS202240,SFCON002240,True,Influencer
+CON000549,ACC000001,Nimbus Ops,Logan,Long,logan.long549@nimbusops.net,CFO,2024-04-13,,HS200549,SFCON000549,True,User
+CON001812,ACC000132,Summit Data,Quinn,Stone,quinn.stone1812@summitdata.com,VP Sales,2024-11-24,,HS201812,SFCON001812,False,Economic Buyer
+CON000562,ACC000009,Nova Markets,Blake,Price,blake.price562@novamarkets.com,Sales Ops Analyst,2024-04-10,,HS200562,SFCON000562,True,Influencer
+CON001659,ACC000046,Summit Intelligence,Cameron,Foster,cameron.foster1659@summitintelligence.net,IT Admin,2024-09-16,,HS201659,SFCON001659,True,Procurement
+CON000463,ACC000461,Northstar Intelligence,Charlie,Ross,charlie.ross463@northstarintellige.io,IT Admin,2025-09-30,,HS200463,SFCON000463,True,Technical Buyer
+CON000659,ACC000423,BluePeak Intelligence,Cameron,Torres,cameron.torres659@bluepeakintelligen.com,Sales Ops Analyst,2024-06-08,,HS200659,SFCON000659,False,User
+CON001505,ACC000375,Apex Group,Elliot,Davis,elliot.davis1505@apexgroup.com,Demand Gen Manager,2025-05-24,,HS201505,SFCON001505,True,Influencer
+CON000504,ACC000378,Keystone Platform,Quinn,Carter,quinn.carter504@keystoneplatform.com,RevOps Manager,2025-01-24,,HS200504,SFCON000504,True,Technical Buyer
+CON003344,ACC000649,Atlas Data 82,Cameron,Nelson,cameron.nelson3344@atlasdata82.io,CFO,2026-02-19,,HS203344,SFCON003344,True,Procurement
+CON003432,ACC000407,Meridian Cloud,Taylor,Perry,taylor.perry3432@meridiancloud.io,IT Admin,2025-11-20,,HS203432,SFCON003432,True,Procurement
+CON000350,ACC000527,Ironwood Cloud 13,Skyler,Young,skyler.young350@ironwoodcloud13.net,CFO,2025-04-16,,HS200350,SFCON000350,True,Procurement
+CON000991,ACC000186,Pioneer Ops 16,Hayden,Torres,hayden.torres991@pioneerops16.ai,Sales Ops Analyst,2024-04-07,,HS200991,SFCON000991,True,Champion
+CON003146,ACC000556,Signal Solutions 98,Jordan,Young,jordan.young3146@signalsolutions98.io,Sales Manager,2024-12-25,,HS203146,SFCON003146,True,Procurement
+CON001554,ACC000478,Pioneer Ops 98,Morgan,Young,morgan.young1554@pioneerops98.net,Sales Ops Analyst,2024-10-04,,HS201554,SFCON001554,True,Procurement
+CON000217,ACC000650,Cobalt Analytics 22,Bailey,Torres,bailey.torres2724@cobaltanalytics22.ai,CEO,2025-07-26,LED002724,HS200217,SFCON000217,True,Influencer
+CON002870,ACC000508,Signal Health 89,Quinn,King,quinn.king2870@signalhealth89.co,Marketing Director,2026-06-19,,HS202870,SFCON002870,True,Champion
+CON001629,ACC000176,Pioneer Ops 94,Rowan,Stone,rowan.stone1629@pioneerops94.com,Sales Manager,2024-11-28,,HS201629,SFCON001629,True,Technical Buyer
+CON002542,ACC000201,Clearpath Data 6,Devon,Long,devon.long2542@clearpathdata6.com,RevOps Manager,2025-10-03,,HS202542,SFCON002542,False,User
+CON001602,ACC000021,Bright Health,Emerson,Ward,emerson.ward1602@brighthealth.com,Marketing Director,2024-09-01,,HS201602,SFCON001602,False,Technical Buyer
+CON000575,ACC000588,Ironwood Health 24,Devon,Miller,devon.miller575@ironwoodhealth24.net,VP Sales,2025-08-10,,HS200575,SFCON000575,True,Economic Buyer
+CON000612,ACC000378,Keystone Platform,Devon,Davis,devon.davis612@keystoneplatform.com,CFO,2024-04-07,,HS200612,SFCON000612,True,Technical Buyer
+CON002591,ACC000012,Ironwood Networks,Finley,Young,finley.young2591@ironwoodnetworks.ai,Sales Manager,2025-09-22,,HS202591,SFCON002591,True,User
+CON001226,ACC000212,Nova Cloud,Emerson,Torres,emerson.torres1226@novacloud.net,IT Admin,2026-02-08,,HS201226,SFCON001226,False,Technical Buyer
+CON002574,ACC000633,Catalyst Software 33,Devon,Adams,devon.adams2574@catalystsoftware33.net,VP Sales,2025-03-24,,HS202574,SFCON002574,True,User
+CON001525,ACC000440,Northstar Works,Cameron,Carter,cameron.carter1525@northstarworks.net,IT Admin,2025-09-09,,HS201525,SFCON001525,False,User
+CON003170,ACC000621,Signal Labs 78,Alex,Kim,alex.kim3170@signallabs78.net,Demand Gen Manager,2024-09-02,,HS203170,SFCON003170,False,Procurement
+CON000215,ACC000426,Evergreen Ops 30,Kendall,Torres,kendall.torres2480@evergreenops30.ai,IT Admin,2025-04-09,LED002480,HS200215,SFCON000215,True,User
+CON002629,ACC000230,Nimbus Systems 47,Charlie,Stone,charlie.stone2629@nimbussystems47.com,IT Admin,2025-05-22,,HS202629,SFCON002629,False,Technical Buyer
+CON003581,ACC000501,Nimbus Solutions,Logan,Sullivan,logan.sullivan3581@nimbussolutions.ai,RevOps Manager,2024-05-26,,HS203581,SFCON003581,False,User
+CON000787,ACC000390,Catalyst Works 6,Avery,Wright,avery.wright787@catalystworks6.co,VP Sales,2026-05-27,,HS200787,SFCON000787,True,User
+CON001500,ACC000600,Northstar Networks 48,Maya,Bennett,maya.bennett1500@northstarnetworks4.net,RevOps Manager,2025-05-25,,HS201500,SFCON001500,False,Technical Buyer
+CON000606,ACC000018,BluePeak Dynamics,Elliot,Reed,elliot.reed606@bluepeakdynamics.ai,CFO,2024-04-12,,HS200606,SFCON000606,True,Economic Buyer
+CON003384,ACC000382,Catalyst Works 16,Kendall,Reed,kendall.reed3384@catalystworks16.io,CFO,2024-08-22,,HS203384,SFCON003384,True,Influencer
+CON001055,ACC000495,Atlas Systems 51,Maya,Long,maya.long1055@atlassystems51.com,Sales Ops Analyst,2025-03-13,,HS201055,SFCON001055,True,Technical Buyer
+CON000988,ACC000505,Atlas Health 62,Casey,Carter,casey.carter988@atlashealth62.io,CEO,2025-08-02,,HS200988,SFCON000988,True,Economic Buyer
+CON000203,ACC000500,Summit Markets 10,Sam,Wright,sam.wright1105@summitmarkets10.ai,CFO,2025-10-05,LED001105,HS200203,SFCON000203,True,Champion
+CON001252,ACC000528,Catalyst Data 39,Maya,Long,maya.long1252@catalystdata39.ai,IT Admin,2025-08-22,,HS201252,SFCON001252,True,User
+CON000374,ACC000216,Meridian Ops,Avery,King,avery.king374@meridianops.io,Demand Gen Manager,2026-05-01,,,SFCON000374,True,Champion
+CON001574,ACC000264,Evergreen Health,Emerson,Nelson,emerson.nelson1574@evergreenhealth.ai,CEO,2026-06-13,,HS201574,SFCON001574,True,Procurement
+CON000574,ACC000478,Pioneer Ops 98,Casey,Torres,casey.torres574@pioneerops98.net,Operations Director,2025-04-17,,HS200574,SFCON000574,False,Champion
+CON000304,ACC000350,Keystone Networks 89,Sam,King,sam.king3219@keystonenetworks89.net,CEO,2025-10-27,LED003219,HS200304,SFCON000304,True,User
+CON001194,ACC000469,Nova Markets 92,Finley,Nelson,finley.nelson1194@novamarkets92.com,IT Admin,2024-09-16,,,SFCON001194,True,User
+CON002038,ACC000490,BluePeak Intelligence 9,Riley,Patel,riley.patel2038@bluepeakintelligen.net,Marketing Director,2026-02-22,,HS202038,SFCON002038,True,Influencer
+CON002882,ACC000005,Summit Solutions,Rowan,Brooks,rowan.brooks2882@summitsolutions.ai,Sales Manager,2025-06-28,,HS202882,SFCON002882,False,Champion
+CON001523,ACC000367,Evergreen Ops,Elliot,Miller,elliot.miller1523@evergreenops.net,Sales Ops Analyst,2025-10-25,,HS201523,SFCON001523,True,Technical Buyer
+CON003578,ACC000025,Evergreen Systems,Morgan,Bell,morgan.bell3578@evergreensystems.com,Operations Director,2025-04-08,,HS203578,SFCON003578,True,User
+CON001576,ACC000641,Nimbus Data 25,Charlie,Young,charlie.young1576@nimbusdata25.net,Sales Ops Analyst,2024-09-10,,HS201576,SFCON001576,False,Technical Buyer
+CON000695,ACC000147,Vertex Health 82,Quinn,Torres,quinn.torres695@vertexhealth82.com,RevOps Manager,2026-03-21,,HS200695,SFCON000695,True,Technical Buyer
+CON000118,ACC000607,BluePeak Ops 21,Maya,Bell,maya.bell1138@bluepeakops21.net,Operations Director,2026-01-08,LED001138,HS200118,SFCON000118,True,Procurement
+CON002062,ACC000158,Summit Markets 80,Kendall,Murphy,kendall.murphy2062@summitmarkets80.co,CEO,2025-02-13,,HS202062,SFCON002062,True,Procurement
+CON002910,ACC000554,Pioneer Markets,Blake,Patel,blake.patel2910@pioneermarkets.net,RevOps Manager,2025-05-28,,HS202910,SFCON002910,True,User
+CON000091,ACC000510,Ironwood Group 82,Riley,Chen,riley.chen80@ironwoodgroup82.io,Demand Gen Manager,2026-04-08,LED000080,HS200091,SFCON000091,True,User
+CON000761,ACC000131,Bright Cloud 66,Blake,Adams,blake.adams761@brightcloud66.net,Sales Ops Analyst,2025-01-21,,HS200761,SFCON000761,True,Economic Buyer
+CON000703,ACC000299,Meridian Health 25,Morgan,Reed,morgan.reed703@meridianhealth25.io,Sales Manager,2024-06-14,,HS200703,SFCON000703,True,Influencer
+CON003371,ACC000132,Summit Data,Drew,Brooks,drew.brooks3371@summitdata.com,CFO,2024-03-24,,HS203371,SFCON003371,True,Economic Buyer
+CON002089,ACC000127,BluePeak Solutions 2,Taylor,Reed,taylor.reed2089@bluepeaksolutions2.ai,RevOps Manager,2024-06-11,,HS202089,SFCON002089,True,Influencer
+CON002114,ACC000086,Atlas Health,Skyler,Adams,skyler.adams2114@atlashealth.net,IT Admin,2025-11-26,,HS202114,SFCON002114,True,Influencer
+CON002927,ACC000522,Signal Systems 40,Bailey,Ross,bailey.ross2927@signalsystems40.co,Sales Manager,2024-07-22,,HS202927,SFCON002927,True,Influencer
+CON002047,ACC000269,Bright Labs 38,Jordan,Bennett,jordan.bennett2047@brightlabs38.co,Sales Manager,2026-04-08,,HS202047,SFCON002047,True,Champion
+CON000150,ACC000210,Northstar Software 45,Logan,King,logan.king1616@northstarsoftware4.co,CFO,2025-05-31,LED001616,HS200150,SFCON000150,True,User
+CON001163,ACC000648,Atlas Intelligence 43,Rowan,Sullivan,rowan.sullivan1163@atlasintelligence4.net,Demand Gen Manager,2024-08-12,,HS201163,SFCON001163,True,Champion
+CON001700,ACC000314,Apex Works 61,Skyler,Murphy,skyler.murphy1700@apexworks61.net,RevOps Manager,2025-12-08,,HS201700,,True,Champion
+CON001735,ACC000164,Northstar Health 86,Casey,Young,casey.young1735@northstarhealth86.com,CEO,2025-04-24,,HS201735,SFCON001735,True,Economic Buyer
+CON003434,ACC000542,Cobalt Works 67,Kendall,Kim,kendall.kim3434@cobaltworks67.net,CFO,2025-07-09,,HS203434,SFCON003434,False,User
+CON000616,ACC000404,Cobalt Cloud,Quinn,Brooks,quinn.brooks616@cobaltcloud.net,Operations Director,2026-01-05,,HS200616,SFCON000616,True,User
+CON002328,ACC000455,Signal Markets 71,Jamie,Ward,jamie.ward2328@signalmarkets71.ai,CEO,2025-10-20,,HS202328,SFCON002328,False,Economic Buyer
+CON002503,ACC000414,Evergreen Networks 99,Jamie,Chen,jamie.chen2503@evergreennetworks9.co,Marketing Director,2024-03-02,,HS202503,SFCON002503,True,User
+CON001391,ACC000486,Vertex Platform 6,Devon,Reed,devon.reed1391@vertexplatform6.co,CEO,2025-12-03,,HS201391,,True,Procurement
+CON003458,ACC000479,Evergreen Markets 75,Riley,Ward,riley.ward3458@evergreenmarkets75.io,CEO,2024-10-09,,HS203458,SFCON003458,True,Technical Buyer
+CON001059,ACC000043,Summit Analytics 90,Reese,James,reese.james1059@summitanalytics90.io,Operations Director,2024-02-24,,HS201059,SFCON001059,True,Procurement
+CON002869,ACC000040,Nimbus Markets,Hayden,King,hayden.king2869@nimbusmarkets.ai,IT Admin,2026-01-27,,HS202869,SFCON002869,True,Technical Buyer
+CON002953,ACC000237,Northstar Markets,Cameron,King,cameron.king2953@northstarmarkets.co,CEO,2024-08-12,,HS202953,,True,Champion
+CON000764,ACC000139,Keystone Networks,Finley,Chen,finley.chen764@keystonenetworks.io,CFO,2026-01-25,,HS200764,SFCON000764,True,Economic Buyer
+CON000419,ACC000574,Northstar Solutions 73,Taylor,Carter,taylor.carter419@northstarsolutions.com,IT Admin,2025-01-05,,HS200419,SFCON000419,True,Technical Buyer
+CON001931,ACC000353,Pioneer Solutions,Kendall,Long,kendall.long1931@pioneersolutions.com,IT Admin,2025-04-03,,HS201931,SFCON001931,True,Technical Buyer
+CON000599,ACC000474,Atlas Analytics,Cameron,Ross,cameron.ross599@atlasanalytics.co,IT Admin,2025-10-23,,HS200599,SFCON000599,False,Procurement
+CON000677,ACC000273,Summit Cloud,Jordan,Ross,jordan.ross677@summitcloud.com,Marketing Director,2026-02-16,,,SFCON000677,True,Economic Buyer
+CON000353,ACC000009,Nova Markets,Logan,Ross,logan.ross353@novamarkets.com,VP Sales,2024-05-26,,HS200353,SFCON000353,True,Influencer
+CON001794,ACC000520,Evergreen Labs,Kendall,Torres,kendall.torres1794@evergreenlabs.net,Marketing Director,2024-06-23,,HS201794,SFCON001794,True,Procurement
+CON000444,ACC000390,Catalyst Works 6,Logan,Ward,logan.ward444@catalystworks6.co,Marketing Director,2025-06-25,,HS200444,SFCON000444,False,Champion
+CON000777,ACC000063,Nova Analytics,Skyler,Long,skyler.long777@novaanalytics.io,IT Admin,2025-01-01,,HS200777,SFCON000777,True,User
+CON000726,ACC000210,Northstar Software 45,Taylor,Miller,taylor.miller726@northstarsoftware4.co,CEO,2024-01-23,,HS200726,SFCON000726,True,User
+CON002866,ACC000509,Vertex Software 45,Jamie,Miller,jamie.miller2866@vertexsoftware45.co,Marketing Director,2024-07-19,,HS202866,SFCON002866,True,Influencer
+CON002393,ACC000303,Catalyst Dynamics 19,Logan,Wright,logan.wright2393@catalystdynamics19.co,RevOps Manager,2026-02-01,,HS202393,SFCON002393,True,User
+CON000583,ACC000072,Vertex Software,Maya,Bell,maya.bell583@vertexsoftware.com,CFO,2024-02-04,,HS200583,SFCON000583,True,Procurement
+CON003337,ACC000272,Cobalt Platform 66,Devon,Patel,devon.patel3337@cobaltplatform66.co,CFO,2025-06-26,,HS203337,SFCON003337,True,Procurement
+CON003552,ACC000522,Signal Systems 40,Harper,Chen,harper.chen3552@signalsystems40.co,CFO,2025-10-20,,HS203552,SFCON003552,True,Economic Buyer
+CON003598,ACC000255,BluePeak Labs,Alex,Gray,alex.gray3598@bluepeaklabs.com,Demand Gen Manager,2025-03-21,,HS203598,SFCON003598,True,Technical Buyer
+CON000315,ACC000250,Atlas Networks,Riley,Long,riley.long1225@apexops5.io,CFO,2026-05-13,LED001225,HS200315,SFCON000315,True,Champion
+CON000817,ACC000503,Keystone Platform 51,Reese,Brooks,reese.brooks817@keystoneplatform51.com,IT Admin,2025-04-07,,HS200817,SFCON000817,True,Technical Buyer
+CON000910,ACC000494,Northstar Markets 77,Devon,Kim,devon.kim910@northstarmarkets77.net,Operations Director,2025-06-16,,HS200910,SFCON000910,True,User
+CON000280,ACC000627,Clearpath Platform 74,Cameron,Davis,cameron.davis420@cobaltsoftware99.net,Sales Ops Analyst,2025-12-08,LED000420,HS200280,SFCON000280,True,Technical Buyer
+CON001908,ACC000439,Signal Data 41,Bailey,Stone,bailey.stone1908@signaldata41.co,Sales Manager,2026-03-18,,HS201908,SFCON001908,True,Procurement
+CON001761,ACC000463,Catalyst Health 65,Rowan,Nelson,rowan.nelson1761@catalysthealth65.io,Sales Manager,2024-10-04,,HS201761,SFCON001761,True,Champion
+CON002653,ACC000510,Ironwood Group 82,Hayden,Stone,hayden.stone2653@ironwoodgroup82.io,CFO,2025-03-25,,HS202653,SFCON002653,True,Technical Buyer
+CON000973,ACC000643,Meridian Software,Maya,Bennett,maya.bennett973@meridiansoftware.io,CFO,2026-03-01,,,SFCON000973,True,Champion
+CON001755,ACC000432,Apex Platform 96,Taylor,Murphy,taylor.murphy1755@apexplatform96.ai,Demand Gen Manager,2024-03-04,,HS201755,SFCON001755,True,Economic Buyer
+CON000020,ACC000640,Northstar Markets 56,Blake,Sullivan,blake.sullivan79@northstarmarkets56.io,IT Admin,2025-02-05,LED000079,HS200020,SFCON000020,False,Economic Buyer
+CON000905,ACC000209,Vertex Analytics 84,Cameron,Davis,cameron.davis905@vertexanalytics84.co,IT Admin,2026-03-04,,HS200905,SFCON000905,True,Economic Buyer
+CON002702,ACC000146,Bright Markets 38,Elliot,Davis,elliot.davis2702@brightmarkets38.io,RevOps Manager,2025-09-25,,HS202702,SFCON002702,False,Procurement
+CON003538,ACC000165,Catalyst Group,Cameron,Long,cameron.long3538@catalystgroup.com,Demand Gen Manager,2026-01-15,,HS203538,SFCON003538,False,User
+CON001993,ACC000348,BluePeak Intelligence 8,Kendall,Murphy,kendall.murphy1993@bluepeakintelligen.com,CFO,2024-11-24,,HS201993,SFCON001993,True,Influencer
+CON000847,ACC000428,Catalyst Labs 53,Parker,Davis,parker.davis847@catalystlabs53.com,IT Admin,2026-03-04,,HS200847,SFCON000847,True,Economic Buyer
+CON003558,ACC000561,Atlas Data 24,Hayden,Ward,hayden.ward3558@atlasdata24.com,IT Admin,2026-06-30,,HS203558,SFCON003558,True,Champion
+CON001739,ACC000462,Northstar Systems 91,Sam,King,sam.king1739@northstarsystems91.net,RevOps Manager,2025-12-26,,HS201739,SFCON001739,True,Technical Buyer
+CON001918,ACC000180,Northstar Solutions 91,Logan,Gray,logan.gray1918@northstarsolutions.ai,IT Admin,2024-08-18,,HS201918,SFCON001918,True,Champion
+CON002204,ACC000567,Pioneer Works 29,Devon,Carter,devon.carter2204@pioneerworks29.net,RevOps Manager,2025-01-27,,HS202204,SFCON002204,True,User
+CON002034,ACC000292,Apex Networks 54,Quinn,Patel,quinn.patel2034@apexnetworks54.co,CFO,2026-05-05,,HS202034,SFCON002034,True,Influencer
+CON002906,ACC000236,Pioneer Ops,Finley,Price,finley.price2906@pioneerops.co,CEO,2025-11-06,,HS202906,SFCON002906,False,User
+CON003498,ACC000569,Summit Platform 34,Rowan,Long,rowan.long3498@summitplatform34.net,VP Sales,2024-08-27,,HS203498,SFCON003498,True,User
+CON003555,ACC000143,Atlas Ops,Avery,Bennett,avery.bennett3555@atlasops.ai,Operations Director,2025-07-23,,HS203555,SFCON003555,False,Economic Buyer
+CON002980,ACC000417,Nimbus Analytics,Rowan,Brooks,rowan.brooks2980@nimbusanalytics.ai,RevOps Manager,2024-05-22,,HS202980,SFCON002980,False,Technical Buyer
+CON003187,ACC000592,Meridian Intelligence 66,Jamie,Reed,jamie.reed3187@meridianintelligen.com,Sales Ops Analyst,2024-09-28,,HS203187,SFCON003187,True,User
+CON000907,ACC000092,Ironwood Software,Avery,Stone,avery.stone907@ironwoodsoftware.ai,Marketing Director,2024-02-16,,HS200907,SFCON000907,True,Economic Buyer
+CON001524,ACC000491,Vertex Systems 24,Finley,Bell,finley.bell1524@vertexsystems24.io,RevOps Manager,2024-10-23,,HS201524,SFCON001524,True,Technical Buyer
+CON001862,ACC000644,Ironwood Cloud 82,Devon,Perry,devon.perry1862@ironwoodcloud82.net,VP Sales,2024-02-05,,HS201862,SFCON001862,True,Technical Buyer
+CON001896,ACC000073,Evergreen Data,Morgan,Nelson,morgan.nelson1896@evergreendata.co,Marketing Director,2024-04-26,,HS201896,SFCON001896,True,User
+CON000208,ACC000329,Catalyst Software,Emerson,Miller,emerson.miller1794@catalystsoftware.co,CFO,2025-05-10,LED001794,HS200208,SFCON000208,True,Technical Buyer
+CON000193,ACC000168,Ironwood Platform 56,Elliot,Ross,elliot.ross1797@ironwoodplatform56.com,Sales Manager,2026-04-10,LED001797,HS200193,SFCON000193,True,Economic Buyer
+CON001006,ACC000527,Ironwood Cloud 13,Avery,Parker,avery.parker1006@ironwoodcloud13.net,Marketing Director,2026-06-17,,HS201006,SFCON001006,True,Procurement
+CON001864,ACC000563,Apex Group 61,Emerson,Torres,emerson.torres1864@apexgroup61.io,CEO,2024-05-19,,HS201864,SFCON001864,True,Economic Buyer
+CON003203,ACC000597,Meridian Platform 48,Alex,Ross,alex.ross3203@meridianplatform48.net,CFO,2024-12-28,,HS203203,SFCON003203,True,Technical Buyer
+CON001705,ACC000576,Cobalt Labs 91,Logan,Kim,logan.kim1705@cobaltlabs91.com,RevOps Manager,2024-08-17,,HS201705,SFCON001705,False,Influencer
+CON002554,ACC000176,Pioneer Ops 94,Harper,Stone,harper.stone2554@pioneerops94.com,Operations Director,2025-11-10,,HS202554,SFCON002554,True,Influencer
+CON000531,ACC000151,Cobalt Cloud 98,Jordan,Murphy,jordan.murphy531@cobaltcloud98.io,Sales Manager,2024-11-21,,HS200531,SFCON000531,True,Champion
+CON003188,ACC000446,Northstar Ops 94,Avery,Miller,avery.miller3188@northstarops94.co,Sales Manager,2025-04-23,,HS203188,SFCON003188,True,Procurement
+CON002410,ACC000196,Summit Software,Reese,Davis,reese.davis2410@summitsoftware.ai,Demand Gen Manager,2026-06-05,,HS202410,SFCON002410,True,Economic Buyer
+CON002371,ACC000355,Cobalt Group,Harper,Davis,harper.davis2371@cobaltgroup.co,IT Admin,2024-07-09,,HS202371,SFCON002371,True,Economic Buyer
+CON000647,ACC000445,Clearpath Cloud,Rowan,Torres,rowan.torres647@clearpathcloud.com,CEO,2025-12-20,,HS200647,SFCON000647,True,Economic Buyer
+CON003039,ACC000552,Evergreen Group 93,Hayden,Davis,hayden.davis3039@evergreengroup93.net,IT Admin,2025-06-06,,HS203039,SFCON003039,True,Champion
+CON002100,ACC000050,Clearpath Intelligence,Avery,Carter,avery.carter2100@clearpathintellige.ai,CEO,2024-07-25,,HS202100,SFCON002100,False,Economic Buyer
+CON002758,ACC000558,Summit Dynamics 97,Jamie,Parker,jamie.parker2758@summitdynamics97.net,Sales Ops Analyst,2024-07-29,,HS202758,SFCON002758,True,Influencer
+CON001438,ACC000415,Nimbus Software 7,Jordan,Chen,jordan.chen1438@nimbussoftware7.com,Demand Gen Manager,2025-06-02,,HS201438,,True,Champion
+CON001141,ACC000649,Atlas Data 82,Elliot,Bell,elliot.bell1141@atlasdata82.io,CEO,2025-03-08,,HS201141,SFCON001141,True,Procurement
+CON002386,ACC000635,Nimbus Markets 25,Quinn,Patel,quinn.patel2386@nimbusmarkets25.net,Operations Director,2025-01-16,,HS202386,SFCON002386,True,User
+CON003243,ACC000353,Pioneer Solutions,Elliot,Patel,elliot.patel3243@pioneersolutions.com,CEO,2024-01-05,,HS203243,SFCON003243,True,Procurement
+CON000652,ACC000412,Bright Dynamics 65,Rowan,Ward,rowan.ward652@brightdynamics65.co,CFO,2025-11-20,,HS200652,SFCON000652,True,Procurement
+CON000890,ACC000445,Clearpath Cloud,Riley,Ross,riley.ross890@clearpathcloud.com,Marketing Director,2025-10-01,,HS200890,SFCON000890,False,Procurement
+CON000640,ACC000004,Clearpath Solutions,Charlie,Foster,charlie.foster640@clearpathsolutions.net,CFO,2026-06-29,,HS200640,SFCON000640,False,Influencer
+CON001495,ACC000492,Bright Data,Parker,Wright,parker.wright1495@brightdata.com,Demand Gen Manager,2025-02-16,,HS201495,SFCON001495,True,User
+CON001392,ACC000442,Apex Platform 59,Rowan,Young,rowan.young1392@apexplatform59.net,Sales Manager,2026-01-28,,HS201392,,True,Procurement
+CON003460,ACC000340,Summit Health 69,Harper,Foster,harper.foster3460@summithealth69.io,Sales Ops Analyst,2025-03-18,,HS203460,SFCON003460,True,Influencer
+CON001897,ACC000213,Northstar Networks,Finley,King,finley.king1897@northstarnetworks.co,Sales Ops Analyst,2026-03-31,,HS201897,SFCON001897,True,Influencer
+CON000439,ACC000243,Clearpath Labs,Riley,Patel,riley.patel439@clearpathlabs.io,CFO,2024-07-03,,,SFCON000439,True,User
+CON001723,ACC000005,Summit Solutions,Taylor,Reed,taylor.reed1723@summitsolutions.ai,VP Sales,2025-04-19,,HS201723,SFCON001723,True,Economic Buyer
+CON002999,ACC000146,Bright Markets 38,Rowan,Torres,rowan.torres2999@brightmarkets38.io,Sales Manager,2025-03-26,,HS202999,,True,Procurement
+CON003222,ACC000423,BluePeak Intelligence,Jamie,Gray,jamie.gray3222@bluepeakintelligen.com,VP Sales,2024-03-24,,HS203222,SFCON003222,True,Procurement
+CON001535,ACC000510,Ironwood Group 82,Skyler,Foster,skyler.foster1535@ironwoodgroup82.io,IT Admin,2025-01-05,,HS201535,SFCON001535,True,Champion
+CON000171,ACC000267,Nova Software,Morgan,Parker,morgan.parker3599@novasoftware.io,Marketing Director,2025-11-03,LED003599,HS200171,SFCON000171,True,Procurement
+CON002919,ACC000648,Atlas Intelligence 43,Bailey,James,bailey.james2919@atlasintelligence4.net,Sales Manager,2025-05-12,,HS202919,SFCON002919,False,Influencer
+CON003262,ACC000135,Ironwood Labs,Kendall,King,kendall.king3262@ironwoodlabs.net,Sales Ops Analyst,2026-03-15,,HS203262,SFCON003262,True,User
+CON000618,ACC000349,Nova Systems 83,Harper,Nelson,harper.nelson618@novasystems83.ai,IT Admin,2025-11-29,,HS200618,SFCON000618,True,Economic Buyer
+CON000587,ACC000027,Meridian Systems,Emerson,Reed,emerson.reed587@meridiansystems.co,Sales Manager,2026-02-05,,HS200587,SFCON000587,False,Procurement
+CON001365,ACC000428,Catalyst Labs 53,Avery,Torres,avery.torres1365@catalystlabs53.com,Marketing Director,2024-11-06,,HS201365,SFCON001365,True,User
+CON002076,ACC000334,Ironwood Group 34,Alex,Parker,alex.parker2076@ironwoodgroup34.co,Sales Ops Analyst,2024-05-23,,HS202076,SFCON002076,True,Technical Buyer
+CON002799,ACC000317,Cobalt Health,Jamie,Davis,jamie.davis2799@cobalthealth.net,CEO,2025-12-15,,HS202799,SFCON002799,True,User
+CON000334,ACC000346,Vertex Platform,Emerson,Miller,emerson.miller334@vertexplatform.com,Marketing Director,2024-05-29,,,SFCON000334,True,Influencer
+CON001678,ACC000063,Nova Analytics,Casey,Ross,casey.ross1678@novaanalytics.io,Sales Manager,2026-01-03,,HS201678,SFCON001678,False,Champion
+CON001579,ACC000303,Catalyst Dynamics 19,Jamie,Stone,jamie.stone1579@catalystdynamics19.co,VP Sales,2025-02-14,,HS201579,SFCON001579,True,Technical Buyer
+CON000835,ACC000171,BluePeak Ops,Devon,King,devon.king835@bluepeakops.com,Sales Ops Analyst,2024-08-22,,HS200835,SFCON000835,False,Influencer
+CON000664,ACC000452,Apex Solutions 9,Alex,Ross,alex.ross664@apexsolutions9.co,CFO,2024-01-29,,HS200664,SFCON000664,True,Economic Buyer
+CON002567,ACC000535,Ironwood Health 54,Hayden,Young,hayden.young2567@ironwoodhealth54.co,VP Sales,2025-04-30,,HS202567,SFCON002567,True,Procurement
+CON000507,ACC000072,Vertex Software,Cameron,Parker,cameron.parker507@vertexsoftware.com,IT Admin,2024-11-24,,HS200507,SFCON000507,False,Economic Buyer
+CON000288,ACC000146,Bright Markets 38,Jordan,King,jordan.king3496@brightmarkets38.io,VP Sales,2025-10-15,LED003496,HS200288,SFCON000288,True,Technical Buyer
+CON002255,ACC000371,BluePeak Cloud,Charlie,Ross,charlie.ross2255@bluepeakcloud.ai,VP Sales,2026-04-02,,HS202255,SFCON002255,True,Influencer
+CON000885,ACC000252,Evergreen Cloud 80,Casey,Sullivan,casey.sullivan885@evergreencloud80.com,CEO,2025-03-26,,HS200885,SFCON000885,True,Influencer
+CON002887,ACC000127,BluePeak Solutions 2,Charlie,Wright,charlie.wright2887@bluepeaksolutions2.ai,Sales Manager,2024-05-10,,HS202887,SFCON002887,True,Technical Buyer
+CON001089,ACC000519,Summit Intelligence 93,Morgan,Gray,morgan.gray1089@summitintelligence.com,VP Sales,2025-08-22,,HS201089,SFCON001089,True,Economic Buyer
+CON001545,ACC000027,Meridian Systems,Parker,Wright,parker.wright1545@meridiansystems.co,IT Admin,2025-01-27,,HS201545,SFCON001545,True,Technical Buyer
+CON003234,ACC000143,Atlas Ops,Rowan,James,rowan.james3234@atlasops.ai,Demand Gen Manager,2025-02-06,,HS203234,SFCON003234,False,Technical Buyer
+CON001070,ACC000149,Signal Cloud 71,Parker,Adams,parker.adams1070@signalcloud71.ai,Marketing Director,2024-06-29,,HS201070,SFCON001070,True,User
+CON001817,ACC000494,Northstar Markets 77,Emerson,King,emerson.king1817@northstarmarkets77.net,Sales Manager,2025-07-11,,HS201817,SFCON001817,True,Champion
+CON001044,ACC000084,Summit Systems,Kendall,Ross,kendall.ross1044@summitsystems.ai,CFO,2026-05-03,,HS201044,SFCON001044,False,User
+CON002306,ACC000504,Catalyst Markets,Emerson,Foster,emerson.foster2306@catalystmarkets.ai,Demand Gen Manager,2025-06-25,,HS202306,SFCON002306,True,Champion
+CON001571,ACC000504,Catalyst Markets,Devon,Stone,devon.stone1571@catalystmarkets.ai,Marketing Director,2024-08-11,,HS201571,SFCON001571,True,Technical Buyer
+CON001819,ACC000375,Apex Group,Logan,King,logan.king1819@apexgroup.com,Operations Director,2024-11-13,,HS201819,SFCON001819,True,Procurement
+CON000938,ACC000065,Keystone Software 93,Cameron,Bell,cameron.bell938@keystonesoftware93.co,Sales Manager,2024-03-23,,HS200938,SFCON000938,True,Technical Buyer
+CON003133,ACC000225,Keystone Data,Casey,Ward,casey.ward3133@keystonedata.com,Demand Gen Manager,2024-02-26,,HS203133,SFCON003133,True,Technical Buyer
+CON002576,ACC000147,Vertex Health 82,Alex,Bell,alex.bell2576@vertexhealth82.com,Sales Manager,2025-09-22,,HS202576,SFCON002576,True,Champion
+CON003448,ACC000329,Catalyst Software,Avery,Bell,avery.bell3448@catalystsoftware.co,RevOps Manager,2024-08-17,,HS203448,SFCON003448,True,Economic Buyer
+CON000115,ACC000163,Catalyst Group 20,Hayden,Miller,hayden.miller3688@catalystgroup20.net,RevOps Manager,2026-04-18,LED003688,HS200115,SFCON000115,True,Economic Buyer
+CON001555,ACC000283,Evergreen Group,Taylor,Patel,taylor.patel1555@evergreengroup.co,CEO,2026-01-24,,HS201555,SFCON001555,True,User
+CON002342,ACC000510,Ironwood Group 82,Skyler,Long,skyler.long2342@ironwoodgroup82.io,Demand Gen Manager,2026-01-05,,HS202342,SFCON002342,True,Influencer
+CON003523,ACC000101,Bright Labs 72,Quinn,Adams,quinn.adams3523@brightlabs72.ai,Sales Ops Analyst,2026-03-05,,HS203523,SFCON003523,True,Influencer
+CON001029,ACC000147,Vertex Health 82,Quinn,Nelson,quinn.nelson1029@vertexhealth82.com,Sales Ops Analyst,2026-01-01,,HS201029,,True,Procurement
+CON001364,ACC000240,Atlas Works,Reese,Gray,reese.gray1364@atlasworks.co,CFO,2024-06-15,,HS201364,SFCON001364,True,Champion
+CON001858,ACC000398,Cobalt Platform 29,Alex,Parker,alex.parker1858@cobaltplatform29.co,CEO,2024-08-07,,HS201858,SFCON001858,True,Economic Buyer
+CON003309,ACC000442,Apex Platform 59,Jordan,Torres,jordan.torres3309@apexplatform59.net,VP Sales,2024-06-30,,HS203309,SFCON003309,False,User
+CON000917,ACC000585,Atlas Cloud 74,Cameron,Parker,cameron.parker917@atlascloud74.net,CEO,2024-05-25,,HS200917,SFCON000917,False,Economic Buyer
+CON000793,ACC000379,Evergreen Networks 48,Hayden,Bell,hayden.bell793@evergreennetworks4.ai,Sales Ops Analyst,2024-06-17,,HS200793,SFCON000793,True,Economic Buyer
+CON002118,ACC000025,Evergreen Systems,Alex,Bennett,alex.bennett2118@evergreensystems.com,Sales Manager,2024-01-05,,HS202118,SFCON002118,True,Technical Buyer
+CON002901,ACC000229,BluePeak Systems,Jamie,Parker,jamie.parker2901@bluepeaksystems.co,Sales Manager,2024-09-22,,HS202901,SFCON002901,True,Procurement
+CON000371,ACC000433,Catalyst Ops,Logan,Davis,logan.davis371@catalystops.co,Marketing Director,2024-01-25,,HS200371,SFCON000371,True,Technical Buyer
+CON001787,ACC000556,Signal Solutions 98,Morgan,Price,morgan.price1787@signalsolutions98.io,Operations Director,2026-02-25,,HS201787,SFCON001787,True,Economic Buyer
+CON000330,ACC000241,Clearpath Labs 95,Bailey,Murphy,bailey.murphy330@clearpathlabs95.ai,Demand Gen Manager,2025-03-11,,HS200330,SFCON000330,True,Influencer
+CON000535,ACC000159,Pioneer Software,Parker,Ward,parker.ward535@pioneersoftware.co,VP Sales,2026-06-10,,HS200535,SFCON000535,False,Economic Buyer
+CON003117,ACC000439,Signal Data 41,Avery,James,avery.james3117@signaldata41.co,VP Sales,2026-03-14,,HS203117,SFCON003117,True,Champion
+CON003109,ACC000089,Ironwood Data,Harper,Foster,harper.foster3109@ironwooddata.co,IT Admin,2026-04-24,,HS203109,SFCON003109,True,Procurement
+CON000224,ACC000444,Cobalt Solutions 11,Sam,Ross,sam.ross1933@cobaltsolutions11.com,Sales Ops Analyst,2025-02-23,LED001933,HS200224,SFCON000224,True,Influencer
+CON001930,ACC000121,Bright Software,Jamie,Chen,jamie.chen1930@brightsoftware.ai,Sales Ops Analyst,2024-10-08,,HS201930,SFCON001930,False,Economic Buyer
+CON001036,ACC000279,Ironwood Solutions 85,Parker,Stone,parker.stone1036@ironwoodsolutions8.net,CFO,2026-03-05,,HS201036,SFCON001036,True,Influencer
+CON003142,ACC000409,Cobalt Health 19,Charlie,Patel,charlie.patel3142@cobalthealth19.com,IT Admin,2025-12-22,,HS203142,SFCON003142,True,Influencer
+CON003414,ACC000324,Atlas Cloud,Taylor,Ward,taylor.ward3414@atlascloud.co,CEO,2025-12-26,,HS203414,SFCON003414,True,Champion
+CON000262,ACC000558,Summit Dynamics 97,Riley,Ward,riley.ward2076@nimbusmarkets.ai,VP Sales,2025-03-13,LED003006,HS200262,,False,Influencer
+CON000776,ACC000112,Summit Data 90,Alex,Chen,alex.chen776@summitdata90.ai,Operations Director,2025-02-22,,,SFCON000776,False,Influencer
+CON002590,ACC000157,Meridian Data 49,Skyler,Chen,skyler.chen2590@meridiandata49.net,VP Sales,2025-12-18,,,SFCON002590,True,User
+CON002728,ACC000227,Pioneer Dynamics,Avery,Bell,avery.bell2728@pioneerdynamics.net,Demand Gen Manager,2025-04-10,,HS202728,SFCON002728,True,Economic Buyer
+CON003388,ACC000513,Ironwood Platform,Jamie,Bennett,jamie.bennett3388@ironwoodplatform.com,Sales Manager,2025-09-21,,HS203388,SFCON003388,True,Economic Buyer
+CON002860,ACC000199,Nova Cloud 58,Drew,Sullivan,drew.sullivan2860@novacloud58.com,Operations Director,2024-09-25,,HS202860,SFCON002860,True,Economic Buyer
+CON003473,ACC000177,Pioneer Health,Logan,Young,logan.young3473@pioneerhealth.net,Operations Director,2025-05-03,,HS203473,SFCON003473,True,User
+CON001736,ACC000589,Nimbus Analytics 95,Jamie,Murphy,jamie.murphy1736@nimbusanalytics95.com,Demand Gen Manager,2026-03-23,,HS201736,SFCON001736,True,Influencer
+CON001005,ACC000345,Evergreen Labs 24,Casey,Torres,casey.torres1005@evergreenlabs24.ai,Sales Manager,2026-01-14,,HS201005,SFCON001005,True,Technical Buyer
+CON002662,ACC000452,Apex Solutions 9,Hayden,Bell,hayden.bell2662@apexsolutions9.co,Demand Gen Manager,2024-10-08,,HS202662,SFCON002662,True,Economic Buyer
+CON001814,ACC000361,Signal Markets,Casey,Miller,casey.miller1814@signalmarkets.ai,CFO,2026-03-19,,HS201814,SFCON001814,True,Influencer
+CON002946,ACC000550,Summit Platform 86,Maya,Wright,maya.wright2946@summitplatform86.net,RevOps Manager,2025-01-15,,HS202946,SFCON002946,True,Influencer
+CON001595,ACC000385,Clearpath Labs 47,Rowan,Young,rowan.young1595@clearpathlabs47.com,Demand Gen Manager,2025-03-06,,HS201595,SFCON001595,True,Champion
+CON003391,ACC000430,Clearpath Intelligence 77,Skyler,Price,skyler.price3391@clearpathintellige.co,Marketing Director,2025-05-25,,HS203391,SFCON003391,False,User
+CON003341,ACC000106,Clearpath Data,Parker,Foster,parker.foster3341@clearpathdata.ai,Sales Ops Analyst,2025-05-27,,HS203341,SFCON003341,True,Influencer
+CON001165,ACC000536,Nova Systems,Finley,Bennett,finley.bennett1165@novasystems.net,RevOps Manager,2025-05-21,,HS201165,SFCON001165,False,Champion
+CON000084,ACC000520,Evergreen Labs,Avery,James,avery.james1904@evergreenlabs.net,CEO,2026-06-02,LED001904,HS200084,SFCON000084,False,User
+CON000289,ACC000225,Keystone Data,Devon,Davis,devon.davis2152@evergreenanalytics.io,VP Sales,2026-05-04,LED002152,HS200289,SFCON000289,True,Influencer
+CON001863,ACC000385,Clearpath Labs 47,Reese,Kim,reese.kim1863@clearpathlabs47.com,Demand Gen Manager,2026-06-30,,HS201863,SFCON001863,True,User
+CON001669,ACC000131,Bright Cloud 66,Rowan,Murphy,rowan.murphy1669@brightcloud66.net,Sales Manager,2024-12-06,,HS201669,SFCON001669,True,User
+CON000189,ACC000304,Evergreen Markets 98,Emerson,Bell,emerson.bell124@northstarlabs.io,Marketing Director,2025-10-22,LED000124,HS200189,SFCON000189,True,Technical Buyer
+CON000454,ACC000355,Cobalt Group,Sam,Parker,sam.parker454@cobaltgroup.co,Sales Manager,2024-12-11,,HS200454,SFCON000454,False,User
+CON001697,ACC000149,Signal Cloud 71,Skyler,Nelson,skyler.nelson1697@signalcloud71.ai,Demand Gen Manager,2025-11-21,,HS201697,SFCON001697,True,Economic Buyer
+CON000096,ACC000521,Summit Ops 58,Kendall,Kim,kendall.kim3308@summitops58.co,CEO,2026-01-28,LED003308,HS200096,SFCON000096,False,Influencer
+CON002395,ACC000426,Evergreen Ops 30,Bailey,Ross,bailey.ross2395@evergreenops30.ai,Marketing Director,2024-11-15,,HS202395,SFCON002395,True,Influencer
+CON002471,ACC000276,BluePeak Data 21,Emerson,Reed,emerson.reed2471@bluepeakdata21.net,Marketing Director,2026-06-14,,HS202471,SFCON002471,False,Technical Buyer
+CON001549,ACC000519,Summit Intelligence 93,Kendall,Reed,kendall.reed1549@summitintelligence.com,Sales Ops Analyst,2026-03-20,,HS201549,SFCON001549,False,User
+CON002456,ACC000123,Catalyst Networks,Cameron,Price,cameron.price2456@catalystnetworks.ai,Operations Director,2025-05-13,,HS202456,SFCON002456,True,Influencer
+CON001353,ACC000372,Cobalt Health 95,Avery,Miller,avery.miller1353@cobalthealth95.io,Marketing Director,2026-05-04,,HS201353,SFCON001353,True,Influencer
+CON001532,ACC000539,Nimbus Labs 66,Maya,Nelson,maya.nelson1532@nimbuslabs66.io,VP Sales,2025-08-03,,HS201532,SFCON001532,True,Economic Buyer
+CON001104,ACC000538,Northstar Markets 65,Morgan,Wright,morgan.wright1104@northstarmarkets65.io,CFO,2026-06-16,,HS201104,SFCON001104,True,User
+CON002489,ACC000022,Summit Dynamics,Bailey,Bennett,bailey.bennett2489@summitdynamics.io,Operations Director,2024-01-17,,HS202489,SFCON002489,True,Champion
+CON000839,ACC000620,Bright Networks 83,Kendall,James,kendall.james839@brightnetworks83.co,CFO,2024-04-28,,HS200839,SFCON000839,True,Champion
+CON001238,ACC000090,Cobalt Solutions,Alex,Young,alex.young1238@cobaltsolutions.co,Marketing Director,2026-01-30,,HS201238,SFCON001238,True,Technical Buyer
+CON000903,ACC000090,Cobalt Solutions,Harper,Kim,harper.kim903@cobaltsolutions.co,Marketing Director,2025-07-23,,HS200903,SFCON000903,False,Procurement
+CON000711,ACC000542,Cobalt Works 67,Alex,Ward,alex.ward711@cobaltworks67.net,VP Sales,2024-03-21,,HS200711,SFCON000711,True,User
+CON001363,ACC000021,Bright Health,Cameron,Torres,cameron.torres1363@brighthealth.com,Sales Ops Analyst,2024-08-05,,,SFCON001363,True,Economic Buyer
+CON003156,ACC000542,Cobalt Works 67,Drew,Gray,drew.gray3156@cobaltworks67.net,CFO,2025-01-13,,HS203156,SFCON003156,True,Economic Buyer
+CON002847,ACC000182,Apex Analytics,Bailey,Stone,bailey.stone2847@apexanalytics.net,CEO,2025-09-08,,,SFCON002847,True,Influencer
+CON002335,ACC000353,Pioneer Solutions,Cameron,King,cameron.king2335@pioneersolutions.com,CFO,2025-11-13,,HS202335,SFCON002335,False,Champion
+CON002259,ACC000276,BluePeak Data 21,Cameron,Parker,cameron.parker2259@bluepeakdata21.net,CFO,2024-07-08,,HS202259,SFCON002259,True,Technical Buyer
+CON003046,ACC000643,Meridian Software,Riley,Miller,riley.miller3046@meridiansoftware.io,Sales Ops Analyst,2025-10-07,,,,True,Procurement
+CON002812,ACC000173,Keystone Health,Alex,Foster,alex.foster2812@keystonehealth.ai,RevOps Manager,2026-04-24,,HS202812,SFCON002812,True,Technical Buyer
+CON002109,ACC000240,Atlas Works,Harper,Foster,harper.foster2109@atlasworks.co,Sales Manager,2025-11-25,,HS202109,SFCON002109,True,Technical Buyer
+CON000240,ACC000274,Evergreen Intelligence,Emerson,Murphy,emerson.murphy2123@ironwoodops.co,IT Admin,2026-01-09,LED002123,HS200240,SFCON000240,True,Economic Buyer
+CON001899,ACC000489,Nimbus Ops 79,Rowan,James,rowan.james1899@nimbusops79.com,RevOps Manager,2026-01-21,,HS201899,SFCON001899,False,Procurement
+CON002012,ACC000249,Nova Intelligence 92,Emerson,Chen,emerson.chen2012@novaintelligence92.com,CFO,2024-04-07,,HS202012,SFCON002012,False,Procurement
+CON000720,ACC000252,Evergreen Cloud 80,Riley,Miller,riley.miller720@evergreencloud80.com,CFO,2025-06-22,,HS200720,SFCON000720,True,Procurement
+CON002196,ACC000551,Nimbus Platform 45,Devon,Ross,devon.ross2196@nimbusplatform45.ai,Demand Gen Manager,2024-08-11,,HS202196,SFCON002196,True,User
+CON001337,ACC000118,Meridian Labs 60,Kendall,Wright,kendall.wright1337@meridianlabs60.com,VP Sales,2026-06-02,,HS201337,SFCON001337,True,Economic Buyer
+CON001471,ACC000006,Northstar Data,Emerson,Price,emerson.price1471@northstardata.com,Operations Director,2025-09-14,,HS201471,SFCON001471,True,Champion
+CON003178,ACC000189,Atlas Group,Alex,Bell,alex.bell3178@atlasgroup.com,Sales Manager,2025-08-21,,HS203178,SFCON003178,True,Influencer
+CON002137,ACC000413,Cobalt Systems,Morgan,Stone,morgan.stone2137@cobaltsystems.ai,Operations Director,2025-12-23,,HS202137,SFCON002137,True,User
+CON000611,ACC000561,Atlas Data 24,Casey,Gray,casey.gray611@atlasdata24.com,Sales Ops Analyst,2024-01-05,,HS200611,SFCON000611,True,Procurement
+CON000579,ACC000598,BluePeak Platform 47,Elliot,Sullivan,elliot.sullivan579@bluepeakplatform47.ai,Sales Manager,2024-08-11,,,SFCON000579,True,Technical Buyer
+CON002235,ACC000567,Pioneer Works 29,Parker,Sullivan,parker.sullivan2235@pioneerworks29.net,Demand Gen Manager,2025-08-22,,HS202235,SFCON002235,True,Technical Buyer
+CON000406,ACC000065,Keystone Software 93,Blake,Parker,blake.parker406@keystonesoftware93.co,VP Sales,2024-01-14,,HS200406,SFCON000406,True,Economic Buyer
+CON001115,ACC000233,Clearpath Labs 39,Reese,Davis,reese.davis1115@clearpathlabs39.io,Operations Director,2025-02-07,,HS201115,SFCON001115,False,Influencer
+CON003553,ACC000353,Pioneer Solutions,Morgan,Foster,morgan.foster3553@pioneersolutions.com,IT Admin,2025-08-06,,HS203553,SFCON003553,True,Technical Buyer
+CON000076,ACC000249,Nova Intelligence 92,Avery,Stone,avery.stone2074@evergreenintellige.io,RevOps Manager,2026-06-19,LED002497,HS200076,SFCON000076,False,Champion
+CON000646,ACC000405,Apex Group 17,Emerson,Miller,emerson.miller646@apexgroup17.co,Sales Manager,2025-04-20,,HS200646,,True,Technical Buyer
+CON000225,ACC000472,Evergreen Markets 21,Drew,Bennett,drew.bennett619@evergreenmarkets21.com,CFO,2026-02-04,LED000619,HS200225,SFCON000225,False,Economic Buyer
+CON000698,ACC000516,Cobalt Labs 40,Riley,Adams,riley.adams698@cobaltlabs40.ai,Sales Manager,2026-03-21,,HS200698,SFCON000698,True,Procurement
+CON000159,ACC000339,BluePeak Solutions,Devon,Stone,devon.stone3967@bluepeaksolutions.net,RevOps Manager,2025-09-20,LED003967,HS200159,SFCON000159,True,Influencer
+CON001584,ACC000202,Clearpath Labs 59,Avery,Adams,avery.adams1584@clearpathlabs59.net,Operations Director,2025-10-23,,HS201584,SFCON001584,False,Champion
+CON000237,ACC000214,Catalyst Data,Charlie,Ward,charlie.ward1518@catalystdata.net,CEO,2025-10-05,LED001518,HS200237,SFCON000237,True,Technical Buyer
+CON002914,ACC000345,Evergreen Labs 24,Quinn,Adams,quinn.adams2914@evergreenlabs24.ai,Sales Manager,2024-12-29,,HS202914,SFCON002914,True,User
+CON000527,ACC000050,Clearpath Intelligence,Harper,Carter,harper.carter527@clearpathintellige.ai,Sales Manager,2026-05-08,,HS200527,SFCON000527,True,Technical Buyer
+CON003600,ACC000399,Nova Cloud 74,Alex,Torres,alex.torres3600@novacloud74.co,VP Sales,2024-06-05,,HS203600,SFCON003600,True,Technical Buyer
+CON002978,ACC000574,Northstar Solutions 73,Emerson,Torres,emerson.torres2978@northstarsolutions.com,Sales Manager,2024-04-22,,,,True,Champion
+CON000050,ACC000274,Evergreen Intelligence,Jamie,Ross,jamie.ross177@evergreenintellige.io,Sales Manager,2025-11-01,LED000177,HS200050,SFCON000050,True,Economic Buyer
+CON001757,ACC000639,Nimbus Networks 72,Logan,Bell,logan.bell1757@nimbusnetworks72.ai,CEO,2025-05-28,,HS201757,SFCON001757,True,Technical Buyer
+CON001401,ACC000486,Vertex Platform 6,Blake,Brooks,blake.brooks1401@vertexplatform6.co,RevOps Manager,2024-06-10,,HS201401,SFCON001401,True,Economic Buyer
+CON000722,ACC000603,Nimbus Networks 68,Finley,Ward,finley.ward722@nimbusnetworks68.co,Sales Manager,2024-03-25,,HS200722,SFCON000722,True,Technical Buyer
+CON000035,ACC000535,Ironwood Health 54,Hayden,Perry,hayden.perry3850@brightmarkets38.io,CFO,2025-06-20,LED003850,HS200035,SFCON000035,True,Economic Buyer
+CON002852,ACC000474,Atlas Analytics,Avery,Davis,avery.davis2852@atlasanalytics.co,CFO,2024-04-17,,HS202852,SFCON002852,False,Influencer
+CON002287,ACC000444,Cobalt Solutions 11,Taylor,Gray,taylor.gray2287@cobaltsolutions11.com,RevOps Manager,2025-06-17,,HS202287,SFCON002287,True,Influencer
+CON000109,ACC000355,Cobalt Group,Logan,Sullivan,logan.sullivan2895@cobaltgroup.co,VP Sales,2025-02-04,LED002895,HS200109,SFCON000109,True,Influencer
+CON002293,ACC000228,Cobalt Intelligence,Parker,Nelson,parker.nelson2293@cobaltintelligence.com,Marketing Director,2025-02-19,,HS202293,SFCON002293,True,Economic Buyer
+CON003259,ACC000175,Vertex Labs 77,Sam,Adams,sam.adams3259@vertexlabs77.net,Operations Director,2025-09-14,,HS203259,SFCON003259,True,User
+CON001408,ACC000509,Vertex Software 45,Blake,Patel,blake.patel1408@vertexsoftware45.co,Sales Ops Analyst,2024-07-05,,HS201408,SFCON001408,False,Champion
+CON002610,ACC000211,Atlas Health 66,Parker,Adams,parker.adams2610@atlashealth66.net,VP Sales,2024-05-17,,HS202610,SFCON002610,True,User
+CON001920,ACC000650,Cobalt Analytics 22,Morgan,Nelson,morgan.nelson1920@cobaltanalytics22.ai,IT Admin,2024-06-19,,HS201920,SFCON001920,True,Procurement
+CON000003,ACC000619,Nimbus Dynamics 49,Maya,Wright,maya.wright3146@nimbusdynamics49.com,Sales Ops Analyst,2026-01-23,LED003146,,SFCON000003,False,Influencer
+CON000828,ACC000225,Keystone Data,Casey,King,casey.king828@keystonedata.com,Demand Gen Manager,2024-04-11,,,SFCON000828,True,Procurement
+CON000472,ACC000474,Atlas Analytics,Devon,Sullivan,devon.sullivan472@atlasanalytics.co,IT Admin,2026-01-01,,,SFCON000472,True,Influencer
+CON001710,ACC000430,Clearpath Intelligence 77,Maya,Bell,maya.bell1710@clearpathintellige.co,Sales Ops Analyst,2024-10-07,,HS201710,SFCON001710,True,Influencer
+CON003395,ACC000624,Evergreen Works 94,Skyler,Nelson,skyler.nelson3395@evergreenworks94.net,IT Admin,2026-02-08,,HS203395,SFCON003395,True,Technical Buyer
+CON002268,ACC000553,Vertex Networks 66,Harper,Torres,harper.torres2268@vertexnetworks66.net,Operations Director,2024-09-24,,HS202268,SFCON002268,True,Influencer
+CON002798,ACC000191,Pioneer Analytics,Avery,Carter,avery.carter2798@pioneeranalytics.co,CEO,2024-04-20,,HS202798,SFCON002798,False,Economic Buyer
+CON003292,ACC000273,Summit Cloud,Jordan,Brooks,jordan.brooks3292@summitcloud.com,CEO,2026-02-19,,HS203292,SFCON003292,True,Technical Buyer
+CON001857,ACC000611,Catalyst Analytics 38,Rowan,Patel,rowan.patel1857@catalystanalytics3.net,CFO,2025-04-09,,HS201857,SFCON001857,True,Technical Buyer
+CON002178,ACC000621,Signal Labs 78,Hayden,Chen,hayden.chen2178@signallabs78.net,CEO,2024-09-28,,HS202178,SFCON002178,False,Technical Buyer
+CON000778,ACC000203,Bright Data 15,Drew,Long,drew.long778@brightdata15.ai,Marketing Director,2026-04-27,,HS200778,SFCON000778,False,Economic Buyer
+CON000554,ACC000523,Nimbus Cloud,Charlie,Kim,charlie.kim554@nimbuscloud.co,Operations Director,2024-03-10,,HS200554,SFCON000554,False,Procurement
+CON002845,ACC000360,Clearpath Group 57,Rowan,Miller,rowan.miller2845@clearpathgroup57.net,Marketing Director,2024-06-02,,HS202845,SFCON002845,False,Economic Buyer
+CON000833,ACC000387,Apex Dynamics,Reese,Murphy,reese.murphy833@apexdynamics.ai,RevOps Manager,2025-03-23,,HS200833,SFCON000833,True,Procurement
+CON003416,ACC000151,Cobalt Cloud 98,Avery,Bell,avery.bell3416@cobaltcloud98.io,Demand Gen Manager,2024-11-12,,HS203416,SFCON003416,False,Influencer
+CON002615,ACC000151,Cobalt Cloud 98,Casey,Murphy,casey.murphy2615@cobaltcloud98.io,Sales Ops Analyst,2024-12-28,,HS202615,SFCON002615,True,Champion
+CON000121,ACC000635,Nimbus Markets 25,Cameron,Murphy,cameron.murphy2007@nimbusmarkets25.net,CEO,2025-11-08,LED002007,HS200121,SFCON000121,True,Economic Buyer
+CON002068,ACC000520,Evergreen Labs,Hayden,Perry,hayden.perry2068@evergreenlabs.net,IT Admin,2025-05-08,,HS202068,SFCON002068,True,Influencer
+CON002171,ACC000246,Apex Networks,Finley,Adams,finley.adams2171@apexnetworks.co,Operations Director,2025-09-05,,HS202171,SFCON002171,False,Influencer
+CON001643,ACC000230,Nimbus Systems 47,Reese,Ward,reese.ward1643@nimbussystems47.com,Marketing Director,2025-12-20,,HS201643,SFCON001643,True,Influencer
+CON000165,ACC000376,Evergreen Networks 44,Skyler,Gray,skyler.gray37@evergreennetworks4.net,Sales Ops Analyst,2026-03-18,LED000037,HS200165,SFCON000165,True,Economic Buyer
+CON001008,ACC000422,BluePeak Analytics 35,Casey,Sullivan,casey.sullivan1008@bluepeakanalytics3.net,RevOps Manager,2026-03-31,,HS201008,SFCON001008,True,Influencer
+CON003036,ACC000175,Vertex Labs 77,Bailey,Carter,bailey.carter3036@vertexlabs77.net,Demand Gen Manager,2026-04-28,,HS203036,SFCON003036,False,Technical Buyer
+CON001957,ACC000176,Pioneer Ops 94,Riley,Ross,riley.ross1957@pioneerops94.com,CFO,2024-06-10,,HS201957,SFCON001957,True,Influencer
+CON002864,ACC000242,Meridian Intelligence 67,Parker,King,parker.king2864@meridianintelligen.io,VP Sales,2025-11-20,,HS202864,SFCON002864,True,Technical Buyer
+CON003031,ACC000621,Signal Labs 78,Rowan,Reed,rowan.reed3031@signallabs78.net,Operations Director,2024-08-27,,HS203031,SFCON003031,True,Economic Buyer
+CON002477,ACC000064,Vertex Systems,Alex,Carter,alex.carter2477@vertexsystems.com,RevOps Manager,2025-06-04,,HS202477,SFCON002477,True,Champion
+CON001014,ACC000175,Vertex Labs 77,Finley,Reed,finley.reed1014@vertexlabs77.net,CFO,2024-05-12,,HS201014,SFCON001014,True,User
+CON003013,ACC000414,Evergreen Networks 99,Sam,Young,sam.young3013@evergreennetworks9.co,CEO,2026-06-01,,,SFCON003013,True,Procurement
+CON003174,ACC000271,Pioneer Labs 53,Riley,Wright,riley.wright3174@pioneerlabs53.com,CFO,2026-04-06,,HS203174,,True,User
+CON001989,ACC000123,Catalyst Networks,Avery,Adams,avery.adams1989@catalystnetworks.ai,IT Admin,2024-05-20,,HS201989,SFCON001989,True,Champion
+CON002435,ACC000287,Nimbus Works,Finley,Patel,finley.patel2435@nimbusworks.com,IT Admin,2025-11-10,,HS202435,SFCON002435,True,Economic Buyer
+CON002442,ACC000050,Clearpath Intelligence,Hayden,Reed,hayden.reed2442@clearpathintellige.ai,RevOps Manager,2024-04-16,,HS202442,SFCON002442,True,Champion
+CON002165,ACC000341,Pioneer Solutions 52,Jamie,Brooks,jamie.brooks2165@pioneersolutions52.com,IT Admin,2024-07-03,,HS202165,SFCON002165,True,Influencer
+CON000305,ACC000133,Vertex Analytics,Logan,Sullivan,logan.sullivan255@vertexanalytics.co,Operations Director,2025-08-11,LED000255,HS200305,SFCON000305,True,Economic Buyer
+CON003439,ACC000131,Bright Cloud 66,Blake,Long,blake.long3439@brightcloud66.net,RevOps Manager,2024-08-05,,HS203439,SFCON003439,True,Procurement
+CON000588,ACC000152,Cobalt Platform,Devon,Bennett,devon.bennett588@cobaltplatform.com,Sales Ops Analyst,2025-10-17,,HS200588,SFCON000588,True,Technical Buyer
+CON001201,ACC000423,BluePeak Intelligence,Kendall,Parker,kendall.parker1201@bluepeakintelligen.com,CEO,2024-04-20,,HS201201,SFCON001201,True,Champion
+CON000348,ACC000442,Apex Platform 59,Bailey,Stone,bailey.stone348@apexplatform59.net,Operations Director,2024-07-23,,HS200348,SFCON000348,False,Procurement
+CON001192,ACC000526,Signal Markets 44,Logan,Young,logan.young1192@signalmarkets44.io,CFO,2025-08-21,,HS201192,SFCON001192,False,Procurement
+CON003100,ACC000459,Pioneer Platform 77,Cameron,Reed,cameron.reed3100@pioneerplatform77.com,RevOps Manager,2025-02-08,,HS203100,SFCON003100,True,Influencer
+CON001173,ACC000563,Apex Group 61,Morgan,Davis,morgan.davis1173@apexgroup61.io,RevOps Manager,2024-11-02,,HS201173,SFCON001173,True,Influencer

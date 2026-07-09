@@ -1,0 +1,11 @@
+object_name,business_field,hubspot_field,salesforce_field_label,salesforce_api_name,system_of_record,sync_direction,notes
+Lead,Email,email,Email,email,HubSpot,Bi-directional,Required for dedupe and routing
+Lead,Company,company,Company,company,HubSpot,Bi-directional,Normalize before account matching
+Lead,Lifecycle Stage,lifecycle_stage,Lead Status,status,HubSpot,HubSpot to Salesforce,Salesforce status should not overwrite MQL/SQL definitions
+Lead,Lead Score,lead_score,Lead Score,lead_score__c,HubSpot,HubSpot to Salesforce,Recalibrate quarterly with Sales input
+Lead,Lead Source,lead_source,Lead Source,leadsource,Salesforce,Bi-directional,Use locked picklist values
+Account,Company Domain,domain,Website,website,Salesforce,Salesforce to HubSpot,Use domain for account matching
+Opportunity,Amount,amount,Amount,amount,Salesforce,Salesforce to HubSpot,Finance-owned field
+Opportunity,Stage,stage_name,StageName,stagename,Salesforce,Salesforce to HubSpot,Pipeline reporting system of record
+Opportunity,Close Date,close_date,CloseDate,closedate,Salesforce,Salesforce to HubSpot,Required for forecast
+Task,Activity Date,activity_date,ActivityDate,activitydate,Salesforce,Bi-directional,Needed for SLA and sequence reporting
