@@ -2,9 +2,7 @@
 
 Synthetic Revenue Operations mini-project showing how Salesforce, HubSpot, SQL/Python, and Power BI can be used together to diagnose CRM health, lifecycle conversion, pipeline hygiene, and marketing attribution.
 
-The project is built around a synthetic B2B company that uses HubSpot for marketing automation and Salesforce for sales execution. The dataset intentionally includes realistic RevOps issues: sync errors, lifecycle gaps, duplicate risk, stale opportunities, missing IDs, inconsistent follow-up SLAs, and field ownership conflicts.
-
-## Dashboard previews
+The project is built around a synthetic B2B company that uses HubSpot for marketing automation and Salesforce for sales execution. The dataset intentionally includes realistic RevOps issues: sync errors, lifecycle gaps, duplicate risk, stale opportunities, missing IDs, inconsistent follow-up SLAs, and field ownership conflicts, which allowed me to build hands-on familiarity with both systems while learning how CRM data quality, funnel logic, and reporting workflows connect across the revenue operations process.
 
 ### Salesforce dashboard
 
