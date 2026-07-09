@@ -4,7 +4,29 @@ Synthetic Revenue Operations mini-project showing how Salesforce, HubSpot, SQL/P
 
 The project is built around a synthetic B2B company that uses HubSpot for marketing automation and Salesforce for sales execution. The dataset intentionally includes realistic RevOps issues: sync errors, lifecycle gaps, duplicate risk, stale opportunities, missing IDs, inconsistent follow-up SLAs, and field ownership conflicts.
 
+## Dashboard previews
+
+### Salesforce dashboard
+
 ![Salesforce Lead + Account Ops Dashboard](dashboards/salesforce/Salesforce_Lead_Account_Ops_Dashboard.png)
+
+### HubSpot dashboard
+
+[Open the HubSpot dashboard](https://app-na2.hubspot.com/reports-dashboard/246675740/view/140531384)
+
+Note: this link may require access to the authenticated HubSpot account where the dashboard was created.
+
+### Power BI dashboard PDF
+
+[Open the Power BI PDF export](dashboards/powerbi/Salesforce_HubSpot_RevOps_Health_Dashboard_Final.pdf)
+
+![Power BI RevOps Dashboard PDF Page 1](dashboards/powerbi/previews/powerbi_revops_dashboard_page-1.png)
+
+![Power BI RevOps Dashboard PDF Page 2](dashboards/powerbi/previews/powerbi_revops_dashboard_page-2.png)
+
+![Power BI RevOps Dashboard PDF Page 3](dashboards/powerbi/previews/powerbi_revops_dashboard_page-3.png)
+
+![Power BI RevOps Dashboard PDF Page 4](dashboards/powerbi/previews/powerbi_revops_dashboard_page-4.png)
 
 ## What is included
 
@@ -12,7 +34,7 @@ The project is built around a synthetic B2B company that uses HubSpot for market
 - Randomized, smaller upload package for free Salesforce and HubSpot accounts.
 - Salesforce dashboard screenshot for lead, account, contact, region, source, and lifecycle reporting.
 - HubSpot dashboard reference link.
-- Power BI dashboard file and exported PDF.
+- Power BI dashboard file, exported PDF, and rendered PDF preview images.
 - Dashboard-ready CSV outputs, starter SQL, starter Python, and Plotly HTML visuals.
 
 ## Repository layout
@@ -85,3 +107,4 @@ This project demonstrates how a RevOps analyst or consultant can:
 - Package the work so a stakeholder can inspect the data, analysis logic, and dashboards.
 
 All data is synthetic and does not contain real customer or prospect information.
+
