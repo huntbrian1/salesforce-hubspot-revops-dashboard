@@ -1,4 +1,4 @@
-﻿# Salesforce + HubSpot RevOps Health Dashboard
+﻿# Salesforce + HubSpot Revenue Operations Health Dashboard
 
 Synthetic Revenue Operations mini-project showing how Salesforce, HubSpot, SQL/Python, and Power BI can be used together to diagnose CRM health, lifecycle conversion, pipeline hygiene, and marketing attribution.
 
